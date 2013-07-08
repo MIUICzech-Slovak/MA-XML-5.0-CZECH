@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="numberup">
+        <item>Jedna stránka na stranu</item>
+        <item>Dvě stránky na stranu</item>
+        <item>Čtyři stránky na stranu</item>
+    </string-array>
+    <string-array name="orientation">
+        <item>Na výšku</item>
+        <item>Na šířku</item>
+        <item>Obrácené na šířku</item>
+        <item>Obrácené na výšku</item>
+    </string-array>
+    <string-array name="sides">
+        <item>Jedna strana</item>
+        <item>Dvě strany na šířku</item>
+        <item>Dvě strany na výšku</item>
+    </string-array>
+</resources>

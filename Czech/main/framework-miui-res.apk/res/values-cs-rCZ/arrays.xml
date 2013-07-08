@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alarm_in_future">
+        <item>To je za méně než minutu</item>
+        <item>To je za %1$s</item>
+        <item>To je za %2$s</item>
+        <item>To je za %1$s %2$s</item>
+        <item>To je za %3$s</item>
+        <item>To je za %1$s %3$s</item>
+        <item>To je za %2$s %3$s</item>
+        <item>To je za %1$s %2$s %3$s</item>
+    </string-array>
+</resources>

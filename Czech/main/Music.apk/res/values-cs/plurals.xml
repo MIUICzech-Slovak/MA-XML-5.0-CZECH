@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Ntracks_remove_from_favorite_playlist">
+        <item quantity="other">Skladeb odstraněných ze seznamu: %d</item>
+        <item quantity="one">1 skladba odstraněná ze seznamu</item>
+    </plurals>
+    <plurals name="Ntracks_search_result_format">
+        <item quantity="other">%d skladeb</item>
+        <item quantity="one">%d skladba</item>
+    </plurals>
+    <plurals name="Ntracks_total">
+        <item quantity="other">%d skladeb</item>
+        <item quantity="one">%d skladba</item>
+    </plurals>
+    <plurals name="Ntracks_string">
+        <item quantity="other">%d skladeb</item>
+        <item quantity="one">%d skladba</item>
+    </plurals>
+    <plurals name="Ntracks_format">
+        <item quantity="other">%d skladeb</item>
+        <item quantity="one">%d skladba</item>
+    </plurals>
+    <plurals name="Nalbums_format">
+        <item quantity="other">%d alb</item>
+        <item quantity="one">%d album</item>
+    </plurals>
+    <plurals name="Ntracks">
+        <item quantity="other">" skladeb"</item>
+        <item quantity="one">" skladba"</item>
+    </plurals>
+    <plurals name="Nalbums">
+        <item quantity="other">" alb"</item>
+        <item quantity="one">" album"</item>
+    </plurals>
+    <plurals name="Nartists">
+        <item quantity="other">" umělců"</item>
+        <item quantity="one">" umělec"</item>
+    </plurals>
+    <plurals name="Nplaylists">
+        <item quantity="other">" playlistů"</item>
+        <item quantity="one">" playlist"</item>
+    </plurals>
+    <plurals name="Nfolders">
+        <item quantity="other">" složek"</item>
+        <item quantity="one">" složka"</item>
+    </plurals>
+    <plurals name="Ntracks_batch_selection">
+        <item quantity="other">%d vybraných skladeb</item>
+        <item quantity="one">%d vybraná skladba</item>
+    </plurals>
+    <plurals name="Ntrack_in_sdcard_format">
+        <item quantity="other">Na SD kartě je %d skladeb</item>
+        <item quantity="one">Na SD kartě je %d skladba</item>
+    </plurals>
+    <plurals name="NNNtrackstoplaylist">
+        <item quantity="other">%d přidaných do playlistu.</item>
+        <item quantity="one">1 skladba přidaná do playlistu.</item>
+    </plurals>
+    <plurals name="NNNtrackstofavoriteplaylist">
+        <item quantity="other">%d přidaných do playlistu.</item>
+        <item quantity="one">1 skladba přidaná do playlistu.</item>
+    </plurals>
+    <plurals name="Nonlinecategory">
+        <item quantity="other">" kategorií"</item>
+        <item quantity="one">" kategorie"</item>
+    </plurals>
+    <plurals name="album_details_format">
+        <item quantity="other">%1$s, %2$d skladeb</item>
+        <item quantity="one">%1$s, %2$d skladba</item>
+    </plurals>
+    <plurals name="NNNtracksdeleted">
+        <item quantity="other">%d skladeb vymazáno.</item>
+        <item quantity="one">1 skladba vymazána.</item>
+    </plurals>
+    <plurals name="NTrackstoDownload">
+        <item quantity="other">%d skladeb bude stažených.</item>
+        <item quantity="one">1 skladba bude stažena.</item>
+    </plurals>
+        <plurals name="Nhot_tracks_total">
+        <item quantity="other">hitů: %d</item>
+        <item quantity="one">%d hit</item>
+    </plurals>
+</resources>

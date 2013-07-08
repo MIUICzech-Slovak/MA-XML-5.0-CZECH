@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="download_filters">
+        <item>Vše</item>
+        <item>Témata</item>
+        <item>Market</item>
+        <item>Prohlížeč</item>
+        <item>Hudba</item>
+        <item>Ostatní</item>
+    </string-array>
+    <string-array name="prefEntries_max_bytes_limit">
+        <item>10MB</item>
+        <item>5MB</item>
+        <item>2MB</item>
+        <item>1MB</item>
+        <item>500KB</item>
+        <item>200KB</item>
+        <item>100KB</item>
+    </string-array>
+</resources>

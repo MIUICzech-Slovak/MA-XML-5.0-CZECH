@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources> 
+    <string-array name="google">
+        <item>Google</item>
+        <item>google.com</item>
+        <item>http://www.google.com/favicon.ico</item>
+        <item>http://www.google.com/search?hl={language}&amp;ie={inputEncoding}&amp;source=android-browser&amp;q={searchTerms}</item>
+        <item>UTF-8</item>
+        <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
+    </string-array>   
+    <string-array name="pref_content_plugins_choices">
+        <item>Vždy zapnuto</item>
+        <item>Vždy vypnuto</item>
+        <item>Zeptat se</item>
+    </string-array>
+    <string-array name="pref_homepage_choices">
+        <item>Startovací stránka</item>
+        <item>Nejnavštěvovanější stránky</item>
+        <item>Jiná</item>
+    </string-array>
+    <string-array name="pref_text_size_choices">
+        <item>Velmi malý</item>
+        <item>Malý</item>
+        <item>Normální</item>
+        <item>Velký</item>
+        <item>Největší</item>
+    </string-array>
+    <string-array name="pref_default_zoom_choices">
+        <item>Daleko</item>
+        <item>Střední</item>
+        <item>Blízko</item>
+    </string-array>
+    <string-array name="pref_data_preload_choices">
+        <item>Nikdy</item>
+        <item>Pouze v sítích Wi-Fi</item>
+        <item>Vždy</item>
+    </string-array>
+    <string-array name="pref_volume_key_choices">
+        <item>Stránka nahoru/dolů</item>
+        <item>Přepnout záložku</item>
+    </string-array>
+    <string-array name="pref_fling_on_border_choices">
+        <item>Stránka další/předchozí</item>
+        <item>Přepnout záložku</item>
+    </string-array>    
+    <string-array name="pref_link_prefetch_choices">
+       <item>Nikdy</item>
+       <item>Pouze přes Wi-Fi</item>
+       <item>Vždy</item>
+    </string-array>
+    <string-array name="pref_video_preload_choices">
+        <item>Nikdy</item>
+        <item>Pouze přes Wi-Fi</item>
+        <item>Vždy</item>
+    </string-array>
+    <string-array name="pref_images_preload_choices">
+        <item>Nikdy</item>
+        <item>Pouze přes Wi-Fi</item>
+        <item>Vždy</item>
+    </string-array>
+</resources>

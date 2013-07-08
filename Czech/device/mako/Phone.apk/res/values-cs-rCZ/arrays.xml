@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <string-array name="preferred_network_mode_choices">
+        <item>LTE/CDMA</item>
+        <item>Pouze EvDo</item>
+        <item>CDMA w/o EvDo</item>
+        <item>Automatický CDMA / EvDo</item>
+        <item>Automatický GSM / WCDMA</item>
+        <item>Pouze WCDMA</item>
+        <item>Pouze GSM</item>
+        <item>GSM / WCDMA preferované</item>
+    </string-array>
+</resources>

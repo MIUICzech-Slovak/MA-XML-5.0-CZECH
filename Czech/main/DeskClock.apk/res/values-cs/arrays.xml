@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alarm_set">
+        <item>Budík je nastavený na méně než 1 min od teď.</item>
+        <item>Budík se spustí za %1$s od teď.</item>
+        <item>Budík se spustí za %2$s od teď.</item>
+        <item>Budík se spustí za %1$s a %2$s od teď.</item>
+        <item>Budík se spustí za %3$s od teď.</item>
+        <item>Budík se spustí za %1$s a %3$s od teď.</item>
+        <item>Budík se spustí za %2$s a %3$s od teď.</item>
+        <item>Budík se spustí za %1$s, %2$s, a %3$s od teď.</item>
+    </string-array>
+    <string-array name="volume_button_setting_entries">
+        <item>Žádná akce</item>
+        <item>Odložení budíku</item>
+        <item>Zrušení budíku</item>
+    </string-array>
+    <string-array name="alarm_in_furture">
+        <item>Budík za méně než minutu</item>
+        <item>Budík za %1$s</item>
+        <item>Budík za %2$s</item>
+        <item>Budík za %1$s %2$s</item>
+        <item>Budík za %3$s</item>
+        <item>Budík za %1$s %3$s</item>
+        <item>Budík za %2$s %3$s</item>
+        <item>Budík za %1$s %2$s %3$s</item>
+    </string-array>
+    <string-array name="days">
+        <item>Včera</item>
+        <item>Dnes</item>
+        <item>Zítra</item>
+    </string-array>
+    <string-array name="alarm_count_entries">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>Vyp.</item>
+    </string-array>
+	  <string-array name="alarm_repeat_type">
+        <item>Jednou</item>
+        <item>Každý den</item>
+        <item>Pracovní dny (v Číně)</item>
+        <item>Pondělí až Pátek</item>
+        <item>Vlastní</item>
+    </string-array>
+    <string-array name="snooze_duration_entries">
+        <item>1 minuta</item>
+        <item>5 minut</item>
+        <item>10 minut</item>
+        <item>15 minut</item>
+        <item>20 minut</item>
+        <item>25 minut</item>
+        <item>30 minut</item>
+    </string-array>
+    <string-array name="auto_silence_entries">
+        <item>Vypnuto</item>
+        <item>1 minuta</item>
+        <item>5 minut</item>
+        <item>10 minut</item>
+        <item>15 minut</item>
+        <item>20 minut</item>
+        <item>25 minut</item>
+        <item>30 minut</item>
+    </string-array>
+</resources>

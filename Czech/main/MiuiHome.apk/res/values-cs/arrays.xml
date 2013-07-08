@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="transformation_entries">
+        <item>Klasický</item>
+        <item>Klasický(bez odrazu)</item>
+        <item>Prolnutí</item>
+        <item>Přetočení</item>
+        <item>Strana</item>
+        <item>Kaskádově</item>
+        <item>3D rotace</item>
+        <item>3D kostka</item>
+    </string-array>
+    <string-array name="wallpaper_scroll_entries">
+        <item>Dle tématu</item>
+        <item>Střed</item>
+        <item>Vlevo</item>
+        <item>Vpravo</item>
+    </string-array>
+    <string-array name="gadget_weather_theme_type_entries">
+        <item>Předvolený</item>
+        <item>Klasický</item>
+    </string-array>
+</resources>
