@@ -65,7 +65,7 @@
     <string name="context_menu_browse_web">www</string>
     <string name="context_menu_call">Zavolat</string>
     <string name="context_menu_contact">Kontakt: %1$s</string>
-    <string name="context_menu_copy">Kopie</string>
+    <string name="context_menu_copy">Kopírovat</string>
     <string name="context_menu_copy_notice">Text byl zkopírován do schránky</string>
     <string name="context_menu_new_contact">Nový kontakt</string>
     <string name="context_menu_send_mail">E-mail</string>
