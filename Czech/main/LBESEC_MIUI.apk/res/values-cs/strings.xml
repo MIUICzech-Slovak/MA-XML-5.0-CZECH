@@ -155,7 +155,7 @@
     <string name="HIPS_SecurityPrompt_AcceptRoot">Povolit</string>
     <string name="HIPS_SecurityPrompt_Caption">Bezpečnostní varování</string>
     <string name="HIPS_SecurityPrompt_Next">Další</string>
-    <string name="HIPS_SecurityPrompt_Reject">Zakázáno (%d)</string>
+    <string name="HIPS_SecurityPrompt_Reject">Zakázat(%d)</string>
     <string name="HIPS_SecurityPrompt_Remember">Pamatovat si nastavení</string>
     <string name="HIPS_SecurityPrompt_ROOT_Caption">Důležité upozornění</string>
     <string name="HIPS_SecurityPrompt_ROOT_Step1">Přejete si, aby aplikace %1$s získala práva ROOT..?</string>

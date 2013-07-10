@@ -125,12 +125,13 @@
     <string name="system_backup_helper">Aktualizace nevymaže vaše uživatelská data. Avšak doporučuje se v rámci bezpečnosti tato data zálohovat.</string>
     <string name="system_backup_ok_text">Zálohovat</string>
     <string name="top_secret_build">Tajná verze</string>
+    <string name="unstable_build">Nestabilní verze</string>
     <string name="update_comment_hint">(volitelné)</string>
     <string name="update_comment_title">Vaše komentáře</string>
     <string name="update_feedback">Hodnocení aktualizace</string>
     <string name="update_feedback_expired">"Zmeškali jste hodnocení aktualizace! \nVyplňte jej prosím následující úterý"</string>
-    <string name="update_feel">Co si o tom myslíte?</string>
-    <string name="update_general">Není to špatné</string>
+    <string name="update_feel">Jak hodnotíte tuto aktualizaci?</string>
+    <string name="update_general">Není špatná</string>
     <string name="update_happy">Super</string>
     <string name="update_monthly_build_only">Aktualizovat pouze měsíční sestavení</string>
     <string name="update_sad">Nic moc</string>

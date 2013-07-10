@@ -178,6 +178,14 @@ S telefonem můžete bez obav pokračovat v práci..."</string>
     <string name="micloud_via_sms_alert">Na ověření Vašeho telefonního čísla se odešle SMS zpráva. Opravdu chcete pokračovat?</string>
     <string name="micloud_welcome_skip_login"><u>Přeskočit tento krok</u></string>
     <string name="mili_center">Mi kredity</string>
+    <string name="msg_denomination_type">Mi kredity</string>
+    <string name="msg_error">Navýšení přes SMS selhalo</string>
+    <string name="msg_picker_hint_1_1">1.</string>
+    <string name="msg_picker_hint_1_2">Cena navýšení přes SMS je větší, než za jiný způsob navýšení 2 RMB (0,24€) = 1 Mi kredit</string>
+    <string name="msg_picker_hint_2_1">2.</string>
+    <string name="msg_picker_hint_2_2">Za každé navýšení přes SMS si operátor účtuje 0.1 RMB poplatek</string>
+    <string name="msg_picker_hint_3_1">3.</string>
+    <string name="msg_picker_hint_3_2">Maximálně je možné navýšit 300 RMB za měsíc</string>
     <string name="my_mili_record">Mé Mi kredity</string>
     <string name="my_xiaomi_account">Můj Xiaomi účet</string>
     <string name="next">Další</string>
@@ -190,13 +198,9 @@ S telefonem můžete bez obav pokračovat v práci..."</string>
     <string name="pay_record">Historie platby</string>
     <string name="pay_record_empty">Žádné platby</string>
     <string name="paytool_alipay">Alipay</string>
-    <string name="paytool_edit_hint">Navýšit Mi kredit (RMB):</string>
-    <string name="paytool_edit_limit">Méně než %1$s</string>
-    <string name="paytool_error_denomination">Vložte správnou sumu kterou chcete navýšit</string>
     <string name="paytool_error_install">%1$s instalace bezpečnostního doplňku selhala</string>
     <string name="paytool_error_msp">%1$s navýšení Mi kreditu selhalo!</string>
     <string name="paytool_msp_not_installed">Nemáte nainstalovaný %1$s bezpečnostní doplněk, chcete ho nainstalovat?</string>
-    <string name="paytool_picker_hint">Suma navýšení Mi kreditu</string>
     <string name="paytool_tenpay">Tenpay</string>
     <string name="prepaid_china_mobile">China Mobile</string>	
     <string name="prepaid_china_telcom">China Telecom</string>	
@@ -224,6 +228,7 @@ S telefonem můžete bez obav pokračovat v práci..."</string>
     <string name="progress_error_pay_title">Platba selhala</string>
     <string name="progress_error_recharge_title">Navýšení selhalo</string>
     <string name="progress_loading">Zpracovávání...</string>
+    <string name="progress_msg_creating">Vytváření objednávky přes SMS...</string>
     <string name="progress_paytool_creating">Generování %1$s objednávky...</string>
     <string name="progress_paytool_installing">Instalace %1$s bezpečnostního doplňku...</string>
     <string name="progress_prepaid_creating">Vytváření objednávky navýšení kreditu...</string>
@@ -236,16 +241,26 @@ S telefonem můžete bez obav pokračovat v práci..."</string>
     <string name="progress_success_recharge_summary">Stav konta: %1$s Mi kreditů</string>
     <string name="progress_success_recharge_title">Navýšení %1$s Mi kreditů dokončeno</string>
     <string name="progress_voucher_creating">Aktualizování Mi kreditů...</string>
+    <string name="progress_warning_check">"Stále není navýšený Mi kredit. 
+Zkontrolujeme to do dvou pracovních dnů"</string>
     <string name="progress_warning_contact_server">"Zpráva nebyla doručena:
 1. Kontaktujte zákaznickou podporu na: %1$s
 2. Vaše sériové číslo: %2$s"</string>
 	  <string name="progress_warning_waiting">Změny na Vašem účtu se stále aktualizují. Zkuste to znovu později.</string>
     <string name="quick_login_title">"Je vyžadováno ověření. 
 Zadejte Vaše heslo"</string>
-    <string name="recharge_alipay_summary">Alipay navýšení</string>
+    <string name="recharge_alipay_summary">Navýšení přes Alipay</string>
     <string name="recharge_alipay_title">Alipay</string>
     <string name="recharge_denomination">%1$s RMB</string>
+    <string name="recharge_grid_edit_hint">Suma (RMB)</string>
+    <string name="recharge_grid_edit_limit">Méně než %1$s</string>
+    <string name="recharge_grid_error_denomination">Vložte správnou sumu</string>
+    <string name="recharge_grid_picker_hint">Zvolte množství Mi kreditu</string>
+    <string name="recharge_group_1to1">1 RMB (0,12€) je 1 Mi kredit</string>
+    <string name="recharge_group_2to1">2 RMB (0,24€) jsou 1 Mi kredit</string>
     <string name="recharge_hint">1 RMB je 1 Mi kredit = 0,12€</string>
+    <string name="recharge_message_summary">Podporuje navýšení přes SMS (Čína)</string>
+    <string name="recharge_message_title">Navýšení přes SMS</string>
     <string name="recharge_notification">Navýšení o %1$s Mi kreditů</string>
     <string name="recharge_other">Zvolit jiný způsob platby</string>
     <string name="recharge_pcpay_summary">Je podporováno více způsobů navýšení (PayPal)</string>
@@ -289,12 +304,9 @@ Zadejte Vaše heslo"</string>
     <string name="title_mili_center">Mi kredity</string>
     <string name="title_pay">Zaplatit Mi kredity</string>
     <string name="title_pay_record">%1$s historie plateb</string>
-    <string name="title_paytool">Navýšit pomocí %1$s</string>
-    <string name="title_prepaid">Navýšení pomocí karty</string>
     <string name="title_recharge">Navýšit Mi kredit</string>
     <string name="title_recharge_record">Historie navýšení</string>
     <string name="title_reg">Zaregistrujte Xiaomi účet</string>
-    <string name="title_voucher">Navýšení Mi kreditů pomocí kupónu</string>
     <string name="unactivated_user">Neaktivován</string>
     <string name="unbind">Zrušit autorizaci</string>
     <string name="update_contacts">Aktualizovat kontakty</string>

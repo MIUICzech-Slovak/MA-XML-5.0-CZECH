@@ -961,14 +961,14 @@ Toto nastavení ovlivní všechny uživatele tohoto telefonu."</string>
     <string name="intent_sender_resource_label">Zdroj:</string>
     <string name="intent_sender_sendbroadcast_text">Odeslat broadcast</string>
     <string name="intent_sender_startactivity_text">Spustit činnost activity</string>
-    <string name="internal_format">Formátovat interní paměť</string>
+    <string name="internal_format">Formátovat interní úložiště</string>
     <string name="internal_format_summary">Vymazání interního úložiště vymaže všechny soubory, jako např. fotky a hudbu.</string>
     <string name="internal_media_format_button_text">Vymazat Interní</string>
     <string name="internal_media_format_desc">Vymazat interní úložiště? Ztratíte všechny Vaše data, jako např. fotky a hudbu.</string>
     <string name="internal_media_format_final_desc">"Vymazání interního úložiště vymaže všechna uložená data! Tato akce se nedá vrátit zpět! Telefon se po dokončení restartuje!"</string>
     <string name="internal_media_format_title">Vymazat Interní úložiště</string>
     <string name="internal_memory">Interní úložiště</string>
-    <string name="internal_storage">Interní úložiště</string>
+    <string name="internal_storage">Systémové úložiště</string>
     <string name="invalid_location">Umístění instalace není platné.</string>
     <string name="invalid_size_value">Nepodařilo se určit velikost balíčku</string>
     <string name="ipaddr_label">IPaddr:</string>
@@ -1143,6 +1143,7 @@ Toto nastavení ovlivní všechny uživatele tohoto telefonu."</string>
     <string name="memory_media_usage">Média</string>
     <string name="memory_music_usage">Zvuk (hudba, vyzváněcí tóny, podcasty atd.)</string>
     <string name="memory_size">Celková paměť</string>
+    <string name="memory_title">Dostupné: %1$s\u0009\u0009Celkem: %2$s</string>
     <string name="menu_cancel">Zrušit</string>
     <string name="menu_delete">Smazat název přístupového bodu</string>
     <string name="menu_key">Tlačítko Menu</string>    
@@ -2329,6 +2330,7 @@ Každý uživatel může přijmout aktualizovaná oprávnění aplikací jménem
     <string name="wifi_password">Heslo</string>
     <string name="wifi_poor_network_detection">Vyhýbat se špatným připojením</string>
     <string name="wifi_poor_network_detection_summary">"Nepoužívat Wi-Fi sítě, pokud nemají dobrý signál"</string>
+    <string name="wifi_priority_settings_label">Nastavení priority</string>
     <string name="wifi_quick_toggle_summary">Zapnout Wi-Fi</string>
     <string name="wifi_quick_toggle_title">Wi-Fi</string>
     <string name="wifi_remembered">Uloženo</string>

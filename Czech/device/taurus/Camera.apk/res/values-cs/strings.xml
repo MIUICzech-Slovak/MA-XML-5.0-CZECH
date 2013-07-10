@@ -4,7 +4,7 @@
   <string name="accessibility_camera_picker">Výběr zvolené kamery</string>
   <string name="accessibility_review_thumbnail">Nejnovější fotografie</string>
   <string name="accessibility_shutter_button">Tlačítko spouště</string>
-  <string name="accessibility_zoom_control">Ovládaní přiblížení</string>
+  <string name="accessibility_zoom_control">Ovládaní Zoomu</string>
   <string name="albums">Alba</string>
   <string name="aperture">Uzávěrka</string>
   <string name="app_details">Aplikace:</string>
@@ -208,9 +208,9 @@
   <string name="pref_camera_jpegquality_entry_normal">Normální</string>
   <string name="pref_camera_jpegquality_entry_superfine">Velmi dobrá</string>
   <string name="pref_camera_jpegquality_title">Kvalita obrazu</string>
-  <string name="pref_camera_long_pressing_burst_shooting_entry_off">Vypnuto</string>
-  <string name="pref_camera_long_pressing_burst_shooting_entry_on">Zapnuto</string>
-  <string name="pref_camera_long_pressing_burst_shooting_title">Dávkové focení</string>
+  <string name="pref_camera_long_pressing_burst_shooting_entry_off">Zaostřit</string>
+  <string name="pref_camera_long_pressing_burst_shooting_entry_on">Dávkové focení</string>
+  <string name="pref_camera_long_pressing_burst_shooting_title">Podržení spouště</string>
   <string name="pref_camera_movie_solid_entry_off">Vyp</string>
   <string name="pref_camera_movie_solid_entry_on">Zap</string>
   <string name="pref_camera_movie_solid_title">Stabilizace videa</string>
@@ -328,9 +328,9 @@
   <string name="pref_grp_restore_settings">Obnovit Nastavení</string>
   <string name="pref_settings_mode">Režim kamery</string>
   <string name="pref_video_captrue_ability_title">Snímek během videa</string>
-  <string name="pref_video_continuous_focus">Kontinuální zaostřování</string>
-  <string name="pref_video_continuous_focus_entry_off">Vyp</string>
-  <string name="pref_video_continuous_focus_entry_on">Zap</string>
+  <string name="pref_video_focusmode_title">Režim ostření</string>
+  <string name="pref_video_focusmode_entry_continuous">Kontinuální ostření</string>
+  <string name="pref_video_focusmode_entry_auto">Dotykem</string>
   <string name="pref_video_quality_entry_1080p">1080p</string>
   <string name="pref_video_quality_entry_480p">480p</string>
   <string name="pref_video_quality_entry_720p">720p</string>
