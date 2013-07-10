@@ -261,7 +261,7 @@
     <string name="edit_quick_response_dialog">Upravit rychlou odpověď</string>
     <string name="eml_view_title">Zobraz. souboru %s</string>
     <string name="error_loading_message_body">Text zprávy se nepodařilo načíst. Zpráva je možná příliš velká a proto ji nelze zobrazit.</string>
-    <string name="exchange_name">Firemní</string>
+    <string name="exchange_name">Firemní (Exchange)</string>
     <string name="exchange_name_alternate">Microsoft Exchange ActiveSync</string>
     <string name="failed_bad_response">Chyba služby</string>
     <string name="failed_network_error">Chyba sítě</string>
