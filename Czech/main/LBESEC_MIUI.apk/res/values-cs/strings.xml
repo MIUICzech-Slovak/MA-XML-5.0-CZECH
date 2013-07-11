@@ -79,10 +79,10 @@
     <string name="HIPS_Perm_Call_Desc">Vytočení, přijmutí a zavěšení hovoru</string>
     <string name="HIPS_Perm_Call_Hint">%1$s aplikace mají povolení k vytočení, přijmutí a zavěšení hovoru</string>
     <string name="HIPS_Perm_Call_Number">Volat %1$s</string>
-    <string name="HIPS_Perm_CallLog">Záznamy o volání</string>
-    <string name="HIPS_Perm_CallLog_Access">Přístup k záznamům o volání</string>
-    <string name="HIPS_Perm_CallLog_Desc">Přístup k záznamům o volání</string>
-    <string name="HIPS_Perm_CallLog_Hint">%1$s aplikace mají povolení pro přístup k záznamům o volání</string>
+    <string name="HIPS_Perm_CallLog">Seznam hovorů</string>
+    <string name="HIPS_Perm_CallLog_Access">Přístup k seznamu hovorů</string>
+    <string name="HIPS_Perm_CallLog_Desc">Přístup k seznamu hovorů</string>
+    <string name="HIPS_Perm_CallLog_Hint">%1$s aplikace mají povolení pro přístup k seznamu hovorů</string>
     <string name="HIPS_Perm_CallMonitor">Monitorování hovoru</string>
     <string name="HIPS_Perm_CallMonitor_Desc">Monitorování příchozích a odchozích hovorů, kontrola hlasitosti atd.</string>
     <string name="HIPS_Perm_CallMonitor_Hint">%1$s aplikace mají povolení k monitorování příchozích a odchozích hovorů, kontrole hlasitosti atd.</string>

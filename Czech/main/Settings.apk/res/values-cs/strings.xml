@@ -827,7 +827,7 @@ Toto nastavení ovlivní všechny uživatele tohoto telefonu."</string>
     <string name="erase_internal_storage_description">Vymazání interního úložiště vymaže všechny soubory, jako např. fotky a hudbu.</string>
     <string name="erase_optional">Volitelné vymazání</string>
     <string name="erase_personal_data">Osobní data</string>
-    <string name="erase_personal_data_description">Včetně účtů, kontaktů, výpisu hovorů a ostatních dat.</string>
+    <string name="erase_personal_data_description">Včetně účtů, kontaktů, seznamu hovorů a ostatních dat.</string>
     <string name="erase_sure">Vymazat</string>
     <string name="error_apn_empty">Název přístupového bodu (APN) nesmí být prázdný.</string>
     <string name="error_mcc_not3">Pole MCC musí obsahovat alespoň 3 číslice.</string>
@@ -1264,7 +1264,7 @@ zkuste následující:"
     <string name="perm_hips_allow_all">Povolit vše</string>
     <string name="perm_hips_answer_call">Odpovědět na příchozí hovor</string>
     <string name="perm_hips_call_number">Volat %1$s</string>
-    <string name="perm_hips_calllog_access">Číst záznam hovorů</string>
+    <string name="perm_hips_calllog_access">Číst seznam hovorů</string>
     <string name="perm_hips_cancel_missed_calls">Vymazat upozornění na zmeškaný hovor</string>
     <string name="perm_hips_contact_access">Číst Váš seznam kontaktů</string>
     <string name="perm_hips_desc">Sledování %1$d aplikací kvůli bezp. a soukromí</string>
@@ -1439,7 +1439,7 @@ zkuste následující:"
     <string name="preferred_launcher_warning_title">Nahrazení výchozího launcheru</string>
     <string name="preferred_launcher_warning_use_system">Použít výchozí launcher</string>
     <string name="preferred_media_app_summary">Vybrat hudební přehrávač</string>
-    <string name="privacy_mode_enable_sum">Skrýt záznamy hovorů, zprávy a ostatní data při aktivním soukromém režimu</string>
+    <string name="privacy_mode_enable_sum">Skrýt seznam hovorů, zprávy a ostatní data při aktivním soukromém režimu</string>
     <string name="privacy_mode_enable_title">Zapnout režim soukromí</string>
     <string name="privacy_protect_title">Ochrana soukromí</string>
     <string name="privacy_relative">Soukromí</string>
@@ -2113,11 +2113,11 @@ Každý uživatel může přijmout aktualizovaná oprávnění aplikací jménem
     <string name="virus_scan_app_force_stop">Skenování zastaveno.</string>
     <string name="virus_scan_app_is_stop_scan">Chcete zastavit AntiVirus?</string>
     <string name="virus_scan_app_multi_engines">Vyberte nástroj, skenování může trvat déle</string>
-    <string name="virus_scan_app_no_risk">Nebyla detekována hrozba.</string>
-    <string name="virus_scan_app_passed">Skenování bylo úspěšně dokončeno.</string>
+    <string name="virus_scan_app_no_risk">Nebyla detekována hrozba</string>
+    <string name="virus_scan_app_passed">Skenování bylo úspěšně dokončeno</string>
     <string name="virus_scan_app_risk">Nalezena hrozba!</string>
-    <string name="virus_scan_app_safe_scanning">Probíhá skenování.</string>
-    <string name="virus_scan_app_scan_finish">Skenování dokončeno.</string>
+    <string name="virus_scan_app_safe_scanning">Probíhá skenování...</string>
+    <string name="virus_scan_app_scan_finish">Skenování dokončeno</string>
     <string name="virus_scan_app_scanning">Skenování...</string>
     <string name="virus_scan_app_stop_scan">Zastavit skenování</string>
     <string name="virus_scan_app_uninstall">Hromadná odinstalace (%d)</string>

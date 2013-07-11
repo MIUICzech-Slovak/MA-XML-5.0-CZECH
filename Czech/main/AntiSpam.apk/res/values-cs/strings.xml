@@ -31,13 +31,13 @@
     <string name="app_name">Anti-Spam</string>
     <string name="black_white_list_tab_title">Filtry</string>
     <string name="blacklist_tab_title">Černá listina</string>
-    <string name="call_log_tab_title">Záznam hovorů</string>
-    <string name="calllog">Záznam hovorů</string>
+    <string name="call_log_tab_title">Hovory</string>
+    <string name="calllog">Seznam hovorů</string>
     <string name="cancel_button">Zrušit</string>
     <string name="check_all">Vybrat vše</string>
     <string name="check_nothing">Odznačit vše</string>
-    <string name="clear_all_calllog">Smazat záznam hovorů</string>
-    <string name="clear_all_mslog">Smazat záznam zpráv</string>
+    <string name="clear_all_calllog">Smazat seznam hovorů</string>
+    <string name="clear_all_mslog">Smazat seznam zpráv</string>
     <string name="close_rule">Zrušit všechna pravidla</string>
     <string name="confirm">OK</string>
     <string name="confirm_clear_blacklist">Opravdu chcete vymazat černou listinu?</string>
@@ -66,7 +66,7 @@
     <string name="fw_blocked">Blokované</string>
     <string formatted="false" name="fw_blocked_count">Hovory: %d, SMS: %d.</string>
     <string formatted="false" name="fw_call">Čas hovoru: %s (%d)</string>
-    <string name="fw_call_imported">Importovat ze záznamu volání</string>
+    <string name="fw_call_imported">Importovat ze seznamu volání</string>
     <string name="fw_call_muted">Hovory ztišeny</string>
     <string name="fw_call_rejected">Hovory odmítány</string>
     <string name="fw_clear_all_keyword">Smazat všechna klíčová slova</string>
@@ -125,7 +125,7 @@
     <string name="remove_delete">Vymazat</string>
     <string name="remove_inf">Vymazat vybrané informace?</string>
     <string name="remove_keyword">Opravdu chcete smazat toto klíčové slovo?</string>
-    <string name="remove_sms">Vymazat všechny záznamy o zprávách?</string>
+    <string name="remove_sms">Vymazat všechny seznamy zpráv?</string>
     <string name="save_button">Uložit</string>
     <string name="show_firewall_notification">Zobrazit upozornění firewallu</string>
     <string name="show_notification">Zobrazit upozornění</string>

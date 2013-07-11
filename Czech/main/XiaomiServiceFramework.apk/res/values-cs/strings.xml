@@ -263,7 +263,7 @@ Zadejte Vaše heslo"</string>
     <string name="recharge_message_title">Navýšení přes SMS</string>
     <string name="recharge_notification">Navýšení o %1$s Mi kreditů</string>
     <string name="recharge_other">Zvolit jiný způsob platby</string>
-    <string name="recharge_pcpay_summary">Je podporováno více způsobů navýšení (PayPal)</string>
+    <string name="recharge_pcpay_summary">Je podporováno více způsobů navýšení</string>
     <string name="recharge_pcpay_title">Navýšení přes PC</string>
     <string name="recharge_prepaid_summary"> China Mobile, China Unicom a China Telecom předplacené karty jsou akceptované</string>
     <string name="recharge_prepaid_title">Předplacené karty</string>

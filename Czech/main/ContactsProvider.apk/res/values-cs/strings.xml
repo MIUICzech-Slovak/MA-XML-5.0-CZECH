@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_label">Úložiště kontaktů</string>
-    <string name="call_log_provider_label">Záznam hovorů</string>
+    <string name="call_log_provider_label">Seznam hovorů</string>
     <string name="debug_dump_title">Kopírovat databázi kontaktů</string>
     <string name="debug_dump_database_message">Tímto provedete 1) Kopii všech vašich kontaktů včetně informací o nich a záznamů o hovorech na interní paměť telefonu. 2) Odešlete je emailem. Z důvodu Vaší bezpečnosti nezapomeňte tuto zálohu ihned po odeslání a ověření smazat z telefonu!</string>
     <string name="debug_dump_delete_button">Vymazat</string>

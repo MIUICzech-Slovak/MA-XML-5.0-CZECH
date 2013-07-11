@@ -118,8 +118,8 @@
     <string name="load_album_in_process">Načítat seznam alb</string>
     <string name="load_artist_failed">Nepodařilo se načíst seznam autorů, zkuste to prosím znovu</string>
     <string name="load_artist_in_process">Načíst seznam autorů</string>
-    <string name="load_audio_failed">Nepodařilo se načíst seznam audia, zkuste to prosím znovu</string>
-    <string name="load_audio_in_process">Načíst seznam audia</string>
+    <string name="load_audio_failed">Nepodařilo se načíst seznam písní, zkuste to prosím znovu</string>
+    <string name="load_audio_in_process">Načítání seznamu písní</string>
     <string name="load_bill_failed">Nepodařilo se načíst seznam hitparáda, zkuste to prosím znovu</string>
     <string name="load_bill_in_process">Načíst seznam billboard</string>
     <string name="load_channel_failed">Nepodařilo se načíst seznam stanic, zkuste to prosím znovu</string>
