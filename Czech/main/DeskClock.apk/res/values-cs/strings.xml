@@ -47,8 +47,8 @@
     <string name="default_ringtone_setting_title">Výchozí vyzvánění</string>
     <string name="delelte_selected_timezone">Opravdu chcete vymazat vybrané časové zóny?</string>
     <string name="delete">Smazat</string>
-    <string name="delete_alarm">Smazat budík</string>
-    <string name="delete_alarm_confirm">Smazat tento budík?</string>
+    <string name="delete_alarm">Smazat</string>
+    <string name="delete_alarm_confirm">Opravdu smazat označené?</string>
     <string name="delete_timezone_title">Vymazat časovou zónu</string>
     <string name="desk_clock_button_description">Zobrazení hodin</string>
     <string name="dialog_confirm_abort">Opravdu chcete ztratit vaše změny?</string>
