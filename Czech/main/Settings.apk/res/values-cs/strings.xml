@@ -715,7 +715,7 @@ Toto nastavení ovlivní všechny uživatele tohoto telefonu."</string>
     <string name="disableNetwork">Vypnout síť</string>
     <string name="disable_overlays">Vypnout HW překrývání</string>
     <string name="disable_overlays_summary">Vždy použít GPU pro zobrazování</string>
-    <string name="disable_power_key_long_press_under_keyguard">Vypnout na zamykací obrazovce</string>
+    <string name="disable_power_key_long_press_under_keyguard">Deaktivovat tlačítko Napájení</string>
     <string name="disable_text">Vypnout</string>
     <string name="disabled">Deaktivováno</string>
     <string name="disconnect">Odpojit</string>
