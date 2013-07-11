@@ -806,7 +806,7 @@ Toto nastavení ovlivní všechny uživatele tohoto telefonu."</string>
     <string name="enable_compatibility">Upravit velikost aplikace</string>
     <string name="enable_drive_mode">Povolit režim AUTO</string>
     <string name="enable_opengl_traces_title">Povolit trasování OpenGL</string>
-    <string name="enable_snapshot_screenlock">Fotografie ze zamyk. obr.</string>
+    <string name="enable_snapshot_screenlock">Rychlé pořízení fotografie</string>
     <string name="enable_text">Povolit</string>
     <string name="enable_traces_dialog_title">Zvolte zapnuté stopy</string>
     <string name="enable_traces_summary_all">Všechny stopy jsou povolené</string>
