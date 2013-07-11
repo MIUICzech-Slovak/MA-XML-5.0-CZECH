@@ -95,10 +95,10 @@
     <string name="callrecordview_item_op_time_rejected">Odmítnuto</string>
     <string name="callrecordview_item_op_time_short_incoming">"Příchozí "</string>
     <string name="callrecordview_item_op_time_short_outgoing">"Odchozí: "</string>
-    <string name="callrecordview_menu_delete">Smazat záznamy o hovorech</string>
+    <string name="callrecordview_menu_delete">Smazat seznam hovorů</string>
     <string name="callrecordview_menu_delete_accepted">Smazat přijaté hovory</string>
-    <string name="callrecordview_menu_delete_all">Smazat všechny záznamy o hovorech</string>
-    <string name="callrecordview_menu_delete_called">Smazat volané hovory</string>
+    <string name="callrecordview_menu_delete_all">Smazat všechny seznamy hovorů</string>
+    <string name="callrecordview_menu_delete_called">Smazat odchozí hovory</string>
     <string name="callrecordview_menu_delete_confirm">%s?</string>
 	  <string name="callrecordview_menu_delete_missed">Smazat zmeškané hovory</string>
     <string name="callrecordview_menu_delete_new">Vymazat nové Kontakty</string>
@@ -109,7 +109,7 @@
     <string name="callrecordview_menu_show">Zobrazit</string>
     <string name="callrecordview_menu_show_accepted">Zobrazit přijaté</string>
     <string name="callrecordview_menu_show_all">Všechny hovory</string>
-    <string name="callrecordview_menu_show_called">Zobrazit volané</string>
+    <string name="callrecordview_menu_show_called">Zobrazit odchozí</string>
 	  <string name="callrecordview_menu_show_missed">Zmeškané hovory</string>
     <string name="callrecordview_menu_show_new">Nové Kontakty</string>
     <string name="callrecordview_menu_show_stranger">Neznámá čísla</string>
