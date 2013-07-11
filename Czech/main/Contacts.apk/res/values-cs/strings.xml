@@ -463,7 +463,7 @@ Chyba: \"%s\""</string>
     <string name="local_profile_title">Můj místní profil</string>
     <string name="local_search_label">Všechny kontakty</string>
     <string name="locale_change_in_progress">Seznam kontaktů se aktualizuje, aby se zohlednila změna jazyka.</string>
-    <string name="lunarBirthdayLabelsGroup">Narozeniny</string>
+    <string name="lunarBirthdayLabelsGroup">Čínský kalendář</string>
     <string name="make_primary">Pamatovat si tuto volbu</string>
     <string name="map_custom">Zobrazit adresu %s</string>
     <string name="map_home">Zobrazit adresu domů</string>
