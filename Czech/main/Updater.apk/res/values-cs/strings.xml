@@ -107,7 +107,7 @@
     <string name="share_update_content_unsign">MIUI byla aktualizována na %1$s! Pro detailní seznam změn prosím navštivte %2$s</string>
     <string name="sign_in_add_account">Aktivujte Xiaomi účet</string>
     <string name="sign_in_add_account_helper">Váš telefon nemá žádný aktivní MIUI účet, přidejte účet abyste dostávali uživatelské body.</string>
-    <string name="sign_in_info">Vaše umístění v žebříčku aktualizací je %1$s \n     %2$s uživatelů se přihlásilo pro MIUI %3$s</string>
+    <string name="sign_in_info"/>
     <string name="sign_in_info_rank_more"/>
     <string name="sign_in_info_total_more"/>
     <string name="stable_build">Stabilní verze</string>
