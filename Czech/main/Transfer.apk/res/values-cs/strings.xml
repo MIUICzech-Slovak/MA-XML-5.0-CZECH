@@ -72,7 +72,8 @@
     <string name="recv_sound">Zvuk při přijetí</string>
     <string name="resend">Znovu odeslat</string>
     <string name="scan_2d_code">QR kód</string>
-    <string name="scan_tip">"Ujistěte se prosím, že na druhém zařízení je povoleno přijímání souborů"</string>
+    <string name="scan_tip">"Ujistěte se prosím, že na druhém zařízení 
+    je povoleno přijímání souborů"</string>
     <string name="scan_title">Zaměřte QR kód</string>
     <string name="scanning">Vyhledávání</string>
     <string name="sdcard_unavailable">SD karta je nedostupná</string>
