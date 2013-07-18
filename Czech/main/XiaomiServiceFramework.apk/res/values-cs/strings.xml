@@ -22,6 +22,33 @@ kontakty, fotky, atd"</string>
     <string name="available_functionality">Dostupné služby</string>
     <string name="bad_authentication">Ověření se nezdařilo, špatné uživatelské jméno nebo heslo</string>
     <string name="balance">Zůstatek: %1$s Mi kreditů</string>
+    <string name="bankcall_bank_account">Kreditní karta:</string>
+    <string name="bankcall_call_hint">"Budete mít hovor z banky Union pay (020-96585). 
+Postupujte dle instrukcí pro dokončení objednávky."</string>
+    <string name="bankcall_card">Kreditní karta</string>
+    <string name="bankcall_card_hint">Vložte Vaše číslo účtu</string>
+    <string name="bankcall_card_type">%1$s-%2$s</string>
+    <string name="bankcall_city">Město (pouze Čína)</string>
+    <string name="bankcall_credit_card">Kreditní karta</string>
+    <string name="bankcall_debit_card">Debetní karta</string>
+    <string name="bankcall_denom">Platby:</string>
+    <string name="bankcall_denom_number">%1$sRMB</string>
+    <string name="bankcall_error_card">Zadejte správné číslo Vašeho účtu</string>
+    <string name="bankcall_error_card_info">Zadejte správné údaje Vašeho účtu v bance</string>
+    <string name="bankcall_hint">"Tato služba je poskytovaná Unionpay a 
+používa několik šifrování pro zajištění Vaší bezpečnosti"</string>
+    <string name="bankcall_id_card">ID karty</string>
+    <string name="bankcall_id_card_hint">"ID karty přidané k Vašemu účtu"</string>
+    <string name="bankcall_merchant">Příjemce:</string>
+    <string name="bankcall_name">Jméno</string>
+    <string name="bankcall_name_hint">"Jméno přiřazené k Vašemu účtu"</string>
+    <string name="bankcall_phone">Telefon</string>
+    <string name="bankcall_phone_credit_hint">"Telefonní číslo přiřazené k Vašemu účtu"</string>
+    <string name="bankcall_phone_debit_hint">Zajistěte stabilní síť</string>
+    <string name="bankcall_province">Provincie</string>
+    <string name="bankcall_saved_card_info">%1$s - Končí s %2$s</string>
+    <string name="bankcall_saved_phone">Telefonní číslo: %1$s</string>
+    <string name="bankcall_xiaomi_company">Beijing Xiaomi Corporation</string>	
     <string name="bind_sina_weibo">Autorizovat Sina Weibo</string>
     <string name="bind_weibo_description">Najít kontakty, přátele a ostatní informace přímo z Vašeho účtu</string>
     <string name="binded">Propojené</string>
@@ -30,14 +57,21 @@ kontakty, fotky, atd"</string>
     <string name="btn_call">Podpora</string>
     <string name="btn_count_down_auto">%1$s sekund</string>
     <string name="btn_count_down_wait">Čekejte %1$s sekund</string>
+    <string name="btn_delete_record">Vymazat tento záznam</string>
     <string name="btn_mili_center_recharge">Navýšit Mi kredit</string>
+    <string name="btn_net_connection_retry">Znovu</string>
+    <string name="btn_next">Další</string>
+    <string name="btn_other_bankcard">Použít jinou kartu</string>
     <string name="btn_pay_large">Zaplatit</string>
+    <string name="btn_prev">Zpět</string>
     <string name="btn_query">Informace</string>
     <string name="btn_recharge_large">Navýšit nyní</string>
     <string name="btn_recharge_other">Jiné metody navýšení</string>
     <string name="btn_recharge_success">Navýšení dokončeno</string>
     <string name="btn_recharge_success_quick">Navýšení dokončeno</string>
     <string name="btn_voucher">Mi Kreditní karta (%1$s)</string>
+    <string name="btn_wait_call">Čekání</string>
+    <string name="btn_wait_call_count">Čekání (%1$s)</string>
     <string name="button_cancel">Zrušit</string>
     <string name="button_pay">Zaplatit</string>
     <string name="button_recharge">Navýšit</string>
@@ -62,6 +96,7 @@ Zkontrolujte si svoje údaje a zkuste to znovu.</string>
     <string name="error_account_changed_title">Účet aktualizován</string>
     <string name="error_auth_summary">Ověření účtu selhalo, zkuste to znovu</string>
     <string name="error_auth_title">Chyba účtu</string>
+    <string name="error_bankcard_verify_summary">Ověření karty selhalo</string>
     <string name="error_common_summary">Chyba systému, zkuste to později</string>
     <string name="error_common_title">Chyba systému</string>
     <string name="error_dup_phone">Telefon byl zaregistrován</string>
@@ -73,6 +108,7 @@ Zkontrolujte si svoje údaje a zkuste to znovu.</string>
     <string name="error_has_bought_title">Opakovat nákup</string>
     <string name="error_illegal_order_summary">Během vyřizování objednávky se vyskytla chyba, zkuste to znovu.</string>
     <string name="error_illegal_order_title">Chyba objednávky!</string>
+    <string name="error_invalid_dev_id">Nesprávné ID zařízení</string>
     <string name="error_mili_title">Nedostatečný Mi kredit</string> 
     <string name="error_network">Chyba sítě</string>
     <string name="error_network_summary">Nastala chyba sítě. Zkontrolujte, zda máte aktivní internetové připojení a zkuste to znovu.</string>
@@ -82,10 +118,14 @@ Zkontrolujte si svoje údaje a zkuste to znovu.</string>
     <string name="error_server_summary">Chyba serveru, zkuste to později</string>
     <string name="error_server_title">Chyba serveru</string>
     <string name="error_sim_not_ready">SIM není připravena</string>
+    <string name="error_too_frequent_visits_summary">"Přihlašujete se příliš často. 
+Vyčkejte prosím 5 minut a zkuste to znovu"</string>
+    <string name="error_too_frequent_visits_title">Příliš často!</string>
     <string name="error_unknown">Neznámá chyba: %1$s</string>
     <string name="error_user_id_mismatch_summary">Zkontrolujte Vaše přihlašovací údaje a zkuste to znovu.</string>
     <string name="error_user_id_mismatch_title">Chyba přihlášení!</string>
     <string name="error_verify_summary">Aplikace nemá práva na tuto službu</string>
+    <string name="error_verify_title">Nemáte povolení</string>
     <string name="failed_to_send_activate_email">Chyba při zasílání aktivačního emailu.</string>
     <string name="fee">%1$s Mi kreditů</string>
     <string name="find_device">Poloha zařízení</string>
@@ -222,6 +262,8 @@ S telefonem můžete bez obav pokračovat v práci..."</string>
     <string name="prepaid_picker_title_selected">Navýšit kredit</string>
     <string name="prev">Zpět</string>
     <string name="process_result">Výsledek procesu:</string>
+    <string name="progress_bankcall_card_creating">Vytváření objednávky...</string>
+    <string name="progress_bankcall_card_querying">Zjišťování typu účtu v bance...</string>
     <string name="progress_connecting">Připojování...</string>
     <string name="progress_creating">Načítání informací o objednávce...</string>
     <string name="progress_downloading">Načítání...</string>
@@ -251,27 +293,23 @@ Zkontrolujeme to do dvou pracovních dnů"</string>
 Zadejte Vaše heslo"</string>
     <string name="recharge_alipay_summary">Navýšení přes Alipay</string>
     <string name="recharge_alipay_title">Alipay</string>
+    <string name="recharge_bankcall_title">Kreditní karta</string>	
     <string name="recharge_denomination">%1$s RMB</string>
     <string name="recharge_grid_edit_hint">Suma (RMB)</string>
-    <string name="recharge_grid_edit_limit">Méně než %1$s</string>
+    <string name="recharge_grid_edit_limit">%1$s~%2$sRMB</string>
     <string name="recharge_grid_error_denomination">Vložte správnou sumu</string>
     <string name="recharge_grid_picker_hint">Zvolte množství Mi kreditu</string>
-    <string name="recharge_group_1to1">1 RMB (0,12€) je 1 Mi kredit</string>
-    <string name="recharge_group_2to1">2 RMB (0,24€) jsou 1 Mi kredit</string>
+    <string name="recharge_group_favorite">Použité způsoby navýšení</string>
+    <string name="recharge_group_others">Ostatní způsoby navýšení</string>
     <string name="recharge_hint">1 RMB je 1 Mi kredit = 0,12€</string>
-    <string name="recharge_message_summary">Podporuje navýšení přes SMS (Čína)</string>
     <string name="recharge_message_title">Navýšení přes SMS</string>
     <string name="recharge_notification">Navýšení o %1$s Mi kreditů</string>
     <string name="recharge_other">Zvolit jiný způsob platby</string>
-    <string name="recharge_pcpay_summary">Je podporováno více způsobů navýšení</string>
     <string name="recharge_pcpay_title">Navýšení přes PC</string>
-    <string name="recharge_prepaid_summary"> China Mobile, China Unicom a China Telecom předplacené karty jsou akceptované</string>
     <string name="recharge_prepaid_title">Předplacené karty</string>
     <string name="recharge_record">Historie navýšení</string>
     <string name="recharge_record_empty">Žádné navýšení</string>
-    <string name="recharge_tenpay_summary">Navýšení pomocí Tenpay</string>
     <string name="recharge_tenpay_title">Tenpay</string>
-    <string name="recharge_voucher_summary">Podpora pro navýšení Mi kreditů</string>
     <string name="recharge_voucher_title">Kupóny Mi kredit</string>
     <string name="reg_by_email_failure">Registrace se nezdařila: %1$s</string>
     <string name="reg_failed">Registrace se nezdařila</string>
