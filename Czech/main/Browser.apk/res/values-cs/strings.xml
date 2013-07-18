@@ -101,7 +101,7 @@
     <string name="choosertitle_sharevia">Sdílet přes</string>
     <string name="clear">Vyčistit</string>
     <string name="clear_history">Vymazat historii</string>
-    <string name="clear_history_group">Vymazat historii</string>
+    <string name="clear_history_group">Vymazat veškerou historii %s</string>
     <string name="clip_dialog_title">Otevřít zkopírovanou URL adresu?</string>
     <string name="close_all_tab_alert_message">Opravdu chcete zavřít všechny karty?</string>
     <string name="close_all_tab_alert_title">Zavřít všechny karty</string>
@@ -273,7 +273,7 @@
     <string name="open_all_bookmarks">Otevřít vše</string>	
     <string name="open_all_in_new_window">Otvírat vše v nových kartách</string>
     <string name="open_bookmark">Otevřít</string>
-    <string name="open_history_group_in_new_window">Otevřít celou historii v novém okně</string>
+    <string name="open_history_group_in_new_window">Otevřít celou historii %s v novém okně</string>
     <string name="open_history_most_visited_group_in_new_window">Otevřít všechny v novém okně</string>
     <string name="other_bookmarks">Ostatní záložky</string>
     <string name="page_info">Informace o stránce</string>
