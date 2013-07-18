@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="remote_service_stopped">Vzdálená služba se zastavila</string>
+    <string name="app_name">DS</string>
+    <string name="name_widget_extra_large">DS 6 Profilů</string>
+    <string name="name_widget_large">DS 3 Profily</string>
+    <string name="name_widget_small">DS Zap/Vyp</string>
+    <string name="movie">Film</string>
+    <string name="music">Hudba</string>
+    <string name="game">Hry</string>
+    <string name="voice">Řeč</string>
+    <string name="preset_1">Vlastní 1</string>
+    <string name="preset_2">Vlastní 2</string>
+</resources>
