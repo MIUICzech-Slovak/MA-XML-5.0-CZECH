@@ -36,7 +36,7 @@ Postupujte dle instrukcí pro dokončení objednávky."</string>
     <string name="bankcall_error_card">Zadejte správné číslo Vašeho účtu</string>
     <string name="bankcall_error_card_info">Zadejte správné údaje Vašeho účtu v bance</string>
     <string name="bankcall_hint">"Tato služba je poskytovaná Unionpay a 
-používa několik šifrování pro zajištění Vaší bezpečnosti"</string>
+používá několik šifrování pro zajištění Vaší bezpečnosti"</string>
     <string name="bankcall_id_card">ID karty</string>
     <string name="bankcall_id_card_hint">"ID karty přidané k Vašemu účtu"</string>
     <string name="bankcall_merchant">Příjemce:</string>
