@@ -105,8 +105,8 @@
     <string name="clip_dialog_title">Otevřít zkopírovanou URL adresu?</string>
     <string name="close_all_tab_alert_message">Opravdu chcete zavřít všechny karty?</string>
     <string name="close_all_tab_alert_title">Zavřít všechny karty</string>
-    <string name="common_use_phrase_bottom_bar_cn_txt">.cz</string>	
-    <string name="common_use_phrase_bottom_bar_com_txt">.sk</string>	
+    <string name="common_use_phrase_bottom_bar_cn_txt">.sk</string>	
+    <string name="common_use_phrase_bottom_bar_com_txt">.cz</string>	
     <string name="common_use_phrase_bottom_bar_down_analytic_txt">Sbalit</string>	
     <string name="common_use_phrase_bottom_bar_https_txt">https://</string>	
     <string name="common_use_phrase_bottom_bar_net_txt">.com</string>	
@@ -286,7 +286,7 @@
     <string name="popup_window_attempt">Povolit této stránce otevření vyskakovacího okna?</string>
     <string name="pref_accessibility_title">Přizpůsobení</string>
     <string name="pref_accessibility_url_shortcut_enter_summary">Během zadávání URL adresy budou vkládána často používaná písmena jedním dotykem</string>
-    <string name="pref_accessibility_url_shortcut_enter_title">Rýchlá volba URL</string>	
+    <string name="pref_accessibility_url_shortcut_enter_title">Rychlá volba URL</string>	
     <string name="pref_allow_apptabs">Povolit více karet na aplikaci</string>
     <string name="pref_autofill_enabled">Vyplnění formulářů</string>
     <string name="pref_autofill_enabled_summary">Vyplnit webové formuláře jedním dotykem</string>
