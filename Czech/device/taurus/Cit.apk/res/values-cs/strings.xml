@@ -190,7 +190,7 @@
     <string name="cit_tool_log_modem">Záznam Modemu</string>
     <string name="cit_tool_log_ril">RIL log</string>
     <string name="cit_tool_log_toast">Záznam o chybě je uložený do %s</string>
-    <string name="cit_tool_log_toast_generate_bugreport">Vytvoření záznamu o chybě může trvat i více jak 10 sekund.</string>
+    <string name="cit_tool_log_toast_generate_bugreport">Vytvoření záznamu o chybě může trvat i více jak 1 minutu.</string>
     <string name="cit_tool_wifi">Testovat Wi-fi</string>
     <string name="cit_tool_wifi_5g_100a">Tx:100/6M/13dBm</string>
     <string name="cit_tool_wifi_5g_100b">Tx:100/54M/13dBm</string>
