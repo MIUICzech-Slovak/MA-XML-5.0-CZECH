@@ -93,12 +93,12 @@
     <string name="ext_media_checking_notification_title">Připravuji USB úložiště</string>
     <string name="ext_media_mountable_notification_message">USB úložiště připojeno. Soubory zobrazíte ve Správci souborů.</string>
     <string name="ext_media_mountable_notification_title">USB úložiště připojeno</string>
-	<string name="ext_media_nofs_notification_message">USB úložiště je prázdné, nebo má nepodporovaný souborový systém.</string>
+	  <string name="ext_media_nofs_notification_message">USB úložiště je prázdné, nebo má nepodporovaný souborový systém.</string>
     <string name="ext_media_nofs_notification_title">Prázdné USB úložiště</string>
     <string name="ext_media_nomedia_notification_message">USB úložiště odebráno. Připojte nové médium.</string>
     <string name="ext_media_nomedia_notification_title">Odebráno USB úložiště</string>
     <string name="ext_media_safe_remove">Odpojit</string>
-	<string name="ext_media_safe_unmount_notification_message">Můžete bezpečně odebrat USB úložiště.</string>
+	  <string name="ext_media_safe_unmount_notification_message">Můžete bezpečně odebrat USB úložiště.</string>
     <string name="ext_media_safe_unmount_notification_title">USB úložiště bezpečně odebráno</string>
     <string name="ext_media_unmountable_notification_message">USB úložiště poškozeno. Možná je potřeba přeformátovat.</string>
     <string name="ext_media_unmountable_notification_title">Poškozené USB úložiště</string>
@@ -251,7 +251,8 @@
     <string name="status_bar_toggle_syncing">Synchronizuji...</string>
     <string name="status_bar_toggle_torch">Svítilna</string>   
     <string name="status_bar_toggle_vibrate">Vibrace</string>  
-    <string name="status_bar_toggle_wifi">Wi-Fi</string> 
+    <string name="status_bar_toggle_wifi">Wi-Fi</string>
+    <string name="status_bar_toggle_wifi_ap">Hot-spot</string> 
     <string name="status_bar_use_physical_keyboard">Použít fyzickou klávesnici</string>
     <string name="tab_notifications_lable">Notifikace</string>
     <string name="tab_toggles_lable">Přepínače</string>

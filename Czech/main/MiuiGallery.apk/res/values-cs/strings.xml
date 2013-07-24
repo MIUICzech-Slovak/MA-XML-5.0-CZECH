@@ -10,7 +10,17 @@
   <string name="add_to_cloud_folder">Přidat do Cloud složky</string>
   <string name="adding_recipients">Přidávání příjemců...</string>
   <string name="album_name">Název alba</string>
+  <string name="album_quota_fulfiled">"Nelze vytvorit album. Počet alb přesáhnul limit."</string>
+  <string name="album_share_kicked">Byli jste odebráni z alba: %1$s</string>
   <string name="album_share_stat_content">Pozvánky na Nové album</string>
+  <string name="album_share_subtitle_accepting">Přijímání pozvání od %1$s...</string>
+  <string name="album_share_subtitle_denying">Odmítání pozvání od %1$s...</string>
+  <string name="album_share_subtitle_invited">Sdílení %1$s, Přijmout/Odmítnout?</string>
+  <string name="album_share_subtitle_normal">Sdílené %1$s</string>
+  <string name="album_share_subtitle_not_ready">Informace o albu nejsou dostupné. Stiskněte pro jejich stáhnutí.</string>
+  <string name="album_share_subtitle_quitting">Zrušení pozvání od %1$s...</string>
+  <string name="album_share_subtitle_requesting">Stahování informací o albu...</string>
+  <string name="album_share_title_new_album">Nové sdílené album</string>
   <string name="albums">Alb</string>
   <string name="albumset_page_title_separator"> | </string>
   <string name="alert">Oznámení</string>
@@ -105,8 +115,11 @@
   <string name="email_picker_title">Přidat sdílený E-mail</string>
   <string name="empty_album">Žádné obrázky/videa.</string>
   <string name="enter_email_hint">"Zadejte E-mail "</string>
+  <string name="error_invalid_link">Tento odkaz je neplatný. Požádejte vlastníka o vytvoření nového odkazu.</string>
+  <string name="error_repeat_apply">Toto album je již sdílené</string>
   <string name="error_should_not_select_image">Upozornění: nevybírejte obrázek.</string>
   <string name="error_should_not_select_video">Upozornění: nevybírejte video.</string>
+  <string name="error_socket_timeout">Chyba sítě. Zkuste to později.</string>
   <string name="exit_share">Ukončit album</string>
   <string name="exit_share_failed">Ukončení alba %1$s selhalo</string>
   <string name="exit_share_in_process">Ukončování...</string>
@@ -134,6 +147,7 @@
   <string name="frame_semicircle">Půlkruh</string>
   <string name="frame_white">Bílý</string>
   <string name="gallery_cloud_provider_name">Galerie</string>
+  <string name="gallery_setting">Nastavení</string>
   <string name="global_setting">Nastavení</string>
   <string name="grain">Filmové zrno</string>
   <string name="grayscale">ČB</string>
@@ -150,6 +164,7 @@
   <string name="how_many_pics">%d\u0020Snímků</string>
   <string name="how_many_sub_folders">%d\u0020Složek</string>
   <string name="how_many_videos">%d\u0020Videí</string>
+  <string name="image_quota_fulfiled">"Nelze vytvorit obrázek, Počet obrázků přesáhnul limit."</string>
   <string name="Import">Import</string>
   <string name="import_complete">Import kompletní</string>
   <string name="import_fail">Import neúspěšný</string>
@@ -164,6 +179,7 @@
   <string name="kick_sharer">Odstranit sdílené</string>
   <string name="kick_sharer_failed">Odstranění ze sdílených selhalo</string>
   <string name="kick_sharer_successfully">Úspěšně odstraněno ze sdílených</string>
+  <string name="landscape_mode">Povolit režim na šířku</string>
   <string name="loading">Nahrávám...</string>
   <string name="loading_failure">Snímek se nepodařilo nahrát</string>
   <string name="loading_thumbnail">Stahování náhledů...</string>
@@ -282,6 +298,7 @@
   <string name="share_by_email_start">Pokus o sdílení %1$s na pozadí</string>
   <string name="share_by_email_successfully">Sdílení %1$s přes E-mail úspěšné</string>
   <string name="share_user_name">Název</string>
+  <string name="sharer_quota_fulfiled">"Nelze přidat ke sdílení. Počet sdílených osob pro toto album přesáhnul limit."</string>
   <string name="sharer_status_accepted">Akceptováno</string>
   <string name="sharer_status_refused">Odmítnuto</string>
   <string name="sharer_status_waiting">Čeká</string>
@@ -307,7 +324,7 @@
   <string name="storage_no_space">"Není volné místo na úložišti."</string>
   <string name="straighten">Vyrovnat</string>
   <string name="straighten_tooltip">Potáhněte snímek pro jeho vyrovnání</string>
-  <string name="sync_album">Synch. album</string>
+  <string name="sync_album">Synchronizovat album</string>
   <string name="sync_album_error">Nepodařilo se stáhnout snímky v tomto albu. Prosím zkuste to později.</string>
   <string name="sync_album_set_error">Nepodařilo se stáhnout seznam alb. Prosím zkuste to později.</string>
   <string name="sync_album_summary">Nahrajte Vaše fotky do MiCloud</string> 

@@ -161,6 +161,7 @@
     <string name="status_bar_toggle_torch">Svítidlo</string>	
     <string name="status_bar_toggle_vibrate">Vibrace</string>	
     <string name="status_bar_toggle_wifi">Wifi</string>
+    <string name="status_bar_toggle_wifi_ap">Hot-spot</string>
     <string name="title_select_live_folder">Vybrat složku</string>
     <string name="title_select_shortcut">Vybrat zástupce</string>
     <string name="toggle_select_title">Zvolit přepínač</string>
