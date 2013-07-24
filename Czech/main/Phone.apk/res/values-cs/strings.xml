@@ -252,7 +252,7 @@
     <string name="command_error_sim_pin2_miui">PI2 je vyžadován pro dokončení operace.</string>
     <string name="command_error_sim_puk2_miui">PIN2 je uzamčen, pro odemčení je potřeba PUK2.</string>
     <string name="command_error_sms_fail_retry_miui">Nelze odeslat SMS, zkuste to prosím později.</string>
-	<string name="command_error_unsupported_mode_miui">Vámi zvolený typ sítě není podporován.</string>
+    <string name="command_error_unsupported_mode_miui">Vámi zvolený typ sítě není podporován.</string>
     <string name="command_error_unsupported_request_miui">Tato operace není podporována.</string>
     <string name="confCall">Konferenční hovor</string>
     <string name="config_sub_title">Nastavení přihlášení</string>
@@ -482,8 +482,8 @@
     <string name="importingSimContacts">Importování kontaktů z karty SIM</string>
     <string name="importing_sim_contacts_miui">Importuji kontakty SIM...</string>
     <string name="in_calling">Volat</string>
- 	  <string name="in_sms">Zpráva</string>
-	  <string name="incall_call_type_label_sip">Internetový hovor</string>
+    <string name="in_sms">Zpráva</string>
+    <string name="incall_call_type_label_sip">Internetový hovor</string>
     <string name="incall_error_call_failed">Hovor nebyl spojen.</string>
     <string name="incall_error_emergency_only">Přihlášení k síti nebylo úspěšné.</string>
     <string name="incall_error_no_phone_number_supplied">Hovor nelze spojit, nebylo zadáno platné číslo.</string>
@@ -692,7 +692,7 @@
     <string name="ota_listen">Postupujte podle hlasových pokynů, dokud nebudete informováni o dokončení aktivace.</string>
     <string name="ota_next">Další</string>
     <string name="ota_progress">Počkejte prosím, než bude telefon připravený.</string>
-    <string name="ota_skip_activation_dialog_message"> /</string>
+    <string name="ota_skip_activation_dialog_message"/>
     <string name="ota_skip_activation_dialog_skip_label">Přeskočit</string>
     <string name="ota_skip_activation_dialog_title">Přeskočit aktivaci?</string>
     <string name="ota_spc_failure">SELHÁNÍ CERTIFIKÁTŮ SPC</string>
@@ -950,10 +950,10 @@
     <string name="sliding_target_hint_miui">Přetažení</string>
     <string name="sliding_up_hint_miui">Zamítnutí posunutím nahoru</string>
     <string name="sms_content">Obsah zprávy</string>
- 	  <string name="sms_sender">Od</string>
+    <string name="sms_sender">Od</string>
     <string name="sp_unlock_failed">SIM Service Provider unlock request unsuccessful.</string>
     <string name="sp_unlock_success">SIM Service Provider unlock successful.</string>
-	  <string name="sports_news_settings">Sportovní zprávy</string>
+    <string name="sports_news_settings">Sportovní zprávy</string>
     <string name="stk_cc_ss_to_dial_error">SS request modified to DIAL request.</string>
     <string name="stk_cc_ss_to_ss_error">SS request modified to new SS request.</string>
     <string name="stk_cc_ss_to_ussd_error">SS request modified to USSD request.</string>
@@ -995,7 +995,7 @@
     <string name="sum_voicemail_choose_provider">Zvolte službu hlasové schránky</string>
     <string name="sum_xdivert_disabled">X-Divert Disabled</string>
     <string name="sum_xdivert_enabled">X-Divert Enabled</string>
-	  <string name="summary_manage_subscriptions">Manage Network settings of each subscriptions</string>
+    <string name="summary_manage_subscriptions">Manage Network settings of each subscriptions</string>
     <string name="t9_indexing_method_pinyin">Abecedně</string>
     <string name="t9_indexing_method_title_miui">Vyhledávání T9</string>
     <string name="t9_indexing_method_zhuyin">Foneticky</string>
@@ -1040,7 +1040,7 @@
     <string name="undefined_miui">Nedefinované</string>
     <string name="unknown">Neznámé</string>
     <string name="unknown_num">Neznámé číslo</string>
-	  <string name="unlock_failed">Požadavek na odblokování sítě se nezdařil.</string>
+    <string name="unlock_failed">Požadavek na odblokování sítě se nezdařil.</string>
     <string name="unlock_success">Síť byla úspěšně odblokována.</string>
     <string name="updating_fdn_contact">Probíhá aktualizace povoleného telefonního čísla...</string>
     <string name="updating_settings">Probíhá aktualizace nastavení...</string>
