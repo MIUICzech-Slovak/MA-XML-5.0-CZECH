@@ -28,6 +28,7 @@ Postupujte dle instrukcí pro dokončení objednávky."</string>
     <string name="bankcall_card">Kreditní karta</string>
     <string name="bankcall_card_hint">Vložte Vaše číslo účtu</string>
     <string name="bankcall_card_type">%1$s-%2$s</string>
+    <string name="bankcall_card_type_tailnum">%1$s-%2$s(Karta č. %3$s)</string>
     <string name="bankcall_city">Město (pouze Čína)</string>
     <string name="bankcall_credit_card">Kreditní karta</string>
     <string name="bankcall_debit_card">Debetní karta</string>
@@ -35,8 +36,7 @@ Postupujte dle instrukcí pro dokončení objednávky."</string>
     <string name="bankcall_denom_number">%1$sRMB</string>
     <string name="bankcall_error_card">Zadejte správné číslo Vašeho účtu</string>
     <string name="bankcall_error_card_info">Zadejte správné údaje Vašeho účtu v bance</string>
-    <string name="bankcall_hint">"Tato služba je poskytovaná Unionpay a 
-používá několik šifrování pro zajištění Vaší bezpečnosti"</string>
+    <string name="bankcall_hint">Tato služba je poskytovaná Unionpay a používá několik šifrování pro zajištění Vaší bezpečnosti</string>
     <string name="bankcall_id_card">ID karty</string>
     <string name="bankcall_id_card_hint">"ID karty přidané k Vašemu účtu"</string>
     <string name="bankcall_merchant">Příjemce:</string>
@@ -46,7 +46,7 @@ používá několik šifrování pro zajištění Vaší bezpečnosti"</string>
     <string name="bankcall_phone_credit_hint">"Telefonní číslo přiřazené k Vašemu účtu"</string>
     <string name="bankcall_phone_debit_hint">Zajistěte stabilní síť</string>
     <string name="bankcall_province">Provincie</string>
-    <string name="bankcall_saved_card_info">%1$s - Končí s %2$s</string>
+    <string name="bankcall_saved_card_info">%1$s - Karta č. %2$s</string>
     <string name="bankcall_saved_phone">Telefonní číslo: %1$s</string>
     <string name="bankcall_xiaomi_company">Beijing Xiaomi Corporation</string>	
     <string name="bind_sina_weibo">Autorizovat Sina Weibo</string>
@@ -152,7 +152,7 @@ Vyčkejte prosím 5 minut a zkuste to znovu"</string>
     <string name="giftcard_expire">%1$s-%2$s-%3$s vypršela platnost</string>
     <string name="giftcard_hint">"Mi kredity z poukázky se použijí 
 prvně a nemohou být použité po vypršení platnosti"</string>
-    <string name="giftcard_record">Získaných Mi kreditů</string>
+    <string name="giftcard_record">Mé poukázky</string>
     <string name="giftcard_value">(Poukázka na %1$s Mi kreditů)</string>
     <string name="header_data_and_synchronization">Data a synchronizace</string>
     <string name="i_know">OK</string>

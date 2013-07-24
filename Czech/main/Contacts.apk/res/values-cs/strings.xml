@@ -310,6 +310,7 @@
     <string name="display_warn_remove_ungrouped">"Odstranění \"%s\" ze synchronizace zároveň odstraní všechny neseskupené kontakty."</string>
     <string name="download_failed">Stahování selhalo</string>
     <string name="download_preview_failed">Načítání náhledu selhalo</string>
+    <string name="duplicate_group_name">Tato skupina již existuje</string>
     <string name="editContactDescription">Upravit kontakt</string>
     <string name="editGroupDescription">Upravit skupinu</string>
     <string name="edit_contact">Upravit kontakt</string>

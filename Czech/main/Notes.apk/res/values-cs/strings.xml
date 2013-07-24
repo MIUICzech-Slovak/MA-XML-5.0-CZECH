@@ -22,6 +22,7 @@
     <string name="default_folder_name">Poznámky</string>
     <string name="enable_sync">Synchr.</string>
     <string name="enable_sync_desc">Poznámky se mohou synchronizovat s Vaším Xiaomi účtem %1$s, synchronizovat?</string>
+    <string name="error_contact_not_exist">Kontakt neexistuje</string>
     <string name="error_note_empty_for_clock">Nelze nastavit hodiny na prázdné poznámce</string>
     <string name="error_note_empty_for_send_to_desktop">Nelze poslat prázdnou poznámku na plochu</string>
     <string name="error_note_not_exist">Poznámka neexistuje</string>

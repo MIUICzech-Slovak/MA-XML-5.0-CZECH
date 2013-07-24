@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="access_sd_fail">Není možný přístup na SD kartu</string>
+  <string name="access_sd_fail">"Není možný přístup na SD kartu"</string>
   <string name="accessibility_camera_picker">Výběr zvolené kamery</string>
   <string name="accessibility_review_thumbnail">Nejnovější fotografie</string>
   <string name="accessibility_shutter_button">Tlačítko spouště</string>
-  <string name="accessibility_zoom_control">Ovládaní přiblížení</string>
+  <string name="accessibility_zoom_control">Ovládaní Zoomu</string>
   <string name="albums">Alba</string>
   <string name="aperture">Uzávěrka</string>
   <string name="app_details">Aplikace:</string>
@@ -24,9 +24,10 @@
   <string name="confirm_change_mode_title">Přepnout režim</string>
   <string name="confirm_change_to_expert_mode_message">Přepnout na rozšířený režim?</string>
   <string name="confirm_change_to_simple_mode_message">Přepnout na základní režim?</string>
-  <string name="confirm_location_message">Mi2 může zaznamenat Vaši polohu ve fotografii. Chcete otevřít nastavení polohy?</string>
+  <string name="confirm_location_message">Fotoaparát umí zaznamenat Vaši polohu ve fotografii. Chcete Vaši polohu ukládat?</string>
   <string name="confirm_restore_message">Chcete obnovit tovární nastavení?</string>
   <string name="confirm_restore_title">Obnovit tovární nastavení</string>
+  <string name="connect_wifi">Připojit k této Wi-Fi</string>
   <string name="contact_address">Adresa</string>
   <string name="contact_birthday">Narozeniny</string>
   <string name="contact_company">Firma</string>
@@ -51,6 +52,8 @@
   <string name="dialog_ok">OK</string>
   <string name="disable_video_snapshot_hint">Záznam videa není podporován v režimu speciálních efektů.</string>
   <string name="download_by_browser">Stáhnout pomocí prohlížeče</string>
+  <string name="download_qq">Stáhnout QQ</string>
+  <string name="download_wechat">Stáhnout WeChat</string>
   <string name="duration">Délka</string>
   <string name="edit">Upravit</string>
   <string name="effect_backdropper_disco">Disco</string>
@@ -77,8 +80,10 @@
   <string name="find_market_qrcode">Vyhledat QR kód obchodu</string>
   <string name="find_mecard_qrcode">Vyhledat QR kód karty</string>
   <string name="find_other_qrcode">Vyhledat QR kód</string>
+  <string name="find_qq_qrcode">Vyhledat QQ QR kód</string>
   <string name="find_web_qrcode">Vyhledat QR kód stránky</string>
   <string name="find_weixin_qrcode">Vyhledat QR kód weixin</string>
+  <string name="find_wifi_qrcode">Vyhledat Wi-Fi QR kód</string>
   <string name="flash">Blesk</string>
   <string name="flash_off">Bez blesku</string>
   <string name="flash_on">S bleskem</string>
@@ -103,6 +108,8 @@
   <string name="import_fail">Import selhal!</string>
   <string name="iso">ISO</string>
   <string name="launch_market">Spustit Google Play</string>
+  <string name="launch_qq">Spustit QQ přes prohlížeč</string>
+  <string name="launch_wechat">Spustit WeChat</string>
   <string name="loading">Načítání...</string>
   <string name="loading_video">Načítání videa...</string>
   <string name="location">Poloha</string>
@@ -118,7 +125,7 @@
   <string name="not_selectable_in_scene_mode">Není možné vybrat v režimu scény.</string>
   <string name="ok">OK</string>
   <string name="orientation">Orientace</string>
-  <string name="pano_dialog_panorama_failed">Není možné uložit panoramatický snímek</string>
+  <string name="pano_dialog_panorama_failed">"Není možné uložit panoramatický snímek"</string>
   <string name="pano_dialog_prepare_preview">Příprava panoramatu</string>
   <string name="pano_dialog_title">Panoramat</string>
   <string name="pano_dialog_waiting_previous">Čekání na dokončení předcházejícího snímku</string>
@@ -206,9 +213,9 @@
   <string name="pref_camera_jpegquality_entry_normal">Normální</string>
   <string name="pref_camera_jpegquality_entry_superfine">Velmi dobrá</string>
   <string name="pref_camera_jpegquality_title">Kvalita obrazu</string>
-  <string name="pref_camera_long_pressing_burst_shooting_entry_off">Vypnuto</string>
-  <string name="pref_camera_long_pressing_burst_shooting_entry_on">Zapnuto</string>
-  <string name="pref_camera_long_pressing_burst_shooting_title">Dávkové focení</string>
+  <string name="pref_camera_long_pressing_burst_shooting_entry_off">Zaostřit</string>
+  <string name="pref_camera_long_pressing_burst_shooting_entry_on">Dávkové focení</string>
+  <string name="pref_camera_long_pressing_burst_shooting_title">Podržení spouště</string>
   <string name="pref_camera_movie_solid_entry_off">Vyp</string>
   <string name="pref_camera_movie_solid_entry_on">Zap</string>
   <string name="pref_camera_movie_solid_title">Stabilizace videa</string>
@@ -218,8 +225,9 @@
   <string name="pref_camera_picture_format_title">Formát fotografie</string>
   <string name="pref_camera_picturesize_entry_1280x720">720p</string>
   <string name="pref_camera_picturesize_entry_1920x1080">2MP</string>
-  <string name="pref_camera_picturesize_entry_3200x1800">6MP</string>
-  <string name="pref_camera_picturesize_entry_3200x2400">8MP</string>
+  <string name="pref_camera_picturesize_entry_3200x1800">6MP 16:9</string>
+  <string name="pref_camera_picturesize_entry_3200x2400">8MP 4:3</string>
+  <string name="pref_camera_picturesize_entry_4208x2368">Širokoúhlý 16:9</string>
   <string name="pref_camera_picturesize_entry_4208x3120">13MP</string>
   <string name="pref_camera_picturesize_professional_entry_1024x768">0.8MP (1024x768)</string>
   <string name="pref_camera_picturesize_professional_entry_1280x720">0.9MP (1280x720)</string>
@@ -231,7 +239,6 @@
   <string name="pref_camera_picturesize_professional_entry_3200x2400">8MP (3264X2448)</string>
   <string name="pref_camera_picturesize_professional_entry_3264x1836">6MP (3264x1836)</string>
   <string name="pref_camera_picturesize_professional_entry_4208x2368">10MP (4208x2368)</string>
-  <string name="pref_camera_picturesize_entry_4208x2368">Širokoúhlý 16:9</string>
   <string name="pref_camera_picturesize_title">Velikost fotografie</string>
   <string name="pref_camera_picturesize_title_simple_mode">Velikost fotografie</string>
   <string name="pref_camera_preview_entry_1000">1 sekunda</string>
@@ -240,7 +247,7 @@
   <string name="pref_camera_preview_entry_off">Vyp</string>
   <string name="pref_camera_recordlocation_entry_off">Vyp</string>
   <string name="pref_camera_recordlocation_entry_on">Zap</string>
-  <string name="pref_camera_recordlocation_title">Místo uložení</string>
+  <string name="pref_camera_recordlocation_title">Uložit polohu GPS</string>
   <string name="pref_camera_redeyereduction_entry_auto">Auto</string>
   <string name="pref_camera_redeyereduction_entry_disable">Vypnout</string>
   <string name="pref_camera_redeyereduction_entry_enable">Zapnout</string>
@@ -303,6 +310,9 @@
   <string name="pref_camera_volumekey_function_entry_volume">Hlas</string>
   <string name="pref_camera_volumekey_function_entry_zooming">Zoom</string>
   <string name="pref_camera_volumekey_function_title">Funkce tlačítek hlasitosti</string>
+  <string name="pref_camera_watermark_entry_off">Vypnutý</string>
+  <string name="pref_camera_watermark_entry_on">Zapnutý</string>
+  <string name="pref_camera_watermark_title">Časový vodoznak</string>
   <string name="pref_camera_whitebalance_entry_auto">Auto</string>
   <string name="pref_camera_whitebalance_entry_cloudy">Šero</string>
   <string name="pref_camera_whitebalance_entry_daylight">Denní světlo</string>
@@ -323,9 +333,9 @@
   <string name="pref_grp_restore_settings">Obnovit Nastavení</string>
   <string name="pref_settings_mode">Režim kamery</string>
   <string name="pref_video_captrue_ability_title">Snímek během videa</string>
-  <string name="pref_video_continuous_focus">Kontinuální zaostřování</string>
-  <string name="pref_video_continuous_focus_entry_off">Vyp</string>
-  <string name="pref_video_continuous_focus_entry_on">Zap</string>
+  <string name="pref_video_focusmode_title">Režim ostření</string>
+  <string name="pref_video_focusmode_entry_continuous">Kontinuální ostření</string>
+  <string name="pref_video_focusmode_entry_auto">Dotykem</string>
   <string name="pref_video_quality_entry_1080p">1080p</string>
   <string name="pref_video_quality_entry_480p">480p</string>
   <string name="pref_video_quality_entry_720p">720p</string>
@@ -354,6 +364,7 @@
   <string name="pref_video_time_lapse_frame_interval_entry_900">30 sekund (900 krát)</string>
   <string name="pref_video_time_lapse_frame_interval_title">Časosběrné video (Time Lapse)</string>
   <string name="preparing_sd">Příprava úložiště...</string>
+  <string name="qq_details">Detaily o QQ:</string>
   <string name="qr_code_details">"QR kód: "</string>
   <string name="record_back_pressed_hint">Stiskněte zpět pro zastavení nahrávání</string>
   <string name="resume_playing_message">Pokračovat přehrávání od %s?</string>
@@ -383,13 +394,13 @@
   <string name="show_images_only">Zobrazit fotografie</string>
   <string name="show_on_map">Zobrazit na mapě</string>
   <string name="show_videos_only">Zobrazit videa</string>
-  <string name="simple_mode_title">Základní režim</string>
   <string name="simple_mode_button_text_audio_capture">Ukončit záznam zvuku</string>
   <string name="simple_mode_button_text_color_effect">Ukončit filtry</string>
   <string name="simple_mode_button_text_hand_night">Ukončit noční režim</string>
   <string name="simple_mode_button_text_hdr">Ukončit HDR</string>
   <string name="simple_mode_button_text_panorama">Ukončit panorama</string>
   <string name="simple_mode_button_text_slow_video">Ukončit zpomalenou kameru</string>
+  <string name="simple_mode_title">Základní režim</string>
   <string name="slideshow">Prezentace</string>
   <string name="snapshot_lower_than_video">Video snapshot size is lower than video size. Capping the video size. Please select a resolution higher or equal to the current video size.</string>
   <string name="snapshot_qcif_and_d1">Only Video snapshot size is supported for this resolution.</string>
@@ -397,7 +408,8 @@
   <string name="spaceIsLow_content">Dochází volné místo na SD kartě. Snižte kvalitu nebo vymažte nepotřebné soubory.</string>
   <string name="success_message_import_from_account">Úspěšně importováno</string>
   <string name="tags">Značky</string>
-  <string name="tap_to_focus">Klepněte pro přiblížení.</string>
+  <string name="tap_to_exposure">Dotkněte se pro manuální expozici.</string>
+  <string name="tap_to_focus">Dotkněte se pro přiblížení.</string>
   <string name="time">Čas</string>
   <string name="time_lapse_error">Neplatná velikost pro časosběrné nahrávání.</string>
   <string name="times">Časy</string>
@@ -411,7 +423,7 @@
   <string name="undo">Zpět</string>
   <string name="unit_mm">mm</string>
   <string name="video_camera_label">Videokamera</string>
-  <string name="video_err">Videosoubor nelze přehrát</string>
+  <string name="video_err">"Videosoubor nelze přehrát"</string>
   <string name="video_file_name_format">"'VID'_yyyyMMdd_HHmmss"</string>
   <string name="video_reach_size_limit">Byla dosažena maximální velikost souboru.</string>
   <string name="video_snapshot_hint">Klepnutím na displej během nahrávání videa vytvoříte fotografii.</string>
@@ -423,4 +435,13 @@
   <string name="weixin_details">"Weixin: "</string>
   <string name="white_balance">Vyvážení bílé</string>
   <string name="width">Šířka</string>
+  <string name="wifi_connect_fail">Připojení k Wi-Fi selhalo</string>
+  <string name="wifi_connect_success">Připojení k Wi-Fi úspěšné</string>
+  <string name="wifi_connecting">Připojování k Wi-Fi...</string>
+  <string name="wifi_details">Detaily o Wi-Fi:</string>
+  <string name="wifi_open_fail">Nelze otevřít Wi-Fi</string>
+  <string name="wifi_pwd">Heslo:</string>
+  <string name="wifi_security">Zabezpečení:</string>
+  <string name="wifi_ssid">SSID:</string>
+  <string name="wifi_warning">Před připojením se ujistěte, že tato Wi-Fi síť je bezpečná</string>
 </resources>

@@ -5,6 +5,7 @@ Váš účet bude dočasně zablokovaný,
 čekejte prosím..."</string>
     <string name="add_task">Přidat úlohu</string>
     <string name="adding_upload_tasks">Přidávání souborů pro upload.</string>
+    <string name="already_signin_description">Přihlásit se můžete pouze jednou za den, zkuste to opět zítra.</string>
     <string name="app_cache_cleanup_indication">%s cache</string>
     <string name="app_cache_title">Cache aplikací</string>
     <string name="app_garbage_cleanup_indication">%s nepotřebné soubory aplikací</string>
@@ -42,10 +43,10 @@ Váš účet bude dočasně zablokovaný,
     <string name="clean_message">Odstraňování %1$s</string>
     <string name="clean_title">Odstranit z koše soubory starší jak 30 dní</string>
     <string name="clean_trash_box">Vyprázdnit koš</string>
-    <string name="cleaning">Čištění...</string>
     <string name="cleaned">Čištění dokončeno</string>
-    <string name="cleanup_stopped">Čištění zastaveno</string>
+    <string name="cleaning">Čištění...</string>
     <string name="cleanup_complete">Ukončit</string>
+    <string name="cleanup_stopped">Čištění zastaveno</string>
     <string name="close">Zavřít</string>
     <string name="compress_fail">Vytváření .zip souboru selhalo, již existuje!</string>
     <string name="compress_message">Zabalit do:</string>
@@ -218,13 +219,15 @@ Server je momentálně nedostupný, zkuste to znovu později
     <string name="operation_unfavorite">Odebrat z oblíbených</string>
     <string name="pan_settting">MiDrive nastavení</string>
     <string name="paused">Pozastaveno</string>
+    <string name="pull_to_signin">Potáhněte dolů pro přihlášení a získání dalšího volného místa.</string>
     <string name="query_bind_state">Načítání stavu připojení, čekejte prosím...</string>
+    <string name="release_to_signin">Uvolněte pro přihlášení se.</string>
     <string name="rename_description">Přejmenovávání...</string>
     <string name="rename_failed">Přejmenování %1$s selhalo</string>
     <string name="restart_cleaning">Restart</string>
+    <string name="scanned">Kontrola dokončena</string>
     <string name="scanning" formatted="false">Kontrola %d aplikace... (celkem %d)</string>
     <string name="scanning_on_going">Prohledávání...</string>
-    <string name="scanned">Kontrola dokončena</string>
     <string name="sd_card_available">Volno: %1$s</string>
     <string name="sd_card_size">SD karta:%1$s</string>
     <string name="sd_full">SD karta je plná</string>
@@ -238,6 +241,10 @@ Server je momentálně nedostupný, zkuste to znovu později
     <string name="server_control_settings">Nastavení</string>
     <string name="share_link_failed">Vytváření odkazu pro sdílení selhalo, zkuste to znovu!</string>
     <string name="show_message">Soubor nelze otevřít před stažením</string>
+    <string name="sign_description">Přihlašování...</string>
+    <string name="signin_error">Žádné připojení k síti, zkuste to později.</string>
+    <string name="signin_success">"Přihlášení úspěšné!
+Získejte volné místo %1$s"</string>
     <string name="space_info">Kapacita: %1$s, K dispozici, Celkem: %2$s</string>
     <string name="space_usage">Využito</string>
     <string name="start_cleanup">Vyčistit nepotřebné soubory</string>
@@ -267,12 +274,13 @@ Server je momentálně nedostupný, zkuste to znovu později
     <string name="trash_box_link">Přejít na i.xiaomi.com a vyprázdnit koš</string>
     <string name="trash_box_message1">Můžete odstranit zbytečné soubory 
 a uvolnit tak místo</string>
-    <string name="trash_box_message2">Můžete odstranit zbytečné soubory 
-a vyprázdnit koš k uvolnění místa</string>
+    <string name="trash_box_message2">Můžete odstranit zbytečné soubory a vyprázdnit koš
+k uvolnění místa</string>
     <string name="ui_bar_txt_download_progress">Zbývá stáhnout souborů: %1$d</string>
-    <string name="ui_bar_txt_upload_progress">Zbývá nahrát soubor: %1$d</string>
+    <string name="ui_bar_txt_upload_progress">Zbývá nahrát souborů: %1$d</string>
     <string name="ui_filechange_btn_download">Stáhnout soubory</string>
     <string name="ui_filechange_btn_upload">Odeslat soubory</string>
+<string name="ui_main_menu_option_sign_in">Přihlásit se</string>
     <string name="ui_main_menu_option_task_manage">Zpráva odesílání</string>
     <string name="ui_main_progress_txt_open_file">Stahování...</string>
     <string name="ui_main_toast_favorite_removed">Odstraněné(ý) oblíbené(ý)</string>
