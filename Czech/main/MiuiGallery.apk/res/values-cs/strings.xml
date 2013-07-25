@@ -42,7 +42,7 @@
   <string name="by_sms">SMS</string>
   <string name="camera_connected">Fotoaparát připojený.</string>
   <string name="camera_disconnected">Fotoaparát odpojený.</string>
-  <string name="camera_folder_display_name">Snímky z fotoaparátu</string>
+  <string name="camera_folder_display_name">Fotografie</string>
   <string name="camera_setas_wallpaper">Tapeta</string>
   <string name="camera_view_none_message">Zde budou zobrazeny Vaše fotografie.</string>
   <string name="can_modified">Povolit příjemcům přidávat fotografie</string>
