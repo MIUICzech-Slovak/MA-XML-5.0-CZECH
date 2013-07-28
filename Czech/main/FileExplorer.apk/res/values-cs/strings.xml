@@ -290,7 +290,7 @@ k uvolnění místa</string>
     <string name="upload_failed">Nahrávání selhalo!</string>
     <string name="upload_file_toolarge_message">"%1$d souborů větších jako 300M nemůže být odesláno. Prosím zkontrolujte Správce přenosu pro více informací."</string>
     <string name="uploading">Odesílám...</string>
-    <string name="used">Použito</string>
+    <string name="used">"Použito "</string>
     <string name="user_guide">Uživatelský manuál</string>
     <string name="user_guide_download_other_version">"Můžete si stáhnout MiDrive i do Vašeho PC"</string>
     <string name="user_guide_kuaipan_copy">"Kopírujte svoje soubory na MiDrive"</string>
