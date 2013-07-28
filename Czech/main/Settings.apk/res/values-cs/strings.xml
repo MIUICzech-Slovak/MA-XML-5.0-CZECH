@@ -14,7 +14,7 @@
     <string name="access_control_need_password">"%s je zabezpečen(a,o)
     "</string>    
     <string name="access_control_need_to_unlock">Pro odemčení požadováno heslo</string>
-    <string name="access_control_no_back_footer">Stiskněte [ikonu] pro ukončení</string>
+    <string name="access_control_no_back_footer">Stiskněte [icon] pro ukončení</string>
     <string name="access_control_password_title">Povolit heslo</string>	
     <string name="access_control_recording_intro_header">Nakreslete odemykací kombinaci</string>
     <string name="access_control_reset_by_account">Pro odblokování se přihlaste na Váš Xiaomi účet</string>
@@ -864,7 +864,7 @@ Toto nastavení ovlivní všechny uživatele tohoto telefonu."</string>
     <string name="font_size_medium">Střední</string>
     <string name="font_size_normal">Normální</string>
     <string name="font_size_preview">MIUI</string>
-    <string name="font_size_preview_text">Toto je ukázkový text pro MIUIAndroid.com ROM.</string>  
+    <string name="font_size_preview_text">Toto je ukázkový text pro MIUI CZ SK ROM.</string>  
     <string name="font_size_save">OK</string>
     <string name="font_size_small">Malé</string>
     <string name="font_size_summary">Nastavte velikost písma prostředí MIUI jako např. Telefon, SMS, Kontakty, Launcher a přizpůsobte si jej tak, jak to vyhovuje Vašemu zraku.</string>
@@ -2367,11 +2367,9 @@ Každý uživatel může přijmout aktualizovaná oprávnění aplikací jménem
     <string name="wifi_security_WAPI_PSK">WAPI PSK</string>
     <string name="wifi_security_eap">802.1x EAP</string>
     <string name="wifi_security_none">Žádné</string>
-    <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
     <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
     <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
     <string name="wifi_security_short_eap">802.1x</string>
-    <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
     <string name="wifi_security_short_wep">WEP</string>
     <string name="wifi_security_short_wpa">WPA</string>
     <string name="wifi_security_short_wpa2">WPA2</string>
