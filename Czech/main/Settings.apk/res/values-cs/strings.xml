@@ -184,7 +184,7 @@ Poznámka: Zvětšení trojitým klepnutím funguje ve všech částech obrazovk
     <string name="auto_punctuate_summary">Znak „.“ lze vložit dvojím stisknutím klávesy Mezerník.</string>
     <string name="auto_replace">Automatické nahrazování</string>
     <string name="auto_replace_summary">Opravovat pravopisné chyby</string>
-    <string name="auto_restore_summary">Při přeinstalaci aplikace obnovit zálohovaná nastavení a další data</string>
+    <string name="auto_restore_summary">Při opětovné instalaci aplikace obnovit zálohovaná nastavení a další data</string>
     <string name="auto_restore_title">Automatické obnovení</string>
     <string name="auto_startup_application_manage">Při startu</string>
     <string name="auto_startup_count">%d aplikací se spustí při startu</string>
@@ -389,7 +389,7 @@ Poznámka: Zvětšení trojitým klepnutím funguje ve všech částech obrazovk
     <string name="bluetooth_no_devices_found">V okolí nejsou žádná zařízení Bluetooth.</string>
     <string name="bluetooth_not_discoverable">Přepne zařízení do viditelného režimu</string>
     <string name="bluetooth_not_visible_to_other_devices">Neviditelné pro ostatní zařízení Bluetooth</string>
-    <string name="bluetooth_notif_message">Klepnutím spárujete se zařízením %1$s</string>
+    <string name="bluetooth_notif_message">Dotykem spárujete se zařízením %1$s</string>
     <string name="bluetooth_notif_ticker">Požadavek na párování zařízení Bluetooth</string>
     <string name="bluetooth_notif_title">Požadavek na párování</string>
     <string name="bluetooth_on_time">Doba provozu sítě Wi-Fi</string>
@@ -535,8 +535,8 @@ Poznámka: Zvětšení trojitým klepnutím funguje ve všech částech obrazovk
     <string name="credentials_enabled">Úložiště pověření je aktivováno.</string>
     <string name="credentials_erased">Úložiště pověření je vymazáno.</string>
     <string name="credentials_install">Instalovat z úložiště</string>
-    <string name="credentials_install_gesture_explanation">Musíte nakreslit svůj odemykací vzor pro potvrzení instalace.</string>
-    <string name="credentials_install_gesture_prompt">Nakreslit odemykací vzor</string>
+    <string name="credentials_install_gesture_explanation">Musíte nakreslit svůj vzor odemknutí pro potvrzení instalace.</string>
+    <string name="credentials_install_gesture_prompt">Nakreslit vzor odemknutí</string>
     <string name="credentials_install_summary">Nainstalovat certifikáty z úložiště</string>
     <string name="credentials_not_erased">Úložiště pověření nelze smazat.</string>
     <string name="credentials_old_password">Aktuální heslo:</string>
@@ -1141,6 +1141,7 @@ Toto nastavení ovlivní všechny uživatele tohoto telefonu."</string>
     <string name="master_clear_summary">Vymaže všechna data v telefonu</string>
     <string name="master_clear_title">Obnovení továrních dat</string>
     <string name="media_button">Tlačítko Media</string>
+    <string name="media_feedback_enable_title">Vibrovat v rytmu hudby</string>
     <string name="media_format_button_text">Vymazat SD kartu</string>
     <string name="media_format_desc">Vymazat SD kartu? Ztratíte všechna data na ní uložená.</string>
     <string name="media_format_final_button_text">Odstranit vše</string>
@@ -1592,8 +1593,8 @@ zkuste následující:"
     <string name="ringtone_summary"/>
     <string name="ringtone_title">Vyzváněcí tón telefonu</string>
     <string name="roaming">Dat. služby při roamingu</string>
-    <string name="roaming_disable">Datové služby se mohou připojovat při roamingu</string>
-    <string name="roaming_enable">Datové služby se mohou připojovat při roamingu</string>
+    <string name="roaming_disable">Datové služby se mohou připojit při roamingu</string>
+    <string name="roaming_enable">Datové služby se mohou připojit při roamingu</string>
     <string name="roaming_reenable_message">Připojení datových služeb bylo přerušeno, protože jste opustili domovskou síť a datové služby při roamingu máte vypnuty.</string>
     <string name="roaming_reenable_title">Upozornění</string>
     <string name="roaming_turn_it_on_button">Zapnout</string>
@@ -2426,7 +2427,7 @@ Každý uživatel může přijmout aktualizovaná oprávnění aplikací jménem
 Nastavení telefonu může vyžadovat přenos nemalého množství dat."</string>
     <string name="wifi_speed">Rychlost připojení</string>
     <string name="wifi_ssid">SSID</string>
-    <string name="wifi_starting">Zapnout Wi-Fi?</string>
+    <string name="wifi_starting">Zapínání Wi-Fi...</string>
     <string name="wifi_state_disabled">Vypnuto</string>
     <string name="wifi_state_disabling">Vypínání</string>
     <string name="wifi_state_enabled">Zapnuto</string>
