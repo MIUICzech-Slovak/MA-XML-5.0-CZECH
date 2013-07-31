@@ -22,7 +22,8 @@
     <string name="component_include_title">Obsahuje %1$s komponentů</string>
     <string name="component_lockstyle_personal_title">Nastavení</string>	
     <string name="component_select_title">Vybráno (%1$s)</string>	
-    <string name="component_settings_title">Přizpůsobit téma</string>	
+    <string name="component_settings_title">Přizpůsobit téma</string>
+    <string name="deleting">Odstraňování...</string>	
     <string name="description_author">Autor:</string>
     <string name="description_designer">Designér:</string>
     <string name="description_download">Stáhnutí:</string>
@@ -48,7 +49,6 @@
     <string name="mi_wallpaper_title">Mi-tapeta</string>
     <string name="online_no_network">Síť je nedostupná</string>
     <string name="online_search_hint">Vyhledat online informace</string>
-    <string name="processing">Zpracovávání…</string>
     <string name="resource_alarm_default">Budík</string>
     <string name="resource_app_name">Prohlížeč zdrojů</string>
     <string name="resource_apply">Použít</string>
@@ -79,6 +79,8 @@
     <string name="resource_default_name">Zdroj</string>
     <string name="resource_delete_all">Opravdu chcete vymazat %1$d témat?</string>
     <string name="resource_delete_confirm">Opravdu chcete vymazat toto téma?</string>
+    <string name="resource_delta_update_failed">Aktualizování rozdílů selhalo, stáhne se celý balík</string>  
+    <string name="resource_delta_update_successful">Aktualizování rozdílů dokončeno，ušetřilo se %1$s.</string> 
     <string name="resource_detail">Podrobnosti</string>
     <string name="resource_download">Stáhnout</string>
     <string name="resource_downloaded_title">Stáhnout zdroje</string>
@@ -88,6 +90,7 @@
     <string name="resource_get_auth_exceed_max_limit_title">Autorizace přesáhla limit</string>
     <string name="resource_get_auth_missing">Toto téma není stažené z oficiálního obchodu.</string>
     <string name="resource_get_auth_retrieving">Získávání autorizace...</string>
+    <string name="resource_import_successful">Stahování dokončeno</string>
     <string name="resource_importing">Importování</string>
     <string name="resource_list_title">Poslední zvolené</string>
     <string name="resource_local">Lokální %1$s</string>

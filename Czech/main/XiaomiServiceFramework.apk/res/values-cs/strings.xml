@@ -80,6 +80,8 @@ Postupujte dle instrukcí pro dokončení objednávky."</string>
     <string name="check_phone_io_error">Chyba sítě</string>
     <string name="checking_account">Ověřování účtu...</string>
     <string name="cloud_messaging">MiCloud zprávy</string>
+    <string name="cmcc_data_sync_notice">Použijte svůj Xiaomi účet pro synchronizaci zpráv, Kontaktů a ostatních dat.</string>  
+    <string name="cmcc_micloud_dspt">Služby Cloudu obsahují synchronizaci, vyhledání polohy zařízení a mnoho dalších funkcí. Také můžete svá data spravovat kdekoli online!</string> 
     <string name="completed">Dokončit</string>
     <string name="confirm">Potvrdit</string>
     <string name="current_account">Současný účet</string>
@@ -339,6 +341,7 @@ Zadejte Vaše heslo"</string>
     <string name="sync_on">Zap</string>
     <string name="sync_sub_dspt">Odešle se SMS pro aktivaci služby</string>
     <string name="sync_sub_int_dspt">Bude odeslána mezinárodní SMS pro aktivaci služby</string>
+    <string name="title">Název</string>
     <string name="title_mili_center">Mi kredity</string>
     <string name="title_pay">Zaplatit Mi kredity</string>
     <string name="title_pay_record">%1$s historie plateb</string>
@@ -357,6 +360,7 @@ s "</string>
     <string name="user_agreement_p4">Podmínkami soukromí</string>
     <string name="user_agreement_p5">"Přihlášením souhlasíte
 s "</string>
+    <string name="value">Hodnota</string>
     <string name="voucher_edit_hint">Heslo:</string>
     <string name="voucher_edit_limit"/>
     <string name="voucher_error_code">Nastala chyba při kontrole čísla kupónu</string>

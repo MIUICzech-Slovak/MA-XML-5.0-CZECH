@@ -428,7 +428,7 @@ Kopie: %4$s
     <string name="notify_uploads">Okamžité odesílání</string>
     <string name="ok">OK</string>
     <string name="okay_action">OK</string>
-    <string name="password_expire_warning_content_title">Heslo zámku obrazovky brzy vyprší</string>
+    <string name="password_expire_warning_content_title">Heslo na uzamknutí brzy vyprší</string>
     <string name="password_expire_warning_dialog_content_fmt">Brzy bude třeba změnit kód PIN nebo heslo pro uzamčení obrazovky. Pokud tak neučiníte, budou data účtu %s vymazána. Chcete nyní změnit kód PIN nebo heslo?</string>
     <string name="password_expire_warning_dialog_title">Heslo zámku obrazovky brzy vyprší</string>
     <string name="password_expire_warning_ticker_fmt">Účet \"%s\" vyžaduje změnu kódu PIN nebo hesla pro uzamčení obrazovky.</string>

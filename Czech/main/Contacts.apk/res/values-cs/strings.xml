@@ -26,7 +26,7 @@
     <string name="add_xiaomi_account_dialog_btn">Použít účet Xiaomi</string>
     <string name="add_xiaomi_account_dialog_msg">Pro co největší pohodlí zvažte používání účtu Xiaomi na synchronizaci a zálohu Vašich kontaktů.</string>
     <string name="add_xiaomi_account_dialog_title">Zvolit účet synchr.</string>
-    <string name="aggregation_suggestion_edit_dialog_message">Přepnout do editace zvoleného kontaktu? Dosud zadané informace budou zkopírovány.</string>
+    <string name="aggregation_suggestion_edit_dialog_message">Přepnout do úpravy zvoleného kontaktu? Dosud zadané informace budou zkopírovány.</string>
     <string name="aggregation_suggestion_edit_dialog_title">Upravit vybrané kontakty</string>
     <string name="aggregation_suggestion_join_dialog_message">Sloučit aktuální kontakt s vybraným kontaktem?</string>
     <string name="all_list_empty">Žádné kontakty</string>
@@ -208,6 +208,8 @@
     <string name="delete_group_dialog_message">"Opravdu chcete vymazat skupinu \"%1$s\"? (Kontakty ve skupině nebudou smazány.)"</string>
     <string name="delete_group_dialog_title">Vymazat skupinu</string>
     <string name="delete_unknown_contact_calllog_title">Potvrdit smazání volání na neznámá čísla?</string>
+    <string name="deleting">Odstraňování...</string>  
+    <string name="deleting_sim_entry_miui">Mazání kontaktů na SIM kartě...</string> 
     <string name="description_add_contact">Přidat kontakt</string>
 	  <string name="description_author">Autor:</string>
 	  <string name="description_call">Volat %1$s</string>
@@ -308,6 +310,8 @@
     <string name="display_sim_contacts">Zobrazit kontakty ze SIM karty</string>
     <string name="display_ungrouped">Všechny další kontakty</string>
     <string name="display_warn_remove_ungrouped">"Odstranění \"%s\" ze synchronizace zároveň odstraní všechny neseskupené kontakty."</string>
+    <string name="dlg_add_blacklist">Opravdu chcete přidat toto číslo do černé listiny?</string>  
+    <string name="dlg_remove_blacklist">Opravdu chcete odstranit toto číslo z černé listiny?</string> 
     <string name="download_failed">Stahování selhalo</string>
     <string name="download_preview_failed">Načítání náhledu selhalo</string>
     <string name="duplicate_group_name">Tato skupina již existuje</string>
@@ -736,7 +740,6 @@ Synchronizujte je nyní."</string>
     <string name="preview_contact_card_title">Importovat vizitku</string>
     <string name="previous">předchozí</string>
     <string name="private_num">Soukromé číslo</string>
-    <string name="processing">Zpracovávání...</string>
 	  <string name="profile_display_name">Nastavit můj profil</string>
     <string name="profile_name">Můj profil</string>
     <string name="progress_notifier_message" formatted="false">Importuji %s/%s: %s</string>
@@ -767,6 +770,7 @@ Synchronizujte je nyní."</string>
     <string name="remind_btn_ignore">Ignorovat</string>
     <string name="remind_btn_sync_now">Synchronizovat nyní</string>
     <string name="removePhoto">Odstranit fotku</string>
+    <string name="remove_blacklist">Odstranit z černé listiny</string>
     <string name="remove_duplicate">"MIUI Vám pomůže najít a sloučit duplicitní kontakty. Kontakty se nesloučí automaticky."</string>
     <string name="resource_alarm_default">Budík</string>
     <string name="resource_app_name">Prohlížeč zdrojů</string>
@@ -777,6 +781,8 @@ Synchronizujte je nyní."</string>
     <string name="resource_default_name">Zdroj</string>
     <string name="resource_delete_all">Opravdu chcete vymazat %1$d zdrojů?</string>
     <string name="resource_delete_confirm">Opravdu chcete vymazat zdroje?</string>
+    <string name="resource_delta_update_failed">Aktualizování rozdílů selhalo, stáhne se celý balík</string>  
+    <string name="resource_delta_update_successful">Aktualizování rozdílů dokončeno，ušetřilo se %1$s.</string> 
     <string name="resource_detail">Podrobnosti</string>
     <string name="resource_download">Stáhnout</string>
     <string name="resource_downloaded_title">Stáhnout zdroje</string>
@@ -786,6 +792,7 @@ Synchronizujte je nyní."</string>
     <string name="resource_get_auth_exceed_max_limit_title">Autorizace přesáhla limit</string>
     <string name="resource_get_auth_missing">Toto téma není stáhnuté z oficiálního obchodu.</string>
     <string name="resource_get_auth_retrieving">Získávání autorizace...</string>
+    <string name="resource_import_successful">Stahování dokončeno.</string>
     <string name="resource_importing">Importování</string>
     <string name="resource_list_title">Poslední zvolené</string>
     <string name="resource_local">Lokální</string>

@@ -386,6 +386,8 @@
     <string name="empty_alert">%s musí být vyplněno</string>
     <string name="empty_networks_list">Žádná síť nebyla nalezena.</string>
     <string name="enable">Povolit</string>
+    <string name="enable_antispam_strange_summary">Ztišit první hovor z neznámého čísla</string>  
+    <string name="enable_antispam_strange_title">Antispam hovorů</string> 
     <string name="enable_disable_administrative">Administrativní</string>
     <string name="enable_disable_advertisements">Reklamy</string>
     <string name="enable_disable_atr">Zprávy z dopravy</string>
@@ -717,6 +719,7 @@
     <string name="phone_entered_ecm_text">Byl aktivován režim tísňového zpětného volání</string>
     <string name="phone_in_ecm_call_notification_text">Datové spojení zakázáno</string>
     <string name="phone_in_ecm_notification_title">Režim tísňového zpětného volání</string>
+    <string name="phone_info_divider">" ｜ "</string>
     <string name="phone_numbers">Vložte čísla telefonu</string>
     <string name="pick_outgoing_call_phone_type">Uskutečnit hovor</string>
     <string name="pick_outgoing_sip_phone">Účet Internetové telefonie:</string>
@@ -774,6 +777,7 @@
     <string name="preferred_network_type_pref_entries_global_miui">Globální</string>
     <string name="preferred_network_type_pref_entries_only_2g_miui">Jen 2G (šetří baterii)</string>
     <string name="preferred_network_type_pref_entries_only_3g_miui">Jen 3G</string>
+    <string name="preferred_network_type_tds_cdma_miui">GSM/TD-SCDMA</string>
     <string name="preferred_network_type_title_miui">Volba typu sítě</string>
     <string name="primary_account_summary_with">Primární účet. %s</string>
     <string name="private_num">Soukromé číslo</string>

@@ -29,7 +29,7 @@
     <string name="failed_to_drop_widget_invalid">Neplatný Widget</string>
     <string name="failed_to_drop_widget_nospace">Přesun se nepodařil, není dostatek místa!</string>
     <string name="folder_name">Složka</string>
-    <string name="frame_load_failed">Načítání Fotorámečku selhalo!</string>
+    <string name="frame_load_failed">Načítání foto rámečku selhalo!</string>
     <string name="free_style_apps_title">Vyberte aplikaci</string>
     <string name="free_style_drawer_title">Všechny aplikace</string>
     <string name="free_style_edit_app">Aplikace</string>
@@ -122,7 +122,7 @@
     <string name="screen_button_disabled_message">Tlačítka pod displejem jsou deaktivované. Můžete je aktivovat stiskem \"Domů\" a \"Zapnutí\"</string>
     <string name="screen_button_enabled_message">Tlačítka pod displejem jsou aktivované</string>
     <string name="screen_rotation_freeze_message">Rotace obrazovky je uzamknuta v horizontální poloze</string>
-    <string name="select_frame">Rám</string>
+    <string name="select_frame">Rámeček</string>
     <string name="select_photo">Fotka</string>
     <string name="sharedUserId" />
     <string name="sort_by_abc">Řadit podle názvu</string>

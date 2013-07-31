@@ -140,7 +140,7 @@ Nepotřebné soubory"</string>
     <string name="kuaipan_prompt_message">"
 Server je momentálně nedostupný, zkuste to znovu později
 "</string>
-    <string name="kuaipan_tech_support">Technická podpora ze strany Kingsoft Kuaipan</string>
+    <string name="kuaipan_tech_support">Poskytuje Kingsoft Kuaipan</string>
     <string name="load_err">Načítání selhalo</string>
     <string name="loading">Načítám...</string>
     <string name="local_cache_size">Velikost místní cache: %s</string>

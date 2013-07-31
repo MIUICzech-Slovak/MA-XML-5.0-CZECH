@@ -73,10 +73,6 @@
   <string name="confirm_delete">Opravdu chcete položky(%s) vymazat?</string>
   <string formatted="false" name="confirm_delete_album">Opravdu chcete vymazat alba(%s) včetně obsažených položek(%s)?</string>
   <string name="confirm_delete_cloud_all_item_page" formatted="false">Obrázky: %s, Alba: %s. Opravdu chcete vymazat?</string>
-  <string name="confirm_delete_folders_and_pictures">Opravdu chcete vymazat %s?</string>
-  <string formatted="false" name="confirm_delete_folders_including">složky(%s) %s</string>
-  <string name="confirm_delete_including_null">a obsažené položky(0)</string>
-  <string name="confirm_delete_items">položky(%s)</string>
   <string name="confirm_delete_pictures">obrázky(%s)</string>
   <string name="confirm_delete_system_album">%s je systémové album, opravdu vymazat?</string>
   <string name="confirm_delete_videos">videa(%s)</string>
@@ -99,11 +95,15 @@
   <string name="defalt_local_mobile">Mobile</string>
   <string name="delete"> Vymazat</string>
   <string name="delete_fail_too_many_items">Nepodařilo se vymazat, je vybráno příliš mnoho položek</string>
+  <string name="delete_file">Opravdu chcete vymazat tyto soubory (%1$d)?</string>  
+  <string name="delete_files_and_folders">Opravdu chcete vymazat tyto soubory (%1$d) a složky (%2$d)?</string>  
+  <string name="delete_folder">Opravdu chcete vymazat tyto složky (%1$d)?</string> 
   <string name="deleting_files">Odstraňuji soubory...</string>
   <string name="demo_video_folder_display_name">Demo Video</string>
   <string name="description">Popis</string>
   <string name="details">Detaily</string>
   <string name="details_title">%1$d z %2$d:</string>
+  <string name="directory_info_divider">"  |  "</string>
   <string name="documentary">Dokument</string>
   <string name="done">Hotovo</string>
   <string name="doodle">Čmáranice</string>
@@ -170,6 +170,7 @@
   <string name="import_fail">Import neúspěšný</string>
   <string name="initial_cloud_button_text">Začněte používat Cloud album</string>
   <string name="initial_cloud_text">Kdykoli a kdekoli můžete mít Vaše fotografie vždy při sobě</string>
+  <string name="initializing_cloud">Vytváření Cloud Alba...</string>
   <string name="input_cloudfolder_name">Jméno složky v Cloudu</string>
   <string name="internal_camera_folder_display_name">Snímky interního fotoaparátu</string>
   <string name="internal_miui_capture_screen_folder_display_name">Interní screenshoty</string>
@@ -231,6 +232,8 @@
   <string name="open">Otevřít</string>
   <string name="open_single_image_failure">Obrázek se nepodařilo otevřít!</string>
   <string name="open_sync_title">Vyžaduje se Synchronizace</string>
+  <string name="operation_delete_confirm_message_folder">"Složky a soubory v nich budou vymazány.  
+"</string>
   <string name="operation_refresh">Obnovit</string>
   <string name="operation_rename">Přejmenovat</string>
   <string name="orientation">Orientace</string>
