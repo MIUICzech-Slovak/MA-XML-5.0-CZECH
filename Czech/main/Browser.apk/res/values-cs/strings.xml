@@ -351,7 +351,7 @@
     <string name="pref_development_uastring">UAString</string>
     <string name="pref_development_viewport">Použít široký výřez</string>
     <string name="pref_development_visual_indicator">Povolit vizuální indikátor</string>
-    <string name="pref_exit_on_closing_last_tab_enabled_title">Ukončit s poslední kartou</string>
+    <string name="pref_exit_on_closing_last_tab_enabled_title">Ukončit zavřením poslední karty</string>
     <string name="pref_extras_reset_default">Nastavit výchozí hodnoty</string>
     <string name="pref_extras_reset_default_dlg">Opravdu chcete obnovit výchozí nastavení?</string>
     <string name="pref_extras_reset_default_summary">Obnovit výchozí nastavení</string>
@@ -444,7 +444,7 @@
     <string name="pref_use_instant_search">Google Instant</string>
     <string name="pref_use_instant_search_summary">Použít Google Instant, když používáte Hledání Google, abyste viděl výsledky vyhledávání (může zvýšit datové přenosy).</string>
     <string name="pref_video_preload_dialogtitle">Načítání videa</string>
-    <string name="pref_video_preload_summary">. Povolit prohlížeči načítat video ještě před přehráváním, když to server podporuje</string>
+    <string name="pref_video_preload_summary">". Povolit prohlížeči načítat video ještě před přehráváním, když to server podporuje"</string>
     <string name="pref_video_preload_title">Načítání videa</string>
     <string name="pref_video_preload_value_never_summary">Zakázat prohlížeči načítat video ještě před přehráváním</string>
     <string name="pref_volume_key_enabled">Tlačítka hlasitosti</string>
@@ -460,9 +460,10 @@
     <string name="readmode_page_loading">Načítání...</string>    
     <string name="readmode_pay">Předplatit</string>    
     <string name="readmode_pay_message">subsequent chapters require a subscription fee before view</string> 
-    <string name="readmode_reach_last_page">Bylo dosaženo poslední stránky</string>
+    <string name="readmode_reach_last_page">Konec stránky</string>
     <string name="readmode_recommend">Doporučené</string>    
     <string name="readmode_recommend_message">"You've read all the sections of the book, change another now"</string> 
+    <string name="readmode_refresh">Obnovit</string>
     <string name="readmodelist_bookmarks_to_show">Seznam zajímavých</string>
     <string name="recover">Obnovit</string>
     <string name="recover_from_crash">Pokračovat v poslední relaci prohlížeče</string>

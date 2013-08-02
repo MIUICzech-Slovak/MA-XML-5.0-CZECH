@@ -833,7 +833,7 @@ Toto nastavení ovlivní všechny uživatele tohoto telefonu."</string>
     <string name="erase_external_storage">Smazat externí SD</string>
     <string name="erase_external_storage_description">Smazat všechna data v interním úložišti USB, například hudbu a fotografie.</string>
     <string name="erase_internal_storage">Vymazat interní úložiště</string>
-    <string name="erase_internal_storage_description">Vymazání interního úložiště vymaže všechny soubory, jako např. fotky a hudbu.</string>
+    <string name="erase_internal_storage_description">Formát interního úložiště vymaže všechny soubory, jako např. fotky a hudbu.</string>
     <string name="erase_optional">Volitelné vymazání</string>
     <string name="erase_personal_data">Osobní data</string>
     <string name="erase_personal_data_description">Včetně účtů, kontaktů, seznamu hovorů a ostatních dat.</string>

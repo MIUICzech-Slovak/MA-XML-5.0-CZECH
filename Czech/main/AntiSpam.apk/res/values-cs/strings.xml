@@ -39,8 +39,8 @@
     <string name="menu_add_into_contact">Přidat do současného kontaktu</string>
     <string name="menu_add_new_contact">Nový kontakt</string>
     <string name="menu_add_vip_custom">Přidat VIP</string>
-    <string name="menu_bl_add_contact">Nedávné kontakty</string>
-    <string name="menu_bl_add_manual">Přidat ručně</string>
+    <string name="menu_bl_add_contact">Nedávné</string>
+    <string name="menu_bl_add_manual">Přidat</string>
     <string name="menu_bl_call_log">Zkontrolovat blokované hovory</string>
     <string name="menu_bl_clear">Vymazat černou listinu</string>
     <string name="menu_bl_remove">Odebrat z černé listiny</string>
@@ -57,7 +57,7 @@
     <string name="menu_restore">Obnovit do SMS</string>
     <string name="menu_sms">Odeslat SMS</string>
     <string name="qm_auto_button_title">Naplánovat</string>
-    <string name="qm_auto_setting_group">Automaticky aktivovat</string>
+    <string name="qm_auto_setting_group">Automatická aktivace</string>
     <string name="qm_auto_time_setting">Čas aktivace</string>
     <string name="qm_auto_time_setting_summary">Od: %1$s, Do: %2$s</string>
     <string name="qm_auto_time_turn_off">Deaktivovat</string>
@@ -70,7 +70,7 @@
     <string name="qm_repeated_call_summary_3min">Druhý hovor ze stejného čísla během 3 minut nebude ztišený</string>
     <string name="qm_repeated_call_summary_none">Blokovat i opakující se hovory</string>
     <string name="qm_special_call_setting_group">Výjimky</string>
-    <string name="qm_summary">Po aktivaci Tichého režimu, příchozí hovory a SMS budou ztišené a displej se nerozsvítí</string>
+    <string name="qm_summary">Po aktivaci Tichého režimu budou příchozí hovory a SMS ztišené a displej se nerozsvítí</string>
     <string name="qm_vip_call_button_title">Povolit hovory z VIP</string>
     <string name="qm_vip_call_setting_title">Nastavení VIP hovorů</string>
     <string name="qm_vip_call_summary_contact">všechny kontakty</string>
