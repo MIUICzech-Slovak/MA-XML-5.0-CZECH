@@ -1422,7 +1422,7 @@ zkuste následující:"
     <string name="permission_detail_info_summary">Všechny práva: Bezp. %1$d Soukromé %2$d Ostatní %3$d</string>
     <string name="permission_manage">Správa práv</string>
     <string name="permission_manage_summary">Automatický start, soukromí, bezpečnost.</string>
-    <string name="permission_manage_title">%s podrobností práv</string>
+    <string name="permission_manage_title">%s podrobnosti práv</string>
     <string name="permissions_label">Oprávnění</string>
     <string name="personal_data_section_title">Osobní údaje</string>
     <string name="phone_info_label">Info o telefonu</string>
