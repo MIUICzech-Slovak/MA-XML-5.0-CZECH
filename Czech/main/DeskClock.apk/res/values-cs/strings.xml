@@ -35,7 +35,7 @@
     <string name="clock_instructions">Vyberte hodiny</string>
     <string name="close_alarm">Zavřít budík</string>
     <string name="common_settings">Častá nastavení</string>
-    <string name="confirm_abort">Ano</string>
+    <string name="confirm_abort">OK</string>
     <string name="control_set_alarm">Nastavit budík</string>
     <string name="control_set_alarm_with_existing">Nastavení budíku: %s</string>
     <string name="day">1 den</string>
