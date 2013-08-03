@@ -35,7 +35,7 @@
     <string name="clock_instructions">Vyberte hodiny</string>
     <string name="close_alarm">Zavřít budík</string>
     <string name="common_settings">Častá nastavení</string>
-    <string name="confirm_abort">Zrušit změny</string>
+    <string name="confirm_abort">Ano</string>
     <string name="control_set_alarm">Nastavit budík</string>
     <string name="control_set_alarm_with_existing">Nastavení budíku: %s</string>
     <string name="day">1 den</string>
@@ -51,7 +51,7 @@
     <string name="delete_alarm_confirm">Opravdu smazat označené?</string>
     <string name="delete_timezone_title">Vymazat časovou zónu</string>
     <string name="desk_clock_button_description">Zobrazení hodin</string>
-    <string name="dialog_confirm_abort">Opravdu chcete ztratit vaše změny?</string>
+    <string name="dialog_confirm_abort">Opravdu chcete zrušit Vaše změny?</string>
     <string name="disable_alarm">Vypnout budík</string>
     <string name="done">Hotovo</string>
     <string name="edit_alarm">Upravit budík</string>
