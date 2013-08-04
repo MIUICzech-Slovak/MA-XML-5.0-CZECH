@@ -81,10 +81,10 @@
     <string name="qm_vip_list_custom_group">Zvolené VIP</string>
     <string name="qm_vip_list_group">Seznam VIP</string>
     <string name="quiet_mode">Tichý režim</string>
-    <string name="st_bl_block_setting_title">Rozhodnout se později</string>
+    <string name="st_bl_block_setting_title">Styl blokace</string>
     <string name="st_bl_setting_group">Nastavení černé listiny</string>
     <string name="st_block_all">Blokovat hovory a SMS</string>
-    <string name="st_block_mute">Blokovat hovory a ztlumit SMS</string>
+    <string name="st_block_mute">Blokovat hovory a ztišit SMS</string>
     <string name="st_block_private_call_button">Blokovat hovory ze skrytého čísla</string>
     <string name="st_block_title">Blokovat a zobrazit v záznamu</string>
     <string name="st_call_group">Hovor</string>
@@ -94,8 +94,8 @@
     <string name="st_filter_keywords_setting_title">Nastavit filtr slov</string>
     <string name="st_filter_keywords_title">Filtrovat klíčová slova v SMS</string>
     <string name="st_filter_sms_button">Filtrovat SMS</string>
-    <string name="st_mute_all">Ztišené hovory a SMS</string>
-    <string name="st_mute_block">Ztišit hovor a Blokovat SMS</string>
+    <string name="st_mute_all">Ztišit hovory a SMS</string>
+    <string name="st_mute_block">Ztišit hovory a blokovat SMS</string>
     <string name="st_mute_title">Nezvoní a nevibruje</string>
     <string name="st_settings_name">Nastavení</string>
     <string name="st_sms_group">SMS</string>
