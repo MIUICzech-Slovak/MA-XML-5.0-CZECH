@@ -117,4 +117,14 @@
     <string name="toast_sleep_mode">Rádio se ukončí za %s</string>
     <string name="transmit_msg_string">Vysílám na:</string>
     <string name="type_rd" />
+    <string name="record_error_file_removed">Nahrávání bylo zastaveno. Nahrávka se neuložila.</string>  
+    <string name="turn_on_fm">Zapnout FM</string>  
+    <string name="turn_off_fm">Vypnout FM</string>  
+    <string name="turn_on_speaker_phone">Zapnout reproduktor</string>  
+    <string name="turn_off_speaker_phone">Vypnout reproduktor</string>  
+    <string name="view_stations_list">Zobrazit seznam stanic</string>  
+    <string name="pre_station">Předchozí</string>  
+    <string name="next_station">Následující</string>  
+    <string name="reduce_af">Snížit citlivost</string>  
+    <string name="increase_af">Zvýšit citlivost</string>
 </resources>

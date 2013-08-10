@@ -166,8 +166,15 @@
     <string name="download_sdcard_busy_dlg_title">USB úložiště je nedostupné</string>
     <string name="download_video_alert_message">Je připojen internet přes operátora, stahování videí může zvýšit Vaše poplatky. Chcete pokračovat?</string>
     <string name="download_video_alert_title">Varování při stahování</string>
+    <string name="download_video_menu_dialog_title">Instalace...</string>  
+    <string name="download_video_menu_video_version_low">Je nutné aktualizovat aplikaci Video.</string>  
+    <string name="download_video_no_title_default_name">Bez názvu</string>  
+    <string name="download_video_please_download_market">Je nutné nainstalovat MiApps.</string>  
+    <string name="download_video_please_select_video">Vybrat video</string>  
+    <string name="download_video_start_down_toast">Stáhnout %1$s filmů</string>  
+    <string name="download_video_unseleted_all">Odznačit vše</string> 
     <string name="downloaded">Staženo</string>
-    <string name="downloading">Stahování</string>	
+    <string name="downloading">Stahování...</string>	
     <string name="dump_counters">Vypsat počítadla V8</string>
     <string name="dump_display_tree">Vypsat display strom do souboru</string>
     <string name="dump_dom_tree">Vypsat DOM strom do souboru</string>
@@ -255,8 +262,9 @@
     <string name="location">Adresa</string>
     <string name="max_tabs_warning">Další karty nejsou dostupné</string>
     <string name="menu_addtodesk">Odeslat na plochu</string>
-    <string name="menu_disable_night_mode">Vypnout noční mód</string>
-    <string name="menu_enable_night_mode">Zapnout noční mód</string>
+    <string name="menu_disable_night_mode">Vypnout noční režim</string>
+    <string name="menu_download_video">Stáhnuté filmy</string>
+    <string name="menu_enable_night_mode">Zapnout noční režim</string>
     <string name="menu_exit">Ukončit</string>
     <string name="menu_hv_swap">Režim na šířku</string>    
     <string name="menu_hv_swap2">Režim na výšku</string> 
@@ -318,7 +326,7 @@
     <string name="pref_content_load_images_summary">Zobrazovat obrázky na stránkách</string>
     <string name="pref_content_load_page">Otevřít stránky v přehledu</string>
     <string name="pref_content_load_page_summary">Zobrazit přehled nově otevřených stránek</string>
-    <string name="pref_content_night_read_mode">Zapnout noční mód</string>
+    <string name="pref_content_night_read_mode">Zapnout noční režim</string>
     <string name="pref_content_open_in_background">Otevřít na pozadí</string>
     <string name="pref_content_open_in_background_summary">Otvírat nové karty na pozadí aktuální karty</string>
     <string name="pref_content_plugins">Povolit doplňky</string>
@@ -351,7 +359,7 @@
     <string name="pref_development_uastring">UAString</string>
     <string name="pref_development_viewport">Použít široký výřez</string>
     <string name="pref_development_visual_indicator">Povolit vizuální indikátor</string>
-    <string name="pref_exit_on_closing_last_tab_enabled_title">Ukončit zavřením poslední karty</string>
+    <string name="pref_exit_on_closing_last_tab_enabled_title">Ukončit s poslední kartou</string>
     <string name="pref_extras_reset_default">Nastavit výchozí hodnoty</string>
     <string name="pref_extras_reset_default_dlg">Opravdu chcete obnovit výchozí nastavení?</string>
     <string name="pref_extras_reset_default_summary">Obnovit výchozí nastavení</string>
@@ -390,7 +398,7 @@
     <string name="pref_key_gesture_title">Tlačítka a gesta</string>
     <string name="pref_key_title">Nastavení tlačítek</string>
     <string name="pref_lab_fullscreen">Celá obrazovka</string>
-    <string name="pref_lab_fullscreen_summary">Při použití celé obrazovky bude skryt stavový řádek</string>
+    <string name="pref_lab_fullscreen_summary">Režim celé obrazovky pro skrytí stavové lišty</string>
     <string name="pref_lab_quick_controls">Rychlé ovládání</string>
     <string name="pref_lab_quick_controls_summary">Přetáhněte prst z levého nebo pravého okraje obrazovky, abyste otevřeli rychlé ovládání a skryli URL a app lišty.</string>	
     <string name="pref_lab_title">Laboratoř</string>
@@ -425,7 +433,7 @@
     <string name="pref_privacy_formdata_title">Údaje z formulářů</string>
     <string name="pref_privacy_location_title">Poloha</string>
     <string name="pref_privacy_security_title">Soukromí a bezpečnost</string>
-    <string name="pref_reading_mode_enabled_title">Čtecí mód</string>
+    <string name="pref_reading_mode_enabled_title">Čtecí režim</string>
     <string name="pref_reading_mode_enabled_title_summary">JavaScript musí být zapnut</string>
     <string name="pref_security_accept_cookies">Povolit cookies</string>
     <string name="pref_security_accept_cookies_summary">Povolit serverům ukládat a číst údaje cookies</string>
@@ -475,7 +483,7 @@
     <string name="remove_snapshot">Smazat uloženou stránku</string>
     <string name="removed_from_bookmarks">Odstraněno ze záložek.</string>
     <string name="replace">Nahradit</string>
-    <string name="report_reading_mode_issue">Oznámit problémy s čtecím módem MIUI</string>
+    <string name="report_reading_mode_issue">Oznámit problémy s čtecím režimem MIUI</string>
     <string name="return_to_homepage">Vrátit se na domovskou stránku</string>	
     <string name="same_bookmarks_warning">Tato záložka již existuje</string>	
     <string name="same_folder_name_warning">Tato složka již existuje</string>	

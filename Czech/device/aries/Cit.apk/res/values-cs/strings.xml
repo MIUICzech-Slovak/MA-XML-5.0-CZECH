@@ -82,7 +82,7 @@
     <string name="cit_headset_loopback_check_title">Test Špatné odezvy ve sluchátkách</string>
     <string name="cit_headset_plug_detect_summary">Test will check headset socket, headset must be inserted before testing</string>
     <string name="cit_headset_plug_detect_title">Test Detekce sluchátek</string>
-    <string name="cit_headset_plug_finish">Sluchátka připojené</string>
+    <string name="cit_headset_plug_finish">Sluchátka připojena</string>
     <string name="cit_headset_plug_hint">Připojte sluchátka</string>
     <string name="cit_headset_pull_detect_summary">Test will check that the headset is when unplugged successfully</string>
     <string name="cit_headset_pull_detect_title">Test Odpojení sluchátek</string>

@@ -8,7 +8,6 @@
     <string name="alert_title_new_station">Nová stanice</string>
     <string name="alert_title_save_station">Uložit stanici - %s</string>
     <string name="app_name">FM Rádio</string>
-    <string name="aud_output_mode">Audio výstup</string>
     <string name="audio_db_album_name">Nahrávky z rádia</string>
     <string name="audio_db_artist_name">z rádia</string>
     <string name="audio_db_playlist_name">Nahrávky z rádia</string>
@@ -75,7 +74,6 @@
     <string name="msg_searching">Hledám dostupné stanice pro vytvoření seznamu</string>
     <string name="msg_searching_title">Hledání stanic</string>
     <string name="msg_seeking">Hledání stanicí</string>
-    <string name="msg_unable_start_fm_title">Nelze spustit rádio</string>
     <string name="msg_weak_searching">Hledám alternativní frekvence</string>
     <string name="no_storage">Připojte SD kartu před nahráváním</string>
     <string name="preparing_sd">Připravuji SD kartu</string>
@@ -90,16 +88,13 @@
     <string name="record_file_location_format">Klepni pro zobrazení souboru %s</string>
     <string name="record_sucess">Nahrávání dokončeno</string>
     <string name="regional_band">Rozsah frekvence ( změna odstraní současný seznam stanic )</string>
-    <string name="revert_to_fac">Obnovit tovární nastavení</string>
     <string name="search_dialog_title">Vyhledat stanice</string>
-    <string name="sel_audio_output">Zvolte typ výstupu</string>
     <string name="sel_band_menu">Vyberte </string>
     <string name="set">OK</string>
     <string name="set_rmmsi_delta">Nastavit RMSSI Delta</string>
     <string name="set_sigth">Nastavit Signal Th</string>
     <string name="settings_menu">Nastavení</string>
     <string name="settings_revert_confirm_msg">Tato možnost odstraní veškeré nastavení včetně uložených stanic</string>
-    <string name="settings_revert_confirm_title">Obnovení továrního nastavení</string>
     <string name="settings_revert_defaults_title">Obnovit tovární nastavení</string>
     <string name="spaceIsLow_content">Dochází volné místo telefonu. Snižte kvalitu nahrávání nebo odstraňte nepotřebné soubory</string>
     <string name="stat_notif_frequency">Frekvence: %1$s MHz</string>
@@ -122,4 +117,14 @@
     <string name="toast_sleep_mode">Rádio se ukončí za %s</string>
     <string name="transmit_msg_string">Vysílám na:</string>
     <string name="type_rd" />
+    <string name="record_error_file_removed">Nahrávání bylo zastaveno. Nahrávka se neuložila.</string>  
+    <string name="turn_on_fm">Zapnout FM</string>  
+    <string name="turn_off_fm">Vypnout FM</string>  
+    <string name="turn_on_speaker_phone">Zapnout reproduktor</string>  
+    <string name="turn_off_speaker_phone">Vypnout reproduktor</string>  
+    <string name="view_stations_list">Zobrazit seznam stanic</string>  
+    <string name="pre_station">Předchozí</string>  
+    <string name="next_station">Následující</string>  
+    <string name="reduce_af">Snížit citlivost</string>  
+    <string name="increase_af">Zvýšit citlivost</string>
 </resources>

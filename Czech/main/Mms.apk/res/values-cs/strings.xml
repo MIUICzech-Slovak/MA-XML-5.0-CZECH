@@ -239,6 +239,7 @@
     <string name="notification_multiple">%s nepřečtených zprávy.</string>
     <string name="notification_multiple_title">Nové zprávy</string>
     <string name="number_add_hint">Zadejte číslo pro zařazení do soukromých kontaktů</string>
+    <string name="overwrite_edited_content">Upravený obsah bude přepsán. Pokračovat?</string>
     <string name="phrase_confirm_delete_message">Vybrané fráze budou smazány</string>
     <string name="phrase_empty">Žádná fráze</string>
     <string name="phrase_from">Od %1s</string>

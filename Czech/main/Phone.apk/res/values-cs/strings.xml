@@ -140,6 +140,7 @@
     <string name="call_ind_services">Call Independent Services</string>
     <string name="call_lost">Hovor byl ztracen.</string>
     <string name="call_number">Pro:</string>
+    <string name="call_record_button_label">Nahrávání %s</string>
     <string name="call_record_notification_message_low_space_miui">Nahrávání bylo zastaveno, nedostatek místa na kartě, klepněte pro zobrazení %s.</string>
     <string name="call_record_notification_message_miui">Klikni pro zobrazení %s.</string>
     <string name="call_record_notification_message_sd_unmounted_miui">Nahrávání bylo zastaveno, SD karta byla odpojena.</string>

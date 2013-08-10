@@ -20,6 +20,7 @@
     <string name="editmode_menu_delete">Vymazat</string>
     <string name="editmode_menu_share">Sdílet</string>
     <string name="error_bad_file">Chybný soubor</string>
+    <string name="error_connect_service">Nelze se připojit k službě přenosu</string>
     <string name="error_download">Chyba při stahování</string>
     <string name="error_general">Chyba</string>
     <string name="error_network">Chyba sítě</string>

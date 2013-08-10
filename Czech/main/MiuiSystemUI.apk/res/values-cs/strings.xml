@@ -106,7 +106,7 @@
     <string name="gps_notification_searching_text">Hledání GPS pozice</string>
     <string name="headset_custom">Přizpůsobit</string>
     <string name="headset_info">Upravit funkci tlačítek</string>
-    <string name="headset_settings">Sluchátka připojené</string>
+    <string name="headset_settings">Sluchátka připojena</string>
     <string name="invalid_charger">"Nabíjení z USB není podporováno. Použijte síťovou nabíječku."</string>
     <string name="key_position_custom">Vlastní pozice tlačítek</string>	
     <string name="label_view">Zobrazit</string>
@@ -237,7 +237,8 @@
     <string name="status_bar_toggle_power_low">Úsporný</string>
     <string name="status_bar_toggle_power_mid">Normální</string>        
     <string name="status_bar_toggle_power_mode">Výkon</string>
-    <string name="status_bar_toggle_privacy_mode">Návštěvník</string>   
+    <string name="status_bar_toggle_privacy_mode">Návštěvník</string>
+    <string name="status_bar_toggle_quiet_mode">Nerušit</string>   
     <string name="status_bar_toggle_reboot">Restart</string>
     <string name="status_bar_toggle_ring">Zvuk</string>
     <string name="status_bar_toggle_ringtone">Tón zvonění</string>

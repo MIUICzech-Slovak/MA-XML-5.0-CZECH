@@ -724,10 +724,13 @@
     <string name="keyguard_password_enter_puk_code">Zadejte kód PUK a nový kód PIN.</string>
     <string name="keyguard_password_enter_puk_prompt">Kód PUK</string>
     <string name="keyguard_password_enter_pin_prompt">Nový kód PIN</string>
-    <string name="keyguard_password_entry_touch_hint"><font size="17">Dotykem zadáte heslo</font></string>
+    <string name="keyguard_password_entry_touch_hint">" "<font size="17">Dotykem zadáte heslo</font>" "</string>
     <string name="keyguard_password_enter_password_code">Zadejte heslo pro odemknutí</string>
     <string name="keyguard_password_enter_pin_password_code">Zadejte kód PIN pro odemknutí</string>
     <string name="keyguard_password_wrong_pin_code">Nesprávný kód PIN.</string>
+    <string name="keyguard_password_wrong_puk_code">Nesprávny kód PUK!</string>  
+    <string name="keyguard_password_pin_failed">PIN operace selhala!</string>  
+    <string name="keyguard_password_puk_failed">PUK operace selhala!</string> 
     <string name="keyguard_label_text">Chcete-li telefon odemknout, stiskněte Menu a poté 0.</string>
     <string name="emergency_call_dialog_number_for_display">Číslo tísňové linky</string>
     <string name="lockscreen_carrier_default">Žádný signál.</string>
@@ -759,6 +762,11 @@
     <string name="lockscreen_transport_stop_description">Tlačítko Zastavit</string>
     <string name="emergency_calls_only">Pouze tísňová volání</string>
     <string name="lockscreen_network_locked_message">Síť je blokována</string>
+    <string name="lockscreen_perso_locked_message">SIM/RUIM je Perso zamknuto</string>  
+    <string name="lockscreen_sim_error_message_short">Neplatná karta.</string>  
+    <string name="lockscreen_sim_error_message">Karta SIM je neplatná.</string>  
+    <string name="lockscreen_sim_pin_blocked">PIN1 blokován! Zadejte PUK1 pro odblokování PIN1.</string>  
+    <string name="lockscreen_ruim_pin_blocked">PIN1 blokován! Zadejte PUK1 pro odblokování PIN1.</string> 
     <string name="lockscreen_sim_puk_locked_message">SIM karta je zablokována pomocí kódu PUK.</string>
     <string name="lockscreen_sim_puk_locked_instructions">Další informace naleznete v uživatelské příručce; nebo kontaktujte zákaznickou podporu.</string>
     <string name="lockscreen_sim_locked_message">SIM karta je zablokována.</string>
@@ -1011,9 +1019,9 @@ Chcete ji zavřít?"</string>
     <string name="date_time_done">Hotovo</string>
     <string name="default_permission_group">Výchozí</string>
     <string name="no_permissions">Nejsou vyžadována žádná oprávnění</string>
-    <string name="perms_hide"><b>Skrýt</b></string>
-    <string name="perms_show_all"><b>Zobrazit vše</b></string>
-    <string name="perms_new_perm_prefix"><font size="12" fgcolor="#ff900000">NOVÉ: </font></string>
+    <string name="perms_hide">" "<b>Skrýt</b>" "</string>
+    <string name="perms_show_all">" "<b>Zobrazit vše</b>" "</string>
+    <string name="perms_new_perm_prefix">" "<font size="12" fgcolor="#ff900000">NOVÉ: </font>" "</string>
     <string name="perms_description_app">Poskytuje: %1$s.</string>
     <string name="usb_storage_activity_title">Velkokapacitní úložiště USB</string>
     <string name="usb_storage_title">USB připojeno</string>
@@ -1050,7 +1058,7 @@ Chcete ji zavřít?"</string>
     <string name="select_keyboard_layout_notification_message">Dotykem vyberte rozložení klávesnice.</string>
     <string name="fast_scroll_alphabet">" AÁBCČDĎEÉĚFGHCHIÍJKLMNŇOÓPQRŘSŠTŤUÚVWXYÝZŽ"</string>
     <string name="fast_scroll_numeric_alphabet">" 0123456789AÁBCČDĎEÉĚFGHCHIÍJKLMNŇOÓPQRŘSŠTŤUÚVWXYÝZŽ"</string>
-    <string name="candidates_style"><u>kandidáti</u></string>
+    <string name="candidates_style">" "<u>kandidáti</u>" "</string>
     <string name="ext_media_checking_notification_title">Příprava úložiště USB</string>
     <string name="ext_media_checking_notification_message">Kontrola chyb.</string>
     <string name="ext_media_nofs_notification_title">Prázdné úložiště USB</string>

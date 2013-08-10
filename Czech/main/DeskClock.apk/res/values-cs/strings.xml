@@ -62,13 +62,6 @@
     <string name="full_wday_month_day_no_year">EEEE, d.MMMM</string>
     <string name="gallery_button_description">Galerie</string>
     <string name="hide_clock">Skrýt hodiny</string>
-    <string name="holiday_data_already_newest">Seznam pracovních dní je aktuální</string>
-    <string name="holiday_data_no_network">Žádná síť, zkuste to později</string>
-    <string name="holiday_data_update_failed">Aktualizace selhala, zkuste to znovu později.</string>
-    <string name="holiday_data_update_succeed">Aktualizace dokončena</string>
-    <string name="holiday_data_updating">Aktualizování...</string>
-    <string name="holiday_update_summary">Zkontrolovat aktualizace</string>
-    <string name="holiday_update_title">Aktualizace volných dní vyžaduje internetové připojení</string>
     <string name="home_button_description">Launcher</string>
     <string name="hour">1 hod</string>
     <string name="hour_unit">h</string>

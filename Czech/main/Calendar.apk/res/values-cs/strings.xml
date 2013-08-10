@@ -156,6 +156,7 @@
     <string name="response_maybe">Možná</string>
     <string name="response_no">Ne</string>
     <string name="response_yes">Ano</string>
+    <string name="rest_day_indication"> /</string>
     <string name="save_label">Uložit</string>
     <string name="saving_event">Událost byla uložena.</string>
     <string name="saving_event_with_guest">Aktualizace byly odeslány.</string>
@@ -184,6 +185,7 @@
     <string name="view_event_response_label">Zúčastníte se?</string>
     <string name="week_view">Týden</string>
     <string name="weekly">Týdně (vždy %s)</string>
+    <string name="work_day_indication"> /</string>
     <string name="what_label">Co</string>
     <string name="when_label">Kdy</string>
     <string name="where_label">Kde</string>
