@@ -70,6 +70,16 @@
     <string name="my_rank">Hodnocení:</string>
     <string name="my_update_feel">Mé pocity</string>
     <string name="my_worst_update">Nejhorší update</string>
+    <string name="comment_publish">Odeslat</string>
+    <string name="edit_comment_title">Upravit</string>
+    <string name="edit_comment">Komentovat</string>
+    <string name="edit_text_default">Napište svůj komentář</string>
+    <string name="comment_sending">Odesílání...</string>
+    <string name="comment_upload_failed">Odeslání selhalo</string>
+    <string name="comment_upload_hint">Děkujeme!</string>
+    <string name="comment_upload_success">Odesláno!</string>
+    <string name="comment_invalid">Zvolte počet hvězdiček</string>
+    <string name="comment_upload_not_logined">Nejprve se přilaste</string>
     <string name="network_error">Připojení nelze navázat, prosím zkuste znovu</string>
     <string name="new_update_content_title">Nová aktualizace!</string>
     <string name="new_update_download_complete_body">Připravena nová verze: %s</string>

@@ -35,7 +35,7 @@
   <string name="auto_create_recent_album_confirm">Po vypnutí této funkce, vymaže galerie údaje oblíbených alb. Oblíbená alba nastavené uživatelem to neovlivní. Alternativně to můžete nastavit dlouhým klikem na album.</string>
   <string name="auto_create_recent_album_over_ten_times">Automatické vytvoření oblíbeného alba, pokud je album otevřeno více jak 10 krát</string>
   <string name="autofix">Auto-fix</string>
-  <string name="big_screen_alertdialog_title">Projektor</string>
+  <string name="big_screen_alertdialog_title">Zařízení</string>
   <string name="bigscrren_slide_exit">Ukončit prezentaci</string>
   <string name="browse_category">Prohlížení fotografií</string>
   <string name="by_email">E-mail</string>
@@ -361,4 +361,16 @@
   <string name="widget_type_shuffle">Náhodně všechny obrázky</string>
   <string name="width">Šířka</string>
   <string name="yes">Ano</string>
+  <string name="screensaver_category">Spořič displeje</string>
+  <string name="screensaver_activate_mode">Prezentace</string>
+  <string name="screensaver_activate_only_charging">Pouze při nabíjení</string>
+  <string name="screensaver_path">Album:</string>
+  <string name="screensaver_path_not_set">Nenastaveno</string>
+  <string name="set_screensaver_path_title">Prezentace</string>
+  <string name="set_screensaver_path_message">Fotografie v tomto albu budou zobrazené jako spořič 5 sekund po zhasnutí displeje. Toto upozornění se už vícekrát nezobrazí.</string>
+  <string name="screensaver_no_data">Žádné obrázky v albu.</string>
+  <string name="slideshow_time_select_title">Zvolte čas prezentace</string>
+  <string name="slideshow_time_title">Čas prezentace</string>
+  <string name="operation_set_as_screensaver">Nastavit jako spořič displeje</string>
+  <string name="operation_unset_as_screensaver">Zrušit spořič displeje</string>
 </resources>

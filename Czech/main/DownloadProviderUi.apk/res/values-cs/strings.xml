@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="all_downloads">Veškerá stahování</string>
+    <string name="app_downloads">Stahování z aplikace %s</string>
     <string name="app_label">Stahování</string>
     <string name="button_sort_by_date">Seřadit dle data</string>
     <string name="button_sort_by_size">Seřadit dle velikosti</string>

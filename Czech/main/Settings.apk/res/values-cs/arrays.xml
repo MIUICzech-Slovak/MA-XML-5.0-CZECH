@@ -453,4 +453,17 @@ Počítač automaticky otevře složku ve Vašem telefonu"</item>
         <item>PIN</item>
         <item>Kombinované heslo</item>
     </string-array>
+    <string-array name="entries_color_calibration">
+        <item>sRGB</item>
+        <item>Přirozené</item>
+    </string-array>
+    <string-array name="phone_call_noise_suppression_title">
+        <item>Deaktivované potlačení hluku</item>
+        <item>Aktivované potlačení hluku</item>
+    </string-array>
+    <string-array name="media_feedback_level_entries">
+        <item>Silné</item>
+        <item>Střední</item>
+        <item>Jemné</item>
+    </string-array>
 </resources>

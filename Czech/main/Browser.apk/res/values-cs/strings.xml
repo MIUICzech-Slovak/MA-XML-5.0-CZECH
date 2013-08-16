@@ -153,6 +153,7 @@
     <string name="do_not_save">Zrušit</string>
     <string name="download">Stáhnout</string>	
     <string name="download_complete">Stahování dokončeno</string>
+    <string name="download_dialog_default_path_invalid">Zadaná cesta neexistuje, použít výchozí místo ukládání</string>
     <string name="download_default_path_txt">Nastavit jako výchozí cestu ukládání a znovu se neptat</string>	
     <string name="download_dialog_file_length_hint_txt">Velikost:</string>    
     <string name="download_dialog_file_length_lessthan1kb">Méně než 1Kb</string>    

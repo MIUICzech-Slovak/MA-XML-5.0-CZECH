@@ -156,7 +156,7 @@ Poznámka: Zvětšení trojitým klepnutím funguje ve všech částech obrazovk
     <string name="app_name_label">Aplikace</string>
     <string name="app_not_found_dlg_text">Aplikaci se nepodařilo najít na seznamu nainstalovaných aplikací.</string>
     <string name="app_not_found_dlg_title"/>
-    <string name="app_notifications_switch_label">Zobrazit notifikace</string>
+    <string name="app_notifications_switch_label">Přizpůsobit notifikace</string>
     <string name="app_process_limit_title">Omezení procesů na pozadí</string>
     <string name="app_special_disable_dlg_text">Pokud deaktivujete integrovanou aplikaci, mohou se ostatní aplikace chovat nestandardně. Budou také smazána vaše data.</string>
     <string name="app_special_disable_dlg_title">Vymazat data a deaktivovat aplikaci?</string>
@@ -1246,6 +1246,7 @@ zkuste následující:"
     <string name="no_nearby_wifi">Žádná Wi-Fi nebyla nalezena, spusťte hledání znovu, nebo přidejte wifi ručně</string>
     <string name="no_running_services">Nic není spuštěno.</string>
     <string name="no_services">Neaktivní</string>
+    <string name="noise_suppression">Potlačení hluku</string>
     <string name="normal_date_format">Regionální (%s)</string>	
     <string name="not_installed">Není nainstalováno</string>
     <string name="notification_pulse_title">Blikat kontrolkou oznámení</string>
@@ -1425,6 +1426,7 @@ zkuste následující:"
     <string name="permission_manage_title">%s podrobnosti práv</string>
     <string name="permissions_label">Oprávnění</string>
     <string name="personal_data_section_title">Osobní údaje</string>
+    <string name="phone_call_noise_suppression">Potlačení hluku při hovoru</string>
     <string name="phone_info_label">Info o telefonu</string>
     <string name="phone_language">Jazyk</string>
     <string name="phone_language_summary"/>
@@ -1782,7 +1784,7 @@ Toto nastavení ovlivní všechny uživatele tohoto telefonu."</string>
     <string name="show_touches">Zobrazit dotyky</string>
     <string name="show_touches_summary">Zobrazit vizuální zpětnou vazbu pro doteky</string>
     <string name="show_user_info_on_lockscreen_label">Zobrazovat uživatele na uzamčené obrazovce</string>
-    <string name="silent_mode_title">Tichý režim</string>
+    <string name="silent_mode_title">Ztlumit vše</string>
     <string name="sim_absent">Žádná SIM</string>
     <string name="sim_bad_pin">Nesprávný kód PIN</string>
     <string name="sim_change_failed">"Kód PIN nelze změnit. Možná jste zadali nesprávný kód PIN."</string>
@@ -1927,6 +1929,9 @@ Toto nastavení ovlivní všechny uživatele tohoto telefonu."</string>
     <string name="title_font_size">Velikost písma</string>
     <string name="total_size">%s Celkem</string>
     <string name="total_size_label">Celkem</string>
+    <string name="touch_title">Dotyky</string>
+    <string name="touch_sensitive_title">Režim rukavic</string>
+    <string name="touch_sensitive_summary">Nastavit citlivost na dotyky pro ovládání telefonu v rukavicích</string>
     <string name="track_frame_time">Profil GPU vykreslování</string>
     <string name="track_frame_time_summary">Měřit dobu vykreslování v adb shell dumpsys gfxinfo</string>
     <string name="trackball_settings">Trackball</string>

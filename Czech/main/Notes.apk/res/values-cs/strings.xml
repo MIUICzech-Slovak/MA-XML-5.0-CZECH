@@ -9,8 +9,6 @@
     <string name="alert_message_delete_note">Opravdu chcete smazat tuto poznámku?</string>
     <string name="alert_message_delete_notes">Opravdu chcete vymazat poznámky(%1$s)?</string>
 	  <string name="alert_message_discard_changes">Zrušit všechny změny?</string>
-    <string name="alert_title_delete">Mazání vybraných poznámek</string>
-	  <string name="alert_title_discard">Zrušit změny?</string>
     <string name="app_name">Poznámky</string>
     <string name="app_widget">Poznámky</string>
     <string name="attachment_camera">Fotoaparát</string>
