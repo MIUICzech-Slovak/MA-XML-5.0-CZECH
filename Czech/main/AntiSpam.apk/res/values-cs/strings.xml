@@ -89,7 +89,7 @@
     <string name="st_block_private_call_button">Blokovat hovory ze skrytého čísla</string>
     <string name="st_block_title">Blokovat a zobrazit v záznamu</string>
     <string name="st_block_unknown_call">Blokovat hovory z neznámého čísla</string>
-+    <string name="st_block_unknown_sms">Blokovat SMS z neznámého čísla</string>
+    <string name="st_block_unknown_sms">Blokovat SMS z neznámého čísla</string>
     <string name="st_call_group">Hovor</string>
     <string name="st_common_setting_group">Nastavení filtrování</string>
     <string name="st_filter_keywords_setting_summary1">SMS zprávy z neznámého čísla a SMS zprávy obsahující některé z klíčových slov budou blokované.</string>
