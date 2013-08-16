@@ -2434,7 +2434,7 @@ můžete použít jinou síť"</string>
     <string name="wifi_share_connect">Připojit</string>	
     <string name="wifi_share_connected_summary">"Jste připojen(a) k veřejné Wi-Fi síti sdílené jiným uživatelem MIUI"</string>
     <string name="wifi_share_connected_title">Připojeno k Wi-Fi síti sdílené MIUI</string>
-    <string name="wifi_share_count">Sdílíte %d sítí</string>
+    <string name="wifi_share_count">Sdílené sítě: %d</string>
     <string name="wifi_share_current_network">Současná síť</string>
     <string name="wifi_share_know">Vím</string>
     <string name="wifi_share_login">Sdílet heslo k této veřejné Wi-Fi síti</string>
@@ -2449,8 +2449,8 @@ můžete použít jinou síť"</string>
     <string name="wifi_share_summary1">Uživatelé MIUI mohou sdílet zabezpečenou veřejnou Wi-Fi síť s ostatními.</string>
     <string name="wifi_share_summary2">Pokud jiný uživatel s MIUI sdílí chráněnou Wi-Fi síť, můžete se připojit k této síti bez zadání hesla.</string>
     <string name="wifi_share_summary3">Sdílejte Vaši veřejnou Wi-Fi síť s ostatními.</string>
-    <string name="wifi_share_turn_off">Vypnuté</string>
-    <string name="wifi_share_turn_on">Zapnuté</string>
+    <string name="wifi_share_turn_off">Vypnuto</string>
+    <string name="wifi_share_turn_on">Zapnuto</string>
     <string name="wifi_share_upload">Sdílet</string>
     <string name="wifi_share_upload_finish">Sdílené</string>	
     <string name="wifi_share_uploading">Sdílení Wi-Fi sítě</string>
