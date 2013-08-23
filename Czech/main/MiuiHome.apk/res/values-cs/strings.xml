@@ -50,7 +50,7 @@
     <string name="gadget_clock_24_label">Hodiny 2x4</string>
     <string name="gadget_error_text">Problém s načtením widgetu</string>
     <string name="gadget_google_search_label">Google</string>
-    <string name="gadget_load_error">Chyba načtení widgetu\u2026</string>
+    <string name="gadget_load_error">Chyba načtení widgetu...</string>
     <string name="gadget_photo_22_label">Fotorámeček 2x2</string>
     <string name="gadget_photo_24_label">Fotorámeček 2x4</string>
     <string name="gadget_photo_44_label">Fotorámeček 4x4</string>
@@ -78,10 +78,12 @@
     <string name="loading_desktop">Načítání launcheru...</string>
     <string name="menu_add">Přidat</string>
     <string name="menu_back_desktop">Zpět na plochu</string>
+    <string name="menu_customize">Nastavení</string>
     <string name="menu_edit">Upravit widgety</string>
     <string name="menu_exit_scene">Opustit Free Desktop</string>
     <string name="menu_item_add_item">Přidat na plochu</string>
     <string name="menu_launcher_setting">Nastavení spouštěče</string>
+    <string name="menu_picktheme">Zvolit téma</string>
     <string name="menu_reset_scene">Obnovit na výchozí scénu</string>
     <string name="menu_search">Hledat</string>
     <string name="menu_settings">Nastavení systému</string>
@@ -122,6 +124,7 @@
     <string name="screen_button_disabled_message">Tlačítka pod displejem jsou deaktivované. Můžete je aktivovat stiskem \"Domů\" a \"Zapnutí\"</string>
     <string name="screen_button_enabled_message">Tlačítka pod displejem jsou aktivované</string>
     <string name="screen_rotation_freeze_message">Rotace obrazovky je uzamknuta v horizontální poloze</string>
+    <string name="scroll_tip_format_when_announce_accessibility">Strana %1$d, %2$d aplikací</string>
     <string name="select_frame">Rámeček</string>
     <string name="select_photo">Fotka</string>
     <string name="sharedUserId" />

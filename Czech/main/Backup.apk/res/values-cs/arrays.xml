@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
     <string-array name="backup_dialog_content_type">
-        <item>Wifi Data</item>
+        <item>Wifi připojení</item>
         <item>Všechny aplikace</item>
     </string-array>
     <string-array name="system_package_label">
         <item>Prohlížeč</item>
-		<item>Správce souborů</item>
         <item>Galerie</item>
         <item>Správce oprávnění</item>
         <item>Fotoaparát</item>
@@ -21,7 +20,7 @@
         <item>MMS</item>
         <item>Nastavení systému</item>
         <item>Nastavení Wifi</item>
-        <item>Uspořádání ploch</item>
+        <item>Rozložení ploch</item>
         <item>Nastavení upozornění</item>
         <item>Poznámky</item>
         <item>Režim nerušit</item>
@@ -46,6 +45,6 @@
     </string-array>
     <string-array name="cloud_sim_data">
         <item>Seznam hovorů</item>
-        <item>Textové zprávy</item>
+        <item>Zprávy SMS</item>
     </string-array>
 </resources>

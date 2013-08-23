@@ -6,6 +6,7 @@
     <string name="audio_db_artist_name">Záznamník</string>
     <string name="audio_db_playlist_name">Moje záznamy</string>
     <string name="audio_db_title_format">dd-MM.yyyy HH:mm:ss</string>
+    <string name="back">Zpět</string>
     <string name="button_ok">OK</string>
     <string name="call_record">Nahrávání hovoru (%d)</string>
     <string name="call_record_or">nebo</string>
@@ -18,6 +19,9 @@
     <string name="dialog_send">Odeslat</string>
     <string name="dialog_title_storage_full">Není dostatek místa. Vyčistit?</string>
     <string name="dialog_warning">Upozornění</string>
+    <string name="duration_format_hour">%sh</string>	
+    <string name="duration_format_minute">%sm</string>
+    <string name="duration_format_second">%ss</string>
     <string name="error_app_internal">Vnitřní chyba aplikace</string>
     <string name="error_app_internal_title">Chyba záznamníku</string>
     <string name="error_filename_too_long">Název souboru je příliš dlouhý</string>
@@ -33,6 +37,7 @@
     <string name="max_length_reached">Dosažena maximální délka</string>
     <string name="menu_settings">Nastavení</string>
     <string name="menu_view_record_list">Zobrazit nahrávky</string>
+    <string name="message_file_size_error">Nahrávka dosáhla maximální délku nahrávání podporovanou pro %s</string>	
     <string name="minute">%d min</string>
     <string name="no_file">Žádné nahrávky</string>
     <string name="notification_playback">Přehrávání nahrávky...</string>
@@ -41,6 +46,8 @@
     <string name="notification_warning">Málo místa, zbývá méně než %d minut</string>
     <string name="open_file_explorer">Otevřít správce souborů</string>
     <string name="overwrite_dialog_message" formatted="false">%s již existuje. Chcete ho přepsat?</string>
+    <string name="pause">Pauza</string>
+    <string name="play_record">Přehrát</string>
     <string name="preference_led_indicator">Indikace nahrávání</string>
     <string name="preference_led_indicator_prompt">Blikat LED a zobrazit informace v oznamovací listě po dobu nahrávání a uzamčeném telefonu</string>
     <string name="preference_record_type_dialog_title">Zvolit typ nahrávky</string>
@@ -58,14 +65,19 @@
     <string name="rename_duplicate">Název již existuje, zadejte jiný:</string>
     <string name="rename_illegal">Neplatný název, zadejte jiný:</string>
     <string name="sd_card_not_available">SD karta není dostupná</string>	
+    <string name="search_for_recordings_in_folders">Vyhledat nahrávku</string>
     <string name="second">%d s</string>	
     <string name="send_to">Odeslat</string>
     <string name="sound_recorder_settings">Nastavení nahrávání</string>
+    <string name="start_recording">Nahrávat</string>
     <string name="status_bar_anti_disturb">Telefon má ztišené zvuky, zvyšte hlasitost pokud chcete pokračovat.</string>
     <string name="status_bar_back">Stiskněte pro návrat do Záznamníku</string>
     <string name="status_bar_recording">Nahrávání...</string>
     <string name="status_bar_recording_pause">"Nahrávání bylo pozastaveno."</string>
+    <string name="stop_recording">Zastavit</string>
     <string name="storage_is_full">SD karta je plná</string>	
     <string name="timer_format" formatted="false">%02d:%02d</string>	
+    <string name="toast_max_record_time">Aplikace:%1$s podporuje maximálně %2$s připojených nahrávek</string>
     <string name="unknown_caller">Neznámé číslo</string>	
+    <string name="view_list_of_recordings">Seznam nahrávek</string>
 </resources>

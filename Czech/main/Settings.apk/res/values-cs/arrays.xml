@@ -466,4 +466,9 @@ Počítač automaticky otevře složku ve Vašem telefonu"</item>
         <item>Střední</item>
         <item>Jemné</item>
     </string-array>
+    <string-array name="security_settings_premium_sms_values">
+        <item>Zeptat se</item>
+        <item>Zakázat</item>
+        <item>Vždy povolit</item>
+    </string-array>
 </resources>
