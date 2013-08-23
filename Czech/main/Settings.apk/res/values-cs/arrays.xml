@@ -306,9 +306,9 @@
         <item>Subscription 2</item>
     </string-array>
     <string-array name="haptic_feedback_level_entries">
-        <item>Slabé</item>
-        <item>Střední</item>
         <item>Silné</item>
+        <item>Střední</item>
+        <item>Slabé</item>
     </string-array>
     <string-array name="battery_indicator_style_entries">
         <item>Grafický</item>
