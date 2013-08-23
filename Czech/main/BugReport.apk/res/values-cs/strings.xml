@@ -9,6 +9,7 @@
     <string name="menu_discard">Zrušit</string>
     <string name="description">Popis v angličtině (povinné)</string>
     <string name="btn_send">Odeslat</string>
+    <string name="bugreport_feedback_from">Od: %s</string>
     <string name="err_type">Typ hlášení</string>
     <string name="err_type_reboot">Restartování</string>
     <string name="err_type_force_close">Pád aplikace</string>

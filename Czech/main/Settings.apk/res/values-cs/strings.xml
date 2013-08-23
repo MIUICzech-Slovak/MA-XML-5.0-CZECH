@@ -476,6 +476,7 @@ Poznámka: Zvětšení trojitým klepnutím funguje ve všech částech obrazovk
     <string name="build_number">Číslo sestavení</string>
     <string name="builtin_keyboard_settings_summary">Nastavení fyzické klávesnice</string>
     <string name="builtin_keyboard_settings_title">Fyzická klávesnice</string>
+    <string name="button_disconnect_network">Odpojit od sítě</string>
     <string name="button_light_timeout">Doba podsvícení tlačítek</string>
     <string name="cache_header_label">Mezipaměť</string>
     <string name="cache_size_label">Mezipaměť</string>
@@ -713,6 +714,7 @@ Toto nastavení ovlivní všechny uživatele tohoto telefonu."</string>
     <string name="dirac_mode_earbuds">Sluchátka</string>
     <string name="dirac_mode_earphones">Špunty</string>
     <string name="dirac_mode_off">Dirac Vypnutý</string>
+    <string name="dirac_mode_piston_100">Xiaomi sluchátka</string>
     <string name="disableNetwork">Vypnout síť</string>
     <string name="disable_overlays">Vypnout HW překrývání</string>
     <string name="disable_overlays_summary">Vždy použít GPU pro zobrazování</string>
@@ -1932,6 +1934,8 @@ Toto nastavení ovlivní všechny uživatele tohoto telefonu."</string>
     <string name="touch_title">Dotyky</string>
     <string name="touch_sensitive_title">Režim rukavic</string>
     <string name="touch_sensitive_summary">Nastavit citlivost na dotyky pro ovládání telefonu v rukavicích</string>
+    <string name="touch_sensitive_turn_off_title">Deaktivovat Režim rukavic</string>
+    <string name="touch_sensitive_turn_off_summary">Deaktivovat Režim rukavic?</string>
     <string name="track_frame_time">Profil GPU vykreslování</string>
     <string name="track_frame_time_summary">Měřit dobu vykreslování v adb shell dumpsys gfxinfo</string>
     <string name="trackball_settings">Trackball</string>

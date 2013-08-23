@@ -13,9 +13,9 @@
     <string name="dlg_clear_all_call">Vymazat všechny blokované hovory?</string>
     <string name="dlg_clear_all_ok">Vymazat vše</string>
     <string name="dlg_clear_all_sms">Vymazat všechny blokované SMS?</string>
-    <string name="dlg_clear_blacklist">Opravdu chcete vymazat černou listinu?</string>
+    <string name="dlg_clear_blacklist">Vymazat černou listinu a obnovit všechny SMS?</string>
     <string name="dlg_clear_blacklist_ok">Vymazat</string>
-    <string name="dlg_clear_current_call">Vymazat všechny blokované hovory z tohoto čísla a obnovit všechny SMS?</string>
+    <string name="dlg_clear_current_call">Vymazat všechny blokované hovory z tohoto čísla?</string>
     <string name="dlg_clear_current_ok">Vymazat</string>
     <string name="dlg_clear_current_sms">Vymazat všechny blokované SMS z tohoto čísla?</string>
     <string name="dlg_delete_keyword">Vymazat tato klíčová slova?</string>
@@ -70,7 +70,7 @@
     <string name="qm_repeated_call_summary_3min">Druhý hovor ze stejného čísla během 3 minut nebude ztišen</string>
     <string name="qm_repeated_call_summary_none">Blokovat i opakující se hovory</string>
     <string name="qm_special_call_setting_group">Výjimky</string>
-    <string name="qm_summary">Pokud je povolen Tichý režim, budou všechny notifikace a hovory při zamknutém telefonu ztišeny. Kromě VIP seznamu.</string>
+    <string name="qm_summary">Pokud je povolen Tichý režim, budou všechny notifikace a hovory ztišeny. Kromě VIP seznamu.</string>
     <string name="qm_vip_call_button_title">Povolit hovory z VIP</string>
     <string name="qm_vip_call_setting_title">Nastavení VIP hovorů</string>
     <string name="qm_vip_call_summary_contact">Veškeré kontakty</string>
@@ -82,8 +82,8 @@
     <string name="qm_vip_list_group">Seznam VIP</string>
     <string name="quiet_mode">Tichý režim</string>
     <string name="st_advanced_setting_group">Rozšířené</string>
-    <string name="st_bl_block_setting_title">Způsob blokace</string>
-    <string name="st_bl_setting_group">Nastavení černé listiny</string>
+    <string name="st_block_setting_title">Způsob blokace</string>
+    <string name="st_block_setting_group">Nastavení černé listiny</string>
     <string name="st_block_all">Blokovat hovory a SMS</string>
     <string name="st_block_mute">Blokovat hovory a ztišit SMS</string>
     <string name="st_block_private_call_button">Blokovat hovory ze skrytého čísla</string>
