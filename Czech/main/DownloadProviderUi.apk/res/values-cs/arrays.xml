@@ -11,6 +11,7 @@
         <item>500KB</item>
         <item>200KB</item>
         <item>100KB</item>
+        <item>Vždy</item>
     </string-array>
     <string-array name="prefValues_max_bytes_limit">
         <item>104857600</item>
@@ -23,5 +24,6 @@
         <item>512000</item>
         <item>204800</item>
         <item>102400</item>
+        <item>0</item>
     </string-array>
 </resources>
