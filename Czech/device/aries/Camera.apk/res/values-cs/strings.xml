@@ -6,7 +6,7 @@
   <string name="accessibility_shutter_button">Tlačítko spouště</string>
   <string name="accessibility_zoom_control">Ovládaní Zoomu</string>
   <string name="albums">Alba</string>
-  <string name="aperture">Uzávěrka</string>
+  <string name="aperture">Závěrka</string>
   <string name="app_details">Aplikace:</string>
   <string name="auto">Auto</string>
   <string name="bg_replacement_message">"Nasměrujte svůj telefon dolů, 
@@ -322,7 +322,7 @@
   <string name="pref_camera_whitebalance_title">Vyvážení bílé</string>
   <string name="pref_camera_zsl_entry_off">Vyp</string>
   <string name="pref_camera_zsl_entry_on">Zap (Max 1MP)</string>
-  <string name="pref_camera_zsl_title">ZSL (okamžitá uzávěrka)</string>
+  <string name="pref_camera_zsl_title">ZSL (okamžitá závěrka)</string>
   <string name="pref_captrue_mirror_entry_off">Vypnuto</string>
   <string name="pref_captrue_mirror_entry_on">Zapnuto</string>
   <string name="pref_captrue_mirror_title">Zrcadlit přední kameru</string>
