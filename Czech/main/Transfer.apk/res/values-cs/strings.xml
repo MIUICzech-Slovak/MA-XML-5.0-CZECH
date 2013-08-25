@@ -13,14 +13,14 @@
     <string name="choose_title">Vyberte soubor</string>
     <string name="connect_confirm">%1$s se chce připojit</string>
     <string name="connecting">Připojování</string>
-    <string name="continue_to_send">Pokračovat v odesílání</string>
+    <string name="continue_to_send">Další soubor</string>
     <string name="device_default_name">Xiaomi telefon</string>
     <string name="device_name">Název zařízení</string>
     <string name="device_name_tip">Jděte do Nastavení - Info o telefonu a upravte název zařízení.</string>
     <string name="editmode_menu_delete">Vymazat</string>
     <string name="editmode_menu_share">Sdílet</string>
     <string name="error_bad_file">Chybný soubor</string>
-    <string name="error_connect_service">Nelze se připojit k službě přenosu</string>
+    <string name="error_connect_service">Nelze se připojit ke službě přenosu</string>
     <string name="error_download">Chyba při stahování</string>
     <string name="error_general">Chyba</string>
     <string name="error_network">Chyba sítě</string>
@@ -32,9 +32,9 @@
     <string name="error_upload">Chyba odesílání</string>
     <string name="fail">Chyba</string>
     <string name="failed">Selhalo</string>
-    <string name="finish">Dokončeno</string>
+    <string name="finish">Dokončit</string>
     <string name="first_in_tip">První použití Přenosu souborů</string>
-    <string name="goback">Návrat</string>
+    <string name="goback">Zpět</string>
     <string name="guide_label">Návod k Přenosu souborů</string>
     <string name="history">Historie přenosu souborů</string>
     <string name="history_all">Celá historie</string>
@@ -106,7 +106,7 @@
     <string name="shortmessage">Krátká zpráva</string>
     <string name="summary_step_one">Odesílejte obrázky, hudbu, kontakty a ostatní soubory</string>
     <string name="summary_step_two">Pozvat přátele k instalaci AnyShare</string>
-    <string name="support_tip">Připojení je kompatibilní s AnyShare</string>
+    <string name="support_tip">Připojení je kompatibilní s aplikací AnyShare z Google Play</string>
     <string name="title_step_one">1. Soubory mohou být přeneseny rychle a bez použití mobilních dat</string>
     <string name="title_step_three">3. Nekonečné sdílení s Vašimi přáteli</string>
     <string name="title_step_two">2. Uživatelé bez MIUI mohou využít AnyShare na přenos souborů mezi různými systémy</string>

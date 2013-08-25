@@ -320,8 +320,8 @@
   <string name="pref_camera_whitebalance_entry_incandescent">Žárovka</string>
   <string name="pref_camera_whitebalance_k_value_title">Hodnota K</string>
   <string name="pref_camera_whitebalance_title">Vyvážení bílé</string>
-  <string name="pref_camera_zsl_entry_off">Vyp</string>
-  <string name="pref_camera_zsl_entry_on">Zap (Max 1MP)</string>
+  <string name="pref_camera_zsl_entry_off">Vypnuta</string>
+  <string name="pref_camera_zsl_entry_on">Zapnuta</string>
   <string name="pref_camera_zsl_title">ZSL (okamžitá závěrka)</string>
   <string name="pref_captrue_mirror_entry_off">Vypnuto</string>
   <string name="pref_captrue_mirror_entry_on">Zapnuto</string>
