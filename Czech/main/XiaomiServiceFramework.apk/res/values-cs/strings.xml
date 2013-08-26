@@ -65,6 +65,7 @@ Postupujte dle instrukcí pro dokončení objednávky."</string>
     <string name="btn_pay_large">Zaplatit</string>
     <string name="btn_prev">Zpět</string>
     <string name="btn_query">Informace</string>
+    <string name="btn_recharge_confirm">Potvrdit nákup</string>	
     <string name="btn_recharge_large">Navýšit nyní</string>
     <string name="btn_recharge_other">Jiné metody navýšení</string>
     <string name="btn_recharge_success">Navýšení dokončeno</string>
@@ -72,6 +73,8 @@ Postupujte dle instrukcí pro dokončení objednávky."</string>
     <string name="btn_voucher">Mi Kreditní karta (%1$s)</string>
     <string name="btn_wait_call">Čekání</string>
     <string name="btn_wait_call_count">Čekání (%1$s)</string>
+    <string name="btn_wait_confirm">Čekání</string>	
+    <string name="btn_wait_confirm_count">Čekání（%1$s）</string>	
     <string name="button_cancel">Zrušit</string>
     <string name="button_pay">Zaplatit</string>
     <string name="button_recharge">Navýšit</string>
