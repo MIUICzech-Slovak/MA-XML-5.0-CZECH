@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-	  <string name="add_account_desc">Poznámky se mohou synchronizovat s Vaším účtem Xiaomi. Chcete se přihlásit?</string>
+    <string name="add_account_desc">Poznámky se mohou synchronizovat s Vaším účtem Xiaomi. Chcete se přihlásit?</string>
     <string name="alert_action_edit_anyway">Pokračovat</string>
     <string name="alert_edit_action_delete">Odstranit</string>
     <string name="alert_edit_action_update">Aktualizovat</string>
@@ -8,7 +8,7 @@
     <string name="alert_message_delete_folders_notes">Opravdu chcete vymazat složky(%1$s) a poznámky(%2$s)?</string>
     <string name="alert_message_delete_note">Opravdu chcete smazat tuto poznámku?</string>
     <string name="alert_message_delete_notes">Opravdu chcete vymazat poznámky(%1$s)?</string>
-	  <string name="alert_message_discard_changes">Zrušit všechny změny?</string>
+    <string name="alert_message_discard_changes">Zrušit všechny změny?</string>
     <string name="app_name">Poznámky</string>
     <string name="app_widget">Poznámky</string>
     <string name="attachment_camera">Fotoaparát</string>
@@ -16,10 +16,10 @@
     <string name="attachment_gallery">Galerie</string>
     <string name="button_new_note">Nová poznámka</string>
     <string name="call_record_folder_name">Seznam volání</string>
-	  <string name="close">Zavřít</string>
+    <string name="close">Zavřít</string>
     <string name="default_folder_name">Poznámky</string>
     <string name="dlg_desc_confirm_alarm_silent">Budíky a upozornění nebudou zvonit v tichém režimu, pokud je tato volba vypnuta.</string>
-+    <string name="dlg_title_confirm_alarm_silent">Chcete ztišit budík v tichém režimu?</string>
+    <string name="dlg_title_confirm_alarm_silent">Chcete ztišit budík v tichém režimu?</string>
     <string name="enable_sync">Synchr.</string>
     <string name="enable_sync_desc">Poznámky se mohou synchronizovat s Vaším Xiaomi účtem %1$s, synchronizovat?</string>
     <string name="error_contact_not_exist">Kontakt neexistuje</string>
@@ -42,7 +42,7 @@
     <string name="login_sync">Přihlášení a synchr.</string>
     <string name="menu_create_folder">Nová složka</string>
     <string name="menu_delete">Odstranit</string>
-	  <string name="menu_discard">Zrušit</string>
+    <string name="menu_discard">Zrušit</string>
     <string name="menu_folder_change_name">Změnit název složky</string>
     <string name="menu_font_size">Velikost písma</string>
     <string name="menu_move">Přesun do složky</string>
@@ -80,7 +80,7 @@
     <string name="search_hint">Prohledání poznámek</string>
     <string name="search_label">Hledat</string>
     <string name="search_setting_description">Vyhledá text v poznámkách</string>
-	  <string name="select_account_prompt">Povolit synchronizaci poznámek</string>
+    <string name="select_account_prompt">Povolit synchronizaci poznámek</string>
     <string name="success_sdcard_export">Export úspěšný</string>
     <string name="time_picker_dialog_title">Nastavit čas upozornění</string>
     <string name="toast_message_add_image_fail">Vložení obrázku selhalo!</string>
