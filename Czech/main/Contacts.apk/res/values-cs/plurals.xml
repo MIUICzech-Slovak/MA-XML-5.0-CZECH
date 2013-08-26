@@ -48,7 +48,7 @@
     <plurals name="picker_multi_title">
         <item quantity="other">%1$d vybraných</item>
         <item quantity="zero">%1$d vybraných</item>
-        <item quantity="one">%1$d vybraný</item>
+        <item quantity="one">%1$d vybrán</item>
     </plurals>
     <plurals name="group_add_success_toast">
         <item quantity="other">Úspěšně přidaných %1$d lidí</item>
@@ -57,5 +57,10 @@
     <plurals name="smart_group_member_count">
         <item quantity="other">%d lidí</item>
         <item quantity="one">1 člověk</item>
+    </plurals>
+    <plurals name="numSelectedSimContacts">
+        <item quantity="other">"%1$d vybraných"</item>
+        <item quantity="zero">%1$d vybraných</item>
+        <item quantity="one">%1$d vybrán</item>
     </plurals>
 </resources>

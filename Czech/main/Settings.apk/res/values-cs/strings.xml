@@ -712,7 +712,7 @@ Toto nastavení ovlivní všechny uživatele tohoto telefonu."</string>
     <string name="dialog_title_font_size">Velikost písma</string>
     <string name="dirac_control">Dirac Ovládání</string>
     <string name="dirac_mode_earbuds">Sluchátka</string>
-    <string name="dirac_mode_earphones">Špunty</string>
+    <string name="dirac_mode_in_ear">Sluchátka</string>
     <string name="dirac_mode_off">Dirac Vypnutý</string>
     <string name="dirac_mode_piston_100">Xiaomi sluchátka</string>
     <string name="disableNetwork">Vypnout síť</string>

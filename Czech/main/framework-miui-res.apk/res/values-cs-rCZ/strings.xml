@@ -25,8 +25,10 @@
     <string name="delete">Smazat</string>
     <string name="deprecated_alarm_message_12_hour_formate"/>
     <string name="device_xiaomi">Xiaomi telefon</string>
+    <string name="device_hongmi">Hongmi telefon</string>
     <string name="double_seventh_day" />
     <string name="emergency_call_string">SOS</string>
+    <string name="err_resource_leak">Aplikace %1$s byla bohužel ukončena z důvodu vysokého využití paměti RAM.</string>
     <string name="error_forbidden">Váš účet má nějaké problémy. Synchronizace je vypnutá.</string>
     <string name="error_not_acceptable">Server má problémy. Synchronizace je vypnutá.</string>
     <string name="error_title">Chyba synchr. pro %s</string>
@@ -45,7 +47,7 @@
     <string name="find_device_turn_off_flight_mode">Vypnout režim letadlo</string>
     <string name="find_device_turn_off_flight_mode_instructions">"Vaše zařízení bylo zablokováno, vypněte režim letadlo"</string>
     <string name="firewall_setting">Antispam</string>
-    <string name="first_back_long_press_message">"Chcete používat dlouhé stlačení klávesy Zpět k zabití aktivní aplikace? \nFunkci zapnete v Nastavení systému > Tlačítka"</string>
+    <string name="first_back_long_press_message">"Chcete používat dlouhé stlačení klávesy Zpět k ukončení aktivní aplikace? \nFunkci zapnete v Nastavení systému > Tlačítka"</string>
     <string name="fm_record_smaple_prefix_miui">FM_Nahrávka</string>
     <string name="fools_day" />
     <string name="force_exit_message">Aplikace \"%1$s\" byla úspěšně ukončena"</string>

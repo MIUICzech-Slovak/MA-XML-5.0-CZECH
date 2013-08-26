@@ -152,6 +152,7 @@
     <string name="config_prohibited_phone_number_regexp"/>
     <string name="confirm_delete_contact_all_call_logs">"Opravdu chcete vymazat všechny záznamy kontaktu %s?"</string>
     <string name="confirm_delete_selected_all_call_logs">"Opravdu chcete vymazat všechny záznamy o hovorech tohoto kontaktu?"</string>
+    <string name="confirm_delete_sim_entry_miui">Potvrďte vymazání %d vybraných kontaktů na SIM kartě.</string>
     <string name="confirm_export_message">Opravdu chcete exportovat seznam kontaktů do souboru %s?</string>
     <string name="confirm_export_title">Potvrdit export</string>
     <string name="connections">Propojení</string>
@@ -207,6 +208,9 @@
 	  <string name="delete_duplicate_message">"Slučuji... "</string>
     <string name="delete_group_dialog_message">"Opravdu chcete vymazat skupinu \"%1$s\"? (Kontakty ve skupině nebudou smazány.)"</string>
     <string name="delete_group_dialog_title">Vymazat skupinu</string>
+    <string name="delete_selected_sim_entry_miui">Vymazat vybrané kontakty</string>
+    <string name="delete_sim_entries_finish">Vymazání kontaktů na SIM kartě dokončeno</string>
+    <string name="delete_sim_entry_miui">Vymazat</string>
     <string name="delete_unknown_contact_calllog_title">Potvrdit smazání volání na neznámá čísla?</string>
     <string name="deleting">Odstraňování...</string>  
     <string name="deleting_sim_entry_miui">Mazání kontaktů na SIM kartě...</string> 
@@ -404,6 +408,7 @@ Chyba: \"%s\""</string>
     <string name="ic_menu_done">Hotovo</string>
     <string name="imLabelsGroup">IM</string>
     <string name="imei">IMEI</string>
+    <string name="import_all_sim_entries_miui">Importování všech kontaktů</string>
     <string name="import_all_vcard_string">Importovat všechny vizitky</string>
     <string name="import_contact_card_button">Import</string>
     <string name="import_failure_no_vcard_file">Na SD kartě nebyla nalezena žádná vizitka</string>
@@ -414,6 +419,9 @@ Chyba: \"%s\""</string>
     <string name="import_name">Jméno</string>
   	<string name="import_one_vcard_string">Importovat vizitku</string>
     <string name="import_percent">0%</string>
+    <string name="import_selected_sim_entries_miui">Importovat vybrané kontakty</string>
+    <string name="import_sim_entries_finish">Import kontaktů ze SIM karty dokončen</string>
+    <string name="import_sim_entry_miui">Import</string>
   	<string name="import_to_xiaomi_account_confirm">Přesunout</string>
     <string name="import_to_xiaomi_account_progress_finish">Přesun kompletní</string>
     <string name="import_to_xiaomi_account_progress_message">Přesouvání...</string>
@@ -430,6 +438,7 @@ Chyba: \"%s\""</string>
     <string name="import_weibo_notification_title_done">Import kompletní</string>
     <string name="import_weibo_progress_name">%1$s</string>
     <string name="import_weibo_progress_percent">%1$d%%</string>
+    <string name="importing_sim_contacts_miui">Importování kontaktů ze SIM...</string>
   	<string name="importing_vcard_canceled_title">Import %s byl přerušen</string>
     <string name="importing_vcard_description">Import %s</string>
     <string name="importing_vcard_finished_title">Import vizitky %s dokončen</string>
@@ -742,12 +751,14 @@ Synchronizujte je nyní."</string>
     <string name="private_num">Soukromé číslo</string>
 	  <string name="profile_display_name">Nastavit můj profil</string>
     <string name="profile_name">Můj profil</string>
+    <string name="profile_name_photo">Já</string>
     <string name="progress_notifier_message" formatted="false">Importuji %s/%s: %s</string>
     <string name="quickcontact_missing_app">Aplikace potřebná na tuto akci nebyla nalezena</string>
     <string name="quit_dialog_confirm_title">Chcete ukončit slučování kontaktů?</string>
     <string name="readOnlyContactDeleteConfirmation">Tento kontakt obsahuje informace z několika účtů. Informace z účtu jen ke čtení budou v seznamech kontaktů skryté, ale nebudou vymazané.</string>
     <string name="readOnlyContactDeleteConfirmationDetail">\"%s\" obsahuje data z více účtů.</string>
     <string name="readOnlyContactWarning">Z účtu jen ke čtení není možné kontakty smazat, můžete je však v seznamech kontaktů skrýt.</string>
+    <string name="readingSimContacts">Načítání informací ze SIM karty...</string>
     <string name="reading_vcard_canceled_title">Načítání dat vCard bylo přerušeno</string>
     <string name="reading_vcard_failed_title">Načítání dat vCard se nepodařilo</string>
     <string name="rebuild_t9_index_dialog_message">Obnovování indexu T9...</string>
@@ -856,14 +867,18 @@ Prosím otevřete tuto aplikaci ještě jednou pro aktualizaci zdrojů."</string
     <string name="shortcutDialContact">Přímá volba</string>
     <string name="shortcutMessageContact">Přímá zpráva</string>
     <string name="showAllContactsJoinItem">Zobrazit všechny kontakty</string>
+    <string name="simContacts_airplaneMode">Pro importování kontaktů ze SIM karty deaktivujte režim Letadlo.</string>
+    <string name="simContacts_empty">Žádné kontakty na Vaší SIM kartě.</string>
     <string name="simContacts_emptyLoading">Načítání kontaktů na SIM...</string>
     <string name="simContacts_title">Kontakty na SIM</string>
     <string name="sim_card_no_free_space_message">Kapacita vaší SIM je vyčerpaná, nemůžete přidat další kontakty. Prosím uvolněte místo</string>
     <string name="sim_card_no_free_space_title">SIM karta je plná</string>
+    <string name="sim_contact_dropdown_menu_deselect_all_miui">Odznačit vše</string>
+    <string name="sim_contact_dropdown_menu_select_all_miui">Označit vše</string>
     <string name="sim_contact_search_error">Došlo k chybě při hledání kontaktů na SIM kartě</string>
     <string name="sim_contacts">SIM kontakty</string>
     <string name="sim_export_loading">Informace o SIM kartě se načítají. Tato operace může trvat déle.</string>
-    <string name="sim_indexed_contact_not_exist" formatted="false">Pozice %1$d na SIM kartě není platná, should between %2$d and %3$d</string>
+    <string name="sim_indexed_contact_not_exist" formatted="false">Pozice %1$d na SIM kartě není platná, měla by být mezi %2$d a %3$d</string>
     <string name="sim_no_contact">Žádné kontakty na SIM kartě</string>
     <string name="single_group_list_empty">Prázdná skupina</string>
     <string name="smart_group_action_bar_title">%1$s-%2$s, %3$s</string>
@@ -920,6 +935,8 @@ Prosím otevřete tuto aplikaci ještě jednou pro aktualizaci zdrojů."</string
     <string name="title_other_devices">Ostatní dostupná zařízení</string>
     <string name="title_paired_devices">Spárovaná zařízení</string>
     <string name="toast_call_detail_error">Nemohu přečíst detaily o hovoru.</string>
+    <string name="toast_copy_done">Kopírování dokončeno</string>
+    <string name="toast_copying">Kopírování...</string>
     <string name="toast_displaying_all_contacts">Zobrazení všech kontaktů</string>
     <string name="toast_finish_delete_call_log">Seznam hovorů byl smazán</string>
     <string name="toast_for_failed_saving_nickname">Nepodařilo se uložit přezdívku!</string>
@@ -934,7 +951,7 @@ Prosím otevřete tuto aplikaci ještě jednou pro aktualizaci zdrojů."</string
     <string name="type_voicemail">Hlasová zpráva</string>
     <string name="unknown">Neznámý</string>
     <string name="unknown_contact_name">Neznámý kontakt</string>
-    <string name="upgrade_in_progress">Aktualizace seznamu kontaktů</string>
+    <string name="upgrade_in_progress">"Aktualizace seznamu kontaktů"</string>
     <string name="upgrade_out_of_memory">Proces aktualizace kontaktů. 
     
 Aktualizace vyžaduje přibližně %s MB vnitřní paměti. 
