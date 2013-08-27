@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="prefEntries_max_bytes_limit">
+        <item>1GB</item>
         <item>100MB</item>
         <item>50MB</item>
         <item>20MB</item>
@@ -14,6 +15,7 @@
         <item>Vždy</item>
     </string-array>
     <string-array name="prefValues_max_bytes_limit">
+        <item>1048576000</item>
         <item>104857600</item>
         <item>52428800</item>
         <item>20971520</item>
