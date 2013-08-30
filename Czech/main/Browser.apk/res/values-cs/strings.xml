@@ -331,7 +331,6 @@
     <string name="pref_content_open_in_background">Otevřít na pozadí</string>
     <string name="pref_content_open_in_background_summary">Otvírat nové karty na pozadí aktuální karty</string>
     <string name="pref_content_plugins">Povolit doplňky</string>
-    <string name="pref_content_preload_title">Přednačítat obsah</string>
     <string name="pref_content_search_engine">Nastavit vyhledávání</string>
     <string name="pref_content_search_engine_summary">Vyberte vyhledávač</string>
     <string name="pref_content_title">Obsah stránky</string>
@@ -384,7 +383,6 @@
     <string name="pref_general_sync_title">Synchronizace</string>
     <string name="pref_general_title">Obecné</string>
     <string name="pref_gesture_title">Akce gest</string>
-    <string name="pref_image_display_control">Zobrazení obrázků</string>
     <string name="pref_images_preload_default_value">@string/pref_images_preload_value_always</string>	
     <string name="pref_images_preload_dialogtitle">Přednačítat obrázky</string>
     <string name="pref_images_preload_summary">". Povolit prohlížeči přednačítat obrázky"</string>
@@ -567,4 +565,13 @@
     <string name="webstorage_origin_summary_mb_stored">MB uložených ve Vašem telefonu</string>
     <string name="webstorage_outofspace_notification_text">Dotkněte se pro uvolnění místa.</string>
     <string name="webstorage_outofspace_notification_title">Úložiště prohlížeče je plné</string>
+    <string name="pref_save_bandwidth_mode_title">Využití mobilních dat</string>
+    <string name="pref_save_bandwidth_mode_summary">Pokud je povoleno, prohlížeč nebude používat Váš mobilní internet pro načítání obrázků a přednačítání stránek</string>
+    <string name="menu_enable_save_bandwidth_mode">Omezit mobilní data</string>
+    <string name="menu_disable_save_bandwidth_mode">Deaktivovat omezení používání mobilních dat</string>
+    <string name="menu_save_bandwidth_mode_first_clicked_txt">"Nepoužívat mobilní internet pro načítání obrázků a přednačítání stránek"</string>
+    <string name="menu_save_bandwidth_mode_first_clicked_positive_btn_txt">OK</string>
+    <string name="menu_save_bandwidth_mode_open_toast">Aktivované omezení používání mobilních dat</string>
+    <string name="menu_save_bandwidth_mode_close_toast">Deaktivované omezení používání mobilních dat</string>
+    <string name="modify_download_path_no_sdcard_dlg_msg">Pro změnu se vyžaduje USB úložiště.</string>
 </resources>
