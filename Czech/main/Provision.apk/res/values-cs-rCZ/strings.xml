@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="continues"><u>Pokračování</u></string>
+    <string name="continues">Pokračovat</string>
     <string name="data_usage_summary">Pokud nemáte předplacený mobilní internet, doporučuje se data deaktivovat. Jinak se mohou výrazně zvýšit Vaše poplatky.</string>
     <string name="default_gprs_sim_name">Vložte \"%s\" předplacená data</string>
     <string name="input_method">Metoda vstupu</string>	
@@ -20,11 +20,11 @@
     <string name="other_service_user_experience_summary1">Zásad ochrany osobních údajů</string>
     <string name="setup_complete_info">Systém zaznamená čas zahájení používání tohoto telefonu, jako čas zahájení Vašich poprodejních služeb</string>
     <string name="setup_complete_label">Děkujeme</string>
-    <string name="setup_complete_start">Vstupte do světa MIUI...</string>
+    <string name="setup_complete_start">Dokončit</string>
     <string name="setup_complete_summary">Nastavení dokončeno! Užijte si MIUI!</string>
     <string name="shutdown">Vypnout</string>
-    <string name="sim_card_detection_dialog_message">Vyhledávání SIM karty. Čekejte prosím.</string>
-    <string name="sim_card_detection_info">"Bez SIM karty není možné nastavit účet Xiaomi. Potřebujete SIM kartu pokud chcete využívat všechny naše služby, jako synchronizaci kontaktů, fotografií, atd."</string>
+    <string name="sim_card_detection_dialog_message">Vyhledávání SIM karty...</string>
+    <string name="sim_card_detection_info">"Potřebujete SIM kartu pokud chcete využívat všechny naše služby, jako synchronizaci kontaktů, fotografií, atd."</string>
     <string name="sim_card_detection_label">Vyhledání SIM karty</string>
     <string name="sim_card_detection_status_absent">SIM karta nenalezena. Vložte SIM kartu a restartujte telefon, nebo pokračujte.</string>
     <string name="traffic_protection_label">Ochrana spotřeby mobilních dat</string>
