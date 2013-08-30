@@ -409,7 +409,7 @@
   <string name="success_message_import_from_account">Úspěšně importováno</string>
   <string name="tags">Značky</string>
   <string name="tap_to_exposure">Dotkněte se pro manuální expozici.</string>
-  <string name="tap_to_focus">Dotkněte se pro přiblížení.</string>
+  <string name="tap_to_focus">Dotykem zaostříte.</string>
   <string name="time">Čas</string>
   <string name="time_lapse_error">Neplatná velikost pro časosběrné nahrávání.</string>
   <string name="times">Časy</string>
