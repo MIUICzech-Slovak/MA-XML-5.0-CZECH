@@ -26,6 +26,7 @@
   <string name="alert">Oznámení</string>
   <string name="alert_message_initial_cloud">Systém automaticky odešle Vaše staré a nové fotografie jen pokud jste připojení na síť Wifi.</string>
   <string name="alert_message_open_sync">Vyžaduje se synchronizace, přejete si synchronizovat nyní?</string>
+  <string name="androidesk_wallpapers">Tapety</string>
   <string name="aperture">Clona</string>
   <string name="app_name">Galerie</string>
   <string name="appwidget_empty_text">Žádné snímky.</string>
@@ -60,7 +61,7 @@
   <string name="cloud_album_more_settings">Cloud alba a auto upload</string>
   <string name="cloud_album_set_create">Nový</string>
   <string name="cloud_albums">Cloudová Alba</string>
-  <string name="cloud_camera_display_name">Netříděné</string>
+  <string name="cloud_camera_display_name">Fotografie</string>
   <string name="cloud_gallery_no_pictures">Žádné fotografie v MiCloud</string>
   <string name="cloud_gallery_recyclebin_full">Koš v Cloudu je plný, vyprázdněte ho na stránce i.xiaomi.com</string>
   <string name="cloud_gallery_space_full">Nahrávání selhalo!, Cloud úložiště galerie je plné</string>
@@ -92,6 +93,7 @@
   <string name="crossprocess">Překrytí</string>
   <string name="cut">Ořezání</string>
   <string name="damaged_file">Soubor je poškozený</string>
+  <string name="dcim_opaipic">Opaipic</string>
   <string name="defalt_local_mobile">Mobile</string>
   <string name="delete"> Vymazat</string>
   <string name="delete_fail_too_many_items">Nepodařilo se vymazat, je vybráno příliš mnoho položek</string>
@@ -172,7 +174,7 @@
   <string name="initial_cloud_text">Kdykoli a kdekoli můžete mít Vaše fotografie vždy při sobě</string>
   <string name="initializing_cloud">Vytváření Cloud Alba...</string>
   <string name="input_cloudfolder_name">Jméno složky v Cloudu</string>
-  <string name="internal_camera_folder_display_name">Snímky interního fotoaparátu</string>
+  <string name="internal_camera_folder_display_name">Interní fotografie</string>
   <string name="internal_miui_capture_screen_folder_display_name">Interní screenshoty</string>
   <string name="internal_sd_card">Interní SD karta</string>
   <string name="invalid_recipient_message">"Opravte příjemce, jinak neobdrží zprávu."</string>
@@ -205,6 +207,7 @@
   <string name="messagelist_sender_self">Já</string>
   <string name="miliao_folder_display_name">MiTalk</string>
   <string name="miliao_painting_folder_display_name">MiTalk malování</string>
+  <string name="miliao_saved">Miliao</string>
   <string name="miliao_saved_folder_display_name">MiTalk</string>
   <string name="mimetype">MIME písmo</string>
   <string name="mishop_saved_folder_display_name">MiShop</string>
@@ -214,6 +217,7 @@
   <string name="modify_disallow_hint">Není povoleno přidávání nových fotografií</string>
   <string name="more">Více</string>
   <string name="move_to_cloud_album">Přemístit do Cloudu</string>
+  <string name="mtxx">MTXX</string>
   <string name="multiface_crop_help">Vyber plochu pro začátek.</string>
   <string name="must_pick_file">Vyber obrázek</string>
   <string name="negative">Negativ</string>
@@ -338,6 +342,8 @@
   <string name="tab_lockscreen_text">Tapeta zámku</string>
   <string name="tab_wallpaper_text">Tapeta plochy</string>
   <string name="tags">Tagy</string>
+  <string name="tencent_mobile_qq_img_save">QQ2012</string>
+  <string name="tencent_qq_hd_pic">QQ HD</string>
   <string name="temperature">Teplota</string>
   <string name="time">Čas</string>
   <string name="times">Časy</string>
@@ -348,6 +354,7 @@
   <string name="try_to_send">Pokusit se odeslat</string>
   <string name="turn_left">Otočit doleva</string>
   <string name="turn_right">Otočit doprava</string>
+  <string name="ucdownloads_screenshot">UC Prohlížeč</string>
   <string name="unit_mm">mm</string>
   <string name="untagged">Neoznačené</string>
   <string name="video_err">"Není možno přehrát video."</string>
@@ -373,4 +380,23 @@
   <string name="slideshow_time_title">Čas prezentace</string>
   <string name="operation_set_as_screensaver">Nastavit jako spořič displeje</string>
   <string name="operation_unset_as_screensaver">Zrušit spořič displeje</string>
+  <string name="select_too_much_to_send_tips">Bylo zvoleno příliš mnoho fotografií na odeslání. Zvolte maximálně %d.</string>
+  <string name="immomo_camera">Immomo</string>
+  <string name="weikan_weikan">Weikan TV</string>
+  <string name="tencent_qzonepic">Qzone</string>
+  <string name="qsbk_save">QSBK</string>
+  <string name="sina_weibo_save">Weibo</string>
+  <string name="qqbrowser_img">QQ Browser</string>
+  <string name="android_tencent_tencent_weibo">Tencent Weibo</string>
+  <string name="netease_newsreader_netease_down_pic">Netease Newsreader</string>
+  <string name="renren_image">RenRen</string>
+  <string name="ppmm_gallery">PPMM</string>
+  <string name="dcim_100media">Taobao TMall</string>
+  <string name="beautyphone">Beauty Phone</string>
+  <string name="dcim_viva_pics">VIVA</string>
+  <string name="baidu_flyflow_downloads">Baidu Browser</string>
+  <string name="mtgif">MTGIF</string>
+  <string name="autohomemain">Autohomemain</string>
+  <string name="baidu_bdmobile_downloads">Baidu Mobile</string>
+  <string name="tieba">Tie Ba</string>
 </resources>

@@ -50,8 +50,10 @@
     <string name="play_record">Přehrát</string>
     <string name="preference_led_indicator">Indikace nahrávání</string>
     <string name="preference_led_indicator_prompt">Blikat LED a zobrazit informace v oznamovací listě po dobu nahrávání a uzamčeném telefonu</string>
+    <string name="preference_record_scenes_dialog_title">Zvolte typ nahrávaného zvuku</string>
     <string name="preference_record_type_dialog_title">Zvolit typ nahrávky</string>
     <string name="preference_record_type_title">Typ nahrávky</string>
+    <string name="preference_scenes">Režim nahrávání</string>
     <string name="preference_silent_mode">Nahrávání v tichém režimu</string>
     <string name="record_list">Seznam nahrávek</string>	
     <string name="record_loading">Načítání nahrávky...</string>

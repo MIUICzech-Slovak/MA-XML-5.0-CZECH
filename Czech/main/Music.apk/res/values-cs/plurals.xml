@@ -80,4 +80,8 @@
         <item quantity="other">Hitů: %d</item>
         <item quantity="one">%d hit</item>
     </plurals>
+    <plurals name="Nsearch_results">
+        <item quantity="other">Nalezených: %d</item>
+        <item quantity="one">Nalezených: %d</item>
+    </plurals>
 </resources>
