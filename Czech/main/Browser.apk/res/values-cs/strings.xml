@@ -204,7 +204,8 @@
     <string name="filename_empty_alert_message">"Název souboru nesmí být prázdný"</string>
     <string name="filename_illegal_alert_message">Název souboru obsahuje nepovolené znaky, které byly odstraněny.</string>
     <string name="find_on_page">Najít na stránce</string>
-    <string name="folder_name">Název složky</string>	
+    <string name="folder_name">Název složky</string>
+    <string name="folder_name_too_long">Název složky je příliš dlouhý</string>	
     <string name="forward">Vpřed</string>
     <string name="geolocation_permissions_prompt_dont_share">Odmítnout</string>
     <string name="geolocation_permissions_prompt_message">%s chce znát Vaši polohu</string>
