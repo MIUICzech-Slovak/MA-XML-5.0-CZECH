@@ -1,9 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="access_sd_fail">"Není možný přístup na SD kartu"</string>
+  <string name="accessibilit_camera_video_switch_picker_and_state">Přepínání přední a zadní kamery, nyní je aktivní</string>
+  <string name="accessibility_camera_auto_flashmode">Automatický blesk</string>
+  <string name="accessibility_camera_flash_closemode">Bez blesku</string>
+  <string name="accessibility_camera_flashmode">Vždy s bleskem</string>
   <string name="accessibility_camera_picker">Výběr zvolené kamery</string>
+  <string name="accessibility_camera_switch_back_state">Výběr přední a zadní kamery, nyní je aktivní zadní kamera</string>
+  <string name="accessibility_camera_switch_front_state">Výběr přední a zadní kamery, nyní je aktivní přední kamera</string>
+  <string name="accessibility_close_more_ptions">zatvoriť nastavení</string>
+  <string name="accessibility_more_ptions_closed">nastavení zavřeno</string>
+  <string name="accessibility_more_ptions_opened">nastavení otevřeno</string>
+  <string name="accessibility_open_more_ptions">otevřít více nastavení</string>
   <string name="accessibility_review_thumbnail">Nejnovější fotografie</string>
   <string name="accessibility_shutter_button">Tlačítko spouště</string>
+  <string name="accessibility_skin_beautify_closed">Vylepšení pleti zavřeno</string>
+  <string name="accessibility_skin_beautify_opened">Vylepšení pleti otevřeno</string>
+  <string name="accessibility_switch_to_back_view">zadní kamera</string>
+  <string name="accessibility_switch_to_front_view">přední kamera</string>
   <string name="accessibility_zoom_control">Ovládaní Zoomu</string>
   <string name="albums">Alba</string>
   <string name="aperture">Závěrka</string>
@@ -21,6 +35,7 @@
   <string name="cannot_connect_camera_twice">"Není možné připojit kameru, restartujte telefon"</string>
   <string name="clear_effects">Vymazat efekty</string>
   <string name="close">Zavřít</string>
+  <string name="cloud_album_details">Cloud album:</string>
   <string name="confirm_change_mode_title">Přepnout režim</string>
   <string name="confirm_change_to_expert_mode_message">Přepnout na rozšířený režim?</string>
   <string name="confirm_change_to_simple_mode_message">Přepnout na základní režim?</string>
@@ -74,9 +89,10 @@
   <string name="error_app_unsupported_hfr_720p">720p podporuje až 90 FPS</string>
   <string name="error_app_unsupported_hfr_codec">Při HFR je možné použít pouze kodek H264</string>
   <string name="error_app_unsupported_raw_wavelet">Redukci šumu není možné použít v režimu RAW</string>
-  <string name="error_fail_to_start_audio_capture">Záznam zvuku selhal: Mikrofón je nejspíše využíván jinou aplikací.</string>
+  <string name="error_fail_to_start_audio_capture">Záznam zvuku selhal.</string>
   <string name="exposure_time">Čas expozice</string>
   <string name="file_size">Velikost souboru</string>
+  <string name="find_cloud_album">Najít QR kód cloud alba</string>
   <string name="find_market_qrcode">Vyhledat QR kód obchodu</string>
   <string name="find_mecard_qrcode">Vyhledat QR kód karty</string>
   <string name="find_other_qrcode">Vyhledat QR kód</string>
@@ -162,7 +178,7 @@
   <string name="pref_camera_coloreffect_entry_none">Žádný</string>
   <string name="pref_camera_coloreffect_entry_posterize">Poster</string>
   <string name="pref_camera_coloreffect_entry_sepia">Sépie</string>
-  <string name="pref_camera_coloreffect_title">Efekt barev</string>
+  <string name="pref_camera_coloreffect_title">Filtry</string>
   <string name="pref_camera_contrast_entry_level0">Úroveň 0</string>
   <string name="pref_camera_contrast_entry_level1">Úroveň 1</string>
   <string name="pref_camera_contrast_entry_level10">Úroveň 10</string>
@@ -325,7 +341,7 @@
   <string name="pref_camera_zsl_title">ZSL (okamžitá závěrka)</string>
   <string name="pref_captrue_mirror_entry_off">Vypnuto</string>
   <string name="pref_captrue_mirror_entry_on">Zapnuto</string>
-  <string name="pref_captrue_mirror_title">Zrcadlit přední kameru</string>
+  <string name="pref_captrue_mirror_title">Přední kamera</string>
   <string name="pref_exposure_title">Expozice</string>
   <string name="pref_grp_advanced_settings">Rozšířené Nastavení</string>
   <string name="pref_grp_capture_settings">Nastavení Záznamu</string>
@@ -428,6 +444,7 @@
   <string name="video_reach_size_limit">Byla dosažena maximální velikost souboru.</string>
   <string name="video_snapshot_hint">Klepnutím na displej během nahrávání videa vytvoříte fotografii.</string>
   <string name="videocamera_settings_label">Nastavení videa</string>
+  <string name="visit_cloud_album">Otevřít cloud album</string>
   <string name="wait">Čekejte prosím...</string>
   <string name="web_url_apk_warning">Vybraný QR kód obsahuje aplikaci, která může ohrozit Vaše data. Pro ověření zabezpečení vyhledejte tuto aplikaci v obchodě Google Play.</string>
   <string name="web_url_warning">Internetová stránka v QR kódu může ohrozit Vaše data. Prohlížeč MIUI zkontroluje tento QR kód.</string>
