@@ -84,7 +84,8 @@
     <string name="success_sdcard_export">Export úspěšný</string>
     <string name="time_picker_dialog_title">Nastavit čas upozornění</string>
     <string name="toast_message_add_image_fail">Vložení obrázku selhalo!</string>
-    <string name="toast_privacy_mode">V Chráněném režimu není možné upravovat poznámky</string>
+    <string name="toast_note_privacy_mode">V Chráněném režimu nelze upravovat poznámky</string>
+    <string name="toast_folder_privacy_mode">V Chráněném režimu nelze upravovat složky</string>
     <string name="toast_reach_text_limit_truncate">"Obsah poznámky je automaticky zkrácen, protože je příliš dlouhý."</string>
     <string name="toast_reach_text_limit_attachment">Obsah poznámky je příliš dlouhý pro přidání nové přílohy.</string>
     <string name="widget_havenot_content">Žádná poznámka není vytvořena.</string>

@@ -16,7 +16,7 @@
         <item>2 min</item>
         <item>5 min</item>
         <item>10 min</item>
-        <item>30 min</item>
+        <item>Nikdy</item>
     </string-array>
     <string-array name="dream_timeout_entries">
         <item>Nikdy</item>

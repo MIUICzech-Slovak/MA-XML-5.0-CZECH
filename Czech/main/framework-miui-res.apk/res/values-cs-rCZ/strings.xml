@@ -248,6 +248,7 @@ Zkuste to znovu za %d sekund."</string>
     <string name="volume_icon_description_media">Média</string>
     <string name="volume_icon_description_notification">Upozornění</string>
     <string name="volume_icon_description_ringer">Zvonění</string>
+    <string name="volume_ring_description">Zvonění a notifikace</string>
     <string name="wake_alarm_message">Ponechat aktivní budík: %s</string>
     <string name="white_dews" />
     <string name="winter_begins" />
