@@ -227,10 +227,10 @@ Zkuste to znovu za %d sekund."</string>
     <string name="unlockscreen_recharge_completed">Baterie nabitá</string>
     <string name="unlockscreen_recharging_message">Nabíjení %d%%</string>
     <string name="user_agreement1">Budete používat systém a služby poskytované společností Xiaomi, prosím přečtěte si </string>
-    <string name="user_agreement2">podmínky použití</string>
+    <string name="user_agreement2"> podmínky použití</string>
     <string name="user_agreement3">" a "</string>
-    <string name="user_agreement4">ochrana osobních údajů</string>
-    <string name="user_agreement5">. Klepněte na OK pokud souhlasíte s podmínkami. Klepnutím na Zrušit akci ukončíte.</string>
+    <string name="user_agreement4">ochrana osobních údajů. </string>
+    <string name="user_agreement5">.Klepněte na OK pokud souhlasíte s podmínkami. Klepnutím na Zrušit akci ukončíte.</string>
     <string name="v5_date_picker_label_day" />
     <string name="v5_date_picker_label_month" />
     <string name="v5_date_picker_label_year" />
