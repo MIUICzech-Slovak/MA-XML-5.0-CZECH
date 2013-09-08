@@ -140,6 +140,7 @@
   <string name="not_enough_space">Vaše SD karta je plná.</string>
   <string name="not_selectable_in_scene_mode">Není možné vybrat v režimu scény.</string>
   <string name="ok">OK</string>
+  <string name="open">Nahrávat</string>
   <string name="orientation">Orientace</string>
   <string name="pano_dialog_panorama_failed">"Není možné uložit panoramatický snímek"</string>
   <string name="pano_dialog_prepare_preview">Příprava panoramatu</string>
@@ -314,6 +315,9 @@
   <string name="pref_camera_sound_title">Zvuk kamery</string>
   <string name="pref_camera_sound_title_entry_off">Vyp</string>
   <string name="pref_camera_sound_title_entry_on">Zap</string>
+  <string name="pref_camera_storage_external_entry_off">Úložiště</string>
+  <string name="pref_camera_storage_external_entry_on">SD karta</string>
+  <string name="pref_camera_storage_external_title">Telefon</string>
   <string name="pref_camera_touchafaec_entry_off">Vyp</string>
   <string name="pref_camera_touchafaec_entry_on">Zap</string>
   <string name="pref_camera_touchafaec_title">Ostření dotykem</string>
@@ -417,6 +421,7 @@
   <string name="simple_mode_button_text_panorama">Ukončit panorama</string>
   <string name="simple_mode_button_text_slow_video">Ukončit zpomalenou kameru</string>
   <string name="simple_mode_title">Základní režim</string>
+  <string name="skip">"Nenahrávat"</string>
   <string name="slideshow">Prezentace</string>
   <string name="snapshot_lower_than_video">Video snapshot size is lower than video size. Capping the video size. Please select a resolution higher or equal to the current video size.</string>
   <string name="snapshot_qcif_and_d1">Only Video snapshot size is supported for this resolution.</string>
