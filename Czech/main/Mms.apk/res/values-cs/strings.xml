@@ -270,8 +270,8 @@
     <string name="pref_summary_new_message_popup_when_secure">Zadat heslo pro zobrazení vyskakovacího okna</string>
     <string name="pref_summary_notification_body_enabled">Zobrazit zprávu na zamykací obrazovce a v notifikační liště</string>
     <string name="pref_summary_notification_body_enabled_when_secure">Náhled zprávy je v chráněném režimu vypnutý</string>
-    <string name="pref_summary_off_system_mms_priority">Ostatní MMS aplikace dostanou zprávu přednostně</string>
-    <string name="pref_summary_on_system_mms_priority">Systémová MMS aplikace dostane zprávu jako první</string>
+    <string name="pref_summary_off_system_mms_priority">Ostatní SMS aplikace dostanou zprávu přednostně</string>
+    <string name="pref_summary_on_system_mms_priority">Systémová SMS aplikace dostane zprávu jako první</string>
     <string name="pref_summary_show_recent_contacts">Zobrazovat seznam často používaných kontaktů při vytváření nové zprávy</string>
     <string name="pref_summary_wake_up_screen">Při obdržení zprávy rozsvítit displej</string>
     <string name="pref_system_title">Systém</string>
@@ -290,7 +290,7 @@
     <string name="pref_title_ringtone_repeat">Upozornit na novou zprávu</string>
     <string name="pref_title_show_recent_contacts">Nejčastěji používané kontakty</string>
     <string name="pref_title_sms_delete">Limit textových zpráv</string>
-    <string name="pref_title_system_mms_priority">Systém. MMS aplik. má přednost</string>
+    <string name="pref_title_system_mms_priority">Systém. SMS aplik. má přednost</string>
     <string name="pref_title_wake_up_screen">Rozsvítit displej</string>
     <string name="preferences_title">Nastavení</string>
     <string name="prepare_send">Připraveno k odeslání...</string>
