@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="account_abnormal_state">Chyba v informaci o účtě, zkuste se znova přihlásit.</string>
+    <string name="account_abnormal_state">Chyba v informaci o účtě, zkuste se znovu přihlásit.</string>
     <string name="activity_not_found">Aplikace není v telefonu nainstalovaná.</string>
     <string name="all_resources">Vše</string>
     <string name="application_name">MIUI Launcher</string>
@@ -187,7 +187,7 @@
     <string name="screen_rotation_freeze_message">Rotace obrazovky je uzamknuta v horizontální poloze</string>
     <string name="scroll_tip_format_when_announce_accessibility">Strana %1$d, %2$d aplikací</string>
     <string name="sdcard_status_changed_dialog_message">"Aplikace se ukončí.
-Prosím otevřete tuto aplikaci znova pro obnovení zdrojů."</string>
+Prosím otevřete tuto aplikaci znovu pro obnovení zdrojů."</string>
     <string name="sdcard_status_changed_dialog_title">Stav SD karty se změnil</string>
     <string name="select_frame">Rámeček</string>
     <string name="select_photo">Fotka</string>

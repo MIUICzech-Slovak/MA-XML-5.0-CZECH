@@ -285,7 +285,7 @@ zobrazovat a přidávat fotografie do alba"</string>
   <string name="no_map_app">Žádná aplikace pro mapy</string>
   <string name="no_network_connected">Žádné internetové připojení</string>
   <string name="no_picture_or_video">Prázdné</string>
-  <string name="no_storage_disable_cloud_albums">Cloudová alba jsou nedostupná, prosím zkuste znova až bude externí úložiště dostupné.</string>
+  <string name="no_storage_disable_cloud_albums">Cloudová alba jsou nedostupná, prosím zkuste znovu až bude externí úložiště dostupné.</string>
   <string name="no_such_item">"Nemohu najít položku."</string>
   <string name="no_thumbnail">Žádný náhled</string>
   <string name="open">Otevřít</string>
@@ -302,7 +302,7 @@ zobrazovat a přidávat fotografie do alba"</string>
   <string name="operation_set_as_screensaver">Nastavit jako spořič displeje</string>
   <string name="operation_share">Sdílet</string>
   <string name="operation_successful">Hotovo.</string>
-  <string name="operation_too_often">Vaše operace překročila časový limit, zkuste to znova za minutu.</string>
+  <string name="operation_too_often">Vaše operace překročila časový limit, zkuste to znovu za minutu.</string>
   <string name="operation_unset_as_screensaver">Zrušit spořič displeje</string>
   <string name="orientation">Orientace</string>
   <string name="other_category">Další nastavení</string>
@@ -335,12 +335,12 @@ zobrazovat a přidávat fotografie do alba"</string>
   <string name="rename_failed_duplicated_name">Tento název už existuje, není možno přejmenovat</string>
   <string name="renren_image">RenRen</string>
   <string name="request_qr_code">Vytváření QR kódu...</string>
-  <string name="request_qr_code_failed">Vytváření QR kódu selhalo, zkuste to znova.</string>
+  <string name="request_qr_code_failed">Vytváření QR kódu selhalo, zkuste to znovu.</string>
   <string name="request_sms_url_failed">Vytváření URL pro sdílení přes SMS selhalo.</string>
   <string name="request_sms_url_msg">Vytváření URL pro sdílení přes SMS...</string>
   <string name="request_sms_url_title">Tip</string>
-  <string name="retry_to_create_album">Znova</string>
-  <string name="retry_to_request_qr_code">Znova</string>
+  <string name="retry_to_create_album">Znovu</string>
+  <string name="retry_to_request_qr_code">Znovu</string>
   <string name="rotate">Otočit</string>
   <string name="rotate_tooltip">Potáhnout snímek pro jeho otočení</string>
   <string name="saturation">Saturace</string>

@@ -227,7 +227,7 @@
     <string name="cit_tool_wifi_rx_ap_name">Jméno Wi-fi sítě</string>
     <string name="cit_tool_wifi_rx_ap_not_null">Název Wi-fi sítě nemůže být prázdný</string>
     <string name="cit_tool_wifi_rx_ap_type">Typ připojení Wi-fi</string>
-    <string name="cit_tool_wifi_rx_ap_type_error">Chyba připojení, znova vložte nastavení bss / adhoc</string>
+    <string name="cit_tool_wifi_rx_ap_type_error">Chyba připojení, znovu vložte nastavení bss / adhoc</string>
     <string name="cit_tool_wifi_rx_chan">Rx: Kanál</string>
     <string name="cit_tool_wifi_rx_count_error">Výstupní data nejsou čísla</string>
     <string name="cit_tool_wifi_rx_error">Nastala chyba</string>
