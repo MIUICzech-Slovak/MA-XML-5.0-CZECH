@@ -238,7 +238,7 @@
     <string name="import_bookmarks_dialog_confirm_add">Přidat záložky z telefonu a začít synchronizovat s %s?</string>
     <string name="import_bookmarks_dialog_confirm_delete">Smazat záložky na tomto zařízení a synchronizovat záložky s %s?</string>
     <string name="import_bookmarks_dialog_delete_select_account">Vymazat záložky z telefonu a začít synchronizovat s Google účtem?</string>
-    <string name="import_bookmarks_dialog_description">"Záložky na tomto zařízení nejsou synchronizované s účtem Google. Uložte tyto záložky jejich přidáním do účtu, nebo je smažte, pokud je nechcete synchronizovat."</string>
+    <string name="import_bookmarks_dialog_description">"Záložky na tomto zařízení nejsou synchronizované s účtem Google. Uložte tyto záložky jejich přidáním do účtu, nebo je smažte pokud je nechcete synchronizovat."</string>
     <string name="import_bookmarks_dialog_import">Přidat Vaše záložky k záložkám v %s</string>
     <string name="import_bookmarks_dialog_remove">Vymazat záložky</string>
     <string name="import_bookmarks_dialog_select_add_account">Přidat záložky z telefonu a začít synchronizovat s Google účtem?</string>
@@ -552,7 +552,7 @@
     <string name="ua_switcher_desktop">Vynutit desktop stránku</string>
     <string name="uploads_disabled">Upload souborů je vypnut.</string>
     <string name="url_copy_done">Adresa je zkopírovaná</string>
-    <string name="url_hint">Hledat, nebo zadat URL</string>
+    <string name="url_hint">Hledat nebo zadat URL</string>
     <string name="username">Jméno</string>
     <string name="view_certificate">Zobrazit certifikát</string>
     <string name="warning">Varování</string>
