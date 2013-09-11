@@ -99,10 +99,9 @@
   <string name="cloud_media_set_set">Cloudová alba</string>
   <string name="cloud_owner_album_share_guide">Můžete sdílet toto album s přáteli</string>
   <string name="cloud_screenshots_display_name">Screenshoty</string>
-  <string name="cloud_share_guide_message">"Můžete sdílet Vaše cloudové album s 
-přáteli. Vy a Vaši přátelé můžete 
-zobrazit a přidat fotografie do alba 
-společně!"</string>
+  <string name="cloud_share_guide_message">"Můžete sdílet Vaše cloudové album 
+s přáteli. Vy a vaši přátelé tak můžete 
+zobrazovat a přidávat fotografie do alba"</string>
   <string name="cloud_share_guide_title">Sdílení je podporováno!</string>
   <string name="cloud_tab_albums">Alba</string>
   <string name="cloud_tab_all">Vše</string>
