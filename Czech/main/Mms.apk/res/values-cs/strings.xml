@@ -2,7 +2,7 @@
 <resources>
     <string name="activity_not_found">Nenalezen program pro zobrazení přílohy</string>
     <string name="activity_not_found_uri">Nenalezen program pro tuto akci</string>
-  <string name="add_attachment">Příloha</string>
+    <string name="add_attachment">Příloha</string>
     <string name="add_bookmark">Oblíbené</string>
     <string name="add_contact">Přidat kontakt</string>
     <string name="add_festival">Doporučené</string>
@@ -17,6 +17,7 @@
     <string name="add_smiley">Přidat smajlík</string>
     <string name="add_timing">Časovač</string>
     <string name="add_video">Přidat video</string>
+    <string name="addBlackList">Přidat na černou listinu</string>
     <string name="adding_attachments">Čekejte prosím, než budou položky přidány do prezentace.</string>
     <string name="adding_attachments_title">Přidávání příloh</string>
     <string name="adding_recipients">Přidání příjemce…</string>
@@ -29,7 +30,8 @@
     <string name="attach_subject">Předmět</string>
     <string name="attach_take_photo">Vyfotit obrázek</string>
     <string name="attach_video">Videa</string>
-  <string name="back_to_message_list">Seznam zpráv</string>
+    <string name="back_to_message_list">Seznam zpráv</string>
+    <string name="batch_adding_progress_message">Přidávání...</string>
     <string name="batch_delete_confirm_dialog_message">Opravdu chcete smazat vybrané zprávy?</string>
     <string name="batch_deleting_message_progress_message">Odstraňování zpráv</string>
     <string name="batch_deleting_progress_message">Smazat celé vlákno zpráv</string>
@@ -51,6 +53,7 @@
     <string name="close">Zavřít</string>
     <string name="compressing">Fotografie je příliš velká. Probíhá komprese...</string>
     <string name="confirm">Potvrdit</string>
+    <string name="confirm_add_blacklist_dialog_dspt">Přidat číslo na černou listinu?</string>
     <string name="confirm_delete_SIM_message">Tato zpráva na kartě SIM bude smazána.</string>
     <string name="confirm_delete_all_SIM_messages">Všechny zprávy na SIM budou smazány</string>
     <string name="confirm_delete_all_conversations">Všechny konverzace budou smazány</string>
@@ -84,7 +87,7 @@
     <string name="converting_to_picture_message">Převádění na multimediální zprávu...</string>
     <string name="converting_to_text_message">Převádění na textovou zprávu...</string>
     <string name="copy_message_text">Kopírovat text zprávy</string>
-  <string name="copy_message_text_success">Text zkopírován</string>
+    <string name="copy_message_text_success">Text zkopírován</string>
     <string name="copy_to_sdcard">Uložit přílohu</string>
     <string name="copy_to_sdcard_fail">Uložit přílohu</string>
     <string name="copy_to_sdcard_success">Příloha byla uložena</string>
@@ -135,6 +138,7 @@
     <string name="festival_sms_category_count_format">(%s)</string>
     <string name="festival_sms_loading">Načítám...</string>
     <string name="fetion_prefix">[Otevřít]</string>
+    <string name="file_share_message_description">Sdílím s Vámi soubory</string>
     <string name="flatshow_page_no">%1$d</string>
     <string name="forward_prefix">"Fwd: "</string>
     <string name="found_old_messages">Celkem z: %1$s bylo nalezených ze starého účtu. Přejete si je nahrát do stávajícího účtu: %2$s?</string>
@@ -345,12 +349,12 @@
     <string name="select_link_title">Vybrat akci</string>
     <string name="select_local_audio">Vybrat zvuk</string>
     <string name="select_local_video">Vybrat video</string>
-  <string name="select_recipient">Příjemce</string>
+    <string name="select_recipient">Příjemce</string>
     <string name="select_top_text">Text nahoře</string>
     <string name="send">Poslat</string>
     <string name="send_signature_confirm_dialog_message">Nezadali jste žádný text. Opravdu chcete takto zprávu odeslat?</string>
     <string name="send_signature_confirm_dialog_title">Poslat podpis</string>
-  <string name="send_sms">Odeslat</string>
+    <string name="send_sms">Odeslat</string>
     <string name="send_to">"Komu: "</string>
     <string name="send_to_count">Poslat %1$s zprávu(y)</string>
     <string name="send_to_index_contact">Posílám %2$s z %1$s..</string>

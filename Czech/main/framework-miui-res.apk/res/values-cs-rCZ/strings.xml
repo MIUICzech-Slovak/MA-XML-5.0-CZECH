@@ -97,6 +97,7 @@ Zkuste to znovu za %d sekund."</string>
     <string name="lockscreen_transport_play_description">Přehrávání</string>
     <string name="lockscreen_transport_prev_description">Předešlá skladba</string>
     <string name="lockscreen_unlock_sim_via_puk">Zadejte PUK kód pro odblokování SIM karty</string>
+    <string name="login_website_in_case_forget_password">Navštivte i.xiaomi.com pro obnovení hesla</string>
     <string name="lunar_ba" />
     <string name="lunar_calendar" />
     <string name="lunar_chu" />

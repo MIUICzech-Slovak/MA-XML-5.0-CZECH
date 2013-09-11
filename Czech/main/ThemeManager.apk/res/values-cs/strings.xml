@@ -23,6 +23,7 @@
     <string name="component_lockstyle_personal_title">Nastavení</string>	
     <string name="component_select_title">Vybráno (%1$s)</string>	
     <string name="component_settings_title">Přizpůsobit téma</string>
+    <string name="default_name">Výchozí</string>
     <string name="deleting">Odstraňování...</string>	
     <string name="description_author">Autor:</string>
     <string name="description_designer">Designér:</string>
@@ -43,6 +44,7 @@
     <string name="lockscreen_wallpaper">Tapeta zámku</string>
     <string name="lockstyle_personal_settings">Přizpůsobení</string>	
     <string name="long_ringtone_resource">Dlouhé</string>
+    <string name="maml_component_customization_title">Nastavení</string>
     <string name="menu_refresh">Obnovit</string>
     <string name="mi_wallpaper">Mi-tapeta</string>
     <string name="online_no_network">Síť je nedostupná</string>
