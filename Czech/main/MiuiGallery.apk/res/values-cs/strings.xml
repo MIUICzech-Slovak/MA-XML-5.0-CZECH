@@ -22,7 +22,7 @@
   <string name="add_to_cloud_unknow_reasons">Neznáma chyba</string>
   <string name="albums">Alb</string>
   <string name="albumset_page_title_separator"> | </string>
-  <string name="album_member">Člen alba %s</string>
+  <string name="album_member">Osoby %s</string>
   <string name="album_name">Název alba</string>
   <string name="album_quota_fulfiled">"Nelze vytvorit album. Počet alb přesáhnul limit."</string>
   <string name="album_share_exit_confirm">Opravdu chcete opustit toto album?</string>
@@ -354,9 +354,9 @@ společně!"</string>
   <string name="scan_barcode_guide">Pro zobrazení QR kódu stiskněte tlačítko sdílet v pravém horním rohu.</string>
   <string name="scan_barcode_to_join">Načíst QR kód pro vstup do alba.</string>
   <string name="scan_qr_code">Povolit ostatním skenovat QR kód pro zobrazení tohoto alba</string>
-  <string name="scan_qr_code_buttom_text">Načíst QR kód pro zobrazení tohoto alba.</string>
+  <string name="scan_qr_code_buttom_text">QR kód pro zobrazení tohoto alba.</string>
   <string name="scan_qr_code_failure">Skenování selhalo.</string>
-  <string name="scan_qr_code_top_text">Členové mohou prohlížet a přidávat fotografie.</string>
+  <string name="scan_qr_code_top_text">Mohou prohlížet a přidávat fotografie.</string>
   <string name="screensaver_activate_mode">Prezentace</string>
   <string name="screensaver_activate_only_charging">Pouze při nabíjení</string>
   <string name="screensaver_category">Spořič displeje</string>
@@ -465,7 +465,7 @@ společně!"</string>
   <string name="unpublish_failed">Odstranění z veřejných alb selhalo.</string>
   <string name="unpublish_succeeded">Album není zveřejněno.</string>
   <string name="untagged">Neoznačené</string>
-  <string name="user_alias_self">Mé</string>
+  <string name="user_alias_self">Já</string>
   <string name="video_err">"Není možno přehrát video."</string>
   <string name="view_sharers">Sdíleno s</string>
   <string name="vignette">Portrét</string>

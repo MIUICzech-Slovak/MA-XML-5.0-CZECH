@@ -27,7 +27,7 @@
     <string name="alert">Vyzváněcí tón</string>
     <string name="analog_gadget">Analogové hodiny</string>
     <string name="app_label">Hodiny</string>
-    <string name="auto_silence_never">Vypnuto</string>
+    <string name="auto_silence_never">Nezastavovat</string>
     <string name="auto_silence_summary">Budík se ztiší po %d minutách</string>
     <string name="auto_silence_title">Auto-ztišení</string>
     <string name="battery_charging_level">%d%%</string>
@@ -86,7 +86,7 @@
     <string name="minute_unit">m</string>
     <string name="minutes">%s min</string>
     <string name="music_button_description">Hudba</string>
-    <string name="never">Nikdy</string>
+    <string name="never">Jednou</string>
     <string name="nightmode_button_description">Ztlumit</string>
     <string name="pause">Pauza</string>
     <string name="remind_ringtone">Vyzváněcí tón</string>
