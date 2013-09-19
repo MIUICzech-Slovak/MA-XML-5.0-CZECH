@@ -29,7 +29,7 @@
     <string name="backup_failed">Zálohování selhalo!</string>
     <string name="backup_file_error">Nastal problém se zálohou, operace není dokončena.</string>
     <string name="backup_finished">Záloha hotova</string>
-    <string name="backup_hint">Nevypínejte, nebo nerestartujte telefon!</string>
+    <string name="backup_hint">Nevypínejte a nerestartujte telefon!</string>
     <string name="backup_items_app_tailer">x: data aplikací</string>
     <string name="backup_items_sysdata_tailer">x: systémová data\u0020</string>
     <string name="backup_new">Nový</string>

@@ -189,7 +189,7 @@ Poznámka: Zvětšení trojitým klepnutím funguje ve všech částech obrazovk
     <string name="auto_restore_title">Automatické obnovení</string>
     <string name="auto_startup_application_manage">Při startu</string>
     <string name="auto_startup_count">%d aplikací se spustí při startu</string>
-    <string name="auto_startup_dialog_msg">"MIUI povolí aplikaci se spustit automaticky bez zeptání. To může vést k zvýšené spotřebě energie a dat. \nPovolit automatické spuštění při startu telefonu?"</string>
+    <string name="auto_startup_dialog_msg">"MIUI povolí aplikaci se spustit automaticky bez zeptání. Toto může vést ke zvýšené spotřebě energie a dat. \nPovolit automatické spouštění při startu telefonu?"</string>
     <string name="automatic_brightness">Automatický jas</string>
     <string name="available_size">%s Volné</string>
     <string name="awake">Doba provozu zařízení</string>
@@ -1255,7 +1255,7 @@ zkuste následující:"
     <string name="not_installed">Není nainstalováno</string>
     <string name="notification_pulse_title">Blikat kontrolkou oznámení</string>
     <string name="notification_sound_dialog_title">Zvolit vyzváněcí tón oznámení</string>
-    <string name="notification_sound_title">Výchozí oznámení</string>
+    <string name="notification_sound_title">Zvuk oznámení</string>
     <string name="notification_vibrate_abbreviation">Notifikace</string>
     <string name="notification_volume_title">Upozornění</string>
     <string name="nsd_quick_toggle_summary">Povolit aplikacím na jiných zařízeních přístup k aplikacím ve vašem zařízení</string>
