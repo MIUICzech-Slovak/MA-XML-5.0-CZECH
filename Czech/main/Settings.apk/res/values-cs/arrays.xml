@@ -471,4 +471,9 @@ Počítač automaticky otevře složku ve Vašem telefonu"</item>
         <item>Zakázat</item>
         <item>Vždy povolit</item>
     </string-array>
+    <string-array name="miracast_policies">
+        <item>Krátká prodleva</item>
+        <item>Standard</item>
+        <item>Lepší kvalita</item>
+    </string-array>
 </resources>
