@@ -4,84 +4,96 @@
             "title":"Google",
             "url":"http://www.google.com/",
             "thumbnail":"thumb_google.png",
-            "logobg":"bg08.9.png",
+            "logobg":"bg01.9.png",
+            "nightModeMask": "night.9.png",
             "favicon":""
         },
         {
             "title":"zmeny-sk",
             "url":"https://github.com/MIUICzech-Slovak/MA-XML-5.0-SLOVAK/commits/master/",
             "thumbnail":"change-sk.png",
-            "logobg":"bg08.9.png",
+            "logobg":"bg01.9.png",
+            "nightModeMask": "night.9.png",
             "favicon":""
         },
         {
             "title":"zmeny-cz",
             "url":"https://github.com/MIUICzech-Slovak/MA-XML-5.0-CZECH/commits/master/",
             "thumbnail":"change-cz.png",
-            "logobg":"bg08.9.png",
+            "logobg":"bg01.9.png",
+            "nightModeMask": "night.9.png",
             "favicon":""
         },
         {
             "title":"androidnews",
             "url":"http://www.androidnews.sk/",
             "thumbnail":"androidnews_logo.png",
-            "logobg":"bg08.9.png",
+            "logobg":"bg01.9.png",
+            "nightModeMask": "night.9.png",
             "favicon":""
         },
         {
             "title":"MIUI",
             "url":"http://miui.cz/",
             "thumbnail":"miui_cz-sk.png",
-            "logobg":"bg09.9.png",
+            "logobg":"bg01.9.png",
+            "nightModeMask": "night.9.png",
             "favicon":""
         },
         {
             "title":"miuiandroid",
             "url":"http://miuiandroid.com/community/",
             "thumbnail":"miui-android.png",
-            "logobg":"bg09.9.png",
+            "logobg":"bg01.9.png",
+            "nightModeMask": "night.9.png",
             "favicon":""
         },
         {
             "title":"GooglePlus",
             "url":"https://plus.google.com/b/112639661139919214988/112639661139919214988/posts/",
             "thumbnail":"g_plus.png",
-            "logobg":"bg06.9.png",
+            "logobg":"bg01.9.png",
+            "nightModeMask": "night.9.png",
             "favicon":""
         },
         {
-            "title":"Picasa",
-            "url":"http://picasaweb.google.com/",
-            "thumbnail":"thumb_picasa.png",
-            "logobg":"bg06.9.png",
+            "title":"Xiaomi",
+            "url":"http://xiaomi.eu/",
+            "thumbnail":"thumb_xiaomi.png",
+            "logobg":"bg01.9.png",
+            "nightModeMask": "night.9.png",
             "favicon":""
         },
         {
             "title":"Twitter-CZ",
             "url":"https://twitter.com/MIUICzech/",
             "thumbnail":"thumb_twitter-cz.png",
-            "logobg":"bg03.9.png",
+            "logobg":"bg01.9.png",
+            "nightModeMask": "night.9.png",
             "favicon":""
         },
         {
             "title":"ibuygou",
             "url":"http://www.ibuygou.com//",
             "thumbnail":"ibuy.png",
-            "logobg":"bg05.9.png",
+            "logobg":"bg01.9.png",
+            "nightModeMask": "night.9.png",
             "favicon":""
         },
         {
             "title":"Twitter-SK",
             "url":"https://twitter.com/MIUIslovak/",
             "thumbnail":"thumb_twitter-sk.png",
-            "logobg":"bg03.9.png",
+            "logobg":"bg01.9.png",
+            "nightModeMask": "night.9.png",
             "favicon":""
         },
         {
             "title":"facebook",
             "url":"https://www.facebook.com/MiuiCzechSlovakXiaomi/",
             "thumbnail":"face.png",
-            "logobg":"bg11.9.png",
+            "logobg":"bg01.9.png",
+            "nightModeMask": "night.9.png",
             "favicon":""
         }
     ]
