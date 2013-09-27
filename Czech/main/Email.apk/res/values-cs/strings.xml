@@ -419,6 +419,7 @@ Kopie: %4$s
     <string name="move_action">Přesunout</string>
     <string name="move_to_folder_dialog_title">Přesunout do</string>
     <string name="multiple_new_message_notification_item">"%1$s  %2$s"</string>
+    <string name="newer_action">Novější</string>
     <string name="next_action">Další</string>
     <string name="notification_multiple_new_messages_fmt">Nové zprávy: %1$d</string>
     <string name="notification_to_account">komu: %1$s</string>
