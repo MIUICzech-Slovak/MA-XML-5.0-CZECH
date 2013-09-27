@@ -257,8 +257,11 @@
   <string name="pref_camera_picturesize_professional_entry_4208x2368">10MP (4208x2368)</string>
   <string name="pref_camera_picturesize_title">Velikost fotografie</string>
   <string name="pref_camera_picturesize_title_simple_mode">Velikost fotografie</string>
+  <string name="pref_camera_multiple_face_beauty_title">Vylepšení dvou tváří</string>
+  <string name="pref_camera_multiple_face_beauty_entry_off">Zapnuté</string>
+  <string name="pref_camera_multiple_face_beauty_entry_on">Vypnuté</string>
   <string name="pref_camera_preview_entry_1000">1 sekunda</string>
-  <string name="pref_camera_preview_entry_2000">2 sekund</string>
+  <string name="pref_camera_preview_entry_2000">2 sekundy</string>
   <string name="pref_camera_preview_entry_5000">5 sekund</string>
   <string name="pref_camera_preview_entry_off">Vyp</string>
   <string name="pref_camera_recordlocation_entry_off">Vyp</string>
@@ -268,6 +271,7 @@
   <string name="pref_camera_redeyereduction_entry_disable">Vypnout</string>
   <string name="pref_camera_redeyereduction_entry_enable">Zapnout</string>
   <string name="pref_camera_redeyereduction_title">Redukce červených očí</string>
+  <string name="pref_camera_referenceline_title">Referenční čára</string>
   <string name="pref_camera_referenceline_entry_off">Vyp</string>
   <string name="pref_camera_referenceline_entry_on">Zap</string>
   <string name="pref_camera_saturation_entry_level0">Úroveň 0</string>

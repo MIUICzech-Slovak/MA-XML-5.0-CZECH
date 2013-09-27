@@ -134,6 +134,7 @@
     <string name="callFailed_userBusy">Linka je obsazená.</string>
     <string name="callUnanswered_forwarded">Hovor je přesměrovaný</string>
     <string name="call_assistant_miui">Asistence hovoru</string>
+    <string name="call_barring_sum">Nastavení blokování hlasových hovorů</string>
     <string name="call_forwarding_number_hint_miui">Zadejte prosím číslo pro přesměrování</string>
     <string name="call_forwarding_settings">Přesměrování hovorů</string>
     <string name="call_forwarding_settings_miui">Nastavení přesměrování</string>
@@ -233,6 +234,7 @@
     <string name="cfnry_title_miui">Přesměrovat pokud neodpovídám</string>
     <string name="cfu_title_miui">Vždy přesměrovat</string>
     <string name="change_num">Aktualizovat</string>
+    <string name="change_password">Změnit heslo blokování hovorů</string>
     <string name="change_pin">Změnit kód PIN karty SIM</string>
     <string name="change_pin2">Změna kódu PIN2</string>
     <string name="change_pin2_miui">Změnit PIN2</string>
@@ -264,6 +266,7 @@
     <string name="confirm_delete_message_title_miui">Vybrané zprávy budou smazány</string>
     <string name="confirm_delete_sim_entry_miui">Vymazat %d vybraných kontaktů na SIM kartě?</string>
     <string name="confirm_no_countrycode_for_custom_location_miui">Vložit číslo bez mezinárodní předvolby.</string>
+    <string name="confirm_password_label">Potvrdit nové heslo</string>
     <string name="confirm_pin2_hint_miui">Potvrdit nový PIN2</string>
     <string name="confirm_pin_hint_miui">Potvrdit nový PIN</string>
     <string name="connect_disconnect_vibrate_none_miui">Nevibrovat</string>
@@ -297,10 +300,11 @@
     <string name="custom_location_location_no_item_miui">"Stiskněte 'Přidat' pro zadání vlastní předvolby"</string>
     <string name="custom_location_number_hint_miui">Předvolba krajiny jako 420, číslo skupiny jako 68#####</string>
     <string name="cw_title_miui">Čekající hovor</string>
+    <string name="data_connected_change">Nelze změnit síť během používání mobilních dat. Ukončit používání mobilních dat?</string>
     <string name="data_enable_summary">Aktivuje datové přenosy prostřednictvím mobilní sítě</string>
     <string name="data_enabled">Datové přenosy</string>
-    <string name="data_connected_change">Nelze změnit síť během používání mobilních dat. Ukončit používání mobilních dat?</string>
     <string name="deact_all_sub_not_supported">Deactivation of both the subscriptions is not supported.</string>
+    <string name="deactivate_all">Zrušit vše</string>
     <string name="default_contacts_countrycode_hint_miui">Například: 86</string>
     <string name="default_contacts_countrycode_miui">Výchozí kód země kontaktů</string>
     <string name="default_contacts_countrycode_sum_miui">Nastavit výchozí kód země pro vaše kontakty: %s</string>
@@ -428,6 +432,7 @@
     <string name="enforce_proximity_title_miui">Vynucení senzoru přiblížení</string>
     <string name="enterName">Vložte jméno:</string>
     <string name="enterNumber">Vložte číslo telefonu:</string>
+    <string name="enter_callbarring_password">Zadejte heslo blokování hovorů (4 čísla)</string>
     <string name="enter_pin2_text">PIN2</string>
     <string name="enter_pin2_text_miui">PIN2</string>
     <string name="enter_pin_text">Kód PIN karty SIM:</string>
@@ -515,6 +520,7 @@
     <string name="invalidPuk2">Vložte PUK2 Který má 8 číslic.</string>
     <string name="invalid_new_pin2_miui">Nesprávný nový PIN2, prosím zadejte PIN2, který má od 4 do 8 čísel.</string>
     <string name="invalid_new_pin_miui">Nesprávný nový PIN, prosím zadejte PIN, který má od 4 do 8 čísel.</string>
+    <string name="invalid_password">Zadejte heslo (4 čísla).</string>
     <string name="invalid_pin2_miui">Nesprávný PIN2, prosím zadejte PIN2, který má od 4 do 8 čísel.</string>
     <string name="invalid_pin_miui">Nesprávný PIN, prosím zadejte PIN2, který má od 4 do 8 čísel.</string>
     <string name="invalid_puk2_miui">Nesprávný PUK2, prosím zadejte PUK2, který má 8 čísel.</string>
@@ -550,6 +556,14 @@
     <string name="label_sdp">SIM SIM unlock PIN</string>
     <string name="label_spdp">SIM service provider unlock PIN</string>
     <string name="label_subscription">for Subscription</string>
+    <string name="lable_all_incoming">Všechny příchozí hovory</string>
+    <string name="lable_all_out_except">Mezinárodní hovory krom domácích</string>
+    <string name="lable_all_outgoing">Všechny odchozí hovory</string>
+    <string name="lable_all_outgoing_international">Mezinárodní hovory</string>
+    <string name="lable_call_barring">Blokování hovorů</string>
+    <string name="lable_disable">Deaktivované</string>
+    <string name="lable_enable">Aktivované</string>
+    <string name="lable_incoming_calls_except">Příchozí hovory v roamingu</string>
     <string name="lafs_disable">Místní přílety a odlety zakázány</string>
     <string name="lafs_enable">Místní přílety a odlety povoleny</string>
     <string name="list_language_dtitle">Jazyky</string>
@@ -582,6 +596,7 @@
     <string name="mhh_enable">Lékařství, zdraví a nemocnice povoleny</string>
     <string name="mismatchPin">Vámi zadané PINy se neshodují. Zkuste znovu.</string>
     <string name="mismatchPin2">Vámi zadané PIN2 se neshodují. Zkuste znovu.</string>
+    <string name="mismatch_password">Heslo které jste zadali se neshoduje. Zkuste to znovu.</string>
     <string name="mismatch_pin2_miui">Zadaný PIN nesouhlasí. Prosím zkuste to znovu.</string>
     <string name="mismatch_pin_miui">Zadaný PIN nesouhlasí. Prosím zkuste to znovu.</string>
     <string name="missed_call_notify_five_times_miui">5 krát</string>
@@ -613,6 +628,7 @@
     <string name="newPin2Label">Nový PIN2</string>
     <string name="newPinLabel">Nový PIN</string>
     <string name="new_cards_available">Dostupná nová karta. Nastavte přihlášení.</string>
+    <string name="new_password_label">Nové heslo (4 čísla)</string>
     <string name="new_pin2_hint_miui">Nový PIN2</string>
     <string name="new_pin_hint_miui">Nový PIN</string>
     <string name="next_miui">Další</string>
@@ -661,6 +677,7 @@
     <string name="ok">OK</string>
     <string name="oldPin2Label">Starý PIN2</string>
     <string name="oldPinLabel">Starý PIN</string>
+    <string name="old_password_label">Staré heslo (4 čísla)</string>
     <string name="old_pin2_hint_miui">Aktuální PIN2</string>
     <string name="old_pin_hint_miui">Aktuální PIN</string>
     <string name="onHold">Přidržený hovor</string>
@@ -715,6 +732,7 @@
     <string name="other_settings">Další nastavení hovorů</string>
     <string name="other_settings_miui">Ostatní nastavení</string>
     <string name="password">Heslo</string>
+    <string name="password_changed">Heslo je úspěšně změněno</string>
     <string name="password_title">Heslo</string>
     <string name="pause_prompt_no">Ne</string>
     <string name="pause_prompt_str">"Odesílání tónů"</string>
@@ -1089,6 +1107,7 @@
     <string name="voicemail_settings_number_title_miui">Číslo hlasové schránky</string>
     <string name="wait_prompt_str">"Odeslat následující tóny?"</string>
     <string name="wild_prompt_str">Nahradit zástupný znak znakem</string>
+    <string name="wrong_password">Nesprávné heslo</string>
     <string name="xdivert_active">Aktivní</string>
     <string name="xdivert_button">X-Divert Nastavení</string>
     <string name="xdivert_enternumber_error">Enter phone number for both the subscriptions</string>

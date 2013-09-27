@@ -21,7 +21,7 @@
     <string name="cold_dews" />
     <string name="contact_carrier_message">Obraťte se na Vašeho operátora</string>
     <string name="day_of_month">" %d"</string>
-    <string name="days">dny</string>
+    <string name="days">%d dny</string>
     <string name="delete">Smazat</string>
     <string name="deprecated_alarm_message_12_hour_formate"/>
     <string name="device_xiaomi">Xiaomi telefon</string>
@@ -240,7 +240,7 @@ Zkuste to znovu za %d sekund."</string>
     <string name="v5_icon_menu_bar_more_item_label">Více</string>
     <string name="v5_select_all">Označit vše</string>
     <string name="v5_time_picker_label_hour">H</string>
-    <string name="v5_time_picker_label_minute">M</string>
+    <string name="v5_time_picker_label_minute">Min</string>
     <string name="valentines_day" />
     <string name="vernal_equinox" />
     <string name="volume_alarm">Budík</string>
