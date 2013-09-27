@@ -106,6 +106,7 @@
     <string name="st_sms_group">SMS</string>
     <string name="tab_blacklist">Černá listina</string>
     <string name="tab_block_log">Blokované</string>
+    <string name="tab_block_log_unKnowNumber">Neznámé číslo</string>
     <string name="tab_call">Hovory</string>
     <string name="tab_sms">SMS</string>
     <string name="tab_title">AntiSpam</string>
