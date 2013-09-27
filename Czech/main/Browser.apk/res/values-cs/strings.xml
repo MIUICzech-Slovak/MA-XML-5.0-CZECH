@@ -314,6 +314,7 @@
     <string name="pref_autofill_profile_editor">Vyplnění textu</string>
     <string name="pref_autofill_profile_editor_summary">Nastavit předvyplnění ve webových formulářích</string>
     <string name="pref_autologin_progress">Přihlašování k Google pomocí %s</string>
+    <string name="pref_autologin_progress_in_background">Přihlašování na Google pomocí %s na pozadí</string>
     <string name="pref_autologin_title">Automatické přihlášení k Google</string>
     <string name="pref_clear_cache_for_exit">Vymazat vyrovnávací paměť</string>
     <string name="pref_clear_history_for_exit">Vymazat historii</string>
@@ -461,7 +462,8 @@
     <string name="preview">Náhled</string>
     <string name="progress_dialog_setting_wallpaper">Nastavují tapetu...</string>
     <string name="quicklinks_management">Užitečné stránky</string>
-    <string name="readmode_already_add_to_bookshelf">Has joined bookshelf</string>    
+    <string name="readmode_already_add_to_bookshelf">Has joined bookshelf</string>
+    <string name="readmode_battery">Baterie </string>    
     <string name="readmode_login">Přihlásit</string>    
     <string name="readmode_login_message">subsequent chapters need to log in before mobile reading base account View</string>    
     <string name="readmode_page_load_error">Načítání stránky selhalo. Načtěte znovu tlačítkem Obnovit.</string>    

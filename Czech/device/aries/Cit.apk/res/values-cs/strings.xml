@@ -186,6 +186,7 @@
     <string name="cit_tool_log_file_not_exist">%s neexistuje</string>
     <string name="cit_tool_log_generate_bugreport">Vytváření záznamu o chybě...</string>
     <string name="cit_tool_log_kmsg">Poslední záznam Kernelu</string>
+    <string name="cit_tool_log_no_sdcard">Operace selhala, vložte SD kartu.</string>
     <string name="cit_tool_log_logcat">ADB log</string>
     <string name="cit_tool_log_modem">Záznam Modemu</string>
     <string name="cit_tool_log_ril">RIL log</string>

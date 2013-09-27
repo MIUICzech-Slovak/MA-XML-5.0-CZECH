@@ -299,6 +299,7 @@
     <string name="cw_title_miui">Čekající hovor</string>
     <string name="data_enable_summary">Aktivuje datové přenosy prostřednictvím mobilní sítě</string>
     <string name="data_enabled">Datové přenosy</string>
+    <string name="data_connected_change">Nelze změnit síť během používání mobilních dat. Ukončit používání mobilních dat?</string>
     <string name="deact_all_sub_not_supported">Deactivation of both the subscriptions is not supported.</string>
     <string name="default_contacts_countrycode_hint_miui">Například: 86</string>
     <string name="default_contacts_countrycode_miui">Výchozí kód země kontaktů</string>
@@ -374,6 +375,7 @@
     <string name="dtmf_tones_summary_miui">Nastavte délku pro DTMF tóny</string>
     <string name="dtmf_tones_title">Tóny DTMF</string>
     <string name="dtmf_tones_title_miui">DTMF tóny</string>
+    <string name="duringcall">Tato operace je nedostupná během hovoru</string>
     <string name="ecm_exit_dialog">Dialog ukončení režimu tísňového zpětného volání</string>
     <string name="editContact">Upravit</string>
     <string name="edit_custom_location_title_miui">Přizpůsobit regionální nastavení, formát čísla a podporu zástupných znaků</string>
@@ -504,6 +506,7 @@
     <string name="incall_screen_background_summary_miui">"Použít pozadí zámku obrazovky, pokud chybí foto kontaktu"</string>
     <string name="incall_screen_background_title_miui">Pozadí volací obrazovky</string>
     <string name="incall_status_dialed_mmi">Spouštění sekvence MMI...</string>
+    <string name="information">Informace</string>
     <string name="international_disable">Mezinárodní zprávy zakázány</string>
     <string name="international_enable">Mezinárodní zprávy povoleny</string>
     <string name="internet_phone">Internetový hovor</string>

@@ -2247,6 +2247,8 @@ Každý uživatel může přijmout aktualizovaná oprávnění aplikací jménem
     <string name="wfd_disconnect_diag_msg">Pokud přerušíte připojení k Wi-Fi, Vaše spojení s %1$s se ukončí.</string>
     <string name="wfd_disconnect_diag_title">Přerušit připojení Wi-Fi?</string>
     <string name="wfd_disconnect_multiple_diag_message">Pokud přerušíte Wi-Fi Displej, Vaše spojení s %1$s a %2$s ostatními zařízeními se ukončí.</string>
+    <string name="wfd_enabler_title">Povolit Wi-Fi Displej</string>
+    <string name="wfd_enable_wifi_diag_title">Wi-Fi displej můžete používat jen při zapnuté Wi-Fi. Chcete zapnout Wi-Fi?</string>
     <string name="wfd_menu_search">Vyhledat zařízení</string>
     <string name="wfd_menu_searching">Vyhledávání...</string>
     <string name="wfd_menu_teardown">Odpojit</string>

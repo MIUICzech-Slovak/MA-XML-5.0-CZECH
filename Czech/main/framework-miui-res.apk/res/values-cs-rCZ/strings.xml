@@ -239,8 +239,8 @@ Zkuste to znovu za %d sekund."</string>
     <string name="v5_edit_mode_title_empty">Označit položky</string>
     <string name="v5_icon_menu_bar_more_item_label">Více</string>
     <string name="v5_select_all">Označit vše</string>
-    <string name="v5_time_picker_label_hour" />
-    <string name="v5_time_picker_label_minute" />
+    <string name="v5_time_picker_label_hour">H</string>
+    <string name="v5_time_picker_label_minute">M</string>
     <string name="valentines_day" />
     <string name="vernal_equinox" />
     <string name="volume_alarm">Budík</string>
