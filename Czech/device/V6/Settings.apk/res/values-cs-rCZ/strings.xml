@@ -1,64 +1,66 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="AGPS_CAUSE_BAD_PUSH_CONTENT">Neplatný obsah PUSH</string>
-    <string name="AGPS_CAUSE_NETWORK_CREATE_FAIL">Chyba vytvorenia siete</string>
-    <string name="AGPS_CAUSE_NETWORK_DISCONN">Pripojenie prerušené</string>
-    <string name="AGPS_CAUSE_NOT_SUPPORTED">Nepodporovaná operácia</string>
-    <string name="AGPS_CAUSE_NO_POSITION">Len bez pozície</string>
-    <string name="AGPS_CAUSE_NO_RESOURCE">Žiadne zdroje pre nové procesy</string>
-    <string name="AGPS_CAUSE_REMOTE_ABORT">Druhá strana zrušila pripojenie (prijaté SUPL END)</string>
-    <string name="AGPS_CAUSE_REMOTE_MSG_ERROR">Zobraziť obsah chybovej správy</string>
-    <string name="AGPS_CAUSE_REQ_NOT_ACCEPTED">Požiadavka nebola akceptovaná</string>
-    <string name="AGPS_CAUSE_TIMER_EXPIRY">Správa nebola prijatá v stanovenom čase</string>
-    <string name="AGPS_CAUSE_TLS_AUTH_FAIL">TLS overenie zlyhalo</string>
-    <string name="AGPS_CAUSE_USER_AGREE">Užívateľ pri potvrdení súhlasí</string>
-    <string name="AGPS_CAUSE_USER_DENY">Užívateľ pri potvrdení nesúhlasí</string>
-    <string name="AGPS_DEFAULT_STRING">A-GPS predvolené</string>
-    <string name="AGPS_EM_POS_FIXED">Pozícia nájdená</string>
-    <string name="AGPS_EM_RECV_SI_REQ">SI požiadavka prijatá</string>
-    <string name="AGPS_MODEM_RESET_HAPPEN">Modem sa resetoval</string>
-    <string name="AGPS_NOTIFY_ALLOW_NO_ANSWER">Požiadavka pozície (Bez odpovede bude povolená)</string>
-    <string name="AGPS_NOTIFY_DENY_NO_ANSWER">Požiadavka pozície (Bez odpovede nebude povolená)</string>
-    <string name="AGPS_NOTIFY_ONLY">Upozornenie žiadosť o polohe</string>
-    <string name="AGPS_NOTIFY_PRIVACY">Žiadosť o polohe (Súkromie)</string>
-    <string name="AgpsHelp_Category">Pomoc</string>
+    <string name="AGPS_CAUSE_BAD_PUSH_CONTENT">Incorrect PUSH content</string>
+    <string name="AGPS_CAUSE_NETWORK_CREATE_FAIL">Network Create Fail</string>
+    <string name="AGPS_CAUSE_NETWORK_DISCONN">Network Connection is Down</string>
+    <string name="AGPS_CAUSE_NOT_SUPPORTED">Unsupported Operation</string>
+    <string name="AGPS_CAUSE_NO_POSITION">Only for NO Position</string>
+    <string name="AGPS_CAUSE_NO_RESOURCE">No Resourcce to Handle new process</string>
+    <string name="AGPS_CAUSE_REMOTE_ABORT">Remote Side Abort the Session (receive SUPL END)</string>
+    <string name="AGPS_CAUSE_REMOTE_MSG_ERROR">Receive Incorrect Message Content</string>
+    <string name="AGPS_CAUSE_REQ_NOT_ACCEPTED">Requeset Not Accepted</string>
+    <string name="AGPS_CAUSE_TIMER_EXPIRY">Expect Message not Back During a Specific Time Interval</string>
+    <string name="AGPS_CAUSE_TLS_AUTH_FAIL">TLS authentication fail</string>
+    <string name="AGPS_CAUSE_USER_AGREE">User agree on confirmation</string>
+    <string name="AGPS_CAUSE_USER_DENY">User deny on confirmation</string>
+    <string name="AGPS_DEFAULT_STRING">A-GPS Default String</string>
+    <string name="AGPS_EM_POS_FIXED">Position Fixed</string>
+    <string name="AGPS_EM_RECV_SI_REQ">SI Request Received</string>
+    <string name="AGPS_MODEM_RESET_HAPPEN">Modem reset happen</string>
+    <string name="AGPS_NOTIFY_ALLOW_NO_ANSWER">Location Request (Allow if no Answer)</string>
+    <string name="AGPS_NOTIFY_DENY_NO_ANSWER">Location Request (Deny if no Answer)</string>
+    <string name="AGPS_NOTIFY_ONLY">Location Request Notification</string>
+    <string name="AGPS_NOTIFY_PRIVACY">Location Request (Privacy)</string>
+    <string name="AgpsHelp_Category">Help</string>
     <string name="EM_NotifyDialog_title">EM Notify</string>
-    <string name="MobileNetwork_Category">Mobilná sieť</string>
-    <string name="MobileNetwork_DataConn_off">Dáta sú vypnuté</string>
-    <string name="MobileNetwork_SIM1_Active">SIM1 je aktívna</string>
-    <string name="MobileNetwork_SIM2_Active">SIM2 je aktívna</string>
-    <string name="MobileNetwork_SIM_Active">SIM%1$s je aktívna</string>
-    <string name="MobileNetwork_off_Summary">Zapnite mobilne dáta pred použitím A-GPS</string>
-    <string name="MobileNetwork_on_Summary">A-GPS vyžaduje prístup k mobilným dátam</string>
-    <string name="NI_Request_ClientName">Meno klienta</string>
+    <string name="MobileNetwork_Category">Mobile Network</string>
+    <string name="MobileNetwork_DataConn_off">Data Connection is Off</string>
+    <string name="MobileNetwork_SIM1_Active">SIM1 is Active</string>
+    <string name="MobileNetwork_SIM2_Active">SIM2 is Active</string>
+    <string name="MobileNetwork_SIM_Active">SIM%1$s is Active</string>
+    <string name="MobileNetwork_off_Summary">Please turn on data connection before using A-GPS</string>
+    <string name="MobileNetwork_on_Summary">A-GPS needs to access the mobile network via data connections</string>
+    <string name="NI_Request_ClientName">Client Name</string>
     <string name="NI_Request_ID">Requestor ID</string>
-    <string name="Network_Initiate">Požiadavka siete</string>
-    <string name="Network_Initiate_Summary_off">Nepovoliť sieti získať polohu</string>
-    <string name="Network_Initiate_Summary_on">Povoliť sieti získať polohu</string>
-    <string name="Network_Local_and_Roaming_Summary">Použiť A-GPS v domácej sieti a roamingu</string>
-    <string name="Network_Only_Local_Summary">Použiť A-GPS len v domácej sieti</string>
-    <string name="Network_Roaming_dialog_content">Ak sa nachádzate v roamingu, A-GPS dáta môžu zvýšiť vaše poplatky.</string>
-    <string name="Network_Roaming_dialog_title">Upozornenie</string>
-    <string name="Network_Used">Použitá sieť</string>
-    <string name="Phone_vibrate_summary">Vibrovať pri prichádzajúcom hovore</string>
-    <string name="USER_RESPONSE_TIMEOUT">Čas pre potvrdenie vypršal</string>
-    <string name="WiFiNetwork_on_title">Wi-Fi je zapnutá</string>
-    <string name="about_agps_message">"A-GPS (Assisted-GPS) je systém ktorý zlepšuje prvý nábeh (TTFF) GPS satelitov."</string>
-    <string name="about_agps_title">Čo je A-GPS</string>
-    <string name="accessibility_feature_state_off">Vypnuté</string>
-    <string name="accessibility_feature_state_on">Zapnuté</string>
-    <string name="accessibility_global_gesture_preference_description">"Ak je táto funkcia povolená, môžte rýchlo a jednoducho povoliť jej funkcie v dvoch krokoch:
+    <string name="Network_Initiate">Network Request</string>
+    <string name="Network_Initiate_Summary_off">Deny network to request position</string>
+    <string name="Network_Initiate_Summary_on">Allow network to request position</string>
+    <string name="Network_Local_and_Roaming_Summary">Use A-GPS both under home and roaming network</string>
+    <string name="Network_Only_Local_Summary">Use A-GPS only under home network</string>
+    <string name="Network_Roaming_dialog_content">If the network under roaming condition, A-GPS data traffic may cause extra roaming fees.</string>
+    <string name="Network_Roaming_dialog_title">Attention</string>
+    <string name="Network_Used">Network Used</string>
+    <string name="Phone_vibrate_summary">Vibrate devices for incoming calls</string>
+    <string name="USER_RESPONSE_TIMEOUT">Waiting verification timeout</string>
+    <string name="WiFiNetwork_on_title">WLAN is Active</string>
+    <string name="about_agps_message">"\u0009 A-GPS (Assisted-GPS) is the system that can improve the startup performance and time-to-first-fix (TTFF) of GPS satellites. 
+\u0009 An A-GPS capable device can connect to location servers to acquire the assist data through mobile network data connection. 
+\u0009 Notice that the data traffic may cause extra fees under network roaming conditions. Please contact with your operators for the details."</string>
+    <string name="about_agps_title">About A-GPS</string>
+    <string name="accessibility_feature_state_off">Off</string>
+    <string name="accessibility_feature_state_on">On</string>
+    <string name="accessibility_global_gesture_preference_description">"When this feature is turned on, you can quickly enable accessibility features in two steps:
 
-Krok 1: Stlačte a podržte tlačidlo zapínania kým nezaznie zvuk a vibrácie.
+Step 1: Press and hold the power button until you hear a sound or feel a vibration.
 
-Krok 2: Dotknite sa a podržte dva prsty kým nezaznie zvukové potvrdenie.
+Step 2: Touch and hold two fingers until you hear audio confirmation.
 
-Ak má zariadenie viacero užívateľov, použitie tejto skratky na zamykacej obrazovke dočasne povolí prístup."</string>
-    <string name="accessibility_global_gesture_preference_summary_off">Vypnuté</string>
-    <string name="accessibility_global_gesture_preference_summary_on">Zapnuté</string>
-    <string name="accessibility_global_gesture_preference_title">Skratka dostupnosti</string>
-    <string name="accessibility_long_press_timeout_preference_title">Oneskorenie dotyku a podržania</string>
-    <string name="accessibility_power_button_ends_call_prerefence_title">Tlačidlo zapínania ukončí hovor</string>
+If the device has multiple users, using this shortcut on the lock screen temporarily enables accessibility until the device is unlocked."</string>
+    <string name="accessibility_global_gesture_preference_summary_off">Off</string>
+    <string name="accessibility_global_gesture_preference_summary_on">On</string>
+    <string name="accessibility_global_gesture_preference_title">Accessibility shortcut</string>
+    <string name="accessibility_long_press_timeout_preference_title">Touch &amp; hold delay</string>
+    <string name="accessibility_power_button_ends_call_prerefence_title">Power button ends call</string>
     <string name="accessibility_screen_magnification_summary">"When this feature is turned on, you can zoom in and out by triple-tapping the screen.
 
 While zoomed in, you can:
@@ -172,7 +174,7 @@ Note: Triple-tap for magnification works everywhere except the keyboard and navi
     <string name="data_enabler_summary">Enable data access over Mobile network</string>
     <string name="data_enabler_title">Data enabled</string>
     <string name="data_enabler_waiting_message">Please wait…</string>
-    <string name="data_usage_restrict_background_multiuser">"If you restrict background mobile data, some apps and services won't work unless you're connected to a Wi-Fi network.
+    <string name="data_usage_restrict_background_multiuser">"If you restrict background mobile data, some apps and services won't work unless you're connected to a WLAN network.
 
 This setting affects all users on this phone."</string>
     <string name="data_usage_uninstalled_apps_users">Removed apps and users</string>
@@ -219,7 +221,7 @@ This setting affects all users on this phone."</string>
     <string name="enable_opengl_traces_title">Enable OpenGL traces</string>
     <string name="enable_sim">Enable</string>
     <string name="enable_wifi_display">Enable Wireless display</string>
-    <string name="enable_wifi_tether">Enable Wi-Fi hotspot</string>
+    <string name="enable_wifi_tether">Enable WLAN hotspot</string>
     <string name="epo_about_message">"\u0009EPO (Extended Prediction Orbit) is one of MediaTek's innovative proprietary off-line server based A-GPS technology. 
 \u0009It supports up to 30 days satellite orbit prediction, which can be used to greatly enhance user experience by improving GPS Time To First Fix (TTFF)."</string>
     <string name="epo_about_title">About EPO</string>
@@ -266,7 +268,7 @@ This setting affects all users on this phone."</string>
     <string name="gadget_state_turning_off">turning off</string>
     <string name="gadget_state_turning_on">turning on</string>
     <string name="gadget_sync">Sync</string>
-    <string name="gadget_wifi">Wi-Fi</string>
+    <string name="gadget_wifi">WLAN</string>
     <string name="gemini_3g_disable_warning">3G service is not available with this selected SIM. This may load data slower. You can change the 3G service setting under Settings > Wireless &amp; networks > Mobile networks.</string>
     <string name="gemini_3g_disable_warning_case0">You must enable data roaming for this SIM first which may incur significant roaming charges! Are you sure to enable data roaming and select this SIM?</string>
     <string name="gemini_3g_disable_warning_case1">3G service is not available with this selected SIM. This may load data slower. You can change the 3G service setting under Settings > Wireless &amp; networks > Mobile networks. Are you sure to select this SIM?</string>
@@ -353,7 +355,7 @@ Are you sure to enable GPS now and wait for GPS provided time?"</string>
     <string name="gps_time_sync_attention_gps_on">"It will take at most 1 minute to obtain GPS fix. Besides, GPS may fail to provide time due to weak environmental signal.
 
 Are you sure to use GPS provided time?"</string>
-    <string name="gsm_to_wifi_connect_type_title">Cellular->Wi-Fi</string>
+    <string name="gsm_to_wifi_connect_type_title">Cellular->WLAN</string>
     <string name="hdmi_3d_display_enable_summary">Enable to support 3D game</string>
     <string name="hdmi_3d_display_enable_title">3D Display</string>
     <string name="hdmi_3d_help_title">About HDMI 3D Stereoscopic support</string>
@@ -432,6 +434,14 @@ Are you sure to use GPS provided time?"</string>
     <string name="nfc_tag_mode_category">Tag mode</string>
     <string name="not_installed">Not installed</string>
     <string name="ok">OK</string>
+    <string name="oldman_mode_confirm_title">elder mode confirm</string>
+    <string name="oldman_mode_confirm_will_normal_mode_text">disable elder mode ?</string>
+    <string name="oldman_mode_confirm_will_oldman_mode_text">enable elder mode ?</string>
+    <string name="oldman_mode_enabled_name">enable elder mode</string>
+    <string name="oldman_mode_entry_name">elder mode settings</string>
+    <string name="oldman_mode_entry_title">elder mode</string>
+    <string name="oldman_mode_settings_caption">elder mode settings</string>
+    <string name="oldman_mode_summary">enable or disable elder mode, will reboot!</string>
     <string name="outdoor_settings_title">Outdoor</string>
     <string name="outdoor_summary">Loudest ring and vibrate</string>
     <string name="overlay_display_devices_title">Simulate secondary displays</string>
@@ -556,7 +566,7 @@ This setting affects all users on this phone."</string>
     <string name="usb_ums_summary">XP recommended. Lets you transfer files between your computer and your Android device.</string>
     <string name="usb_ums_title">USB storage</string>
     <string name="user_account_title">Account for content</string>
-    <string name="user_add_user_message_long">"You can share this device with other people by creating additional users. Each user has their own space, which they can customize with their own apps, wallpaper, and so on. Users can also adjust tablet settings like Wi-Fi that affect everyone.
+    <string name="user_add_user_message_long">"You can share this device with other people by creating additional users. Each user has their own space, which they can customize with their own apps, wallpaper, and so on. Users can also adjust tablet settings like WLAN that affect everyone.
 
 After you create a new user, that person needs to go through a setup process.
 
@@ -639,67 +649,67 @@ Any user can accept updated app permissions on behalf of all other users."</stri
     <string name="wifi_channel_width">Channel Width</string>
     <string name="wifi_configured_ap_list">Remembered access point list</string>
     <string name="wifi_connect_ap_summary">Specify network connection type</string>
-    <string name="wifi_connect_failed_message">Telefón sa nemohol pripojiť k tejto Wi-Fi sieti.</string>
-    <string name="wifi_connect_type_title">Typ auto pripojenia</string>
-    <string name="wifi_disconnect">Odpojiť</string>
-    <string name="wifi_display_available_devices">Dostupné zariadenia</string>
-    <string name="wifi_display_details">Nastavenie displeja</string>
-    <string name="wifi_display_disconnect_text">Pripojenie s &lt;br>&lt;b>%1$s&lt;/b> bude ukončené</string>
-    <string name="wifi_display_disconnect_title">Odpojiť?</string>
-    <string name="wifi_display_no_devices_found">Nenašiel sa žiaden wireless displays.</string>
-    <string name="wifi_display_options_done">Hotovo</string>
-    <string name="wifi_display_options_forget">Zabudnúť</string>
-    <string name="wifi_display_options_name">Meno</string>
-    <string name="wifi_display_options_title">Nastavenie Wireless displej</string>
-    <string name="wifi_display_paired_devices">Spárované displeje</string>
-    <string name="wifi_display_search_for_devices">Vyhľadať displej</string>
-    <string name="wifi_display_searching_for_devices">Vyhľadávanie...</string>
-    <string name="wifi_display_settings_empty_list_wifi_display_disabled">Wireless display je vypnutý, pretože Wi-Fi je vypnuté</string>
-    <string name="wifi_display_settings_empty_list_wifi_display_off">Pre zobrazenie zariadení, zapnite wireless display.</string>
+    <string name="wifi_connect_failed_message">The phone was unable to connect to this WLAN network.</string>
+    <string name="wifi_connect_type_title">Auto connect type</string>
+    <string name="wifi_disconnect">Disconnect</string>
+    <string name="wifi_display_available_devices">Available devices</string>
+    <string name="wifi_display_details">Display settings</string>
+    <string name="wifi_display_disconnect_text">This will end your connection with:&lt;br>&lt;b>%1$s&lt;/b></string>
+    <string name="wifi_display_disconnect_title">Disconnect?</string>
+    <string name="wifi_display_no_devices_found">No nearby wireless displays were found.</string>
+    <string name="wifi_display_options_done">Done</string>
+    <string name="wifi_display_options_forget">Forget</string>
+    <string name="wifi_display_options_name">Name</string>
+    <string name="wifi_display_options_title">Wireless display options</string>
+    <string name="wifi_display_paired_devices">Paired displays</string>
+    <string name="wifi_display_search_for_devices">Search for displays</string>
+    <string name="wifi_display_searching_for_devices">Searching…</string>
+    <string name="wifi_display_settings_empty_list_wifi_display_disabled">Wireless display is disabled because WLAN is offH</string>
+    <string name="wifi_display_settings_empty_list_wifi_display_off">To see devices, turn wireless display on.</string>
     <string name="wifi_display_settings_title">Wireless display</string>
-    <string name="wifi_display_status_available">Dostupné</string>
-    <string name="wifi_display_status_connected">Pripojené</string>
-    <string name="wifi_display_status_connecting">Pripájanie...</string>
-    <string name="wifi_display_summary_disabled">Vypnuté</string>
-    <string name="wifi_display_summary_off">Vypnuté</string>
-    <string name="wifi_display_summary_on">Zapnuté</string>
-    <string name="wifi_dont_skip">"Nepreskočiť"</string>
-    <string name="wifi_failover_gprs_content">Wi-Fi sieť je nedostupná, použiť mobilne dáta?</string>
-    <string name="wifi_gprs_selector_title">Výber siete</string>
-    <string name="wifi_hex_password">Hexadecimálne heslo.</string>
-    <string name="wifi_ipv4_address">IPv4 adresa</string>
-    <string name="wifi_ipv6_address">IPv6 adresa</string>
-    <string name="wifi_menu_disconnect">Odpojiť od siete</string>
-    <string name="wifi_menu_more_options">Viac možností</string>
-    <string name="wifi_no_cert_for_wapi">Nie je možné nájsť certifikát pre tento AP</string>
-    <string name="wifi_p2p_delete_group_message">Odobrať túto skupinu?</string>
-    <string name="wifi_p2p_remembered_groups">Zapamätané skupiny</string>
-    <string name="wifi_priority_changed" formatted="false">Stará priorita value=%s,nová value=%s</string>
-    <string name="wifi_priority_settings_label">Nastavenie priority</string>
-    <string name="wifi_priority_settings_summary">Stlačte pre nastavenie priority pre každý AP</string>
-    <string name="wifi_priority_settings_title">AP priorita</string>
-    <string name="wifi_priority_type_summary">Povoliť nastavenie priority pre každý AP manuálne</string>
-    <string name="wifi_priority_type_title">Nastaviť AP prioritu manuálne</string>
-    <string name="wifi_required_info_text">Pre dokončenie nastavenia je potrebné pripojenie k Wi-Fi. Potom môžte prepínať medzi mobilnými dátami a Wi-Fi.</string>
-    <string name="wifi_security_wapi_certificate">WAPI Certifikát</string>
+    <string name="wifi_display_status_available">Available</string>
+    <string name="wifi_display_status_connected">Connected</string>
+    <string name="wifi_display_status_connecting">Connecting</string>
+    <string name="wifi_display_summary_disabled">Disabled</string>
+    <string name="wifi_display_summary_off">Off</string>
+    <string name="wifi_display_summary_on">On</string>
+    <string name="wifi_dont_skip">"Don't skip"</string>
+    <string name="wifi_failover_gprs_content">WLAN is unavailable, try to connect to mobile network?</string>
+    <string name="wifi_gprs_selector_title">Network selector</string>
+    <string name="wifi_hex_password">Hexadecimal password.</string>
+    <string name="wifi_ipv4_address">IPv4 address</string>
+    <string name="wifi_ipv6_address">IPv6 address</string>
+    <string name="wifi_menu_disconnect">Disconnect from network</string>
+    <string name="wifi_menu_more_options">More options</string>
+    <string name="wifi_no_cert_for_wapi">Could not find certification for current connecting AP</string>
+    <string name="wifi_p2p_delete_group_message">Forget this group?</string>
+    <string name="wifi_p2p_remembered_groups">Remembered groups</string>
+    <string name="wifi_priority_changed" formatted="false">Priority old value=%s,new value=%s</string>
+    <string name="wifi_priority_settings_label">Priority settings</string>
+    <string name="wifi_priority_settings_summary">Click to set priority of each access point</string>
+    <string name="wifi_priority_settings_title">AP priority settings</string>
+    <string name="wifi_priority_type_summary">Allow to set priority for each access point manually</string>
+    <string name="wifi_priority_type_title">Set AP priority manually</string>
+    <string name="wifi_required_info_text">To complete setup, your tablet needs access to WLAN. After setup, you can switch between mobile data and WLAN.</string>
+    <string name="wifi_security_wapi_certificate">WAPI Certificate</string>
     <string name="wifi_security_wapi_psk">WAPI PSK</string>
-    <string name="wifi_signal_found_msg">Súčasné pripojenie ma slabý signál, chcete použiť inú Wi-Fi sieť?</string>
-    <string name="wifi_skip_anyway">Preskočiť</string>
-    <string name="wifi_skipped_message">"VAROVANIE: Môže sa zvýšiť spotreba mobilných dát.
+    <string name="wifi_signal_found_msg">Current connection signal is weak, would you like to use another WLAN network?</string>
+    <string name="wifi_skip_anyway">Skip anyway</string>
+    <string name="wifi_skipped_message">"WARNING: You may incur extra carrier data charges.
 
-Nastavenie telefónu môže vyžadovať zvýšené nároky na prenos dát."</string>
-    <string name="wifi_suspend_optimizations">Optimalizácia Wi-Fi</string>
-    <string name="wifi_suspend_optimizations_summary">Znížiť spotrebu energie ak je Wi-Fi aktivovaná</string>
+Phone setup can require significant network activity."</string>
+    <string name="wifi_suspend_optimizations">WLAN optimization</string>
+    <string name="wifi_suspend_optimizations_summary">Minimize battery usage when WLAN is on</string>
     <string name="wifi_tether_auto_channel_text">Auto</string>
     <string name="wifi_tether_auto_channel_width_text">Auto 20/40 MHz</string>
-    <string name="wifi_tether_auto_disable_title">Ponechať Wi-Fi hotspot zapnutý</string>
+    <string name="wifi_tether_auto_disable_title">Keep WLAN hotspot on</string>
     <string name="wifi_tether_fix_channel_width_text">20 MHz</string>
-    <string name="wifi_tether_setting_title">Základné nastavenia</string>
-    <string name="wifi_tether_starting">Aktivovanie Wi-Fi hotspot...</string>
-    <string name="wifi_tether_stopping">Deaktivovanie Wi-Fi hotspot...</string>
-    <string name="wifi_tether_wps_connect_summary">Nastavenie pripojenia k chránenej Wi-Fi sieti</string>
-    <string name="wifi_tether_wps_connect_title">WPS pripojenie</string>
-    <string name="wifi_tether_wps_pin_error">Nesprávny PIN</string>
-    <string name="wifi_tethering_title">Wi-Fi hotspot</string>    
-    <string name="wifi_wps_fail_error">Nastavenie chránenej Wi-Fi siete zlyhalo, skúste to opäť.</string>
+    <string name="wifi_tether_setting_title">Basic settings</string>
+    <string name="wifi_tether_starting">Turning hotspot on…</string>
+    <string name="wifi_tether_stopping">Turning off hotspot…</string>
+    <string name="wifi_tether_wps_connect_summary">Selected WLAN protected setup mode to proceed</string>
+    <string name="wifi_tether_wps_connect_title">WPS connect</string>
+    <string name="wifi_tether_wps_pin_error">Invalid PIN</string>
+    <string name="wifi_tethering_title">WLAN hotspot</string>    
+    <string name="wifi_wps_fail_error">WLAN protected setup failed, try again.</string>
 </resources>

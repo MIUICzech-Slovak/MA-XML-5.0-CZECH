@@ -1,51 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="overlay_display_devices_entries">
-        <item>Žiadne</item>
+        <item>Žádné</item>
         <item>720x480 mdpi</item>
         <item>1280x720 tvdpi</item>
         <item>1920x1080 xhdpi</item>
         <item>1280x720 tvdpi a 1920x1080 xhdpi</item>
     </string-array>
     <string-array name="enable_opengl_traces_entries">
-        <item>Žiadne</item>
+        <item>Žádné</item>
         <item>Logcat</item>
         <item>Systrace (Graphics)</item>
         <item>Call stack on glGetError</item>
     </string-array>
     <string-array name="media_feedback_level_entries">
         <item>Silné</item>
-        <item>Stredné</item>
+        <item>Střední</item>
         <item>Slabé</item>
     </string-array>
     <string-array name="gemini_sim_info_number_display_format_entries">
-        <item>Prvé 4 čísla</item>
-        <item>Posledné 4 čísla</item>
-        <item>Nezobrazovať</item>
+        <item>První 4 čísla</item>
+        <item>Poslední 4 čísla</item>
+        <item>Nezobrazovat</item>
     </string-array>
     <string-array name="gemini_sim_roaming_reminder_entries">
-        <item>Raz</item>
+        <item>Jednou</item>
         <item>Vždy</item>
         <item>Nikdy</item>
     </string-array>
     <string-array name="gsm_umts_network_preferences_choices">
         <item>GSM/WCDMA (auto)</item>
-        <item>Len WCDMA</item>
-        <item>Len GSM</item>
+        <item>Jen WCDMA</item>
+        <item>Jen GSM</item>
     </string-array>
     <string-array name="wifi_connect_type_entries">
-        <item>Pripojiť automaticky</item>
-        <item>Pripojiť manuálne</item>
-        <item>Vždy sa opýtať</item>
+        <item>Připojit automaticky</item>
+        <item>Připojit manuálně</item>
+        <item>Vždy se zeptat</item>
     </string-array>
     <string-array name="network_use_entry">
-        <item>Len Doma</item>
+        <item>Jen Doma</item>
         <item>Doma + Roaming</item>
     </string-array>
     <string-array name="auto_time_entries">
-        <item>Podľa siete</item>
-        <item>Podľa GPS</item>
-        <item>Vypnuté</item>
+        <item>Podle sítě</item>
+        <item>Podle GPS</item>
+        <item>Vypnuto</item>
     </string-array>
     <string-array name="hdmi_video_resolution_entries">
         <item>Auto</item>
@@ -60,11 +60,11 @@
     </string-array>
     <string-array name="hdmi_video_mode_entries">
         <item>Plná obrazovka</item>
-        <item>Prispôsobiť</item>
-        <item>Pôvodná veľkosť</item>
+        <item>Přizpůsobit</item>
+        <item>Původní velikost</item>
     </string-array>
     <string-array name="sim_slot">
-        <item>(nešpecifikované)</item>
+        <item>(nespecifikované)</item>
         <item>SIM 1</item>
         <item>SIM 2</item>
     </string-array>
@@ -75,8 +75,8 @@
     </string-array>
     <string-array name="wifi_hotspot_disable_policy_entries">
         <item>Vždy</item>
-        <item>Vypnúť ak nie je aktívne 5 min</item>
-        <item>Vypnúť ak nie je aktívne 10 min</item>
+        <item>Vypnout při neaktivitě 5 min</item>
+        <item>Vypnout při neaktivitě 10 min</item>
     </string-array>
     <string-array name="tethered_ipv6_entries">
         <item>IPv4</item>
@@ -87,17 +87,17 @@
         <item>Linux/Mac OS(EEM)</item>
     </string-array>
     <string-array name="wifi_ap_wps_mode_entries">
-        <item>WPS tlačidlo</item>
+        <item>WPS tlačítko</item>
         <item>PIN</item>
     </string-array>
     <string-array name="wifi_ap_max_connection_entries">
-        <item>1 pripojený</item>
-        <item>2 pripojení</item>
-        <item>3 pripojení</item>
-        <item>4 pripojení</item>
-        <item>5 pripojení</item>
-        <item>6 pripojení</item>
-        <item>7 pripojení</item>
-        <item>8 pripojení</item>
+        <item>1 připojen</item>
+        <item>2 připojení</item>
+        <item>3 připojení</item>
+        <item>4 připojení</item>
+        <item>5 připojených</item>
+        <item>6 připojených</item>
+        <item>7 připojených</item>
+        <item>8 připojených</item>
     </string-array>
 </resources>
