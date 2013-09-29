@@ -235,6 +235,9 @@
   <string name="pref_camera_movie_solid_entry_off">Vyp</string>
   <string name="pref_camera_movie_solid_entry_on">Zap</string>
   <string name="pref_camera_movie_solid_title">Stabilizace videa</string>
+  <string name="pref_camera_multiple_face_beauty_entry_off">Zapnuto</string>
+  <string name="pref_camera_multiple_face_beauty_entry_on">Vypnuto</string>
+  <string name="pref_camera_multiple_face_beauty_title">Vylepšení dvou tváří</string>
   <string name="pref_camera_panoramamode_title">Panorama</string>
   <string name="pref_camera_picture_format_entry_jpeg">Jpeg</string>
   <string name="pref_camera_picture_format_entry_raw">Raw</string>
@@ -257,9 +260,6 @@
   <string name="pref_camera_picturesize_professional_entry_4208x2368">10MP (4208x2368)</string>
   <string name="pref_camera_picturesize_title">Velikost fotografie</string>
   <string name="pref_camera_picturesize_title_simple_mode">Velikost fotografie</string>
-  <string name="pref_camera_multiple_face_beauty_title">Vylepšení dvou tváří</string>
-  <string name="pref_camera_multiple_face_beauty_entry_off">Zapnuté</string>
-  <string name="pref_camera_multiple_face_beauty_entry_on">Vypnuté</string>
   <string name="pref_camera_preview_entry_1000">1 sekunda</string>
   <string name="pref_camera_preview_entry_2000">2 sekundy</string>
   <string name="pref_camera_preview_entry_5000">5 sekund</string>
@@ -271,9 +271,9 @@
   <string name="pref_camera_redeyereduction_entry_disable">Vypnout</string>
   <string name="pref_camera_redeyereduction_entry_enable">Zapnout</string>
   <string name="pref_camera_redeyereduction_title">Redukce červených očí</string>
+  <string name="pref_camera_referenceline_entry_off">Vypnuta</string>
+  <string name="pref_camera_referenceline_entry_on">Zapnuta</string>
   <string name="pref_camera_referenceline_title">Referenční čára</string>
-  <string name="pref_camera_referenceline_entry_off">Vyp</string>
-  <string name="pref_camera_referenceline_entry_on">Zap</string>
   <string name="pref_camera_saturation_entry_level0">Úroveň 0</string>
   <string name="pref_camera_saturation_entry_level1">Úroveň 1</string>
   <string name="pref_camera_saturation_entry_level10">Úroveň 10</string>
@@ -353,9 +353,9 @@
   <string name="pref_grp_restore_settings">Obnovit Nastavení</string>
   <string name="pref_settings_mode">Režim kamery</string>
   <string name="pref_video_captrue_ability_title">Snímek během videa</string>
-  <string name="pref_video_focusmode_title">Režim ostření</string>
-  <string name="pref_video_focusmode_entry_continuous">Kontinuální ostření</string>
   <string name="pref_video_focusmode_entry_auto">Dotykem</string>
+  <string name="pref_video_focusmode_entry_continuous">Kontinuální ostření</string>
+  <string name="pref_video_focusmode_title">Režim ostření</string>
   <string name="pref_video_quality_entry_1080p">1080p</string>
   <string name="pref_video_quality_entry_480p">480p</string>
   <string name="pref_video_quality_entry_720p">720p</string>
