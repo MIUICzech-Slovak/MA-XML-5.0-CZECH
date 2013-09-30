@@ -1,141 +1,140 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="AGPS_CAUSE_BAD_PUSH_CONTENT">Incorrect PUSH content</string>
-    <string name="AGPS_CAUSE_NETWORK_CREATE_FAIL">Network Create Fail</string>
-    <string name="AGPS_CAUSE_NETWORK_DISCONN">Network Connection is Down</string>
-    <string name="AGPS_CAUSE_NOT_SUPPORTED">Unsupported Operation</string>
-    <string name="AGPS_CAUSE_NO_POSITION">Only for NO Position</string>
-    <string name="AGPS_CAUSE_NO_RESOURCE">No Resourcce to Handle new process</string>
-    <string name="AGPS_CAUSE_REMOTE_ABORT">Remote Side Abort the Session (receive SUPL END)</string>
-    <string name="AGPS_CAUSE_REMOTE_MSG_ERROR">Receive Incorrect Message Content</string>
-    <string name="AGPS_CAUSE_REQ_NOT_ACCEPTED">Requeset Not Accepted</string>
-    <string name="AGPS_CAUSE_TIMER_EXPIRY">Expect Message not Back During a Specific Time Interval</string>
-    <string name="AGPS_CAUSE_TLS_AUTH_FAIL">TLS authentication fail</string>
-    <string name="AGPS_CAUSE_USER_AGREE">User agree on confirmation</string>
-    <string name="AGPS_CAUSE_USER_DENY">User deny on confirmation</string>
-    <string name="AGPS_DEFAULT_STRING">A-GPS Default String</string>
-    <string name="AGPS_EM_POS_FIXED">Position Fixed</string>
-    <string name="AGPS_EM_RECV_SI_REQ">SI Request Received</string>
-    <string name="AGPS_MODEM_RESET_HAPPEN">Modem reset happen</string>
-    <string name="AGPS_NOTIFY_ALLOW_NO_ANSWER">Location Request (Allow if no Answer)</string>
-    <string name="AGPS_NOTIFY_DENY_NO_ANSWER">Location Request (Deny if no Answer)</string>
-    <string name="AGPS_NOTIFY_ONLY">Location Request Notification</string>
-    <string name="AGPS_NOTIFY_PRIVACY">Location Request (Privacy)</string>
-    <string name="AgpsHelp_Category">Help</string>
+    <string name="AGPS_CAUSE_BAD_PUSH_CONTENT">Neplatný obsah PUSH</string>
+    <string name="AGPS_CAUSE_NETWORK_CREATE_FAIL">Chyba vytvoření sítě </string>
+    <string name="AGPS_CAUSE_NETWORK_DISCONN">Připojení přerušeno </string>
+    <string name="AGPS_CAUSE_NOT_SUPPORTED">Nepodporovaná operace </string>
+    <string name="AGPS_CAUSE_NO_POSITION">Jen bez pozice </string>
+    <string name="AGPS_CAUSE_NO_RESOURCE">Žádné zdroje pro nové procesy</string>
+    <string name="AGPS_CAUSE_REMOTE_ABORT">Druhá strana zrušila připojení (přijaté SUPL END)</string>
+    <string name="AGPS_CAUSE_REMOTE_MSG_ERROR">Zobrazit obsah chybové zprávy </string>
+    <string name="AGPS_CAUSE_REQ_NOT_ACCEPTED">Žádanka nebyla akceptována</string>
+    <string name="AGPS_CAUSE_TIMER_EXPIRY">Zpráva nebyla přijata ve stanoveném čase</string>
+    <string name="AGPS_CAUSE_TLS_AUTH_FAIL">TLS ověření selhalo </string>
+    <string name="AGPS_CAUSE_USER_AGREE">Uživatel při potvrzení souhlasí </string>
+    <string name="AGPS_CAUSE_USER_DENY">Uživatel při potvrzení nesouhlasí </string>
+    <string name="AGPS_DEFAULT_STRING">A-GPS výchozí </string>
+    <string name="AGPS_EM_POS_FIXED">Pozice nalezena </string>
+    <string name="AGPS_EM_RECV_SI_REQ">SI žádanka přijata </string>
+    <string name="AGPS_MODEM_RESET_HAPPEN">Modem se resetoval</string>
+    <string name="AGPS_NOTIFY_ALLOW_NO_ANSWER">Žádanka pozice (Bez odpovědi bude povolená)</string>
+    <string name="AGPS_NOTIFY_DENY_NO_ANSWER">Žádanka pozice (Bez odpovědi nebude povolená)</string>
+    <string name="AGPS_NOTIFY_ONLY">Upozornění žádost o poloze </string>
+    <string name="AGPS_NOTIFY_PRIVACY">Žádost o poloze (Soukromí)</string>
+    <string name="AgpsHelp_Category">Pomoc</string>
     <string name="EM_NotifyDialog_title">EM Notify</string>
-    <string name="MobileNetwork_Category">Mobile Network</string>
-    <string name="MobileNetwork_DataConn_off">Data Connection is Off</string>
-    <string name="MobileNetwork_SIM1_Active">SIM1 is Active</string>
-    <string name="MobileNetwork_SIM2_Active">SIM2 is Active</string>
-    <string name="MobileNetwork_SIM_Active">SIM%1$s is Active</string>
-    <string name="MobileNetwork_off_Summary">Please turn on data connection before using A-GPS</string>
-    <string name="MobileNetwork_on_Summary">A-GPS needs to access the mobile network via data connections</string>
-    <string name="NI_Request_ClientName">Client Name</string>
+    <string name="MobileNetwork_Category">Mobilní síť</string>
+    <string name="MobileNetwork_DataConn_off">Data jsou vypnuty</string>
+    <string name="MobileNetwork_SIM1_Active">SIM1 je aktivní</string>
+    <string name="MobileNetwork_SIM2_Active">SIM2 je aktivní</string>
+    <string name="MobileNetwork_SIM_Active">SIM%1$s je aktivní</string>
+    <string name="MobileNetwork_off_Summary">Zapněte mobilní data před použitím A-GPS</string>
+    <string name="MobileNetwork_on_Summary">A-GPS vyžaduje přístup k mobilním datům</string>
+    <string name="NI_Request_ClientName">Jméno klienta</string>
     <string name="NI_Request_ID">Requestor ID</string>
-    <string name="Network_Initiate">Network Request</string>
-    <string name="Network_Initiate_Summary_off">Deny network to request position</string>
-    <string name="Network_Initiate_Summary_on">Allow network to request position</string>
-    <string name="Network_Local_and_Roaming_Summary">Use A-GPS both under home and roaming network</string>
-    <string name="Network_Only_Local_Summary">Use A-GPS only under home network</string>
-    <string name="Network_Roaming_dialog_content">If the network under roaming condition, A-GPS data traffic may cause extra roaming fees.</string>
-    <string name="Network_Roaming_dialog_title">Attention</string>
-    <string name="Network_Used">Network Used</string>
-    <string name="Phone_vibrate_summary">Vibrate devices for incoming calls</string>
-    <string name="USER_RESPONSE_TIMEOUT">Waiting verification timeout</string>
-    <string name="WiFiNetwork_on_title">WLAN is Active</string>
-    <string name="about_agps_message">"\u0009 A-GPS (Assisted-GPS) is the system that can improve the startup performance and time-to-first-fix (TTFF) of GPS satellites. 
-\u0009 An A-GPS capable device can connect to location servers to acquire the assist data through mobile network data connection. 
-\u0009 Notice that the data traffic may cause extra fees under network roaming conditions. Please contact with your operators for the details."</string>
-    <string name="about_agps_title">About A-GPS</string>
-    <string name="accessibility_feature_state_off">Off</string>
-    <string name="accessibility_feature_state_on">On</string>
-    <string name="accessibility_global_gesture_preference_description">"When this feature is turned on, you can quickly enable accessibility features in two steps:
+    <string name="Network_Initiate">Žádanka sítě </string>
+    <string name="Network_Initiate_Summary_off">Nepovolit síti získat polohu</string>
+    <string name="Network_Initiate_Summary_on">Povolit síti získat polohu</string>
+    <string name="Network_Local_and_Roaming_Summary">Použít A-GPS v domácí síti a roamingu</string>
+    <string name="Network_Only_Local_Summary">Použít A-GPS jen v domácí síti</string>
+    <string name="Network_Roaming_dialog_content">Když se nacházíte v roamingu, A-GPS data mohou zvýšit vaše poplatky.</string>
+    <string name="Network_Roaming_dialog_title">Upozornění</string>
+    <string name="Network_Used">Použitá síť</string>
+    <string name="Phone_vibrate_summary">Vibrovat při příchozím hovoru</string>
+    <string name="USER_RESPONSE_TIMEOUT">Čas pro potvrzení vypršel</string>
+    <string name="WiFiNetwork_on_title">Wi-Fi je zapnutá</string>
+    <string name="about_agps_message">"A-GPS (Assisted-GPS) je systém který zlepšuje první náběh (TTFF) GPS satelitů."</string>
+    <string name="about_agps_title">Co je A-GPS</string>
+    <string name="accessibility_feature_state_off">Vypnuté</string>
+    <string name="accessibility_feature_state_on">Zapnuté</string>
+    <string name="accessibility_global_gesture_preference_description">"když je tato funkce povolená, můžete rychle a jednoduše povolit její funkce ve dvou krocích:
 
-Step 1: Press and hold the power button until you hear a sound or feel a vibration.
+Krok 1: Stlačte a podržte tlačítko zapínání dokud nezazní zvuk a vibrace.
 
-Step 2: Touch and hold two fingers until you hear audio confirmation.
+Krok 2: Dotkněte se a držte dva prsty dokud nezazní zvukové potvrzení
 
-If the device has multiple users, using this shortcut on the lock screen temporarily enables accessibility until the device is unlocked."</string>
-    <string name="accessibility_global_gesture_preference_summary_off">Off</string>
-    <string name="accessibility_global_gesture_preference_summary_on">On</string>
-    <string name="accessibility_global_gesture_preference_title">Accessibility shortcut</string>
-    <string name="accessibility_long_press_timeout_preference_title">Touch &amp; hold delay</string>
-    <string name="accessibility_power_button_ends_call_prerefence_title">Power button ends call</string>
-    <string name="accessibility_screen_magnification_summary">"When this feature is turned on, you can zoom in and out by triple-tapping the screen.
+Pokud má zařízení více uživatelů, použití této zkratky na zamykací obrazovce dočasně povolí přístup."</string>
+    <string name="accessibility_global_gesture_preference_summary_off">Vypnuto</string>
+    <string name="accessibility_global_gesture_preference_summary_on">Zapnuto</string>
+    <string name="accessibility_global_gesture_preference_title">Zkratka dostupnosti</string>
+    <string name="accessibility_long_press_timeout_preference_title">Opoždění dotyku a podržení</string>
+    <string name="accessibility_power_button_ends_call_prerefence_title">Tlačítko zapínání ukončí hovor</string>
+    <string name="accessibility_screen_magnification_summary">"když je tato funkce povolená, je možné přiblížit a oddálit obraz trojitým poklepáním na displej.
 
-While zoomed in, you can:
-"<li><ul>"Pan: Drag two or more fingers across the screen.
-"<li>Adjust zoom level: Pinch two or more fingers together or spread them apart.</li></ul></li>"
+Když máte přiblížený obraz:
 
-You can also temporarily magnify what's under your finger by triple-tapping and holding. In this magnified state, you can drag your finger to explore different parts of the screen. Lift your finger to return to your previous state.
+"<li><ul>"Posouvání: Potáhněte dvěma prsty po displeji.
+"<li>Změna přiblížení: Potáhněte dva prsty k sobě nebo od sebe.</li></ul></li>"
 
-Note: Triple-tap for magnification works everywhere except the keyboard and navigation bar."</string>
-    <string name="accessibility_screen_magnification_title">Magnification gestures</string>
-    <string name="accessibility_toggle_large_text_preference_title">Large text</string>
-    <string name="accessibility_toggle_screen_magnification_auto_update_preference_summary">Update screen magnification on app transitions</string>
-    <string name="accessibility_toggle_screen_magnification_auto_update_preference_title">Auto update screen magnification</string>
-    <string name="accessibility_toggle_screen_magnification_preference_title">Screen magnification</string>
-    <string name="accessibility_toggle_script_injection_preference_title">Enhance web accessibility</string>
-    <string name="accessibility_toggle_speak_password_preference_title">Speak passwords</string>
-    <string name="activity_not_found">Application is not installed on your phone.</string>
-    <string name="adjust_3d_depth_title">"Adjust games' 3D depth"</string>
+Taktéž je možné dočasně přiblížit obraz pod prsty trojitým poklepáním a podržením prstu na displeji.
+
+Poznámka: Trojité poklepání funguje všude kromě klávesnice."  </string>
+    <string name="accessibility_screen_magnification_title">Gesta přiblížení</string>
+    <string name="accessibility_toggle_large_text_preference_title">Velký text</string>
+    <string name="accessibility_toggle_screen_magnification_auto_update_preference_summary">Obnovit přiblížení obrazu se změnou aplikace</string>
+    <string name="accessibility_toggle_screen_magnification_auto_update_preference_title">Automaticky obnovit přiblížení obrazu</string>
+    <string name="accessibility_toggle_screen_magnification_preference_title">Přiblížení obrazu</string>
+    <string name="accessibility_toggle_script_injection_preference_title">Zlepšit dostupnost webstránky</string>
+    <string name="accessibility_toggle_speak_password_preference_title">Předčítat hesla</string>
+    <string name="activity_not_found">Aplikace není nainstalovaná.</string>
+    <string name="adjust_3d_depth_title">"Nastavit 3D hloubku ve hrách"</string>
     <string name="agps_OK">OK</string>
-    <string name="agps_disable_on_reboot">Disable after Reboot</string>
-    <string name="agps_disable_on_reboot_summary">Disable A-GPS capability after reboot</string>
-    <string name="agps_enable_confirm">A-GPS needs a wireless data connection to acquire the assistant data that may cause extra fees. Are you sure to turn on the A-GPS?</string>
-    <string name="agps_enable_confirm_allow">Continue</string>
-    <string name="agps_enable_confirm_deny">Cancel</string>
-    <string name="agps_enable_confirm_title">A-GPS Enable Confirm</string>
-    <string name="agps_profile_SLP_address_editbox_title">SLP Address</string>
-    <string name="agps_profile_select">Profile Selector</string>
-    <string name="agps_profile_select_Title">SUPL Profile</string>
+    <string name="agps_disable_on_reboot">Deaktivovat po restartu </string>
+    <string name="agps_disable_on_reboot_summary">Deaktivovat A-GPS po restartu </string>
+    <string name="agps_enable_confirm">A-GPS vyžaduje internetové připojení pro stáhnutí potřebných dat, což může zvýšit vaše měsíční poplatky. Chcete pokračovat?</string>
+    <string name="agps_enable_confirm_allow">Pokračovat</string>
+    <string name="agps_enable_confirm_deny">Zrušit</string>
+    <string name="agps_enable_confirm_title">Povolit A-GPS</string>
+    <string name="agps_profile_SLP_address_editbox_title">SLP Adresa</string>
+    <string name="agps_profile_select">Výběr profilu</string>
+    <string name="agps_profile_select_Title">SUPL Profil</string>
     <string name="agps_settings_enable">A-GPS</string>
-    <string name="agps_settings_enable_off">Use assistant data to speed up the fixed time of location with GPS</string>
-    <string name="agps_settings_enable_on">GPS can speed up the fixed time of location with assistant data via wireless data connection</string>
-    <string name="agps_settings_eng_enable">A-GPS settings</string>
-    <string name="agps_settings_eng_summary">Set up A-GPS settings</string>
-    <string name="agps_settings_title">A-GPS Settings</string>
-    <string name="agps_str_allow">ALLOW</string>
-    <string name="agps_str_deny">DENY</string>
-    <string name="agps_str_error">Error</string>
-    <string name="agps_str_notify">Notification</string>
-    <string name="agps_str_verify">Verification</string>
-    <string name="akp_installer_settings_summary">Install your APK from Phone storage and SD card</string>
-    <string name="akp_installer_settings_title">APK installer</string>
-    <string name="alarm_app_name">Alarm</string>
-    <string name="alarm_command_summary_format">You can say %1$s or %2$s to control the alarm.</string>
-    <string name="allow">Allow</string>
-    <string name="apn_list_category_title">Access point list</string>
-    <string name="apn_predefine_change_dialog_notice">Are you sure to save? Modifications to default APNs may cause connection problems!</string>
-    <string name="app_special_disable_dlg_text">If you disable a built-in app, other apps may misbehave. Your data will also be deleted.</string>
-    <string name="app_special_disable_dlg_title">Delete data and disable app?</string>
-    <string name="audio_profile_add">Add</string>
-    <string name="audio_profile_category_custom_title">User defined profiles</string>
-    <string name="audio_profile_category_predefine_title">Predefined profiles</string>
-    <string name="audio_profile_delete">Delete</string>
-    <string name="audio_profile_enable">Enable</string>
-    <string name="audio_profile_error">Error</string>
-    <string name="audio_profile_message_delete">Profile %s will be deleted</string>
-    <string name="audio_profile_message_name_error">The name input is already existed</string>
-    <string name="audio_profile_message_name_length_wrong">Name must contain at least one character</string>
-    <string name="audio_profile_message_overflow">You are only allowed to add 6 custom profiles</string>
-    <string name="audio_profile_message_rename">Please input the new profile name</string>
-    <string name="audio_profile_message_reset">All the audio profile settings will be reset to default</string>
-    <string name="audio_profile_rename">Rename</string>
-    <string name="audio_profile_reset">Reset</string>
-    <string name="audio_profile_settings_title">Audio profiles</string>
-    <string name="auto_backlight_summary">Automatically adapt backlight to save power</string>
-    <string name="auto_backlight_title">Economical backlight</string>
-    <string name="battery_desc_users">Battery used by user</string>
-    <string name="battery_info_power_wireless">wireless</string>
-    <string name="battery_info_status_charging_wireless">(wireless)</string>
+    <string name="agps_settings_enable_off">Použít A-GPS data pro zrychlení nalezení GPS pozice</string>
+    <string name="agps_settings_enable_on">GPS fix může být výrazně urychlen použitím A-GPS</string>
+    <string name="agps_settings_eng_enable">Nastavení A-GPS</string>
+    <string name="agps_settings_eng_summary">Nastavit A-GPS</string>
+    <string name="agps_settings_title">Nastavení A-GPS</string>
+    <string name="agps_str_allow">POVOLIT</string>
+    <string name="agps_str_deny">ZAKÁZAT</string>
+    <string name="agps_str_error">Chyba</string>
+    <string name="agps_str_notify">Notifikace</string>
+    <string name="agps_str_verify">Ověření</string>
+    <string name="akp_installer_settings_summary">Instalovat APK soubory z interního úložiště nebo SD karty</string>
+    <string name="akp_installer_settings_title">Instalátor APK</string>
+    <string name="alarm_app_name">Budík</string>
+    <string name="alarm_command_summary_format">Můžete říci %1$s nebo %2$s pro ovládání budíku.</string>
+    <string name="allow">Povolit</string>
+    <string name="apn_list_category_title">Seznam přístupových bodů</string>
+    <string name="apn_predefine_change_dialog_notice">Chcete uložit? Změna výchozích APN může způsobit problémy s datovým připojením!</string>
+    <string name="app_special_disable_dlg_text">Pokud deaktivujete systémovou aplikaci, ostatní aplikace mohou mít neočekávané chování. Vaše data budou vymazána.</string>
+    <string name="app_special_disable_dlg_title">Vymazat data a deaktivovat aplikaci?</string>
+    <string name="audio_profile_add">Přidat</string>
+    <string name="audio_profile_category_custom_title">Uživatelské profily</string>
+    <string name="audio_profile_category_predefine_title">Přednastavené profily</string>
+    <string name="audio_profile_delete">Vymazat</string>
+    <string name="audio_profile_enable">Povolit</string>
+    <string name="audio_profile_error">Chyba</string>
+    <string name="audio_profile_message_delete">Profil %s bude vymazán</string>
+    <string name="audio_profile_message_name_error">Tento název již existuje</string>
+    <string name="audio_profile_message_name_length_wrong">Název musí obsahovat alespoň jeden znak</string>
+    <string name="audio_profile_message_overflow">Nejvíce je možné přidat 6 profilů </string>
+    <string name="audio_profile_message_rename">Zadejte název nového profilu</string>
+    <string name="audio_profile_message_reset">Všechna nastavení profilu budou obnovena do továrních nastavení</string>
+    <string name="audio_profile_rename">Přejmenovat</string>
+    <string name="audio_profile_reset">Obnovit</string>
+    <string name="audio_profile_settings_title">Zvukové profily</string>
+    <string name="auto_backlight_summary">Automaticky přizpůsobit podsvícení pro úsporu energie</string>
+    <string name="auto_backlight_title">Ekonomické podsvícení</string>
+    <string name="battery_desc_users">Spotřeba baterie uživatelem</string>
+    <string name="battery_info_power_wireless">bezdrátové</string>
+    <string name="battery_info_status_charging_wireless">(bezdrátové)</string>
     <string name="battery_level">%s%%</string>
-    <string name="battery_percent">Battery Percentage</string>
-    <string name="beam_mgmt_tab_download_title">RECEIVED</string>
-    <string name="beam_mgmt_tab_upload_title">SENT</string>
-    <string name="beam_share_clear_confirm_dialog_message">Clear all history?</string>
-    <string name="beam_share_clear_confirm_dialog_title">Clear all</string>
-    <string name="beam_share_clear_item_dailog_message">The item will be deleted.</string>
+    <string name="battery_percent">Procenta baterie</string>
+    <string name="beam_mgmt_tab_download_title">PŘIJATÉ</string>
+    <string name="beam_mgmt_tab_upload_title">ODESLANÉ</string>
+    <string name="beam_share_clear_confirm_dialog_message">Vymazat historii?</string>
+    <string name="beam_share_clear_confirm_dialog_title">Vymazat vše</string>
+    <string name="beam_share_clear_item_dailog_message">Položka bude vymazána.</string>
     <string name="beam_share_clear_item_dailog_title">Delete</string>
     <string name="beam_share_history_title">Beam share history</string>
     <string name="beam_share_mgmt_notification_message">Select to view Beam share history.</string>
@@ -268,12 +267,12 @@ This setting affects all users on this phone."</string>
     <string name="gadget_state_turning_off">turning off</string>
     <string name="gadget_state_turning_on">turning on</string>
     <string name="gadget_sync">Sync</string>
-    <string name="gadget_wifi">WLAN</string>
-    <string name="gemini_3g_disable_warning">3G service is not available with this selected SIM. This may load data slower. You can change the 3G service setting under Settings > Wireless &amp; networks > Mobile networks.</string>
+    <string name="gadget_wifi">Wi-Fi</string>
+    <string name="gemini_3g_disable_warning">3G service is not available with this selected SIM. This may load data slower. You can change the 3G service setting under Settings > Wireless  networks > Mobile networks.</string>
     <string name="gemini_3g_disable_warning_case0">You must enable data roaming for this SIM first which may incur significant roaming charges! Are you sure to enable data roaming and select this SIM?</string>
-    <string name="gemini_3g_disable_warning_case1">3G service is not available with this selected SIM. This may load data slower. You can change the 3G service setting under Settings > Wireless &amp; networks > Mobile networks. Are you sure to select this SIM?</string>
+    <string name="gemini_3g_disable_warning_case1">3G service is not available with this selected SIM. This may load data slower. You can change the 3G service setting under Settings > Wireless  networks > Mobile networks. Are you sure to select this SIM?</string>
     <string name="gemini_3g_disable_warning_case2">3G service is not available with this selected SIM. This may load data slower. You can change the 3G service setting under Settings > SIM management. Are you sure to select this SIM?</string>
-    <string name="gemini_3g_disable_warning_case3">You must enable data roaming for this SIM first which may incur significant roaming charges! Besides, 3G service is not available with this SIM. This may load data slower. You can change it under Settings > Wireless &amp; networks > Mobile networks. Are you sure to enable data roaming and select this SIM?</string>
+    <string name="gemini_3g_disable_warning_case3">You must enable data roaming for this SIM first which may incur significant roaming charges! Besides, 3G service is not available with this SIM. This may load data slower. You can change it under Settings > Wireless  networks > Mobile networks. Are you sure to enable data roaming and select this SIM?</string>
     <string name="gemini_3g_disable_warning_case4">You must enable data roaming for this SIM first which may incur significant roaming charges! Besides, 3G service is not available with this SIM. This may load data slower. You can change it under Settings > SIM management. Are you sure to enable data roaming and select this SIM?</string>
     <string name="gemini_3g_disable_warning_cu">3G service is not available with this selected SIM. This may load data slower. You can change the 3G service setting under Settings > SIM management.</string>
     <string name="gemini_3g_indic">3G</string>
@@ -355,7 +354,7 @@ Are you sure to enable GPS now and wait for GPS provided time?"</string>
     <string name="gps_time_sync_attention_gps_on">"It will take at most 1 minute to obtain GPS fix. Besides, GPS may fail to provide time due to weak environmental signal.
 
 Are you sure to use GPS provided time?"</string>
-    <string name="gsm_to_wifi_connect_type_title">Cellular->WLAN</string>
+    <string name="gsm_to_wifi_connect_type_title">Cellular->Wi-Fi</string>
     <string name="hdmi_3d_display_enable_summary">Enable to support 3D game</string>
     <string name="hdmi_3d_display_enable_title">3D Display</string>
     <string name="hdmi_3d_help_title">About HDMI 3D Stereoscopic support</string>
@@ -434,14 +433,6 @@ Are you sure to use GPS provided time?"</string>
     <string name="nfc_tag_mode_category">Tag mode</string>
     <string name="not_installed">Not installed</string>
     <string name="ok">OK</string>
-    <string name="oldman_mode_confirm_title">elder mode confirm</string>
-    <string name="oldman_mode_confirm_will_normal_mode_text">disable elder mode ?</string>
-    <string name="oldman_mode_confirm_will_oldman_mode_text">enable elder mode ?</string>
-    <string name="oldman_mode_enabled_name">enable elder mode</string>
-    <string name="oldman_mode_entry_name">elder mode settings</string>
-    <string name="oldman_mode_entry_title">elder mode</string>
-    <string name="oldman_mode_settings_caption">elder mode settings</string>
-    <string name="oldman_mode_summary">enable or disable elder mode, will reboot!</string>
     <string name="outdoor_settings_title">Outdoor</string>
     <string name="outdoor_summary">Loudest ring and vibrate</string>
     <string name="overlay_display_devices_title">Simulate secondary displays</string>
@@ -566,7 +557,7 @@ This setting affects all users on this phone."</string>
     <string name="usb_ums_summary">XP recommended. Lets you transfer files between your computer and your Android device.</string>
     <string name="usb_ums_title">USB storage</string>
     <string name="user_account_title">Account for content</string>
-    <string name="user_add_user_message_long">"You can share this device with other people by creating additional users. Each user has their own space, which they can customize with their own apps, wallpaper, and so on. Users can also adjust tablet settings like WLAN that affect everyone.
+    <string name="user_add_user_message_long">"You can share this device with other people by creating additional users. Each user has their own space, which they can customize with their own apps, wallpaper, and so on. Users can also adjust tablet settings like Wi-Fi that affect everyone.
 
 After you create a new user, that person needs to go through a setup process.
 
