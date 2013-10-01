@@ -635,7 +635,7 @@ Any user can accept updated app permissions on behalf of all other users."</stri
   <string name="wifi_ap_total_data">Celkově využitá data: %1$s</string>
   <string name="wifi_ap_wps_dialog_title">WPS připojení</string>
   <string name="wifi_ap_wps_mode_title">WPS režim</string>
-  <string name="wifi_ap_wps_pin_title">Zadajte PIN</string>
+  <string name="wifi_ap_wps_pin_title">Zadejte PIN</string>
   <string name="wifi_channel">Preferovaný kanál</string>
   <string name="wifi_channel_width">Šířka pásma</string>
   <string name="wifi_configured_ap_list">Zapamatovaný seznam připojení</string>
@@ -659,7 +659,7 @@ Any user can accept updated app permissions on behalf of all other users."</stri
   <string name="wifi_display_settings_empty_list_wifi_display_off">Pro zobrazení zařízení, zapněte wireless displej.</string>
   <string name="wifi_display_settings_title">Wireless display</string>
   <string name="wifi_display_status_available">Dostupné</string>
-  <string name="wifi_display_status_connected">Pripojené</string>
+  <string name="wifi_display_status_connected">Připojené</string>
   <string name="wifi_display_status_connecting">Připojování...</string>
   <string name="wifi_display_summary_disabled">Vypnuto</string>
   <string name="wifi_display_summary_off">Vypnuto</string>
@@ -680,7 +680,7 @@ Any user can accept updated app permissions on behalf of all other users."</stri
   <string name="wifi_priority_settings_summary">Stiskněte pro nastavení priority pro každé AP</string>
   <string name="wifi_priority_settings_title">AP priorita</string>
   <string name="wifi_priority_type_summary">Povolit nastavení priority pro každé AP manuálně</string>
-  <string name="wifi_priority_type_title">Nastaviť AP prioritu manuálne</string>
+  <string name="wifi_priority_type_title">Nastavit AP prioritu manuálně</string>
   <string name="wifi_required_info_text">Pro dokončení nastavení je zapotřebí připojení k Wi-Fi. Potom můžete přepínat mezi mobilními daty a Wi-Fi.</string>
   <string name="wifi_security_wapi_certificate">WAPI Certifikát</string>
   <string name="wifi_security_wapi_psk">WAPI PSK</string>
