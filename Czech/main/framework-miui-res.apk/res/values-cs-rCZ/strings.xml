@@ -170,7 +170,7 @@ Zkuste to znovu za %d sekund."</string>
     <string name="private_num">Soukromé číslo</string>
     <string name="puk_operation_failed">PUK selhal.</string>
     <string name="reboot_confirm">Telefon se restartuje</string>
-    <string name="reboot_confirm_title">Opravdu chcete restartovat Váš telefon??</string>
+    <string name="reboot_confirm_title">Opravdu chcete restartovat Váš telefon?</string>
     <string name="reboot_progress">Restartuji...</string>
     <string name="return_to_me_message">Prosím vraťte telefon jestli jste ho našli!</string>
     <string name="reverse_all">Vymazat vše</string>
@@ -192,7 +192,7 @@ Zkuste to znovu za %d sekund."</string>
     <string name="share">Sdílet</string>
     <string name="short_pincode_error_msg">Zadejte 4–8 čísel</string>
     <string name="short_pukcode_error_msg">Zadejte 8 místné číslo</string>
-    <string name="shutdown_confirm_title">Opravdu chcete vypnout Váš telefon??</string>
+    <string name="shutdown_confirm_title">Opravdu chcete vypnout Váš telefon?</string>
     <string name="sim_account_name">SIM</string>
     <string name="sim_changed_reactivate_int_notice">Současná SIM karta není aktivovaná. Je zapotřebí odeslat mezinárodní SMS zprávu pro aktivaci Xiaomi Synchronizace. Aktivovat nyní?</string>
     <string name="sim_changed_reactivate_notice">Současná SIM karta není aktivovaná. Je nutné odeslat SMS zprávu pro aktivaci Xiaomi Synchronizace. Aktivovat teď?</string>
