@@ -6,26 +6,4 @@
         <item>45 minut</item>
         <item>1 hodina</item>
     </string-array>
-    <string-array name="presetlist_edit_category">
-        <item>Přejmenovat</item>
-        <item>Vybrat automaticky</item>
-        <item>Odstranit</item>
-    </string-array>
-    <string-array name="rf_cfg">
-        <item>Získat parametry stanice</item>
-        <item>Opakovat 20x získání parametrů stanice</item>
-        <item>Hledat parametry stanice</item>
-        <item>Get FM Band sweep parameters</item>
-        <item>Konfigurovat parametry FM hledání</item>
-    </string-array>
-    <string-array name="cfg_rf">
-        <item>Nastavit FM RSSI Delta</item>
-        <item>Set Signal Threshold</item>
-        <item>RF Statistiky</item>
-    </string-array>
-    <string-array name="stats_options">
-        <item>Zvolit možnosti</item>
-        <item>Konfigurovat parametry FM hledání</item>
-        <item>RF Statistiky</item>
-    </string-array>
 </resources>
