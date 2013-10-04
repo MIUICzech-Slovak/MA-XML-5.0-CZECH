@@ -68,7 +68,7 @@
     <string name="confirm_no_block_positive">Neblokovat</string>  
     <string name="confirm_no_block_title">Neblokovat toto číslo a obnovit všechny zprávy?</string> 
     <string name="confirm_rate_limit">Odesíláte velké množství multimediálních zpráv. Je to v pořádku?</string>
-    <string name="confirm_restore_all_title">Obnovit všechny zprávy z tohto čísla?</string>
+    <string name="confirm_restore_all_title">Obnovit všechny zprávy z tohoto čísla?</string>
     <string name="confirm_restore_positive">Obnovit</string>  
     <string name="confirm_restore_title">Obnovit všechny vybrané zprávy?</string> 
     <string name="context_menu_add_contact">Přidat do kontaktů</string>
@@ -238,7 +238,7 @@
     <string name="new_phrase_hint">Zadejte novou frázi</string>
     <string name="nickname_placeholder">Název</string>
     <string name="no">Zrušit</string>
-    <string name="no_block_button_msg">Neblokovat zprávy z tohto čísla</string>
+    <string name="no_block_button_msg">Neblokovat zprávy z tohoto čísla</string>
     <string name="no_conversations">Žádné konverzace</string>
     <string name="no_subject">(Bez předmětu)</string>
     <string name="no_subject_view">(Předmět neuveden)</string>
@@ -329,7 +329,7 @@
     <string name="replace_image">Nahradit fotografii</string>
     <string name="resent_message">Znovu odeslat</string>
     <string name="resize_image_error_information">Velikost fotografie byla přizpůsobena. Přesto je příliš velká a nelze ji odeslat.</string>
-    <string name="restore_all_button_msg">Obnovit všechny zprávy z tohto čísla</string>
+    <string name="restore_all_button_msg">Obnovit všechny zprávy z tohoto čísla</string>
     <string name="restore_blocked_message">Obnovit zprávy</string>
     <string name="save">Uložit</string>
     <string name="save_ringtone">Uložit jako vyzvánění</string>

@@ -1203,7 +1203,7 @@ Toto nastavení ovlivní všechny uživatele tohoto telefonu."</string>
     <string name="msd_install_finish">OK</string>
     <string name="msd_install_next">Dále</string>
     <string name="msd_install_retry_linux">"Pokud počítač nenašel Váš telefon,
-na systému Ubuntu 12.xx pokračujte podle tohto návodu:
+na systému Ubuntu 12.xx pokračujte podle tohoto návodu:
 <a href="http://tinyurl.com/Ubuntu-MTP">Ubuntu-MTP</a>.
 
 Pozor: Ubuntu 13.04 a novější
