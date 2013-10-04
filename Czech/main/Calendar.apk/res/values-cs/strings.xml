@@ -70,7 +70,7 @@
     <string name="edit_event_show_all">Zobrazit vše</string>
     <string name="edit_event_to_label">Do</string>
     <string name="edit_label">Upravit</string>
-    <string name="email_guests_label">Hostitelský Email</string>
+    <string name="email_guests_label">Odpověď účastníkům</string>
     <string name="email_organizer_label">Organizér Emailů</string>
     <string name="email_picker_label">Email z</string>
     <string name="email_subject_prefix">"Re: "</string>
