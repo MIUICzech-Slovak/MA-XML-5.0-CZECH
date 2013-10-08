@@ -293,9 +293,9 @@
   <string name="pref_camera_multilevel_entry_lower">Nižší</string>
   <string name="pref_camera_multilevel_entry_lowest">Nejnižší</string>
   <string name="pref_camera_multilevel_entry_normal">Normální</string>
-  <string name="pref_camera_multiple_face_beauty_entry_off">Zapnuté</string>
-  <string name="pref_camera_multiple_face_beauty_entry_on">Vypnuté</string>
-  <string name="pref_camera_multiple_face_beauty_title">Vylepšení dvou tváří</string>
+  <string name="pref_camera_multiple_face_beauty_entry_off">Jedna tvář</string>
+  <string name="pref_camera_multiple_face_beauty_entry_on">Dvě tváře</string>
+  <string name="pref_camera_multiple_face_beauty_title">Vylepšení tváře</string>
   <string name="pref_camera_panoramamode_title">Panorama</string>
   <string name="pref_camera_picture_format_entry_jpeg">Jpeg</string>
   <string name="pref_camera_picture_format_entry_raw">Raw</string>
