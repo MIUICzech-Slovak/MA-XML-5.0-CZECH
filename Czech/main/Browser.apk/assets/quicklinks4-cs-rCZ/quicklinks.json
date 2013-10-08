@@ -9,17 +9,17 @@
             "favicon":""
         },
         {
-            "title":"zmeny-sk",
-            "url":"https://github.com/MIUICzech-Slovak/MA-XML-5.0-SLOVAK/commits/master/",
-            "thumbnail":"change-sk.png",
+            "title":"ls",
+            "url":"http://www.levnesmartphony.cz/cs/?refferal=miui",
+            "thumbnail":"ls.png",
             "logobg":"bg01.9.png",
             "nightModeMask": "night.9.png",
             "favicon":""
         },
         {
-            "title":"zmeny-cz",
-            "url":"https://github.com/MIUICzech-Slovak/MA-XML-5.0-CZECH/commits/master/",
-            "thumbnail":"change-cz.png",
+            "title":"repo-cz-sk",
+            "url":"https://github.com/MIUICzech-Slovak/",
+            "thumbnail":"change-cz-sk.png",
             "logobg":"bg01.9.png",
             "nightModeMask": "night.9.png",
             "favicon":""
