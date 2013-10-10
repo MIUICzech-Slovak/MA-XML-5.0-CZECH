@@ -9,7 +9,7 @@
             "favicon":""
         },
         {
-            "title":"ls",
+            "title":"LevneSmartphony.czs",
             "url":"http://www.levnesmartphony.cz/cs/?refferal=miui",
             "thumbnail":"ls.png",
             "logobg":"bg01.9.png",
@@ -17,7 +17,7 @@
             "favicon":""
         },
         {
-            "title":"repo-cz-sk",
+            "title":"Github MIUI CZECH-SLOVAK",
             "url":"https://github.com/MIUICzech-Slovak/",
             "thumbnail":"change-cz-sk.png",
             "logobg":"bg01.9.png",
@@ -25,7 +25,7 @@
             "favicon":""
         },
         {
-            "title":"androidnews",
+            "title":"AndroidNEWS.sk",
             "url":"http://www.androidnews.sk/",
             "thumbnail":"androidnews_logo.png",
             "logobg":"bg01.9.png",
@@ -33,7 +33,7 @@
             "favicon":""
         },
         {
-            "title":"MIUI",
+            "title":"MIUI CZECH-SLOVAK",
             "url":"http://miui.cz/",
             "thumbnail":"miui_cz-sk.png",
             "logobg":"bg01.9.png",
@@ -41,7 +41,7 @@
             "favicon":""
         },
         {
-            "title":"miuiandroid",
+            "title":"MIUIAndroid.com",
             "url":"http://miuiandroid.com/",
             "thumbnail":"miui-android.png",
             "logobg":"bg01.9.png",
@@ -49,7 +49,7 @@
             "favicon":""
         },
         {
-            "title":"GooglePlus",
+            "title":"Google+ MIUI CZECH-SLOVAK",
             "url":"https://plus.google.com/b/112639661139919214988/112639661139919214988/posts/",
             "thumbnail":"g_plus.png",
             "logobg":"bg01.9.png",
@@ -57,7 +57,7 @@
             "favicon":""
         },
         {
-            "title":"Xiaomi",
+            "title":"Xiaomi.eu",
             "url":"http://xiaomi.eu/",
             "thumbnail":"thumb_xiaomi.png",
             "logobg":"bg01.9.png",
@@ -65,7 +65,7 @@
             "favicon":""
         },
         {
-            "title":"Twitter-CZ",
+            "title":"Twitter @MIUICzech",
             "url":"https://twitter.com/MIUICzech/",
             "thumbnail":"thumb_twitter-cz.png",
             "logobg":"bg01.9.png",
@@ -73,7 +73,7 @@
             "favicon":""
         },
         {
-            "title":"ibuygou",
+            "title":"iBuyGou.com",
             "url":"http://www.ibuygou.com//",
             "thumbnail":"ibuy.png",
             "logobg":"bg01.9.png",
@@ -81,7 +81,7 @@
             "favicon":""
         },
         {
-            "title":"Twitter-SK",
+            "title":"Twitter @MIUISlovak",
             "url":"https://twitter.com/MIUIslovak/",
             "thumbnail":"thumb_twitter-sk.png",
             "logobg":"bg01.9.png",
@@ -89,7 +89,7 @@
             "favicon":""
         },
         {
-            "title":"facebook",
+            "title":"Facebook MIUI CZECH-SLOVAK",
             "url":"https://www.facebook.com/MiuiCzechSlovakXiaomi/",
             "thumbnail":"face.png",
             "logobg":"bg01.9.png",
