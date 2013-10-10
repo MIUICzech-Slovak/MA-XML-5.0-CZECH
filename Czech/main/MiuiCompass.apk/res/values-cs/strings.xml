@@ -2,17 +2,17 @@
 <resources>
     <string name="altitude_title">Nadm. výška</string>
     <string name="app_label">Kompas</string>
-    <string name="calibrate_failed_no_location">Kalibrace selhala: Není možné získat aktuální polohu</string>
+    <string name="calibrate_failed_no_location">Kalibrace selhala. Nelze získat aktuální polohu</string>
     <string name="calibrate_failed_timeout">Kalibrace selhala: Čas připojení na server vypršel</string>
     <string name="calibrate_success">Kalibrace dokončena</string>
     <string name="cannot_get_location">--</string>
-    <string name="dialog_calibrat_altitude">Kalibrace nadmořské výšky pomocí internetového připojení</string>
-    <string name="dialog_title_no_network">Zapněte Wi-Fi, nebo povolte Data</string>
+    <string name="dialog_calibrat_altitude">Kalibrace nadmořské výšky...</string>
+    <string name="dialog_title_no_network">Nelze se připojit k síti.</string>
     <string name="direction_east">V</string>
     <string name="direction_north">S</string>
     <string name="direction_south">J</string>
     <string name="direction_west">Z</string>
-    <string name="getting_location">Získávám polohu...</string>
+    <string name="getting_location">Kalibrace...</string>
     <string name="guide_toast">"Prosím zkalibrujte kompas pohybem ve tvaru osmičky"</string>
     <string name="latitude">LAT</string>
     <string name="location_east">E</string>

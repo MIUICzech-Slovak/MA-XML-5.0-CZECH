@@ -103,6 +103,7 @@
     <string name="clear">Vyčistit</string>
     <string name="clear_history">Vymazat historii</string>
     <string name="clear_history_group">Vymazat veškerou historii</string>
+    <string name="clear_search_history">Vymazat historii</string>
     <string name="clip_dialog_title">Otevřít zkopírovanou URL adresu?</string>
     <string name="close_all_tab_alert_message">Opravdu chcete zavřít všechny karty?</string>
     <string name="close_all_tab_alert_title">Zavřít všechny karty</string>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="app_name">Rádio</string>
+  <string name="app_name">FM Rádio</string>
   <string name="favorite_manager">Seznam stanic</string>
   <string name="add_to_favorite">Přidat k oblíbeným</string>
   <string name="add_to_favorite1">Přidat do předvoleb</string>
