@@ -30,8 +30,8 @@
   <string name="menu_settings">Nastavení hledání</string>
   <string name="remove_from_history">Odebrat z historie hledání</string>
   <string name="remove_from_history_failed">"Odebrání položky z historie se nezdařilo"</string>
-  <string name="search_in_app_store">Prohledat obchod</string>
-  <string name="search_in_web">Prohledat internet</string>
+  <string name="search_in_app_store">Vyhledat v Google Play</string>
+  <string name="search_in_web">Vyhledat na internetu</string>
   <string name="search_settings">Nastavení hledání</string>
   <string name="search_sources">Vyhledatelné položky</string>
   <string name="search_sources_summary">Vyberte si, co hledat na telefonu</string>
