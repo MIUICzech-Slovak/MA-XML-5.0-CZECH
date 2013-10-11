@@ -229,7 +229,7 @@
     <string name="status_bar_toggle_network_type">Režim sítě</string>
     <string name="status_bar_toggle_power_high">Výkonný</string>
     <string name="status_bar_toggle_power_low">Úsporný</string>
-    <string name="status_bar_toggle_power_mid">Normální</string>        
+    <string name="status_bar_toggle_power_mid">Vyvážený</string>        
     <string name="status_bar_toggle_power_mode">Výkon</string>
     <string name="status_bar_toggle_privacy_mode">Návštěvník</string>
     <string name="status_bar_toggle_quiet_mode">Nerušit</string>   

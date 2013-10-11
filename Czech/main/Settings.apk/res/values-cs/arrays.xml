@@ -372,7 +372,7 @@
     </string-array>
     <string-array name="power_mode_entries">
         <item>Výkonný režim</item>
-        <item>Normální režim</item>
+        <item>Vyvážený režim</item>
         <item>Úspora energie</item>
     </string-array>
     <string-array name="msd_pc_system">
@@ -451,7 +451,13 @@ Počítač automaticky otevře složku ve Vašem telefonu"</item>
         <item>Odblokování tváří</item>
         <item>Vzor</item>
         <item>PIN</item>
-        <item>Kombinované heslo</item>
+        <item>Heslo</item>
+    </string-array>
+    <string-array name="change_security_lock_picker_key">
+        <item>Odblokování tváří</item>
+        <item>Vzor</item>
+        <item>PIN</item>
+        <item>Heslo</item>
     </string-array>
     <string-array name="entries_color_calibration">
         <item>sRGB</item>

@@ -464,6 +464,7 @@ Poznámka: Zvětšení trojitým klepnutím funguje ve všech částech obrazovk
     <string name="bluetooth_visibility_timeout_summary">Nastavit dobu, po kterou bude zařízení ve viditelném režimu</string>
     <string name="breathing_light_color_summary">Barva LED při nové notifikaci</string>
     <string name="breathing_light_color_title">" LED"</string>
+    <string name="breathing_light_color_menu_title">Barva</string>
     <string name="breathing_light_freq_summary">Pauza LED před blikáním</string>
     <string name="breathing_light_freq_title">Frekvence blikání LED</string>
     <string name="brightness">Jas</string>
@@ -2514,7 +2515,7 @@ můžete použít jinou síť"</string>
     <string name="wifi_share_connected_title">Připojeno k Wi-Fi síti sdílené MIUI</string>
     <string name="wifi_share_count">Sdílené sítě: %d</string>
     <string name="wifi_share_current_network">Současná síť</string>
-    <string name="wifi_share_know">Vím</string>
+    <string name="wifi_share_know">OK</string>
     <string name="wifi_share_list_empty">Žádná veřejná Wi-Fi pro sdílení</string>
     <string name="wifi_share_login">Sdílet heslo k této veřejné Wi-Fi síti</string>
     <string name="wifi_share_login_summary">Pokud je tato síť veřejná, můžete ji sdílet s ostatními uživateli MIUI.</string>
