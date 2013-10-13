@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Správce práv</string>
+    <string name="app_name">Povolení</string>
     <string name="Dashboard_App">Aplikace</string>
     <string name="Dashboard_HIPS_Disable_Content">Vypnutí zastaví sledování požadavků od aplikací. Tím pádem MIUI přestane chránit Vaši bezpečnost a soukromí. Určitě chcete sledování vypnout?</string>
     <string name="Dashboard_HIPS_Disable_Title">Sledování práv</string>
-    <string name="Dashboard_Log">Logy</string>
-    <string name="Dashboard_Log_Clear_Content">Všechny logy budou vymazány. Opravdu chcete pokračovat?</string>
-    <string name="Dashboard_Log_Clear_Title">Vymazat logy</string>
+    <string name="Dashboard_Log">Záznamy</string>
+    <string name="Dashboard_Log_Clear_Content">Všechny záznamy budou vymazány. Opravdu chcete pokračovat?</string>
+    <string name="Dashboard_Log_Clear_Title">Vymazat záznamy</string>
     <string name="Dashboard_Perm">Práva</string>
     <string name="Dashboard_Perm_AutoStart">Po startu</string>
     <string name="Dashboard_Perm_AutoStart_Desc">Zap/vyp autom. spouštění aplikací</string>
@@ -30,10 +30,10 @@
     <string name="Dashboard_Perm_SU_Switch">Práva ROOT</string>
     <string name="Dashboard_Su_Enable_Content">Povolení dovolí požádat aplikace o práva ROOT. Aplikace s těmito právy mohou způsobit nestabilitu systému, nebo ztrátu dat, případně i poškození systému a hardwaru. Buďte prosím opatrný. Opravdu chcete ROOT povolit?</string>
     <string name="Dashboard_Su_Enable_Title">Práva ROOT</string>
-    <string name="Generic_Canceling">Ruším...</string>
+    <string name="Generic_Canceling">Ukončování...</string>
     <string name="Generic_Clean">Vymazat</string>
     <string name="Generic_Configuration">Nastavení</string>
-    <string name="Generic_Copyright">Vytvořil Team LBE</string>
+    <string name="Generic_Copyright" />
     <string name="Generic_Disable">Zakázat</string>
     <string name="Generic_Enable">Povolit</string>
     <string name="Generic_Good">Dobrý</string>
@@ -56,13 +56,13 @@
     <string name="Generic_Update">Aktualizace softwaru</string>
     <string name="Generic_UserApp">Stažené aplikace (%d)</string>
     <string name="Generic_Version">Verze: %1$s</string>
-    <string name="HIPS_Action_Accept">Povolit</string>
-    <string name="HIPS_Action_Accept_Colored">&lt;font color=#478800>Povolit&lt;/font></string>
+    <string name="HIPS_Action_Accept">Povoleno</string>
+    <string name="HIPS_Action_Accept_Colored">&lt;font color=#478800>Povoleno&lt;/font></string>
     <string name="HIPS_Action_Accept_Count">Povoleno: %1$d</string>
     <string name="HIPS_Action_Prompt">Zeptat se</string>
     <string name="HIPS_Action_Prompt_Colored">&lt;font color=#FF8A00>Zeptat se&lt;/font></string>
-    <string name="HIPS_Action_Reject">Zakázat</string>
-    <string name="HIPS_Action_Reject_Colored">&lt;font color=#DF0000>Zakázat&lt;/font></string>
+    <string name="HIPS_Action_Reject">Zakázáno</string>
+    <string name="HIPS_Action_Reject_Colored">&lt;font color=#DF0000>Zakázáno&lt;/font></string>
     <string name="HIPS_Action_Reject_Count">Zakázáno: %1$d</string>
     <string name="HIPS_Group_DataPrivacy">Soukromí</string>
     <string name="HIPS_Group_Expense">Bezpečnost</string>
@@ -74,18 +74,18 @@
     <string name="HIPS_Perm_AdjustRingerVolume">Upravit hlasitost zvonění</string>
     <string name="HIPS_Perm_AdjustVolumeInCall">Upravit hlasitost hovoru</string>
     <string name="HIPS_Perm_AllowAll">Povolit vše</string>
-    <string name="HIPS_Perm_AnswerCall">Zvednout příchozí hovor</string>
+    <string name="HIPS_Perm_AnswerCall">Přijmout příchozí hovor</string>
     <string name="HIPS_Perm_Call">Telefonní hovor</string>
     <string name="HIPS_Perm_Call_Desc">Vytočení, přijmutí a zavěšení hovoru</string>
     <string name="HIPS_Perm_Call_Hint">%1$s aplikace mají povolení k vytočení, přijmutí a zavěšení hovoru</string>
     <string name="HIPS_Perm_Call_Number">Volat %1$s</string>
     <string name="HIPS_Perm_CallLog">Seznam hovorů</string>
     <string name="HIPS_Perm_CallLog_Access">Přístup k seznamu hovorů</string>
-    <string name="HIPS_Perm_CallLog_Desc">Přístup k seznamu hovorů</string>
+    <string name="HIPS_Perm_CallLog_Desc">Přístup k seznamu příchozích a odchozích hovorů</string>
     <string name="HIPS_Perm_CallLog_Hint">%1$s aplikace mají povolení pro přístup k seznamu hovorů</string>
     <string name="HIPS_Perm_CallMonitor">Monitorování hovoru</string>
-    <string name="HIPS_Perm_CallMonitor_Desc">Monitorování příchozích a odchozích hovorů, kontrola hlasitosti atd.</string>
-    <string name="HIPS_Perm_CallMonitor_Hint">%1$s aplikace mají povolení k monitorování příchozích a odchozích hovorů, kontrole hlasitosti atd.</string>
+    <string name="HIPS_Perm_CallMonitor_Desc">Monitorování příchozích a odchozích hovorů, kontrola hlasitosti zvonění atd.</string>
+    <string name="HIPS_Perm_CallMonitor_Hint">%1$s aplikace mají povolení k monitorování příchozích a odchozích hovorů, kontrole hlasitosti zvonění atd.</string>
     <string name="HIPS_Perm_CallState">Stav telefonu</string>
     <string name="HIPS_Perm_CallState_Desc">Zjistí stav telefonu</string>
     <string name="HIPS_Perm_CallState_Hint">%1$s aplikace mají povolení k zjištěni stavu telefonu</string>
@@ -106,7 +106,7 @@
     <string name="HIPS_Perm_Location_Monitor">Sledovat Vaši pozici</string>
     <string name="HIPS_Perm_Location_Source_Cellular">Zdroj: Mobilní síť</string>
     <string name="HIPS_Perm_Location_Source_GPS">Zdroj: GPS</string>
-    <string name="HIPS_Perm_Location_Source_Network">Zdroj: síť</string>
+    <string name="HIPS_Perm_Location_Source_Network">Zdroj: Síť</string>
     <string name="HIPS_Perm_MobileNetwork">Mobilní data</string>
     <string name="HIPS_Perm_MobileNetwork_Desc">Přístup k Internetu přes mobilní data (3G apod.)</string>
     <string name="HIPS_Perm_MobileNetwork_Hint">%1$s aplikace mají povolení pro přístup na Internet přes mobilní síť</string>
@@ -117,7 +117,7 @@
     <string name="HIPS_Perm_Network_Recv">Přijmout data</string>
     <string name="HIPS_Perm_Network_Send">Odeslat data</string>
     <string name="HIPS_Perm_Network_UnknownAddr">Neznámá adresa</string>
-    <string name="HIPS_Perm_Network_WIFIEvent">Použít wifi síť</string>
+    <string name="HIPS_Perm_Network_WIFIEvent">Použít Wi-Fi síť</string>
     <string name="HIPS_Perm_PhoneID">Údaje o telefonu</string>
     <string name="HIPS_Perm_PhoneID_Desc">Zjistí ID přístroje, včetně IMEI, IMSI, atd.</string>
     <string name="HIPS_Perm_PhoneID_Hint">%1$s aplikace mají povolení ke zjištěni údajů o telefonu</string>
@@ -157,18 +157,18 @@
     <string name="HIPS_SecurityPrompt_Next">Další</string>
     <string name="HIPS_SecurityPrompt_Reject">Zakázat(%d)</string>
     <string name="HIPS_SecurityPrompt_Remember">Pamatovat si nastavení</string>
-    <string name="HIPS_SecurityPrompt_ROOT_Caption">Důležité upozornění</string>
-    <string name="HIPS_SecurityPrompt_ROOT_Step1">Přejete si, aby aplikace %1$s získala práva ROOT..?</string>
+    <string name="HIPS_SecurityPrompt_ROOT_Caption">Důležité upozornění!</string>
+    <string name="HIPS_SecurityPrompt_ROOT_Step1">Přejete si, aby aplikace %1$s získala práva ROOT?</string>
     <string name="HIPS_SecurityPrompt_ROOT_Step2">Práva ROOT mohou způsobit nestabilitu systému</string>
     <string name="HIPS_SecurityPrompt_ROOT_Step3">Vaše soukromá data, jako jsou účty, hesla a zprávy by mohly být ohroženy</string>
     <string name="HIPS_SecurityPrompt_ROOT_Step4">Také je možné trvalé poškození přístroje</string>
     <string name="HIPS_SecurityPrompt_ROOT_Step5">Použijte s opatrností!</string>
-    <string name="HIPS_SecurityPrompt_ROOT_Step6">Opravdu chcete povolit aplikaci %1$s získat práva ROOT..?</string>
+    <string name="HIPS_SecurityPrompt_ROOT_Step6">Opravdu chcete povolit aplikaci %1$s získat práva ROOT?</string>
     <string name="HIPS_SecurityPrompt_Title">%1$s se pokouší %2$s</string>
     <string name="Privacy_App_Finish">Dokončit</string>
     <string name="Privacy_App_Installed">Nastavit práva</string>
     <string name="Privacy_App_Launch">Spustit</string>
-    <string name="Privacy_App_Log">Logy</string>
+    <string name="Privacy_App_Log">Záznamy</string>
     <string name="Privacy_App_Manage">Detaily</string>
     <string name="Privacy_App_Trust">Důvěřuji této aplikaci</string>
     <string name="Privacy_App_Trust_Summary_Off">MIUI bude tuto aplikaci sledovat</string>
@@ -179,8 +179,8 @@
     <string name="Privacy_AppPerm_Count">%1$d oprávnění</string>
     <string name="Privacy_AppPerm_Count_Trust">%1$d práva - &lt;font color=#478800>Důvěryhodné&lt;/font></string>
     <string name="Privacy_Perm_Count">Povolen: %1$d Zakázán: %2$d</string>
-    <string name="Su_Enable_Dialog">%1$s se pokouší získat práva ROOT, což je z důvodu bezpečnosti standardně zakázáno. Jestliže chcete oprávnění povolit, učiňte tak v nastavení aplikace Správce práv.</string>
-    <string name="Su_Unavailable">ROOT není dostupný v Stabilní verzi MIUI. Nainstalujte si verzi MIUI BETA pro aktivaci práv ROOT.</string>
+    <string name="Su_Enable_Dialog">%1$s se pokouší získat práva ROOT, což je z důvodu bezpečnosti standardně zakázáno. Jestliže chcete oprávnění povolit, učiňte tak v nastavení aplikace Povolení.</string>
+    <string name="Su_Unavailable">ROOT není dostupný ve Stabilní verzi MIUI. Nainstalujte si vývojářskou verzi MIUI pro aktivaci práv ROOT.</string>
     <string name="SysOpt_Boost_AutoStart">Oprávnění autom. spuštění</string>
     <string name="SysOpt_Boost_AutoStart_Group">Automatické spuštění</string>
     <string name="SysOpt_Boost_Boot">Boot</string>

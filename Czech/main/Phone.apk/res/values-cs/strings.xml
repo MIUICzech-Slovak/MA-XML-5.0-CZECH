@@ -395,7 +395,7 @@
     <string name="empty_alert">%s musí být vyplněno</string>
     <string name="empty_networks_list">Žádná síť nebyla nalezena.</string>
     <string name="enable">Povolit</string>
-    <string name="enable_antispam_strange_summary">Ztišit první hovor z neznámého čísla</string>  
+    <string name="enable_antispam_strange_summary">Ztišit první zvonění z neznámého čísla</string>  
     <string name="enable_antispam_strange_title">Antispam hovorů</string> 
     <string name="enable_disable_administrative">Administrativní</string>
     <string name="enable_disable_advertisements">Reklamy</string>
