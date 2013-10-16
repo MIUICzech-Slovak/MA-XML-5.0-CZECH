@@ -6,7 +6,11 @@
             "thumbnail":"thumb_google.png",
             "logobg":"bg01.9.png",
             "nightModeMask": "night.9.png",
-            "favicon":""
+            "favicon":"",
+	    "displayName": "Google",
+	    "isDelete": true,
+	    "movable": true,
+	    "position": 0
         },
         {
             "title":"LevneSmartphony.cz",
@@ -14,15 +18,23 @@
             "thumbnail":"ls.png",
             "logobg":"bg01.9.png",
             "nightModeMask": "night.9.png",
-            "favicon":""
+            "favicon":"",
+	    "displayName": "LevneSmartphony.cz",
+	    "isDelete": true,
+	    "movable": true,
+	    "position": 1
         },
         {
-            "title":"Github MIUI CZECH-SLOVAK",
+            "title":"Github MIUI CZECH&SLOVAK",
             "url":"https://github.com/MIUICzech-Slovak/",
             "thumbnail":"change-cz-sk.png",
             "logobg":"bg01.9.png",
             "nightModeMask": "night.9.png",
-            "favicon":""
+            "favicon":"",
+	    "displayName": "Github MIUI CZECH&SLOVAK",
+	    "isDelete": true,
+	    "movable": true,
+	    "position": 2
         },
         {
             "title":"AndroidNEWS.sk",
@@ -30,15 +42,23 @@
             "thumbnail":"androidnews_logo.png",
             "logobg":"bg01.9.png",
             "nightModeMask": "night.9.png",
-            "favicon":""
+            "favicon":"",
+	    "displayName": "AndroidNEWS.sk",
+	    "isDelete": true,
+	    "movable": true,
+	    "position": 3
         },
         {
-            "title":"MIUI CZECH-SLOVAK",
+            "title":"MIUI CZECH&SLOVAK",
             "url":"http://miui.cz/",
             "thumbnail":"miui_cz-sk.png",
             "logobg":"bg01.9.png",
             "nightModeMask": "night.9.png",
-            "favicon":""
+            "favicon":"",
+	    "displayName": "MIUI CZECH&SLOVAK",
+	    "isDelete": true,
+	    "movable": true,
+	    "position": 4
         },
         {
             "title":"MIUIAndroid.com",
@@ -46,15 +66,23 @@
             "thumbnail":"miui-android.png",
             "logobg":"bg01.9.png",
             "nightModeMask": "night.9.png",
-            "favicon":""
+            "favicon":"",
+	    "displayName": "MIUIAndroid.com",
+	    "isDelete": true,
+	    "movable": true,
+	    "position": 5
         },
         {
-            "title":"Google+ MIUI CZECH-SLOVAK",
+            "title":"Google+ MIUI CZECH&SLOVAK",
             "url":"https://plus.google.com/b/112639661139919214988/112639661139919214988/posts/",
             "thumbnail":"g_plus.png",
             "logobg":"bg01.9.png",
             "nightModeMask": "night.9.png",
-            "favicon":""
+            "favicon":"",
+	    "displayName": "Google+ MIUI CZECH&SLOVAK",
+	    "isDelete": true,
+	    "movable": true,
+	    "position": 6
         },
         {
             "title":"Xiaomi.eu",
@@ -62,7 +90,11 @@
             "thumbnail":"thumb_xiaomi.png",
             "logobg":"bg01.9.png",
             "nightModeMask": "night.9.png",
-            "favicon":""
+            "favicon":"",
+	    "displayName": "Xiaomi.eu",
+	    "isDelete": true,
+	    "movable": true,
+	    "position": 7
         },
         {
             "title":"Twitter @MIUICzech",
@@ -70,7 +102,11 @@
             "thumbnail":"thumb_twitter-cz.png",
             "logobg":"bg01.9.png",
             "nightModeMask": "night.9.png",
-            "favicon":""
+            "favicon":"",
+	    "displayName": "Twitter @MIUICzech",
+	    "isDelete": true,
+	    "movable": true,
+	    "position": 8
         },
         {
             "title":"iBuyGou.com",
@@ -78,7 +114,11 @@
             "thumbnail":"ibuy.png",
             "logobg":"bg01.9.png",
             "nightModeMask": "night.9.png",
-            "favicon":""
+            "favicon":"",
+	    "displayName": "iBuyGou.com",
+	    "isDelete": true,
+	    "movable": true,
+	    "position": 9
         },
         {
             "title":"Twitter @MIUISlovak",
@@ -86,15 +126,23 @@
             "thumbnail":"thumb_twitter-sk.png",
             "logobg":"bg01.9.png",
             "nightModeMask": "night.9.png",
-            "favicon":""
+            "favicon":"",
+	    "displayName": "Twitter @MIUISlovak",
+	    "isDelete": true,
+	    "movable": true,
+	    "position": 10
         },
         {
-            "title":"Facebook MIUI CZECH-SLOVAK",
+            "title":"Facebook MIUI CZECH&SLOVAK",
             "url":"https://www.facebook.com/MiuiCzechSlovakXiaomi/",
             "thumbnail":"face.png",
             "logobg":"bg01.9.png",
             "nightModeMask": "night.9.png",
-            "favicon":""
+            "favicon":"",
+	    "displayName": "Facebook MIUI CZECH&SLOVAK",
+	    "isDelete": true,
+	    "movable": true,
+	    "position": 11
         }
     ]
 }
