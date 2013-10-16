@@ -1,0 +1,16 @@
+<feature>
+    <boolean>TRUE</boolean>
+    <name>T328d (Desire VC)</name>
+    <title>
+On your T328d (Desire VC):
+
+1. From the Main Menu, go to Settings > Wireless and Networks
+
+2. Touch Bluetooth
+
+3. Open Bluetooth Settings and make sure the device is discoverable 
+
+Then touch "Next" on this device.
+    </title>
+    <header></header>
+</feature>

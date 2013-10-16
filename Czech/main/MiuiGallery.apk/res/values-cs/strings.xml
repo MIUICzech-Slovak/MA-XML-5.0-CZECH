@@ -58,6 +58,7 @@
   <string name="baidu_flyflow_downloads">Baidu Browser</string>
   <string name="beautyphone">Beauty Phone</string>
   <string name="bigscrren_slide_exit">Ukončit prezentaci</string>
+  <string name="bigscreen_slide_fail_cause_loading">Zkuste to znovu po načtení obrázku.</string>
   <string name="big_screen_alertdialog_title">Zařízení</string>
   <string name="browse_category">Prohlížení fotografií</string>
   <string name="by_email">E-mail</string>
@@ -450,6 +451,7 @@ zobrazovat a přidávat fotografie do alba"</string>
   <string name="tencent_mobile_qq_img_save">QQ2012</string>
   <string name="tencent_qq_hd_pic">QQ HD</string>
   <string name="tencent_qzonepic">Qzone</string>
+  <string name="there_is_no_image">Žádný obrázek.</string>
   <string name="tieba">Tie Ba</string>
   <string name="time">Čas</string>
   <string name="times">Časy</string>

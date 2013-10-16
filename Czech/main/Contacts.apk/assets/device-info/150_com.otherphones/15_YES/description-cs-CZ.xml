@@ -1,0 +1,13 @@
+<feature>
+    <boolean>TRUE</boolean>
+    <title>
+On the device your importing contacts from:
+
+1. Find Bluetooth settings (generally located in Settings)
+
+2. Make sure Bluetooth is enabled and that the device is discoverable 
+
+Then touch "Next" on this device.
+    </title>
+    <header></header>
+</feature>

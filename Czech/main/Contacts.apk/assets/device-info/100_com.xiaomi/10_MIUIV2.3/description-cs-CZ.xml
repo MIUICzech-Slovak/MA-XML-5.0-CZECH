@@ -1,0 +1,16 @@
+<feature>
+    <name>MIUI V2.3</name>
+    <boolean>TRUE</boolean>
+    <title>
+On your other MIUI V2.3 device:
+
+1. At the Home screen, go to Settings > System > Bluetooth 
+
+2. Touch the switch on the right to enable Bluetooth 
+
+3. Turn the "Discoverable" switch on 
+
+After you have enabled Bluetooth on your MIUI V2.3 device, touch "Next" on this device
+    </title>
+    <header></header>
+</feature>

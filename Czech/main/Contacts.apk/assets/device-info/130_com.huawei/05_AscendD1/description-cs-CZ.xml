@@ -1,0 +1,16 @@
+<feature>
+    <name>Ascend D1</name>
+    <boolean>TRUE</boolean>
+    <header></header>
+    <title>
+On your Ascend D1:
+
+1. From the Main Menu, go to Settings > Wireless and Networks
+
+2. Touch Bluetooth
+
+3. Open Bluetooth Settings and make sure the device is discoverable 
+
+Then touch "Next" on this device.
+	</title>
+</feature>

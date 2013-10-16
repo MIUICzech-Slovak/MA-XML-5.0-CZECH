@@ -453,12 +453,6 @@ Počítač automaticky otevře složku ve Vašem telefonu"</item>
         <item>PIN</item>
         <item>Heslo</item>
     </string-array>
-    <string-array name="change_security_lock_picker_key">
-        <item>Odblokování tváří</item>
-        <item>Vzor</item>
-        <item>PIN</item>
-        <item>Heslo</item>
-    </string-array>
     <string-array name="entries_color_calibration">
         <item>sRGB</item>
         <item>Přirozené</item>

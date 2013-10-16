@@ -1,0 +1,16 @@
+<feature>
+    <name>iPhone 5</name>
+    <boolean>TRUE</boolean>
+    <title>
+On your iPhone 5:
+
+1. From the Home screen, go to Settings
+
+2. Touch "General" 
+
+3. Touch Bluetooth and make sure it is enabled
+
+Then touch "Next" on this device.
+    </title>
+    <header></header>
+</feature>

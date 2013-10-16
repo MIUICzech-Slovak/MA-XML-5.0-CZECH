@@ -708,6 +708,7 @@ Toto nastavení ovlivní všechny uživatele tohoto telefonu."</string>
     <string name="device_memory">RAM</string>
     <string name="device_miui_version">MIUI</string>
     <string name="device_name">Název zařízení</string>
+    <string name="device_name_input_error">Ukládání názvu zařízení selhalo，zadejte ho znovu</string>
     <string name="device_name_input_hint">Zadejte název Vašeho zařízení</string>
     <string name="device_name_usage_point">Povolit vyhledání telefonu jiným bluetooth zařízením.</string>
     <string name="device_picker">Výběr zařízení Bluetooth</string>
@@ -1323,6 +1324,8 @@ zkuste následující:"
     <string name="nsd_quick_toggle_title">Detekce síťových služeb</string>
     <string name="oem_radio_info_label">Informace a nastavení specifické pro výrobce OEM</string>
     <string name="onscreen_keyboard_settings_summary">Nastavení klávesnice na obrazovce</string>
+    <string name="open_wifi_connect_title">Připojit k otevřené síti %1$s</string>
+    <string name="open_wifi_connect_summary">Stiskněte pro správu sítí</string>
     <string name="other_relative">Ostatní povolení</string>
     <string name="overlay_display_devices_title">Simulovat sekun. displeje</string>
     <string name="owner_info_settings_edit_text_hint">Zadejte text, který se zobrazí na zamčené obrazovce</string>

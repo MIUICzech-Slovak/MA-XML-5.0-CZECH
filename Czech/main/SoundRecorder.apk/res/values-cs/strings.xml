@@ -82,6 +82,7 @@
     <string name="storage_is_full">Nedostatek volného místa</string>	
     <string name="timer_format" formatted="false">%02d:%02d</string>	
     <string name="toast_max_record_time">Dosáhnuto maximální délky nahrávky:%1$s podporuje maximálně %2$s připojených nahrávek</string>
+    <string name="toast_uninstall_fileexplorer">Správce souborů není nainstalován</string>
     <string name="unknown_caller">Neznámé číslo</string>	
     <string name="view_list_of_recordings">Seznam nahrávek</string>
 </resources>

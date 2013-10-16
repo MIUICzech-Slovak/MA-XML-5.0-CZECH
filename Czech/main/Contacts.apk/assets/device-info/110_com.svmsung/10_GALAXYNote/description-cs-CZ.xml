@@ -1,0 +1,16 @@
+<feature>
+    <name>Galaxy Note</name>
+    <boolean>TRUE</boolean>
+    <title>
+On your GALAXY Note:
+
+1. Go to Settings > Bluetooth Settings 
+
+2. Enable Bluetooth
+
+3. Go to Bluetooth Settings details
+
+Then touch "Next" on this device.
+    </title>
+    <header></header>
+</feature>

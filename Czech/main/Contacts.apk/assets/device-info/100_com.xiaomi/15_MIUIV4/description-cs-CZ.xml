@@ -1,0 +1,16 @@
+<feature>
+    <name>MIUI V4</name>
+    <boolean>TRUE</boolean>
+    <title>
+On your other MIUI V4 device:
+
+1. From the Home screen, go to Settings > Bluetooth 
+
+2. Touch the switch on the right to enable Bluetooth 
+
+3. Touch "MiPhone" and make sure the device is Discoverable 
+
+After you have enabled Bluetooth on your MIUI V4 device, touch "Next" on this device 
+    </title>
+    <header></header>
+</feature>

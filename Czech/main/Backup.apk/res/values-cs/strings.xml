@@ -24,7 +24,7 @@
     <string name="backup_data">Zálohovat data</string>
     <string name="backup_delete">Smazat</string>
     <string name="backup_empty">Žádná záloha nebyla nenalezena!</string>
-    <string name="backup_empty_info">Zálohujte svá data, nastavení a aplikace</string>
+    <string name="backup_empty_info">"Zálohujte svá data, nastavení a aplikace"</string>
     <string name="backup_error">Chyba zálohy</string>
     <string name="backup_failed">Zálohování selhalo!</string>
     <string name="backup_file_error">Nastal problém se zálohou, operace není dokončena.</string>
@@ -37,7 +37,7 @@
     <string name="backup_recently">" (Nejnovější)"</string>
     <string name="backup_report">Hlášení zálohování</string>
     <string name="backup_update">Aktualizace</string>
-    <string name="batch_delete_backup_confirm">Zvolená záloha bude odstraněna. Opravdu chcete pokračovat?</string>
+    <string name="batch_delete_backup_confirm">Vymazat zálohy (%d)?</string>
     <string name="button_backup">Nová záloha</string>
     <string name="button_cancel">Zrušit</string>
     <string name="button_finish">Hotovo</string>
@@ -85,8 +85,8 @@
     <string name="fail">Nedokončeno</string>
     <string name="findlost_contact">Obnovit kontakty</string>
     <string name="findlost_contact_online">Obnovit kontakt online</string>
-    <string name="guarded_mode_dialog_message">V režimu návštěvník nelze vytvářet nebo obnovovat zálohy</string>
-    <string name="guarded_mode_dialog_title">Režim návštěvník</string>
+    <string name="guarded_mode_dialog_message">V režimu Návštěvník nelze vytvářet nebo obnovovat zálohy</string>
+    <string name="guarded_mode_dialog_title">Režim Návštěvník</string>
     <string name="import_from_xiaomi_account_hint1">1.Nainstalujte MiTalk a přihlaste se.\n http://www.miliao.com\n\n3. Přejděte na nastavení MiTalk a a zvolte "Zálohovat na účet Xiaomi"</string> 
     <string name="import_from_xiaomi_account_hint2">Poznámka: Přejděte k dalšímu kroku pokud již existuje záloha</string>
     <string name="import_from_xiaomi_account_hint_title">Pro zálohování kontaktů používejte MiTalk</string>

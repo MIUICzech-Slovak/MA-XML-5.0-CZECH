@@ -1,0 +1,23 @@
+<feature>
+    <boolean>FALSE</boolean>
+    <title>
+If the phone your trying to import your contacts from does not support Bluetooth, follow the steps outlined below: 
+
+1. Insert your SIM card into the phone you are importing your contacts from
+
+2. Open contacts 
+
+3. Copy contacts to SIM card
+
+4. Eject SIM card and insert it into your Xiaomi device
+
+On your Xiaomi device: 
+
+1. Open Contacts 
+
+2. Go to Menu > Import/export contacts > Import from storage 
+
+3. Follow the onscreen instructions
+    </title>
+    <header></header>
+</feature>

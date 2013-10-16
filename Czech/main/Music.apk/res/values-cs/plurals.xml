@@ -84,4 +84,8 @@
         <item quantity="other">Nalezených: %d</item>
         <item quantity="one">Nalezených: %d</item>
     </plurals>
+    <plurals name="Ntracks_remove_from_playlist">
+        <item quantity="other">%d skladeb odstraněno z playlistu.</item>
+        <item quantity="one">1 skladba odstraněna z playlistu.</item>
+    </plurals>
 </resources>

@@ -1,0 +1,15 @@
+<feature>
+    <boolean>TRUE</boolean>
+    <title>
+On your I897:
+
+1. Go to Main Menu > Settings > Wireless and Networks
+
+2. Touch Bluetooth
+
+3. Open Bluetooth Settings and make sure the device is discoverable 
+
+Then touch "Next" on this device.
+    </title>
+    <header></header>
+</feature>

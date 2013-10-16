@@ -1,0 +1,15 @@
+<feature>
+    <boolean>TRUE</boolean>
+    <header></header>
+    <title>
+On your U8818:
+
+1. From the Main Menu, go to Settings > Wireless and Networks
+
+2. Touch Bluetooth
+
+3. Open Bluetooth Settings and make sure the device is discoverable 
+
+Then touch "Next" on this device.
+	</title>
+</feature>
