@@ -80,7 +80,7 @@
     <string name="bookmark_this_page">Přidat tuto stránku do záložek</string>
     <string name="bookmark_this_page_to_readmodelist">Přidat tuto stránku do seznamu zajímavých</string>	
     <string name="bookmark_thumbnail_view">Náhledy</string>
-    <string name="bookmark_title">Označení</string>
+    <string name="bookmark_title">Název složky</string>
     <string name="bookmark_to_readmodelist_not_saved">"Nepodařilo se uložit do seznamu zajímavých."</string>
     <string name="bookmark_to_readmodelist_saved">Uloženo do seznamu zajímavých.</string>
     <string name="bookmark_url">Url</string>	
@@ -202,7 +202,7 @@
     <string name="export_bookmark_sucess">Záložky byly úspěšně exportovány na SD kartu!</string>
     <string name="exported_bookmark_file_name">Oblíbené</string>
     <string name="file_dir">Umístění</string>
-    <string name="file_name">Soubor</string>
+    <string name="file_name">Název</string>
     <string name="file_picker">Zvolte cestu</string>
     <string name="file_picker_new_folder">Nová složka</string>
     <string name="file_picker_sdcard_not_found">SD karta nenalezena, zkontrolujte jestli je telefon připojený k PC.</string>
@@ -588,8 +588,8 @@
     <string name="user_defined_webpage">Vlastní URL</string>
     <string name="quicklink_user_define_webpage_title">Název</string>
     <string name="quicklink_user_define_webpage_url">URL</string>
-    <string name="user_defined_webpage_title">Přidat vlastní stránky</string>
-    <string name="quicklinks_most_visited">Často navštěvované</string>
-    <string name="quicklinks_most_visited_subtitle">Historie navštívených stránek na úvodní obrazovce</string>
-    <string name="quicklinks_group_default_subtitle">Nebyla přidána žádná stránka</string>
+    <string name="user_defined_webpage_title">Přidat na úvodní stránku</string>
+    <string name="quicklinks_most_visited">Přidat často navštěvované stránky na úvodní stránku</string>
+    <string name="quicklinks_most_visited_subtitle">Historie navštívených stránek na úvodní stránce</string>
+    <string name="quicklinks_group_default_subtitle">Prázdné</string>
 </resources>

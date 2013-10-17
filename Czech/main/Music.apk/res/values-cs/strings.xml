@@ -255,6 +255,7 @@
     <string name="dirac_mode_off">Dirac vypnut</string>
     <string name="dirac_mode_in_ear">Xiaomi špunty</string>
     <string name="dirac_mode_earbuds">Xiaomi sluchátka</string>
+    <string name="dirac_mode_general">Obyčejné</string>
     <string name="dirac_mode_piston_100">Xiaomi piston sluchátka</string>
     <string name="eq_flat">Flat</string>
     <string name="eq_rock">Rock</string>
