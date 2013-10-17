@@ -60,7 +60,7 @@
     <string name="menu_add_list">Přidat seznam</string>
     <string name="menu_delete">Odstranit</string>
     <string name="menu_edit">Upravit</string>
-    <string name="menu_exit">Odejít</string>
+    <string name="menu_exit">Ukončit</string>
     <string name="menu_new_station">Přidat novou stanici</string>
     <string name="menu_play">Přehrát</string>
     <string name="menu_record_list">Seznam nahrávek</string>

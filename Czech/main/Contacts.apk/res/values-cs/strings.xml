@@ -719,9 +719,9 @@ Synchronizujte je nyní."</string>
     <string name="preference_auto_ip_summary_on">"IP operátora: %s"</string>
     <string name="preference_auto_ip_title">Auto IP</string>
     <string name="preference_contacts">Kontakt</string>
-    <string name="preference_contacts_display">Zobrazení kontaktu</string>
+    <string name="preference_contacts_display">Zobrazení kontaktů</string>
     <string name="preference_contacts_filter">Kontakty k zobrazení</string>
-    <string name="preference_contacts_more">Více nastavení kontaktu</string>
+    <string name="preference_contacts_more">Další nastavení kontaktů</string>
     <string name="preference_dial_pad_touch_tone_default">Výchozí</string>
     <string name="preference_dial_pad_touch_tone_human">Lidský hlas</string>
     <string name="preference_dial_pad_touch_tone_piano">Klavír</string>
@@ -735,7 +735,7 @@ Synchronizujte je nyní."</string>
     <string name="preference_import_export_title">Importovat/Exportovat kontakty</string>
     <string name="preference_others">Ostatní</string>
     <string name="preference_phone">Telefon</string>
-    <string name="preference_phone_more_title">Více nastavení telefonu</string>
+    <string name="preference_phone_more_title">Další nastavení telefonu</string>
     <string name="preference_remove_duplicate">Sloučit duplicitní kontakty</string>
     <string name="preference_simple_mode_description">V seznamu se nezobrazují fotky a detaily kontaktů</string>
     <string name="preference_simple_mode_title">Jednoduchý režim</string>
@@ -906,9 +906,9 @@ Prosím otevřete tuto aplikaci ještě jednou pro aktualizaci zdrojů."</string
     <string name="smart_group_company_label">Podle firmy</string>
     <string name="smart_group_company_unavailable">Neznámá firma</string>
     <string name="smart_group_frequency_1">Poslední měsíc</string>
-    <string name="smart_group_frequency_2">Poslední 3 měs.</string>
-    <string name="smart_group_frequency_3">Posledních 6 měs.</string>
-    <string name="smart_group_frequency_4">Nekontakt. 6 měs.</string>
+    <string name="smart_group_frequency_2">Poslední 3 měsíce</string>
+    <string name="smart_group_frequency_3">Posledních 6 měsíců</string>
+    <string name="smart_group_frequency_4">Nekontaktování 6 měsíců</string>
     <string name="smart_group_frequency_label">Naposledy kontaktovaní</string>
     <string name="smart_group_label">Inteligentní skupiny</string>
     <string name="smart_group_loading">Načítání inteligentních skupin...</string>

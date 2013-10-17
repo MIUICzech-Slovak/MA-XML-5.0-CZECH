@@ -864,9 +864,9 @@
     <string name="requesting_unlock">Requesting network unlock...</string>
     <string name="reset_my_choice_hint">Nastavení hovorů použijte pro změnu výchozího účtu Internetové telefonie</string>
     <string name="respond_via_sms_canned_response_1">Teď nemůžu telefonovat, o co jde?</string>
-    <string name="respond_via_sms_canned_response_1_miui">"Omlouvám  se, momentálně nemohu přijmout hovor. Zavolám vám později."</string>
+    <string name="respond_via_sms_canned_response_1_miui">"Omlouvám se, momentálně nemohu přijmout hovor. Zavolám vám později."</string>
     <string name="respond_via_sms_canned_response_2">Zavolám zpátky.</string>
-    <string name="respond_via_sms_canned_response_2_miui">"Omlouvám  se, momentálně nemohu přijmout hovor. Co pro vás mohu udělat?"</string>
+    <string name="respond_via_sms_canned_response_2_miui">"Omlouvám se, momentálně nemohu přijmout hovor. Co pro vás mohu udělat?"</string>
     <string name="respond_via_sms_canned_response_3">Zavolám později.</string>
     <string name="respond_via_sms_canned_response_3_miui">"Momentálně jsem zaneprázdněn. Zavolám později."</string>
     <string name="respond_via_sms_canned_response_4">Nemůžu telefonovat, volejte jindy.</string>
@@ -1024,6 +1024,7 @@
     <string name="sum_xdivert_disabled">X-Divert Disabled</string>
     <string name="sum_xdivert_enabled">X-Divert Enabled</string>
     <string name="summary_manage_subscriptions">Manage Network settings of each subscriptions</string>
+    <string name="suspect_info">Nedůvěryhodný hovor</string>
     <string name="t9_indexing_method_pinyin">Abecedně</string>
     <string name="t9_indexing_method_title_miui">Vyhledávání T9</string>
     <string name="t9_indexing_method_zhuyin">Foneticky</string>

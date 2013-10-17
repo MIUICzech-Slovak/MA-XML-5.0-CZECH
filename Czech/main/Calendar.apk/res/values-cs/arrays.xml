@@ -178,7 +178,7 @@
         <item>Agenda</item>
     </string-array>
     <string-array name="quick_response_defaults">
-        <item>Budu trochu meškat.</item>
+        <item>Budu mít trochu zpoždění.</item>
         <item>Budu tam za 10 min.</item>
         <item>Začněte beze mě.</item>
         <item>"Omlouvám se, ale nestíhám. Musíme to přesunout na někdy jindy."</item>
