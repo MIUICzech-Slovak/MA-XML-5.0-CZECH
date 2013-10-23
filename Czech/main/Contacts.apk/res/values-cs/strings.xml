@@ -834,7 +834,6 @@ Synchronizujte je nyní."</string>
     <string name="resource_comment_upload_success">Komentář je odeslaný! Zobrazí se až po jeho schválení.</string>
     <string name="resource_default">Výchozí zvonění</string>
     <string name="resource_default_name">Zdroj</string>
-    <string name="resource_delete_all">Opravdu chcete vymazat %1$d zdrojů?</string>
     <string name="resource_delete_confirm">Vymazat tyto zdroje?</string>
     <string name="resource_delta_update_failed">Aktualizování rozdílů selhalo, stáhne se celý balík</string>     
 	  <string name="resource_delta_update_successful">Aktualizace dokončena</string>
@@ -881,7 +880,6 @@ Synchronizujte je nyní."</string>
     <string name="resource_select">Zvolit</string>
     <string name="resource_selected">Nejlepší</string>
     <string name="resource_server_alert_dialog_title">Server je nedostupný</string>
-    <string name="resource_server_out_of_service">Služba je nedostupná, zkuste to později.</string>
     <string name="resource_share_subject">Sdílím téma: %1$s</string>
     <string name="resource_share_text">Zde je téma pro MIUI, které se Ti může líbit: %1$s! Adresa: %2$s</string>
     <string name="resource_share_title">Sdílet</string>
