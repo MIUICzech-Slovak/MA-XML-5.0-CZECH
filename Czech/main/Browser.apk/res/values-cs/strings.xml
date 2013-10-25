@@ -561,7 +561,7 @@
     <string name="tab_opened_background_in_incognito">Nové anonymní okno otevřeno</string>
     <string name="tab_quicklinks">Rychlé odkazy</string>
     <string name="tab_snapshots">Uložené stránky</string>
-    <string name="tab_yellowpage">Zlaté stránky</string>
+    <string name="tab_yellowpage">Stránky</string>
     <string name="title_bar_loading">Nahrávám...</string>
     <string name="too_many_subwindows_dialog_message">Může být otevřené jen jedno vyskakovací okno.</string>
     <string name="too_many_subwindows_dialog_title">Vyskakovací okno je již otevřeno</string>

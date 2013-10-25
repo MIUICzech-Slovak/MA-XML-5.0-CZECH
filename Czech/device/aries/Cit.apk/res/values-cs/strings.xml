@@ -194,6 +194,7 @@
     <string name="cit_tool_log_toast_generate_bugreport">Vytvoření záznamu o chybě může trvat i více jak 1 minutu.</string>
     <string name="cit_tool_modem">MODEM Test</string>
     <string name="cit_tool_modem_bugreport">MODEM Coredump</string>
+    <string name="cit_tool_modem_cta_test">Open / Close Protocol Conformance Test</string>
     <string name="cit_tool_modem_offline_log">Otevřít/Zavřít Offline Log</string>
     <string name="cit_tool_modem_pcap_switch">Otevřít/Zavřít DATA Export</string>
     <string name="cit_tool_modem_pcm_switch">Otevřít/Zavřít PCM Export</string>
