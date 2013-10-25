@@ -153,7 +153,7 @@ prvně a nemohou být použité po vypršení platnosti"</string>
     <string name="prepaid_picker_hint_1_1">1.</string>
     <string name="prepaid_picker_hint_1_2">Je možné navýšit jen jednou;</string>
     <string name="prepaid_picker_hint_2_1">2.</string>
-    <string name="prepaid_picker_hint_2_2_a">Zvolená suma hodnoty předplacené karty. Volba nesprávné sumy způsobí neplatnost karty a nelze to vrátit zpět.</string>
+    <string name="prepaid_picker_hint_2_2_a">Zvolená hodnotu předplacené karty. Volba nesprávné sumy způsobí neplatnost karty a nelze to vrátit zpět.</string>
     <string name="prepaid_picker_hint_2_2_b">Když suma předplacené karty není %1$s RMB, dojde k chybě a karta bude neplatná</string>
     <string name="prepaid_picker_title_default">Zvolte výši navýšení</string>
     <string name="prepaid_picker_title_selected">Navýšit kredit</string>
