@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Blikání</string>
+    <string name="pref_name">Blikání</string>
+    <string name="pref_serv">Restart</string>
+    <string name="pref_serv_sum">Potřeba restartu pro aplikaci změn</string>
+    <string name="pref_sms">SMS upozornění</string>
+    <string name="pref_sms_sum">Nastavení SMS upozornění</string>
+    <string name="pref_call">Připomenout volání</string>
+    <string name="pref_call_sum">Upozornit na zmeškaný hovor</string>
+    <string name="pref_style">Styl blikání</string>
+    <string name="pref_style_sum">Nastavení stylu blikání</string>
+</resources>
