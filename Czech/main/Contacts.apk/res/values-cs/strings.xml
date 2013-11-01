@@ -800,11 +800,11 @@ Synchronizujte je nyní."</string>
     <string name="resource_buy">"Koupit "</string>  
     <string name="resource_can_not_selected">%1$s se nedá vybrat!</string> 
     <string name="resource_category">Kategorie</string>
-    <string name="resource_comment_1_star">1 Hvězdička</string>
-    <string name="resource_comment_2_star">2 Hvězdičky</string>
-    <string name="resource_comment_3_star">3 Hvězdičky</string>
-    <string name="resource_comment_4_star">4 Hvězdičky</string>
-    <string name="resource_comment_5_star">5 Hvězdiček</string>
+    <string name="resource_comment_1_star">*</string>
+    <string name="resource_comment_2_star">**</string>
+    <string name="resource_comment_3_star">***</string>
+    <string name="resource_comment_4_star">****</string>
+    <string name="resource_comment_5_star">*****</string>
     <string name="resource_comment_account_need_activitied">Aktivovat Xiaomi účet.</string>
     <string name="resource_comment_all_comments">Vše</string>
     <string name="resource_comment_average_score">Průměrné</string>
@@ -834,6 +834,7 @@ Synchronizujte je nyní."</string>
     <string name="resource_comment_upload_success">Komentář je odeslaný! Zobrazí se až po jeho schválení.</string>
     <string name="resource_default">Výchozí zvonění</string>
     <string name="resource_default_name">Zdroj</string>
+    <string name="resource_delete_all">Vymazat (%1$d)?</string>
     <string name="resource_delete_confirm">Vymazat tyto zdroje?</string>
     <string name="resource_delta_update_failed">Aktualizování rozdílů selhalo, stáhne se celý balík</string>     
 	  <string name="resource_delta_update_successful">Aktualizace dokončena</string>
@@ -880,6 +881,7 @@ Synchronizujte je nyní."</string>
     <string name="resource_select">Zvolit</string>
     <string name="resource_selected">Nejlepší</string>
     <string name="resource_server_alert_dialog_title">Server je nedostupný</string>
+    <string name="resource_server_out_of_service">Promiňte ale náš server je momentálně nedostupný. Zkuste to později.</string>
     <string name="resource_share_subject">Sdílím téma: %1$s</string>
     <string name="resource_share_text">Zde je téma pro MIUI, které se Ti může líbit: %1$s! Adresa: %2$s</string>
     <string name="resource_share_title">Sdílet</string>
