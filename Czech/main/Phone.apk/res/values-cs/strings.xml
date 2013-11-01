@@ -89,7 +89,7 @@
     <string name="auto_record_scenario_enteries_always_miui">Všechna tel. čísla</string>
     <string name="auto_record_scenario_title_miui">Režim nahrávání hovoru</string>
     <string name="auto_record_whitelist_miui">Nastavit vybraná čísla</string>
-    <string name="auto_record_whitelist_no_item_miui">Klikněte na spodní tlačítko pro přidání čísel na automatické nahrávání hovorů</string>
+    <string name="auto_record_whitelist_no_item_miui">Přidejte čísla pro automatické nahrávání hovoru</string>
     <string name="auto_record_whitelist_summary_for_one_miui">1 číslo</string>
     <string name="auto_record_whitelist_summary_miui">%d čísel</string>
     <string name="auto_redial_pref_summary_miui">Automaticky volat zpět pokud je linka obsazená</string>
@@ -1120,7 +1120,7 @@
     <string name="xdivert_sub_absent">Both subscriptions should be activated to process X-Divert</string>
     <string name="xdivert_summary">CFNRc Nastavení</string>
     <string name="xdivert_title">X-Divert</string>
-    <string name="auto_record_unknown_miui">Neznámá čísla</string>
-    <string name="auto_record_yellowpage_miui">Zlaté stránky</string>
-    <string name="auto_record_scenario_enteries_whitelist_miui">Vlastní</string>
+    <string name="auto_record_unknown_miui">Neznámé číslo</string>
+    <string name="auto_record_yellowpage_miui">Zlaté stránky (pouze Čína)</string>
+    <string name="auto_record_scenario_enteries_whitelist_miui">Přizpůsobit</string>
 </resources>

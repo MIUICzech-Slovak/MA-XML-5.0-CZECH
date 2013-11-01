@@ -65,7 +65,7 @@
     <string name="cloud_app_find_backup_prompt_2">Pokud odmítnete, vaše současná data se přepíšou při obnově.</string>
     <string name="cloud_app_function_summary">Když zálohujete Vaše data do cloudu, můžete je obnovit na kterémkoliv zařízení.</string>
     <string name="cloud_app_invalid_op">"Nelze zobrazit data v cloudu při zálohování nebo obnově."</string>
-    <string name="cloud_app_just_show_in_current_device">Zobrazit jen aplikace v tomto zařízení</string>
+    <string name="cloud_app_just_show_in_current_device">Jen aplikace v tomto zařízení</string>
     <string name="cloud_app_mine">Stáhnuté aplikace</string>
     <string name="cloud_app_name">Sítě zálohování</string>
     <string name="cloud_app_no_data">Žádná data.</string>
@@ -83,7 +83,7 @@
     <string name="cloud_app_restore_progress">Obnovování...</string>
     <string name="cloud_app_restore_prompt">Obnova přepíše všechna data v zařízení zálohovanými daty v cloudu.</string>
     <string name="cloud_app_restore_query_error_prompt">"Načítání dat z cloudu selhalo. Aplikace a uživatelská data budou automaticky obnovena hned po připojení k serveru."</string>
-    <string name="cloud_app_restore_success">Aplikace obnoveny.</string>
+    <string name="cloud_app_restore_success">Aplikace obnovena.</string>
     <string name="cloud_app_restore_summary">Obnovit aplikace ze zálohy a data aplikací</string>
     <string name="cloud_app_restore_wifi_prompt">Pro obnovení Aplikací a uživatelských dat je nutné se připojit k Wi-Fi síti.</string>
     <string name="cloud_app_total_size">Celková záloha: %1$s</string>

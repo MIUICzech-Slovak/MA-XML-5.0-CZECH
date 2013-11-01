@@ -41,14 +41,14 @@
         <item quantity="one">Hlasový mail</item>
     </plurals>
     <plurals name="number_of_items_selected">
-        <item quantity="other">%1$d zvoleno</item>
-        <item quantity="zero">%1$d zvoleno</item>
-        <item quantity="one">%1$d zvolena</item>
+        <item quantity="other">Vybraných: %1$d</item>
+        <item quantity="zero">Vybraných: %1$d</item>
+        <item quantity="one">Vybraných: %1$d</item>
     </plurals>
     <plurals name="picker_multi_title">
-        <item quantity="other">%1$d vybraných</item>
-        <item quantity="zero">%1$d vybraných</item>
-        <item quantity="one">%1$d vybrán</item>
+        <item quantity="other">Vybraných: %1$d</item>
+        <item quantity="zero">Vybraných: %1$d</item>
+        <item quantity="one">Vybraných: %1$d</item>
     </plurals>
     <plurals name="group_add_success_toast">
         <item quantity="other">Úspěšně přidaných %1$d lidí</item>
@@ -59,8 +59,8 @@
         <item quantity="one">1 člověk</item>
     </plurals>
     <plurals name="numSelectedSimContacts">
-        <item quantity="other">"%1$d vybraných"</item>
-        <item quantity="zero">%1$d vybraných</item>
-        <item quantity="one">%1$d vybrán</item>
+        <item quantity="other">Vybraných: %1$d</item>
+        <item quantity="zero">Vybraných: %1$d</item>
+        <item quantity="one">Vybraných: %1$d</item>
     </plurals>
 </resources>
