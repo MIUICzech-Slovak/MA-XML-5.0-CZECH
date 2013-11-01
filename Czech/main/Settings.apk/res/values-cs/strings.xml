@@ -2638,4 +2638,9 @@ Nastavení telefonu může vyžadovat přenos nemalého množství dat."</string
     <string name="zone_auto_summaryOn">Použít časové pásmo ze sítě</string>
     <string name="zone_list_menu_sort_alphabetically">Řadit abecedně</string>
     <string name="zone_list_menu_sort_by_timezone">Řadit podle časového pásma</string>
+    <string name="se_route_ese">Vestavěné zabezpečení</string>
+    <string name="se_route_uicc">Zabezpečení na SIM kartě</string>
+    <string name="restrict_background_data_title">Omezené data na pozadí</string>
+    <string name="restrict_background_data_dialog_summary">"Aplikace které jsou špuštěné na pozadí nebudou moci načítat nové zprávy. Skutečně chcete zakázat data na pozadí?"</string>
+    <string name="restrict_background_data_notification_summary">"Aplikace se nemohou připojit k internetu když jsou data na pozadí omezeny"</string>
 </resources>

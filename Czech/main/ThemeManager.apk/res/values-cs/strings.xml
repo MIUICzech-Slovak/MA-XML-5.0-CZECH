@@ -54,11 +54,11 @@
     <string name="resource_buy">"Koupit "</string>
     <string name="resource_can_not_selected">%1$s nelze vybrat!</string>
     <string name="resource_category">Kategorie</string>
-    <string name="resource_comment_1_star">1 Hvězdička</string>
-    <string name="resource_comment_2_star">2 Hvězdičky</string>
-    <string name="resource_comment_3_star">3 Hvězdičky</string>
-    <string name="resource_comment_4_star">4 Hvězdičky</string>
-    <string name="resource_comment_5_star">5 Hvězdiček</string>
+    <string name="resource_comment_1_star">*</string>
+    <string name="resource_comment_2_star">**</string>
+    <string name="resource_comment_3_star">***</string>
+    <string name="resource_comment_4_star">****</string>
+    <string name="resource_comment_5_star">*****</string>
     <string name="resource_comment_all_comments">Vše</string>
     <string name="resource_comment_average_score">Průměrné</string>
     <string name="resource_comment_bad_comments">Negativní</string>

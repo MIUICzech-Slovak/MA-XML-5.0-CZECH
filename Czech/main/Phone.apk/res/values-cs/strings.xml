@@ -87,7 +87,6 @@
     <string name="auto_record_call_summary_miui">Začne nahrávat hovor při spojení a ukládat jej na SD kartu</string>
     <string name="auto_record_call_title_miui">Automaticky nahrávat</string>
     <string name="auto_record_scenario_enteries_always_miui">Všechna tel. čísla</string>
-    <string name="auto_record_scenario_enteries_whitelist_miui">Vybraná tel. čísla</string>
     <string name="auto_record_scenario_title_miui">Režim nahrávání hovoru</string>
     <string name="auto_record_whitelist_miui">Nastavit vybraná čísla</string>
     <string name="auto_record_whitelist_no_item_miui">Klikněte na spodní tlačítko pro přidání čísel na automatické nahrávání hovorů</string>
@@ -1121,4 +1120,7 @@
     <string name="xdivert_sub_absent">Both subscriptions should be activated to process X-Divert</string>
     <string name="xdivert_summary">CFNRc Nastavení</string>
     <string name="xdivert_title">X-Divert</string>
+    <string name="auto_record_unknown_miui">Neznámá čísla</string>
+    <string name="auto_record_yellowpage_miui">Zlaté stránky</string>
+    <string name="auto_record_scenario_enteries_whitelist_miui">Vlastní</string>
 </resources>

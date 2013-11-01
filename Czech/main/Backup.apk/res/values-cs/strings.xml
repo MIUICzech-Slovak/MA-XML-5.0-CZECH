@@ -74,7 +74,7 @@
     <string name="cloud_app_remove_pending">Čekání...</string>
     <string name="cloud_app_remove_progress">Vymazávání...</string>
     <string name="cloud_app_remove_prompt">%1$s dat bude vymazaných. Pokračovat?</string>
-    <string name="cloud_app_restore_action_bar_title">Zálohovaných %1$s dat</string>
+    <string name="cloud_app_restore_action_bar_title">Zálohovaná data %1$s</string>
     <string name="cloud_app_restore_app_and_data">Obnovit aplikace a uživatelská data</string>
     <string name="cloud_app_restore_data">Obnovit nainstalované aplikace</string>
     <string name="cloud_app_restore_data_title">Obnovit uživatelská data</string>

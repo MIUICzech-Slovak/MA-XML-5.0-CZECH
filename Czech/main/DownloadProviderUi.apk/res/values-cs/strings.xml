@@ -62,7 +62,6 @@
     <string name="pref_summary_any_bytes_popup">Stahovat pouze přes Wi-Fi</string>
     <string name="pref_title_enable_max_bytes_popup">Ptát se při stahování</string>
     <string name="pref_title_max_bytes_limit">Limit velikosti souboru</string>
-    <string name="prefDefault_max_bytes_limit">1048576</string>
     <string name="preferences_title">Nastavení</string>
     <string name="remove_download">Odstranit</string>
     <string name="retry_after_network_available">Prosím, zkuste znovu až bude dostupná síť</string>	
@@ -72,4 +71,6 @@
     <string name="select_all">Vybrat vše</string>
     <string name="select_operation_items">Prosím, vyberte položku operace</string>	
     <string name="selected_count">Vybráno %1$d z %2$d</string>
+    <string name="prefDefault_max_bytes_limit">52428800</string>
+    <string name="pref_summary_no_limit_popup">Neomezená velikost souboru</string>
 </resources>
