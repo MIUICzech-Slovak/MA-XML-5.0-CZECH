@@ -584,10 +584,6 @@ Any user can accept updated app permissions on behalf of all other users."</stri
     <string name="user_summary_inactive">Neaktivní</string>
     <string name="user_summary_not_set_up">Nenastaveno</string>
     <string name="user_you_section">Vy</string>
-    <string name="verify_applications">Verify apps</string>
-    <string name="verify_applications_summary">Disallow or warn before installation of apps that may cause harm</string>
-    <string name="verify_apps_over_usb_summary">Check apps installed via ADB/ADT for harmful behavior.</string>
-    <string name="verify_apps_over_usb_title">Verify apps over USB</string>
     <string name="vibrate_title">Vibrovat</string>
     <string name="video_call_summary">Nastavte výchozí zvonění pro video hovory</string>
     <string name="video_call_title">Zvonění video hovoru</string>
@@ -698,7 +694,6 @@ Nastavení telefonu může vyžadovat zvýšené nároky na přenos dat."</strin
     <string name="wifi_tether_wps_pin_error">Nesprávný PIN</string>
     <string name="wifi_tethering_title">Wi-Fi hotspot</string>
     <string name="wifi_wps_fail_error">Nastavení chráněné Wi-Fi sítě selhalo , zkuste to znovu.</string>
-    <string name="wifi_display_settings_title">Wireless displej</string>
     <string name="verify_applications">Ověřit aplikace</string>
     <string name="verify_applications_summary">Zakázat nebo varovat při instalací aplikace, která může způsobit poškození</string>
     <string name="verify_apps_over_usb_title">Ověření instalací přes USB</string>
