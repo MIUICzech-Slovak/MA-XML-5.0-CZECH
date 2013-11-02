@@ -1,5 +1,5 @@
-  <?xml version='1.0' encoding='UTF-8'?>
-  <resources>
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
     <string name="Import">Import</string>
     <string name="access_sd_fail">"Není možný přístup na SD kartu"</string>
     <string name="accessibilit_camera_video_switch_picker_and_state">Přepínání přední a zadní kamery, nyní je aktivní</string>
@@ -540,7 +540,6 @@
     <string name="pref_camera_coloreffect_title_simple_mode">Filtr</string>
     <string name="pref_camera_jpegquality_entry_superfine">Velmi dobrá</string>
     <string name="pref_camera_jpegquality_entry_fine">Dobrá</string>
-    <string name="pref_camera_jpegquality_entry_normal">Normální</string>
     <string name="pref_camera_saturation_entry_low">Nizká</string>
     <string name="pref_camera_saturation_entry_middle">Střední</string>
     <string name="pref_camera_saturation_entry_high">Vysoká</string>
@@ -553,4 +552,4 @@
     <string name="pref_video_continuous_focus">Kontinuální ostření</string>
     <string name="pref_video_continuous_focus_entry_off">Vypnuto</string>
     <string name="pref_video_continuous_focus_entry_on">Zapnuto</string>
-  </resources>
+</resources>
