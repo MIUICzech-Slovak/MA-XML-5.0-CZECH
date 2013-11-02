@@ -191,7 +191,7 @@
     <string name="quit_warining">Přehrávač zastaví přehrávání za %d minut(y)</string>
     <string name="recentlyadded_title">Naposledy přidané</string>
     <string name="recentlyplayed_title">Naposledy přehrávané</string>
-    <string name="recommend">Doporučit</string>
+    <string name="recommend">Doporučené</string>
     <string name="refresh_finish">Aktualizace dokončena</string>
     <string name="refresh_in_processing">Aktualizuji...</string>
     <string name="refresh_media_db">Aktualizovat</string>
