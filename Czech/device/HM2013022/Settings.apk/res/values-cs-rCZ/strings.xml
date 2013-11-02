@@ -43,7 +43,7 @@
     <string name="Phone_vibrate_summary">Vibrovat při příchozím hovoru</string>
     <string name="USER_RESPONSE_TIMEOUT">Čas pro potvrzení vypršel</string>
     <string name="WiFiNetwork_on_title">Wi-Fi je zapnutá</string>
-    <string name="about_agps_message">"A-GPS (Assisted-GPS) je systém který zlepšuje první náběh (TTFF) GPS satelitů."</string>
+    <string name="about_agps_message">A-GPS (Assisted-GPS) je systém který zlepšuje první náběh (TTFF) GPS satelitů.</string>
     <string name="about_agps_title">Co je A-GPS</string>
     <string name="accessibility_feature_state_off">Vypnuté</string>
     <string name="accessibility_feature_state_on">Zapnuté</string>
@@ -62,7 +62,6 @@ Pokud má zařízení více uživatelů, použití této zkratky na zamykací ob
     <string name="accessibility_screen_magnification_summary">"když je tato funkce povolená, je možné přiblížit a oddálit obraz trojitým poklepáním na displej.
 
 Když máte přiblížený obraz:
-
 "<li><ul>"Posouvání: Potáhněte dvěma prsty po displeji.
 "<li>Změna přiblížení: Potáhněte dva prsty k sobě nebo od sebe.</li></ul></li>"
 
@@ -188,7 +187,7 @@ Toto nastavení se změní pro všechny uživatele tohoto zařízení."</string>
     <string name="display_settings_scences_title">Scény</string>
     <string name="dlg_confirm_unmount_usb_text">Když odpojíte USB úložiště, některé používané aplikace přestanou správně pracovat dokud jej opět nepřipojíte.</string>
     <string name="dlg_confirm_unmount_usb_title">Odpojit USB úložiště?</string>
-    <string name="dlg_error_unmount_usb_text">"Nelze odpojit USB úložiště. Zkuste to znovu později."</string>
+    <string name="dlg_error_unmount_usb_text">Nelze odpojit USB úložiště. Zkuste to znovu později.</string>
     <string name="dlg_error_unmount_usb_title"/>
     <string name="dlg_mount_external_sd_summary">Když připojíte SD kartu, některé aplikace přestanou pracovat.</string>
     <string name="dlg_mount_external_sd_title">Připojit SD kartu?</string>
@@ -382,7 +381,7 @@ Chcete použit čas z GPS?"</string>
     <string name="landscape_launcher_none">Žádný</string>
     <string name="landscape_launcher_title">Launcher na šířku</string>
     <string name="launch_activitie">Spustit</string>
-    <string name="launch_error">"Nelze spustit aplikaci!"</string>
+    <string name="launch_error">Nelze spustit aplikaci!</string>
     <string name="launch_main">Spustit aplikaci dle hlavních činností</string>
     <string name="launch_main_label">Spustit aplikaci</string>
     <string name="loading">Načítání...</string>
@@ -549,7 +548,7 @@ Toto nastavení ovlivni všechny uživatele na tomto zařízení."</string>
     <string name="usb_sharing_summary">Sharing Windows PC internet via USB cable</string>
     <string name="usb_sharing_title">USB Internet</string>
     <string name="usb_tether_type_title">USB tethering type</string>
-    <string name="usb_ums_summary">XP recommended. Lets you transfer files between your computer and your Android device.</string>
+    <string name="usb_ums_summary">Doporučeno pro Windows XP. Povolí přesouvat soubory mnezi PC a telefonem.</string>
     <string name="usb_ums_title">USB úložiště</string>
     <string name="user_account_title">Account for content</string>
     <string name="user_add_user_message_long">"You can share this device with other people by creating additional users. Each user has their own space, which they can customize with their own apps, wallpaper, and so on. Users can also adjust tablet settings like Wi-Fi that affect everyone.
@@ -584,6 +583,10 @@ Any user can accept updated app permissions on behalf of all other users."</stri
     <string name="user_summary_inactive">Neaktivní</string>
     <string name="user_summary_not_set_up">Nenastaveno</string>
     <string name="user_you_section">Vy</string>
+    <string name="verify_applications">Ověřit aplikace</string>
+    <string name="verify_applications_summary">Zakázat nebo varovat při instalací aplikace, která může způsobit poškození</string>
+    <string name="verify_apps_over_usb_title">Ověření instalací přes USB</string>
+    <string name="verify_apps_over_usb_summary">Ověřovat aplikace instalované přes ADB/ADT.</string>
     <string name="vibrate_title">Vibrovat</string>
     <string name="video_call_summary">Nastavte výchozí zvonění pro video hovory</string>
     <string name="video_call_title">Zvonění video hovoru</string>
@@ -593,7 +596,7 @@ Any user can accept updated app permissions on behalf of all other users."</stri
     <string name="voice_ui_language_title">Jazyk pro hlasové ovládání</string>
     <string name="voice_ui_setting_category">Nastavení</string>
     <string name="voice_ui_title">Hlasové ovládání</string>
-    <string name="voice_unlock_backup_info_summary">"Pokud Vás hlasové ovládání nerozpozná, jak chcete odemknout Váš telefon?"</string>
+    <string name="voice_unlock_backup_info_summary">Pokud Vás hlasové ovládání nerozpozná, jak chcete odemknout Váš telefon?</string>
     <string name="vpn_lockdown_config_error">Vždy zapnuté VPN vyžaduje IP adresu pro server a DNS.</string>
     <string name="vpn_lockdown_none">Žádné</string>
     <string name="vpn_lockdown_summary">Zvolte profil VPN pro připojení. Datové přenosy budou povoleny jen přes toto VPN.</string>
@@ -602,9 +605,9 @@ Any user can accept updated app permissions on behalf of all other users."</stri
     <string name="wapi_user_certificate">User certifikát</string>
     <string name="wifi_WEP_secury_key">Bezpečnostní klíč</string>
     <string name="wifi_WEP_transmit_key">Klíč přenosu</string>
-    <string name="wifi_and_mobile_skipped_message">"VAROVÁNÍ: telefon nebude moci ověřit, že Váš software je aktuální."</string>
+    <string name="wifi_and_mobile_skipped_message">VAROVÁNÍ: telefon nebude moci ověřit, že Váš software je aktuální.</string>
     <string name="wifi_ap_bandwidth_KbyteShort">KB/s</string>
-    <string name="wifi_ap_bandwidth_chart_summary">"Měřené telefonem, data u Vašeho operátora se mohou lišit."</string>
+    <string name="wifi_ap_bandwidth_chart_summary">Měřené telefonem, data u Vašeho operátora se mohou lišit.</string>
     <string name="wifi_ap_bandwidth_chart_title">Aktuální rychlost dat</string>
     <string name="wifi_ap_bandwidth_enable">Povolit zvýšení rychlosti přenosu</string>
     <string name="wifi_ap_bandwidth_megabyteShort">M/s</string>
@@ -636,7 +639,7 @@ Any user can accept updated app permissions on behalf of all other users."</stri
     <string name="wifi_disconnect">Odpojit</string>
     <string name="wifi_display_available_devices">Dostupné zařízení</string>
     <string name="wifi_display_details">Nastavení displeje</string>
-    <string name="wifi_display_disconnect_text">Připojení s br>b>%1$s/b> bude ukončeno</string>
+    <string name="wifi_display_disconnect_text">Připojení s &lt;br>&lt;b>%1$s&lt;/b> bude ukončeno</string>
     <string name="wifi_display_disconnect_title">Odpojit?</string>
     <string name="wifi_display_no_devices_found">Nenašel se žádný wireless displej.</string>
     <string name="wifi_display_options_done">Hotovo</string>
@@ -655,7 +658,7 @@ Any user can accept updated app permissions on behalf of all other users."</stri
     <string name="wifi_display_summary_disabled">Vypnuto</string>
     <string name="wifi_display_summary_off">Vypnuto</string>
     <string name="wifi_display_summary_on">Zapnuto</string>
-    <string name="wifi_dont_skip">"Nepřeskočit "</string>
+    <string name="wifi_dont_skip">Nepřeskočit</string>
     <string name="wifi_failover_gprs_content">Wi-Fi síť je nedostupná, použít mobilní data?</string>
     <string name="wifi_gprs_selector_title">Výběr sítě</string>
     <string name="wifi_hex_password">Hexadecimální heslo.</string>
@@ -694,8 +697,4 @@ Nastavení telefonu může vyžadovat zvýšené nároky na přenos dat."</strin
     <string name="wifi_tether_wps_pin_error">Nesprávný PIN</string>
     <string name="wifi_tethering_title">Wi-Fi hotspot</string>
     <string name="wifi_wps_fail_error">Nastavení chráněné Wi-Fi sítě selhalo , zkuste to znovu.</string>
-    <string name="verify_applications">Ověřit aplikace</string>
-    <string name="verify_applications_summary">Zakázat nebo varovat při instalací aplikace, která může způsobit poškození</string>
-    <string name="verify_apps_over_usb_title">Ověření instalací přes USB</string>
-    <string name="verify_apps_over_usb_summary">Ověřovat aplikace instalované přes ADB/ADT.</string>
 </resources>
