@@ -698,4 +698,9 @@ Nastavení telefonu může vyžadovat zvýšené nároky na přenos dat."</strin
     <string name="wifi_tether_wps_pin_error">Nesprávný PIN</string>
     <string name="wifi_tethering_title">Wi-Fi hotspot</string>
     <string name="wifi_wps_fail_error">Nastavení chráněné Wi-Fi sítě selhalo , zkuste to znovu.</string>
+    <string name="wifi_display_settings_title">Wireless displej</string>
+    <string name="verify_applications">Ověřit aplikace</string>
+    <string name="verify_applications_summary">Zakázat nebo varovat při instalací aplikace, která může způsobit poškození</string>
+    <string name="verify_apps_over_usb_title">Ověření instalací přes USB</string>
+    <string name="verify_apps_over_usb_summary">Ověřovat aplikace instalované přes ADB/ADT.</string>
 </resources>

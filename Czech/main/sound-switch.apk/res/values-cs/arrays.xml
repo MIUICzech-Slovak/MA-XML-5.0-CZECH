@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="powermanage_entries">
+        <item>Pouze hovor</item>
+        <item>Úspora energie</item>
+        <item>Normální</item>
+        <item>Plný výkon</item>
+    </string-array>
+    <string-array name="lowmem_entries">
+        <item>Výchozí</item>
+        <item>Agresivní</item>
+        <item>Vyvážený</item>
+        <item>MultiTasking</item>
+        <item>Herní</item>
+    </string-array>
+</resources>

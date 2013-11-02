@@ -11,10 +11,13 @@
     <string name="notification_desc">Povolit, nebo zakázat anonymní statistiku</string>
     <string name="notification_ticker">Statistika odeslána</string>
     <string name="notification_title">Statistika MIUI</string>
+    <string name="preview_android_lbl">Verze Android</string>
     <string name="preview_carrier_lbl">Operátor</string>
-    <string name="preview_country_lbl">Krajina</string>
+    <string name="preview_country_lbl">Země</string>
     <string name="preview_device_lbl">Zařízení</string>
     <string name="preview_done_btn">Hotovo</string>
     <string name="preview_id_lbl">Unikátní ID</string>
+    <string name="preview_language_lbl">Jazyk</string>
+    <string name="preview_title">Náhled</string>
     <string name="preview_version_lbl">Verze</string>
 </resources>

@@ -1315,4 +1315,6 @@ Dlouhodobý poslech hlasitého zvuku může poškodit sluch."</string>
     <string name="enable_accessibility_canceled">Usnadnění zrušeno.</string>
     <string name="user_switched">Aktuální uživatel je %1$s.</string>
     <string name="owner_name">Vlastník</string>
+    <string name="storage_phone">Interní úložiště</string>
+    <string name="storage_external_usb">USB úložiště</string>
 </resources>
