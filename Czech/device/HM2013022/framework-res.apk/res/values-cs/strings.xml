@@ -1318,5 +1318,5 @@ Dlouhodobý poslech hlasitého zvuku může poškodit sluch."</string>
     <string name="storage_phone">Interní úložiště</string>
     <string name="storage_external_usb">USB úložiště</string>
     <string name="global_action_reboot">Restartovat</string>
-    <string name="reboot_confirm">Váš telefon bude restartován</strin
+    <string name="reboot_confirm">Váš telefon bude restartován</string>
 </resources>
