@@ -194,7 +194,7 @@
     <string name="silent_mode_vibrate">Vibrační vyzvánění</string>
     <string name="silent_mode_ring">Vyzvánění zapnuto</string>
     <string name="shutdown_progress">Vypínání...</string>
-    <string name="shutdown_confirm">Váš telefon bude vypnut.</string>
+    <string name="shutdown_confirm">Váš telefon bude vypnut</string>
     <string name="shutdown_confirm_question">Chcete zařízení vypnout?</string>
     <string name="reboot_safemode_title">Restart v nouzovém režimu</string>
     <string name="reboot_safemode_confirm">Chcete zařízení restartovat v nouzovém režimu? Deaktivujete tak veškeré nainstalované aplikace třetích stran. Po dalším restartu budou obnoveny.</string>
@@ -1317,4 +1317,6 @@ Dlouhodobý poslech hlasitého zvuku může poškodit sluch."</string>
     <string name="owner_name">Vlastník</string>
     <string name="storage_phone">Interní úložiště</string>
     <string name="storage_external_usb">USB úložiště</string>
+    <string name="global_action_reboot">Restartovat</string>
+    <string name="reboot_confirm">Váš telefon bude restartován</strin
 </resources>
