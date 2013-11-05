@@ -324,7 +324,7 @@ Zkontrolujeme to do dvou pracovních dnů"</string>
     <string name="reg_type_phone">Registrovat přes číslo telefonu (doporučené)</string>
     <string name="reging">Registrace, čekejte prosím...</string>
     <string name="relogin">Znovu přihlásit</string>
-    <string name="remove_account_notice">Co si přejete udělat s dříve synchronizovanými zprávami, kontakty, historií volání, a poznámkami ve vašem zařízení?</string>
+    <string name="remove_account_notice">Co si přejete udělat s dříve synchronizovanými zprávami, kontakty, historií volání a poznámkami ve vašem zařízení?</string>
     <string name="remove_confirm">Odhlásit</string>
     <string name="remove_unactivated_account_notice">Xiaomi účet není aktivovaný, chcete se odhlásit?</string>
     <string name="removing_account">Odhlašování z účtu...</string>
