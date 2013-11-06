@@ -50,6 +50,9 @@
     <string name="always_use_accessory">Použít jako výchozí pro toto USB příslušenství</string>
     <string name="always_use_device">Použít jako výchozí pro toto USB zařízení</string>
     <string name="app_label">Systém UI</string>
+    <string name="audio_effect_settings">Nastavit typ sluchátek</string>
+    <string name="audio_effect_info">Optimalizovat zvuk</string>
+    <string name="audio_effect_custom">Nastavení</string>
     <string name="battery_low_percent_format">zbývá %d%%</string>
     <string name="battery_low_subtitle">Baterie je skoro vybitá.</string>
     <string name="battery_low_title">Připojte nabíječku</string>

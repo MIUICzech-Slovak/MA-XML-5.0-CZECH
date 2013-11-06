@@ -294,6 +294,11 @@
     <string name="move_to_up_folder">O úroveň výše</string>
     <string name="multi_select_title">Vybraných %1$s</string>
     <string name="name">Název</string>
+    <string name="network_show_wifi_setting_tip_dialog_setting_cate_title">Upozornění o dostupné Wi-Fi síti</string>
+    <string name="network_show_wifi_setting_tip_dialog_setting_title">"Pokud používáte mobilní data, budete upozorněni na dostupnost Wi-Fi sítě"</string>
+    <string name="network_show_wifi_setting_tip_dialog_title">Dostupná Wi-Fi síť</string>
+    <string name="network_show_wifi_setting_tip_dialog_description">Je dostupná Wi-Fi síť. Chcete se k ní připojit?</string>
+    <string name="network_show_wifi_setting_tip_dialog_notshow">Zapamatovat</string>
     <string name="navigation_button_close">Zavřít</string>	
     <string name="navigation_button_newtab">Nová</string>	
     <string name="navigation_button_tab">Karta</string>

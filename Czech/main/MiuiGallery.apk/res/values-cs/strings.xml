@@ -81,6 +81,7 @@
   <string name="clear_thumbnail_cache">Vymazat cache náhledů</string>
   <string name="clear_thumbnail_cache_confirm">Cache náhledů bude vymazána. Galérie prohledá mediální soubory a vytvoří nové náhledy.</string>
   <string name="clear_thumbnail_cache_summary">Prohlížení galerie vytvoří náhledy. Vymazání mezipaměti uvolní místo na úložišti.</string> 
+  <string name="click_top_right">Stiskněte ikonu vpravo nahoře</string>
   <string name="click_to_enter_camera">Otevřít fotoaparát</string>
   <string name="close">Zavřít</string>
   <string name="cloudfolder_already_exists">Složka Cloud už existuje</string>
