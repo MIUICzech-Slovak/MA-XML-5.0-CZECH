@@ -21,7 +21,7 @@
     <string name="best_update">Nejlepší aktualizace</string>
     <string name="boot_recovery">Restartovat do recovery</string>
     <string name="cancel_download_buton_text">Zrušit</string>
-    <string name="confirm_download_cancelation_dialog_message">Opravdu chcete zrušit vybrané ke stažení?</string>
+    <string name="confirm_download_cancelation_dialog_message">Zrušit stahování aktualizace?</string>
     <string name="copy_install_log">Kopírovat instalační log</string>
     <string name="current_version_text">Současná verze\u0020</string>
     <string name="current_version_update_monthly_build">Současná verze (Aktualizace měsíčních verzí)</string>
@@ -84,7 +84,7 @@
     <string name="comment_invalid">Zvolte počet hvězdiček</string>
     <string name="comment_upload_not_logined">Nejprve se přilaste</string>
     <string name="network_error">Připojení nelze navázat, prosím zkuste znovu</string>
-    <string name="new_update_content_title">Nová aktualizace!</string>
+    <string name="new_update_content_title">"Verze: "</string>
     <string name="new_update_download_complete_body">Připravena nová verze: %s</string>
     <string name="new_update_downloading_body">Stahuji novou verzi: %s</string>
     <string name="new_updates_found_notification_title">Byla nalezena nová aktualizace!</string>
