@@ -218,6 +218,7 @@ Zkuste to znovu za %d sekund."</string>
     <string name="the_mid_autumn_festival" />
     <string name="the_rains" />
     <string name="the_spring_festival" />
+    <string name="toast_lockscreen_glogin_empty_password">Je vyžadováno heslo.</string>
     <string name="today">"Dnes "</string>
     <string name="tomorrow">"Zítra "</string>
     <string name="unknown">Neznámé číslo</string>
