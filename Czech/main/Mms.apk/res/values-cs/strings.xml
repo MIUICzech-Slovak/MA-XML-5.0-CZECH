@@ -420,10 +420,10 @@
     <string name="timed_message_in_total">... (%d celkem)</string>
     <string name="timed_message_to">Komu</string>
     <string name="title_date_type">Časy zpráv</string>
-    <string name="title_timed_message_dialog">Nastavte prosím čas</string>
+    <string name="title_timed_message_dialog">Nastavte čas odeslání</string>
     <string name="to_address_label">"Komu: "</string>
     <string name="to_count">%d lidí</string>
-	  <string name="to_label">"Komu "</string>
+    <string name="to_label">"Komu "</string>
     <string name="to_send_wrapper">Bude odesláno v(e) %s</string>
     <string name="too_many_attachments">Počet vložených příloh je omezen na %1$s. Bude přidáno pouze prvních %2$s příloh.</string>
     <string name="too_many_recipients">Počet příjemců této zprávy je příliš vysoký (%1$s). Počet příjemců je omezen na %2$s.</string>
