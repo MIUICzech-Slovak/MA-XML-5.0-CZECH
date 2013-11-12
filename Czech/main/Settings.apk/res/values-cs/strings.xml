@@ -1970,7 +1970,7 @@ Toto nastavení ovlivní všechny uživatele tohoto telefonu."</string>
     <string name="sync_calendar">Kalendář</string>
     <string name="sync_contacts">Kontakty</string>
     <string name="sync_disabled">Synchronizace VYP.</string>
-    <string name="sync_enable">Povolit synchronizaci</string>
+    <string name="sync_enable">Povolit auto. synchronizaci</string>
     <string name="sync_enabled">Synchronizace ZAP.</string>
     <string name="sync_error">Chyba synchronizace</string>
     <string name="sync_failed">Synchronizace selhala</string>

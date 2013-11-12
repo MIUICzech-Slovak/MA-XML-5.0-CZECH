@@ -74,7 +74,6 @@
     <string name="confirm_restore_title">Obnovit všechny vybrané zprávy?</string>
     <string name="context_menu_add_contact">Přidat do kontaktů</string>
     <string name="context_menu_add_to_browser_favorite">Přidat do oblíbených v prohlížeči</string>
-    <string name="invalid_private_contact">Chyba soukromého kontaktu</string>
     <string name="context_menu_browse_web">Webstránka</string>
     <string name="context_menu_call">Zavolat</string>
     <string name="context_menu_contact">Kontakt: %1$s</string>
@@ -122,8 +121,8 @@
     <string name="edit_phrase">Upravit fráze</string>
     <string name="edit_slide_activity">Upravit přechod</string>
     <string name="edit_slideshow_activity">Upravit prezentaci</string>
-  	<string name="enable_password_protect">Povolit ochranu heslem</string>
-    <string name="enable_visible_pattern_title">Zobrazit vzor</string>
+    <string name="enable_password_protect">Povolit ochranu heslem</string>
+  	<string name="enable_visible_pattern_title">Zobrazit vzor</string>
     <string name="enter_edit_mode">Upravit</string>
     <string name="error_code_label">"Chyba kódu: "</string>
     <string name="error_state">Nekonzistentní stav</string>
@@ -163,6 +162,7 @@
     <string name="insufficient_drm_rights">Nemáte dostatečná práva DRM.</string>
     <string name="invalid_conversation">Chybná konverzace</string>
     <string name="invalid_destination">Zadali jste neplatnou adresu.</string>
+    <string name="invalid_private_contact">Chyba soukromého kontaktu</string>
     <string name="invalid_recipient_message">Zprávu nelze doručit, opravte zadané údaje příjemců.</string>
     <string name="kilobyte">kB</string>
     <string name="layout_selector_title">"Rozložení prezentace "</string>
@@ -257,10 +257,11 @@
     <string name="phrase_confirm_delete_message">Vybrané fráze budou smazány</string>
     <string name="phrase_empty">Žádná fráze</string>
     <string name="phrase_from">Od %1s</string>
-    <string name="phrase_list_title">Fráze (%1$d)</string>
+    <string name="phrase_list_title">Fráze</string>
     <string name="pick_too_many_recipients">Příliš mnoho příjemců</string>
     <string name="play">Přehrát</string>
     <string name="pref_advanced_settings_title">Pokročilá nastavení</string>
+  <string name="pref_collapse_sp_messages_summary">Spojovat do vlákna zprávy o poskytování služeb</string>
     <string name="pref_edit_smsc_address">Nastavit číslo SMS centra</string>
     <string name="pref_forward_title">Přeposlat</string>
     <string name="pref_messages_to_save">Nastavit počet zpráv pro uložení</string>
@@ -377,11 +378,11 @@
     <string name="service_network_problem">Nelze odeslat, potíže se sítí.</string>
     <string name="service_not_activated">Služba není aktivní ve vaší síti.</string>
     <string name="set">Nastavit</string>
-	  <string name="set_smsc_address_title_miui">Nastavit číslo SMS centra</string>
+    <string name="set_smsc_address_title_miui">Nastavit číslo SMS centra</string>
     <string name="show_all_messages">Zobrazit všechny zprávy</string>
     <string name="sim_card1">SIM Karta 1</string>
     <string name="sim_card2">SIM Karta 2</string>
-	  <string name="sim_card_cloud">%s (Cloudová zpráva)</string>
+    <string name="sim_card_cloud">%s (Cloudová zpráva)</string>
     <string name="sim_copy_to_phone_memory">Kopírovat do paměti telefonu</string>
     <string name="sim_delete">Smazat</string>
     <string name="sim_empty">Žádné uložené zprávy na SIM kartě.</string>
@@ -397,6 +398,10 @@
     <string name="sms_full_title">Textové zprávy mají zaplněnou paměť</string>
     <string name="sms_rejected_body">Příchozí zpráva odmítnuta z neznámého důvodu.</string>
     <string name="sms_rejected_title">Textová zpráva odmítnuta</string>
+    <string name="sp_conversation_title">Notifikační zprávy</string>
+    <string name="sp_mark_as_read">Označit všechny zprávy jako přečtené?</string>
+    <string name="sp_mark_as_read_progress">Označení všech zpráv jako přečtené...</string>
+    <string name="sp_mark_as_read_title">Označit vše jako přečtené</string>
     <string name="status_failed">Neúspěšný</string>
     <string name="status_label">"Status: "</string>
     <string name="status_pending">Probíhá</string>
@@ -419,6 +424,7 @@
     <string name="timed_message_expired_title_2">Chcete odeslat nyní?</string>
     <string name="timed_message_in_total">... (%d celkem)</string>
     <string name="timed_message_to">Komu</string>
+  <string name="title_collapse_sp_messages">Spojovat zprávy o poskytování služeb</string>
     <string name="title_date_type">Časy zpráv</string>
     <string name="title_timed_message_dialog">Nastavte čas odeslání</string>
     <string name="to_address_label">"Komu: "</string>

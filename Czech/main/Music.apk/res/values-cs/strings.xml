@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="account_and_synchronization">Účet a synchronizace</string>
+    <string name="account_setting">Účet</string>
     <string name="add">Přidat</string>
     <string name="add_to">Přidat do</string>
     <string name="add_to_favorite">Přidat do oblíbených</string>
@@ -19,9 +21,9 @@
     <string name="albumsongseparator">" 
     "</string>
     <string name="all_tracks">Veškerá hudba</string>
-    <string name="android_album_settings">Použít integrovaný obrázek alba</string>
+    <string name="android_album_settings">Použít integrovaný obrázek alba</string>    
     <string name="android_album_summary">Automaticky použije obrázek ze skladby. Může způsobit chyby.</string>
-    <string name="artist_albums">Všechny alba</string>    
+    <string name="artist_albums">Všechny alba</string>
     <string name="artist_details_format">%1$s, %2$s</string>
     <string name="artist_edit">Umělec</string>
     <string name="artist_hot_audios">Hity</string>
@@ -30,10 +32,12 @@
     <string name="auto_correct_id3_summary">Automaticky se upraví ID3 tagy při přehrávání skladby</string>
     <string name="batch_correct_id3_completed">Dávková oprava ID3 je dokončena!</string>
     <string name="billboard">Hitparáda</string>
+    <string name="bind_baidu_account_setting">Propojit s Baidu účtem</string>
+    <string name="bind_baidu_account_summary">Stáhněte si svůj seznam skladeb z Vašeho Baidu účtu pokud ho máte</string>    
     <string name="buffering">Načítání...</string>
     <string name="cancel">Zrušit</string>
     <string name="cancel_sleep_mode">Časovač zastaven</string>
-    <string name="cancle_warining">Režim spánku zrušen</string>    
+    <string name="cancle_warining">Režim spánku zrušen</string>
     <string name="channel">FM</string>
     <string name="channel_format" formatted="false">"%s  %s MHZ"</string>
     <string name="channel_postfix">MHZ</string>
@@ -59,6 +63,11 @@
     <string name="delete_playlist_menu">Vymazat</string>
     <string name="delete_song_desc">%s bude nenávratně smazáno z SD karty.</string>
     <string name="deselect_all">Odznačit vše</string>
+    <string name="dirac_mode_earbuds">Xiaomi sluchátka</string>
+    <string name="dirac_mode_general">Obyčejné</string>
+    <string name="dirac_mode_in_ear">Xiaomi špunty</string>
+    <string name="dirac_mode_off">Dirac vypnut</string>
+    <string name="dirac_mode_piston_100">Xiaomi piston sluchátka</string>
     <string name="download">Stáhnout</string>
     <string name="download_album_settings">Stahovat obrázky alb</string>
     <string name="download_album_summary">Může stahovat větší množství dat, zvažte použití WiFi</string>
@@ -76,6 +85,26 @@
     <string name="empty_track_list">Žádné skladby</string>
     <string name="emptyplaylist">Vybraný playlist je prázdný.</string>
     <string name="enter_sleep_mode">Režim spánku</string>
+    <string name="eq_auto">Vlastní</string>
+    <string name="eq_blues">Blues</string>
+    <string name="eq_classical">Classical</string>
+    <string name="eq_country">Country</string>
+    <string name="eq_dance">Dance</string>
+    <string name="eq_delete">Odstranit</string>
+    <string name="eq_delete_success">Hotovo.</string>
+    <string name="eq_electronic">Electronic</string>
+    <string name="eq_flat">Flat</string>
+    <string name="eq_hiphop">Hip Hop</string>
+    <string name="eq_jazz">Jazz</string>
+    <string name="eq_metal">Metal</string>
+    <string name="eq_pop">Pop</string>
+    <string name="eq_preset_create">Vytvořit</string>
+    <string name="eq_preset_format">Předvolba %d</string>
+    <string name="eq_preset_hint">Zadejte název předvolby</string>
+    <string name="eq_preset_rename">Přejmenovat</string>
+    <string name="eq_preset_select">Zvolit předvolbu</string>
+    <string name="eq_rb">R &amp; B</string>
+    <string name="eq_rock">Rock</string>
     <string name="equalizer">Ekvalizér</string>
     <string name="equalizer_delete">Vymazat</string>
     <string name="equalizer_delete_success">Profil ekvalizéru byl odebrán</string>
@@ -97,11 +126,12 @@
     <string name="filter_by_size_max">2MB</string>
     <string name="filter_by_size_min">0KB</string>
     <string name="filter_by_size_prefix">Minimální velikost:</string>
-    <string name="filter_by_size_summary">Filtrovat velmi malé soubory</string>
+    <string name="filter_by_size_summary">Filtrovat velmi malé soubory</string>	
     <string name="filter_notification">Složky jsou filtrovány. Můžete upravit v nastavení filtrování</string>
     <string name="folder_title_format" formatted="false">%s(%d)</string>
     <string name="folders_title">Složky</string>
     <string name="frequentlyplayed_title">Nejčastěji přehrávané</string>
+    <string name="headphone_settings">Nastavení typu sluchátek</string>
     <string name="hot_artists">Nejhranější autor</string>
     <string name="id3_edit">Upravit ID3 informace</string>
     <string name="id3_edit_failed">Nelze upravit ID3 informace</string>
@@ -126,7 +156,7 @@
     <string name="load_channel_failed">Nepodařilo se načíst seznam stanic, zkuste to prosím znovu</string>
     <string name="load_channel_in_process">Načíst seznam stanic</string>
     <string name="loading">Načítám</string>
-    <string name="lrc_progress_modify">Nastavit rychlost textu písně</string>	
+    <string name="lrc_progress_modify">Nastavit rychlost textu písně</string>
     <string name="lrc_progress_modify_helper">Nastavte rychlost textu písně posunutím nahoru, nebo dolů</string>
     <string name="lrc_search_failed">Texty nenalezeny!</string>
     <string name="lrc_searching">Hledání textů...</string>
@@ -139,6 +169,9 @@
     <string name="lyric_picker_not_found">Ve vašem zařízení nebyl nalezen žádný správce souborů</string>
     <string name="max_interval">90</string>
     <string name="mediaplaybacklabel">Hudba</string>
+    <string name="mi_effect">MiSound</string>
+    <string name="mi_effect_summary">Vždy použít MiSound při použití reproduktoru</string>
+    <string name="mi_effect_title">Použít MiSound</string>
     <string name="min_interval">1</string>
     <string name="mobile_connect_settings">Mobilní internet</string>
     <string name="modify_id3_for_list">ID3 informace pro skladby v současném seznamu budou upraveny</string>
@@ -149,6 +182,7 @@
     <string name="music_browser_label">Hudba</string>
     <string name="music_filter">Filtrování souborů</string>
     <string name="music_filter_helper">Aby bylo možné skrýt soubory, které nesouvisí s hudbou (zvonění, melodie atd) je filtr pro velikost skladeb nastaven na 800K. Toto nastavení můžete upravit v menu Nastavení / Filtrování souborů.</string>
+    <string name="music_not_loaded">Nebylo načteno žádné audio.</string>
     <string name="music_open_other_connect">Stáhnout hudbu přes mobilní internet</string>
     <string name="music_picker_title">Vyberte skladbu</string>
     <string name="music_settings">Nastavení</string>
@@ -159,6 +193,7 @@
     <string name="new_playlist_name_template">Nový playlist %d</string>
     <string name="no_effect">Bez efektu</string>
     <string name="no_song_downloaded">Nelze stáhnout skladbu.</string>
+    <string name="not_login">Přihlásit</string>
     <string name="not_selected">Vyberte prosím skladbu</string>
     <string name="notification_artist_album">"%2$s 
 %1$s"</string>
@@ -184,7 +219,7 @@
     <string name="playlist_renamed_message">Playlist přejmenován.</string>
     <string name="playlists_title">Playlisty</string>
     <string name="powered_by">Poskytuje</string>
-     <string name="project_device">Xiaomi Box</string>
+    <string name="project_device">Xiaomi Box</string>
     <string name="project_device_mobile">Mobilní telefon</string>
     <string name="queue">Aktuální playlist</string>
     <string name="quit_player">Ukončit</string>
@@ -240,6 +275,8 @@
     <string name="start_to_download_album">Stahování obrázků alb pro všechny skladby v knihovně</string>
     <string name="start_to_download_avatar">Stahování obrázku autora...</string>
     <string name="streamloadingtext">Připojování k %s</string>
+    <string name="synchronize_playlist_setting">Synchronizovat seznam skladeb</string>
+    <string name="synchronize_playlist_summary">Synchronizovat seznam skladeb do cloudu.</string>
     <string name="track_album_format" formatted="false">%s - %s</string>
     <string name="track_edit">Skladba</string>
     <string name="track_num_format">(%s)</string>
@@ -248,34 +285,5 @@
     <string name="unknown_artist_name">Neznámy umělec</string>
     <string name="use_local_album">Použít uložený obrázek alba</string>
     <string name="use_local_lyric">Použít uložené texty</string>
-    <string name="mi_effect">MiSound</string>
-    <string name="headphone_settings">Nastavení typu sluchátek</string>
-    <string name="mi_effect_title">Použít MiSound</string>
-    <string name="mi_effect_summary">Vždy použít MiSound při použití reproduktoru</string>
-    <string name="dirac_mode_off">Dirac vypnut</string>
-    <string name="dirac_mode_in_ear">Xiaomi špunty</string>
-    <string name="dirac_mode_earbuds">Xiaomi sluchátka</string>
-    <string name="dirac_mode_general">Obyčejné</string>
-    <string name="dirac_mode_piston_100">Xiaomi piston sluchátka</string>
-    <string name="eq_flat">Flat</string>
-    <string name="eq_rock">Rock</string>
-    <string name="eq_jazz">Jazz</string>
-    <string name="eq_pop">Pop</string>
-    <string name="eq_classical">Classical</string>
-    <string name="eq_rb">R &amp; B</string>
-    <string name="eq_hiphop">Hip Hop</string>
-    <string name="eq_blues">Blues</string>
-    <string name="eq_electronic">Electronic</string>
-    <string name="eq_country">Country</string>
-    <string name="eq_dance">Dance</string>
-    <string name="eq_metal">Metal</string>
-    <string name="eq_delete">Odstranit</string>
-    <string name="eq_delete_success">Hotovo.</string>
-    <string name="eq_auto">Vlastní</string>
-    <string name="eq_preset_create">Vytvořit</string>
-    <string name="eq_preset_rename">Přejmenovat</string>
-    <string name="eq_preset_format">Předvolba %d</string>
-    <string name="eq_preset_hint">Zadejte název předvolby</string>
-    <string name="eq_preset_select">Zvolit předvolbu</string>
-    <string name="music_not_loaded">Nebylo načteno žádné audio.</string>
+    <string name="xiaomi_account_setting">Xiaomi účet</string>
 </resources>
