@@ -156,7 +156,7 @@
     <string name="guild_add_recipients">Klikněte zde pro přidání příjemců z adresáře</string>
     <string name="has_invalid_recipient">Neplatní příjemci: %1$s</string>
     <string name="hidden_sender_address">Adresa skrytého odesílatele</string>
-    <string name="hint_search_sms">%d sms</string>
+    <string name="hint_search_sms">%d SMS</string>
     <string name="importing_progress_private_message">Importování zpráv do soukromé schránky</string>
     <string name="in_sms">Zpráva</string>
     <string name="insufficient_drm_rights">Nemáte dostatečná práva DRM.</string>
@@ -261,7 +261,7 @@
     <string name="pick_too_many_recipients">Příliš mnoho příjemců</string>
     <string name="play">Přehrát</string>
     <string name="pref_advanced_settings_title">Pokročilá nastavení</string>
-  <string name="pref_collapse_sp_messages_summary">Spojovat do vlákna zprávy o poskytování služeb</string>
+  <string name="pref_collapse_sp_messages_summary">Spojovat do vlákna zprávy od banky, operátora, atd.</string>
     <string name="pref_edit_smsc_address">Nastavit číslo SMS centra</string>
     <string name="pref_forward_title">Přeposlat</string>
     <string name="pref_messages_to_save">Nastavit počet zpráv pro uložení</string>
@@ -424,7 +424,7 @@
     <string name="timed_message_expired_title_2">Chcete odeslat nyní?</string>
     <string name="timed_message_in_total">... (%d celkem)</string>
     <string name="timed_message_to">Komu</string>
-  <string name="title_collapse_sp_messages">Spojovat zprávy o poskytování služeb</string>
+    <string name="title_collapse_sp_messages">Spojovat zprávy služeb</string>
     <string name="title_date_type">Časy zpráv</string>
     <string name="title_timed_message_dialog">Nastavte čas odeslání</string>
     <string name="to_address_label">"Komu: "</string>
