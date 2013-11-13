@@ -1522,7 +1522,6 @@ zkuste následující:"
     <string name="power_mode_balanced_title">Aktivovat Vyvážený režim</string>
     <string name="power_phone">Hlasové hovory</string>
     <string name="power_screen">Displej</string>
-    <string name="power_settings_title">Výkonný režim</string>
     <string name="power_usage_history">Využití baterie</string>
     <string name="power_usage_level_and_status">%1$s – %2$s</string>
     <string name="power_usage_not_available">Údaje o spotřebě nejsou známy.</string>
@@ -2918,7 +2917,6 @@ Nastavení telefonu může vyžadovat přenos nemalého množství dat."</string
     <string name="power_battery_history_hours">%1$d hod %2$d min</string>
     <string name="power_battery_history_minutes">%1$d min</string>
     <string name="power_battery_history_zero_minutes">0 min</string>
-    <string name="power_cell">Mobilní signál</string>
     <string name="power_center_battery_full">Baterie plně nabita</string>
     <string name="power_center_charge_time">Nabíjení bude dokončeno za %1$s</string>
     <string name="power_center_consume_rank">Spotřeba</string>
