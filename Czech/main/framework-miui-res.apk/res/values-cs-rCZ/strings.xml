@@ -58,8 +58,8 @@
     <string name="grain_buds"/>
     <string name="grain_in_ear"/>
     <string name="grain_rain"/>
-    <string name="grant_permissions_account">Povolení na přístup k účtu</string>
-    <string name="grant_permissions_apps">Povolení na přístup aplikácí</string>
+    <string name="grant_permissions_account">Povolit přístup k účtu</string>
+    <string name="grant_permissions_apps">Povolit přístup aplikací</string>
     <string name="great_cold"/>
     <string name="great_heat"/>
     <string name="group_name_contacts">Kontakty</string>

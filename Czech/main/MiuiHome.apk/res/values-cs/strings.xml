@@ -137,7 +137,7 @@
     <string name="pref_screen_transformation_type_title">Efekty přechodu</string>
     <string name="pref_wallpaper_scroll_type_title">Styl posouvání tapety</string>
     <string name="preferences_general_title">Základní nastavení</string>
-    <string name="preferences_title">Nastavení spouštěče</string>
+    <string name="preferences_title">Nastavení MIUI launcheru</string>
     <string name="process" />
     <string name="reset_scene_prompt">Scéna bude obnovena do výchozího stavu</string>
     <string name="resource_alarm_default">Budík</string>	

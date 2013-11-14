@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">Počet kroků do získání stavu vývojáře: %1$d.</item>
+        <item quantity="one">Počet kroků do získání stavu vývojáře: %1$d.</item>
+    </plurals>
     <plurals name="lockpassword_password_requires_letters">
         <item quantity="other">Heslo musí obsahovat nejméně %d písmen</item>
         <item quantity="one">Heslo musí obsahovat nejméně jedno písmeno</item>
@@ -23,5 +27,17 @@
     <plurals name="lockpassword_password_requires_nonletter">
         <item quantity="other">Heslo musí obsahovat nejméně %d nepísmenných znaků</item>
         <item quantity="one">Heslo musí obsahovat nejméně jeden znak jiný než písmeno</item>
+    </plurals>
+    <plurals name="power_center_battery_day">
+        <item quantity="other">%ddní</item>
+        <item quantity="one">%dden</item>
+    </plurals>
+    <plurals name="power_center_battery_hour">
+        <item quantity="other">%dh</item>
+        <item quantity="one">%dh</item>
+    </plurals>
+    <plurals name="power_center_battery_minute">
+        <item quantity="other">%dmin</item>
+        <item quantity="one">%dmin</item>
     </plurals>
 </resources>

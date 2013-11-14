@@ -64,4 +64,10 @@
         <item>25 minut</item>
         <item>30 minut</item>
     </string-array>
+    <string-array name="alarm_repeat_type_no_workdays">
+        <item>Pouze jednou</item>
+        <item>Každý den</item>
+        <item>Pondělí až Pátek</item>
+        <item>Vlastní</item>
+    </string-array>
 </resources>

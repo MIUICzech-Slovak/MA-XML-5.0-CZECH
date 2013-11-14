@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="Parse_error_dlg_text">Při analýze balíčku došlo k problému.</string>
+    <string name="Parse_error_dlg_title">Chyba analýzy</string>
     <string name="allow_source_dlg_text">"Aplikace %1$s chce instalovat další aplikace.\nPovolit nyní i v budoucnu?"</string>
     <string name="allow_source_dlg_title">Nový zdroj pro aplikace</string>
     <string name="app_name">Nástroj k instalaci balíčků</string>
@@ -25,6 +27,7 @@
     <string name="install_failed_invalid_apk">Zdá se, že je balíček poškozen.</string>
     <string name="install_failed_msg">Aplikaci %1$s nelze nainstalovat do tohoto telefonu.</string>
     <string name="install_failed_older_sdk">Balíček funguje pouze v novějších verzích systému Android.</string>
+    <string name="install_failed_system_incompatible">Tato aplikace není kompatibilní s MIUI.</string>
     <string name="install_failed_verify_failed">Balíček neprošel ověřením a nemůže být nainstalován.</string>
     <string name="install_failed_verify_timeout">Při ověřování tohoto balíčku vypršel časový limit. Zkuste jej nainstalovat znovu později.</string>
     <string name="installing">Probíhá instalace...</string>
@@ -37,8 +40,6 @@
     <string name="other_relative">Ostatní práva</string>
     <string name="out_of_space_dlg_text">Aplikaci %1$s nelze nainstalovat. Uvolněte místo v paměti a zkuste to znovu.</string>
     <string name="out_of_space_dlg_title">Nedostatek místa</string>
-    <string name="Parse_error_dlg_text">Při analýze balíčku došlo k problému.</string>
-    <string name="Parse_error_dlg_title">Chyba analýzy</string>
     <string name="perm_action_accept">Přijmout</string>
     <string name="perm_action_prompt">Zeptat se</string>
     <string name="perm_action_reject">Odmítnout</string>
@@ -56,7 +57,6 @@
     <string name="security_settings_desc">Povolit této aplikaci:</string>
     <string name="settings">Nastavení</string>
     <string name="trust_switch_dialog_msg">"MIUI se nebude ptát na potvrzení operací této aplikace, což může ohrozit Vaši bezpečnost. \nVěříte této aplikaci?"</string>
-    <string name="unknown_installer">Neznámý instalátor</string>
     <string name="uninstall_activity_text">Činnost %1$s je součástí následující aplikace:</string>
     <string name="uninstall_application_text">Tato aplikace bude odinstalována.</string>
     <string name="uninstall_application_title">Odinstalovat aplikaci</string>
@@ -72,6 +72,9 @@
     <string name="unknown">Neznámé</string>
     <string name="unknown_apps_dlg_text">Váš telefon je z důvodu zabezpečení nastaven tak, aby blokoval instalaci aplikací, které nepocházejí ze služby Google Play.</string>
     <string name="unknown_apps_dlg_title">Instalace byla zablokována</string>
-    <string name="install_failed_system_incompatible">Tato aplikace není kompatibilní s MIUI.</string>
-
+    <string name="unknown_installer">Neznámý instalátor</string>
+    <string name="virus_scan_clear">Vyčistit</string>
+    <string name="virus_scan_install">" "<u>Pokračovat</u>" "</string>
+    <string name="virus_scan_is_risk">Tato aplikace je podezřelá a nedoporučuje se ji instalovat!</string>
+    <string name="virus_scan_is_virus">Tato aplikace je Virus! a doporučuje se ji okamžitě vymazat!</string>
 </resources>
