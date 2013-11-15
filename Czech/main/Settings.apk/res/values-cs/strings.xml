@@ -2224,7 +2224,7 @@ Každý uživatel může přijmout aktualizovaná oprávnění aplikací jménem
     <string name="vibrate_in_silent_title">Vibrovat v tichém režimu</string>
     <string name="vibrate_input_devices">Vibrace</string>
     <string name="vibrate_input_devices_summary">Přesměrovat vibrace do herního ovladače pokud je připojený.</string>
-    <string name="vibrate_when_ringing_title">Vibrovat když vyzvání</string>
+    <string name="vibrate_when_ringing_title">Vibrovat při vyzvánění</string>
     <string name="virus_scan_app_continue">Pokračovat ve skenování</string>
     <string name="virus_scan_app_find_risk">%d je podezřelých, doporučuje se je odinstalovat.</string>
     <string name="virus_scan_app_finish">Zavřít</string>
@@ -2698,7 +2698,7 @@ Nastavení telefonu může vyžadovat přenos nemalého množství dat."</string
     <string name="button_text_view">Zobrazit</string>
     <string name="cache_garbage">Cache souborů</string>
     <string name="cache_list_empty_hints">Žádné cache souborů.</string>
-    <string name="cache_manage_title">Vyčistit %1$d cache souborů a uvolnit %2$s</string>
+    <string name="cache_manage_title">Vyčistit cahce: %1$d, uvolnit %2$s paměti</string>
     <string name="cache_manager_actionbar_title">Systémová cache</string>
     <string name="call_log_tab_title">Seznam hovorů</string>
     <string name="calllog">Seznam hovorů</string>
@@ -2824,7 +2824,7 @@ Nastavení telefonu může vyžadovat přenos nemalého množství dat."</string
     <string name="item_virus_lib">Aktualizovat virovou databázi automaticky</string>
     <string name="just_checked">Vše se zdá být v pořádku!</string>
     <string name="last_check_canceled">Doporučuje se kontrola: Předchozí kontrola byla zrušena před dokončením</string>
-    <string name="last_check_date_today">Poslední kontrola: Dnes</string>
+    <string name="last_check_date_today">"Poslední kontrola: Dnes "</string>
     <string name="last_check_date_yesterday">Poslední kontrola: Včera</string>
     <string name="last_check_never_checked">Doporučuje se spustit kontrolu</string>
     <string name="last_checked_date">Doporučuje se kontrola: Naposledy před 30 dny</string>
@@ -2920,7 +2920,7 @@ Nastavení telefonu může vyžadovat přenos nemalého množství dat."</string
     <string name="power_center_consume_time">%1$s zbývá</string>
     <string name="power_center_custom_summary_default">Optimalizace nastavení, šetření baterie</string>
     <string name="power_center_custom_title">Šetřit baterii</string>
-    <string name="power_center_low_battery_summary_default">Zapnout režim pokud je baterie slabá</string>
+    <string name="power_center_low_battery_summary_default">Zapnout zvolený režim při slabé baterii</string>
     <string name="power_center_low_battery_summary_dynamic">Pokud je kapacita baterie menší než %1$d%%, přepnout na %2$s</string>
     <string name="power_center_low_battery_title">Auto-přepnutí</string>
     <string name="power_center_on_time_summary_default">Přepnout režim v určitý čas</string>
@@ -2959,7 +2959,7 @@ Nastavení telefonu může vyžadovat přenos nemalého množství dat."</string
     <string name="power_customizer_user_define_mode">Název profilu:</string>
     <string name="power_customizer_user_define_name">Vlastní</string>
     <string name="power_customizer_user_define_summary">Uživatelské nastavení</string>
-    <string name="power_dialog_auto_clean_memory_summary">Při zamknutém telefonu vyčistit procesy, které jsou náročné na výkon.</string>
+    <string name="power_dialog_auto_clean_memory_summary">Při zamknutém telefonu ukončit procesy náročné na výkon.</string>
     <string name="power_dialog_auto_clean_memory_title">Vyčistit paměť automaticky</string>
     <string name="power_dialog_cancel">Zrušit</string>
     <string name="power_dialog_cpu_state_balance">Vyvážený</string>
@@ -2968,7 +2968,7 @@ Nastavení telefonu může vyžadovat přenos nemalého množství dat."</string
     <string name="power_dialog_cpu_state_performance_desc">Výkon procesoru na úkor spotřeby</string>
     <string name="power_dialog_cpu_state_save">Úsporný</string>
     <string name="power_dialog_cpu_state_save_desc">Úspora baterie na úkor výkonu procesoru</string>
-    <string name="power_dialog_cpu_state_title">Využití CPU</string>
+    <string name="power_dialog_cpu_state_title">Výkon CPU</string>
     <string name="power_dialog_delete_dialog_cannot_delete_default">"Nelze smazat: tento profil je aktivní."</string>
     <string name="power_dialog_delete_dialog_cannot_delete_low_battery">"Nelze smazat: Zařízení je nastaveno pro přepnutí na tento profil, když je nízká kapacita baterie. 
  Musíte změnit toto nastavení před smazáním tohoto profilu."</string>
@@ -2992,7 +2992,7 @@ Nastavení telefonu může vyžadovat přenos nemalého množství dat."</string
     <string name="power_mode_auto_clean_memory_in_ten_minutes">Po 10 minutách</string>
     <string name="power_mode_auto_clean_memory_never">Nikdy</string>
     <string name="power_mode_bluetooth">Bluetooth</string>
-    <string name="power_mode_cpu_state">Spotřeba CPU</string>
+    <string name="power_mode_cpu_state">Výkon CPU</string>
     <string name="power_mode_cpu_state_balance">Vyvážený</string>
     <string name="power_mode_cpu_state_balance_desc">Zvýšit výkon procesoru podle potřeby</string>
     <string name="power_mode_cpu_state_performance">Výkonný</string>
@@ -3022,8 +3022,8 @@ Nastavení telefonu může vyžadovat přenos nemalého množství dat."</string
     <string name="power_mode_wifi">Wi-Fi</string>
     <string name="power_perm_logs_empty">Žádný záznam</string>
     <string name="power_save_choose_mode">Zvolte profil</string>
-    <string name="power_save_low_battery_auto_save_title">Úsporný režim pokud je nízká kapacita baterie</string>
-    <string name="power_save_low_battery_option_summary">Když je baterie nabita nad zvolenou mez, automaticky se přepne naposledy použitý profil</string>
+    <string name="power_save_low_battery_auto_save_title">Úsporný režim při nízké kap. baterie</string>
+    <string name="power_save_low_battery_option_summary">Když je baterie nabita nad zvolenou mez, automaticky se aktivuje naposledy použitý profil</string>
     <string name="power_save_low_battery_option_title">Při slabé baterii přepnout na</string>
     <string name="power_save_low_battery_percentage_fifty">50%</string>
     <string name="power_save_low_battery_percentage_forty">40%</string>
@@ -3054,7 +3054,7 @@ Nastavení telefonu může vyžadovat přenos nemalého množství dat."</string
     <string name="power_used_mins_test">23</string>
     <string name="power_used_prefix">Spotřebovaná energie</string>
     <string name="process_list_empty_hints">Žádné procesy.</string>
-    <string name="process_manage_title">Ukončené procesy: %1$d, uvolněno: %2$s paměti</string>
+    <string name="process_manage_title">Ukončit procesy: %1$d, uvolnit: %2$s paměti</string>
     <string name="process_manager_actionbar_title">Využitá paměť</string>
     <string name="protection_adb">Ladění USB</string>
     <string name="protection_category_dangerous_title">Rizika (%d)</string>
@@ -3138,7 +3138,7 @@ Nastavení telefonu může vyžadovat přenos nemalého množství dat."</string
     <string name="virus_scan">Antivirus</string>
     <string name="virus_scan_app_solve">Vše</string>
     <string name="virus_scan_app_stop">Zastavit sken</string>
-    <string name="virus_scan_can_use_wifi">Použít online definice pro skenování</string>
+    <string name="virus_scan_can_use_wifi">Použít online databázi pro skenování</string>
     <string name="virus_scan_clear">Vyčistit</string>
     <string name="virus_scan_dangerous">Rizika</string>
     <string name="virus_scan_description">"Tato aplikace je hlavním rizikem pro zabezpečení telefonu."</string>
@@ -3155,7 +3155,7 @@ Nastavení telefonu může vyžadovat přenos nemalého množství dat."</string
     <string name="virus_scan_judge_is_virus">Kontrolovat aplikace před instalací</string>
     <string name="virus_scan_last_risk">Podezřelé aplikace nalezené v posledním testu ještě nebyly odstraněny.</string>
     <string name="virus_scan_last_scan_date">Poslední kontrola před %d dny</string>
-    <string name="virus_scan_last_scan_today">"Poslední kontrola: Dnes"</string>
+    <string name="virus_scan_last_scan_today">"Poslední kontrola: Dnes "</string>
     <string name="virus_scan_last_scan_yesterday">"Poslední kontrola: Včera"</string>
     <string name="virus_scan_last_time">Poslední kontrola: %s</string>
     <string name="virus_scan_last_virus">Nalezeny viry při poslední kontrole.</string>
