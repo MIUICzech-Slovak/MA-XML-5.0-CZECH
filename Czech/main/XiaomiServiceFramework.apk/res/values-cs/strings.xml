@@ -21,7 +21,7 @@ kontakty, fotky, atd"</string>
     <string name="app_name">Xiaomi Service Framework</string>
     <string name="available_functionality">Dostupné služby</string>
     <string name="bad_authentication">Nesprávné jméno nebo heslo</string>
-    <string name="balance">Zůstatek: %1$s Mi kreditů</string>
+    <string name="balance">Zůstatek: %1$s MiKreditů</string>
     <string name="bankcall_bank_account">Kreditní karta:</string>
     <string name="bankcall_call_hint">"Budete mít hovor z banky Union pay (020-96585). 
 Postupujte dle instrukcí pro dokončení objednávky."</string>
@@ -58,7 +58,7 @@ Postupujte dle instrukcí pro dokončení objednávky."</string>
     <string name="btn_count_down_auto">%1$s sekund</string>
     <string name="btn_count_down_wait">Čekejte %1$s sekund</string>
     <string name="btn_delete_record">Vymazat tento záznam</string>
-    <string name="btn_mili_center_recharge">Navýšit Mi kredit</string>
+    <string name="btn_mili_center_recharge">Navýšit MiKredit</string>
     <string name="btn_net_connection_retry">Znovu</string>
     <string name="btn_next">Další</string>
     <string name="btn_other_bankcard">Použít jinou kartu</string>
@@ -70,7 +70,7 @@ Postupujte dle instrukcí pro dokončení objednávky."</string>
     <string name="btn_recharge_other">Jiné metody navýšení</string>
     <string name="btn_recharge_success">Navýšení dokončeno</string>
     <string name="btn_recharge_success_quick">Navýšení dokončeno</string>
-    <string name="btn_voucher">Mi Kreditní karta (%1$s)</string>
+    <string name="btn_voucher">MiKreditní karta (%1$s)</string>
     <string name="btn_wait_call">Čekání</string>
     <string name="btn_wait_call_count">Čekání (%1$s)</string>
     <string name="btn_wait_confirm">Čekání</string>	
@@ -114,7 +114,7 @@ Zkontrolujte si svoje údaje a zkuste to znovu.</string>
     <string name="error_illegal_order_summary">Během vyřizování objednávky se vyskytla chyba, zkuste to znovu.</string>
     <string name="error_illegal_order_title">Chyba objednávky!</string>
     <string name="error_invalid_dev_id">Nesprávné ID zařízení</string>
-    <string name="error_mili_title">Nedostatečný Mi kredit</string> 
+    <string name="error_mili_title">Nedostatečný MiKredit</string> 
     <string name="error_network">Chyba sítě</string>
     <string name="error_network_summary">Nastala chyba sítě. Zkontrolujte, zda máte aktivní internetové připojení a zkuste to znovu.</string>
     <string name="error_network_title">Chyba sítě</string>
@@ -132,7 +132,7 @@ Vyčkejte prosím 5 minut a zkuste to znovu"</string>
     <string name="error_verify_summary">Aplikace nemá práva na tuto službu</string>
     <string name="error_verify_title">Nemáte povolení</string>
     <string name="failed_to_send_activate_email">Chyba při zasílání aktivačního emailu.</string>
-    <string name="fee">%1$s Mi kreditů</string>
+    <string name="fee">%1$s MiKreditů</string>
     <string name="find_device">Poloha zařízení</string>
     <string name="find_device_check_phone_error_title">Nepodařilo se zapnout zjišťování polohy zařízení</string>
     <string name="find_device_disabled_notice">"Toto nastavení můžete změnit v Nastavení - Účty - MiCloud"</string>
@@ -149,16 +149,16 @@ Vyčkejte prosím 5 minut a zkuste to znovu"</string>
     <string name="forget_password"><u>Zapomenuté heslo</u></string>	
     <string name="frozen">(Zmrazeno)</string>
     <string name="get_back_pwd">Obnovit heslo</string>
-    <string name="giftcard_acitivity_and_denomination">%2$s Mi kreditů z poukázky %1$s</string>
-    <string name="giftcard_denom">Mi kreditů</string>
-    <string name="giftcard_denom_available">Mi kreditů dostupných</string>
-    <string name="giftcard_denom_frozen">Mi kreditů zmrazených</string>
+    <string name="giftcard_acitivity_and_denomination">%2$s MiKreditů z poukázky %1$s</string>
+    <string name="giftcard_denom">MiKreditů</string>
+    <string name="giftcard_denom_available">MiKreditů dostupných</string>
+    <string name="giftcard_denom_frozen">MiKreditů zmrazených</string>
     <string name="giftcard_empty">Žádná poukázka</string>
     <string name="giftcard_expire">%1$s-%2$s-%3$s vypršela platnost</string>
-    <string name="giftcard_hint">"Mi kredity z poukázky se použijí 
+    <string name="giftcard_hint">"MiKredity z poukázky se použijí 
 prvně a nemohou být použité po vypršení platnosti"</string>
     <string name="giftcard_record">Mé poukázky</string>
-    <string name="giftcard_value">(Poukázka na %1$s Mi kreditů)</string>
+    <string name="giftcard_value">(Poukázka na %1$s MiKreditů)</string>
     <string name="header_data_and_synchronization">Data a synchronizace</string>
     <string name="i_know">OK</string>
     <string name="input_password_hint">Vložte heslo</string>
@@ -172,9 +172,9 @@ prvně a nemohou být použité po vypršení platnosti"</string>
     <string name="login_instead_reg">Přihlásit se za pomocí telefonního čísla</string>
     <string name="login_notice">Přihlašování...</string>
     <string name="memu_refresh">Obnovit</string>
-    <string name="mibi_license_message">Xiaomi Mi Kredity. Kliknutím na OK souhlasíte s %1$s.</string>
-    <string name="mibi_license_message_span">Podmínky používání Mi kreditů</string>
-    <string name="mibi_license_title">Podmínky používání Mi kreditů</string>
+    <string name="mibi_license_message">Xiaomi MiKredity. Kliknutím na OK souhlasíte s %1$s.</string>
+    <string name="mibi_license_message_span">Podmínky používání MiKreditů</string>
+    <string name="mibi_license_title">Podmínky používání MiKreditů</string>
     <string name="micloud_account">Xiaomi</string>
     <string name="micloud_account_label">Účet: %1$s</string>
     <string name="micloud_account_name">Xiaomi</string>
@@ -224,20 +224,20 @@ S telefonem můžete bez obav pokračovat v práci..."</string>
     <string name="micloud_via_int_sms_alert">Odešle se SMS zpráva, která bude zpoplatněná dle ceníku Vašeho mobilního operátora.</string>
     <string name="micloud_via_sms_alert">Na ověření Vašeho telefonního čísla se odešle SMS zpráva.</string>
     <string name="micloud_welcome_skip_login"><u>Přeskočit tento krok</u></string>
-    <string name="mili_center">Mi kredity</string>
-    <string name="msg_denomination_type">Mi kredity</string>
+    <string name="mili_center">MiKredity</string>
+    <string name="msg_denomination_type">MiKredity</string>
     <string name="msg_error">Navýšení přes SMS selhalo</string>
     <string name="msg_picker_hint_1_1">1.</string>
-    <string name="msg_picker_hint_1_2">Cena navýšení přes SMS je větší, než za jiný způsob navýšení 2 RMB (0,24€) = 1 Mi kredit</string>
+    <string name="msg_picker_hint_1_2">Cena navýšení přes SMS je větší, než za jiný způsob navýšení 2 RMB (0,24€) = 1 MiKredit</string>
     <string name="msg_picker_hint_2_1">2.</string>
     <string name="msg_picker_hint_2_2">Za každé navýšení přes SMS si operátor účtuje 0.1 RMB poplatek</string>
     <string name="msg_picker_hint_3_1">3.</string>
     <string name="msg_picker_hint_3_2">Maximálně je možné navýšit 300 RMB za měsíc</string>
-    <string name="my_mili_record">Mé Mi kredity</string>
+    <string name="my_mili_record">Mé MiKredity</string>
     <string name="my_xiaomi_account">Můj Xiaomi účet</string>
     <string name="next">Další</string>
     <string name="nobind">Nepropojené</string>	
-    <string name="order_price">%1$s Mi kreditů</string>	
+    <string name="order_price">%1$s MiKreditů</string>	
     <string name="other_settings">Další nastavení</string>
     <string name="password">Heslo</string>
     <string name="password_error">Zadejte Vaše heslo</string>
@@ -246,7 +246,7 @@ S telefonem můžete bez obav pokračovat v práci..."</string>
     <string name="pay_record_empty">Žádné platby</string>
     <string name="paytool_alipay">Alipay</string>
     <string name="paytool_error_install">%1$s instalace bezpečnostního doplňku selhala</string>
-    <string name="paytool_error_msp">%1$s navýšení Mi kreditu selhalo!</string>
+    <string name="paytool_error_msp">%1$s navýšení MiKreditu selhalo!</string>
     <string name="paytool_msp_not_installed">Nemáte nainstalovaný %1$s bezpečnostní doplněk, chcete ho nainstalovat?</string>
     <string name="paytool_tenpay">Tenpay</string>
     <string name="prepaid_china_mobile">China Mobile</string>	
@@ -286,11 +286,11 @@ S telefonem můžete bez obav pokračovat v práci..."</string>
     <string name="progress_submit_pay_summary">Platba celkem: %1$s RMB</string>
     <string name="progress_submit_recharge_summary">Navýšení: %1$s RMB</string>
     <string name="progress_submit_title">Navýšení odesláno</string>
-    <string name="progress_success_pay_title">Platba %1$s Mi kreditů dokončena</string>
-    <string name="progress_success_recharge_summary">Stav konta: %1$s Mi kreditů</string>
-    <string name="progress_success_recharge_title">Navýšení %1$s Mi kreditů dokončeno</string>
-    <string name="progress_voucher_creating">Aktualizování Mi kreditů...</string>
-    <string name="progress_warning_check">"Stále není navýšený Mi kredit. 
+    <string name="progress_success_pay_title">Platba %1$s MiKreditů dokončena</string>
+    <string name="progress_success_recharge_summary">Stav konta: %1$s MiKreditů</string>
+    <string name="progress_success_recharge_title">Navýšení %1$s MiKreditů dokončeno</string>
+    <string name="progress_voucher_creating">Aktualizování MiKreditů...</string>
+    <string name="progress_warning_check">"Stále není navýšený MiKredit. 
 Zkontrolujeme to do dvou pracovních dnů"</string>
     <string name="progress_warning_contact_server">"Zpráva nebyla doručena:
 1. Kontaktujte zákaznickou podporu na: %1$s
@@ -303,19 +303,19 @@ Zkontrolujeme to do dvou pracovních dnů"</string>
     <string name="recharge_grid_edit_hint">Suma (RMB)</string>
     <string name="recharge_grid_edit_limit">%1$s~%2$sRMB</string>
     <string name="recharge_grid_error_denomination">Vložte správnou sumu</string>
-    <string name="recharge_grid_picker_hint">Zvolte množství Mi kreditu</string>
+    <string name="recharge_grid_picker_hint">Zvolte množství MiKreditu</string>
     <string name="recharge_group_favorite">Použité způsoby navýšení</string>
     <string name="recharge_group_others">Ostatní způsoby navýšení</string>
-    <string name="recharge_hint">1 RMB je 1 Mi kredit = 0,12€</string>
+    <string name="recharge_hint">1 RMB je 1 MiKredit = 0,12€</string>
     <string name="recharge_message_title">Navýšení přes SMS</string>
-    <string name="recharge_notification">Navýšení o %1$s Mi kreditů</string>
+    <string name="recharge_notification">Navýšení o %1$s MiKreditů</string>
     <string name="recharge_other">Zvolit jiný způsob platby</string>
     <string name="recharge_pcpay_title">Navýšení přes PC</string>
     <string name="recharge_prepaid_title">Předplacené karty</string>
     <string name="recharge_record">Historie navýšení</string>
     <string name="recharge_record_empty">Žádné navýšení</string>
     <string name="recharge_tenpay_title">Tenpay</string>
-    <string name="recharge_voucher_title">Kupóny Mi kredit</string>
+    <string name="recharge_voucher_title">Kupóny MiKredit</string>
     <string name="reg_by_email_failure">Registrace se nezdařila: %1$s</string>
     <string name="reg_failed">Registrace se nezdařila</string>
     <string name="reg_success">Registrace úspěšná</string>
@@ -346,10 +346,10 @@ Zkontrolujeme to do dvou pracovních dnů"</string>
     <string name="sync_sub_dspt">Odešle se SMS pro aktivaci služby</string>
     <string name="sync_sub_int_dspt">Bude odeslána mezinárodní SMS pro aktivaci služby</string>
     <string name="title">Název</string>
-    <string name="title_mili_center">Mi kredity</string>
-    <string name="title_pay">Zaplatit Mi kredity</string>
+    <string name="title_mili_center">MiKredity</string>
+    <string name="title_pay">Zaplatit MiKredity</string>
     <string name="title_pay_record">%1$s historie plateb</string>
-    <string name="title_recharge">Navýšit Mi kredit</string>
+    <string name="title_recharge">Navýšit MiKredit</string>
     <string name="title_recharge_record">Historie navýšení</string>
     <string name="title_reg">Zaregistrujte Xiaomi účet</string>
     <string name="unactivated_user">Neaktivován</string>

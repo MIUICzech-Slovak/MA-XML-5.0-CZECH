@@ -14,6 +14,7 @@
   <string name="add_to_cloud_file_exist_message">Fotografie již existuje v tomto albu.</string>
   <string name="add_to_cloud_file_not_exist_message">Soubor neexistuje.</string>
   <string name="add_to_cloud_folder">Přidat do Cloud složky</string>
+  <string name="add_to_cloud_image_limit_exceeded_message">Překročen limit obrázků.</string>
   <string name="add_to_cloud_local_space_full_message">Úložiště je plné.</string>
   <string name="add_to_cloud_reasons"/>
   <string name="add_to_cloud_space_full_message">Cloud album je plné.</string>
@@ -62,6 +63,7 @@
   <string name="bigscreen_slide_fail_cause_loading">Zkuste to znovu po načtení obrázku.</string>
   <string name="browse_category">Prohlížení fotografií</string>
   <string name="by_email">E-mail</string>
+  <string name="by_others">Ostatní</string>
   <string name="by_sms">SMS</string>
   <string name="camera_connected">Fotoaparát připojený.</string>
   <string name="camera_disconnected">Fotoaparát odpojený.</string>

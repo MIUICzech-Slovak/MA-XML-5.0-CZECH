@@ -158,6 +158,7 @@
     <string name="update_success">Aktualizace byla úspěšná</string>
     <string name="update_success_body">na verzi %s</string>
     <string name="update_success_title">MIUI byla aktualizována</string>
+    <string name="updater_finish_download">Stahování ROM je dokončeno</string>
     <string name="upgrade_close">Zavřít</string>
     <string name="upgrade_kernel">Kernel potřebuje aktualizovat</string>
     <string name="upgrade_kernel_msg">"Aktuální verze Kernelu nesouhlasí s MIUI ROM. Musíte aktualizovat kernel manuálně. Viz kurz aktualizace:"</string>

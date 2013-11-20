@@ -2631,7 +2631,7 @@ Nastavení telefonu může vyžadovat přenos nemalého množství dat."</string
     <string name="wps_connect_title">Připojit pomocí WPS</string>
     <string name="xiaomi_account">Xiaomi účet</string>
     <string name="xiaomi_cloud_service">MiCloud</string>
-    <string name="xiaomi_money_service">Mi kredity</string>
+    <string name="xiaomi_money_service">MiKredity</string>
     <string name="yes">Ano</string>
     <string name="zone_auto">Automatické čas. pásmo</string>
     <string name="zone_auto_summaryOff">Použít časové pásmo ze sítě</string>
@@ -3022,7 +3022,7 @@ Nastavení telefonu může vyžadovat přenos nemalého množství dat."</string
     <string name="power_mode_wifi">Wi-Fi</string>
     <string name="power_perm_logs_empty">Žádný záznam</string>
     <string name="power_save_choose_mode">Zvolte profil</string>
-    <string name="power_save_low_battery_auto_save_title">Úsporný režim při nízké kap. baterie</string>
+    <string name="power_save_low_battery_auto_save_title">Auto. přepnutí</string>
     <string name="power_save_low_battery_option_summary">Když je baterie nabita nad zvolenou mez, automaticky se aktivuje naposledy použitý profil</string>
     <string name="power_save_low_battery_option_title">Při slabé baterii přepnout na</string>
     <string name="power_save_low_battery_percentage_fifty">50%</string>

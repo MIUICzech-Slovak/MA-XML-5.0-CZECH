@@ -1,13 +1,16 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="activate">Aktivovat</string>
     <string name="activate_fail_notification_title">Znovu aktivujte synchronizaci Xiaomi</string>
     <string name="activating">Aktivace...</string>
     <string name="alwaysUsePrompt">Nastavit jako výchozí (už se neptat)</string>
     <string name="android_lockscreen_glogin_instructions">Pro odemknutí se přihlaste ke svému účtu</string>
+    <string name="anniversary_of_lifting_martial_law"/>
+    <string name="anti_aggression_day"/>
     <string name="app_no_notification">Žádné notifikace</string>
     <string name="app_notificaiton_on_notificationBar">Roletka</string>
     <string name="app_notificaiton_on_statusBar_and_notificationBar">Lišta a roletka</string>
+    <string name="armed_forces_day"/>
     <string name="callNoAnswerTimeFormat">Zvonil %s krát</string>
     <string name="call_record_or">Anebo</string>
     <string name="call_record_sample_prefix_miui">Nahrávka</string>
@@ -20,6 +23,7 @@
     <string name="clear_and_bright"/>
     <string name="cold_dews"/>
     <string name="contact_carrier_message">Obraťte se na Vašeho operátora</string>
+    <string name="day_following_good_friday"/>
     <string name="day_of_month">" %d"</string>
     <string name="days">%d dny</string>
     <string name="delete">Smazat</string>
@@ -27,6 +31,7 @@
     <string name="device_hongmi">Hongmi telefon</string>
     <string name="device_xiaomi">Xiaomi telefon</string>
     <string name="double_seventh_day"/>
+    <string name="easter"/>
     <string name="emergency_call_string">SOS</string>
     <string name="err_resource_leak">Aplikace %1$s byla bohužel ukončena z důvodu vysokého využití paměti RAM.</string>
     <string name="error_forbidden">Váš účet má nějaké problémy. Synchronizace je vypnutá.</string>
@@ -55,6 +60,7 @@
     <string name="format_time_in_12_hours">hh:mma</string>
     <string name="global_action_privacy_mode_dialog_message">V módu Návštěvník jsou hovory, poznámky, galerie a sms skryty a spouštěč (plochu) není možno upravovat.</string>
     <string name="global_action_toggle_privacy_mode">Návštěvník</string>
+    <string name="good_friday"/>
     <string name="grain_buds"/>
     <string name="grain_in_ear"/>
     <string name="grain_rain"/>
@@ -67,6 +73,7 @@
     <string name="group_name_family">Rodina</string>
     <string name="group_name_friends">Přátelé</string>
     <string name="heavy_snow"/>
+    <string name="hksar_establishment_day"/>
     <string name="hoar_frost_falls"/>
     <string name="hours">%d hodin</string>
     <string name="incorrect_pincode">Nesprávný PIN</string>
@@ -86,8 +93,8 @@
     <string name="lockscreen_access_pattern_cell_added">Buňka přidána</string>
     <string name="lockscreen_access_pattern_cleared">Vzor vyčištěný</string>
     <string name="lockscreen_access_pattern_detected">Vzor kompletní</string>
-    <string name="lockscreen_access_pattern_start">Vzor započatý</string> 
-    <string name="lockscreen_emergency_call">Nouzové volání</string>
+    <string name="lockscreen_access_pattern_start">Vzor započatý</string>
+    <string name="lockscreen_emergency_call">Nouzové volání</string> 
     <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Bylo zadáno %d krát nesprávné Vaše heslo. Zbývá %d nesprávných pokusů. Potom bude nutné odblokování telefonu zadáním Vašeho Xiaomi účtu.  
   
 Zkuste to znovu za %d sekund."</string>
@@ -128,7 +135,7 @@ Zkuste to znovu za %d sekund."</string>
     <string name="minutes">%d minut</string>
     <string name="miui_copyright_title">Autorská práva</string>
     <string name="miui_device_name">Android</string>
-    <string name="miui_mibi_license_title">Podmínky používání Mi kreditů</string>
+    <string name="miui_mibi_license_title">Podmínky používání MiKreditů</string>
     <string name="miui_privacy_policy_title">Ochrana osobních údajů</string>
     <string name="miui_unlockscreen_password_wrong">Zkuste znovu</string>
     <string name="miui_user_agreement_title">Podmínky použití</string>
@@ -174,6 +181,7 @@ Zkuste to znovu za %d sekund."</string>
     <string name="reboot_confirm">Telefon se restartuje</string>
     <string name="reboot_confirm_title">Opravdu chcete restartovat Váš telefon?</string>
     <string name="reboot_progress">Restartuji...</string>
+    <string name="retrocession_day"/>
     <string name="return_to_me_message">Prosím vraťte telefon jestli jste ho našli!</string>
     <string name="reverse_all">Vymazat vše</string>
     <string name="safetylegal_activity_unreachable">Váš telefon není připojen k datovém síti. Pro zobrazení informací nyní přejděte na %s z webového prohlížeče vašeho počítače připojeného k síti Internet.</string>
@@ -216,6 +224,7 @@ Zkuste to znovu za %d sekund."</string>
     <string name="the_armys_day"/>
     <string name="the_double_ninth_festival"/>
     <string name="the_dragon_boat_festival"/>
+    <string name="the_first_weekday_after_christmas"/>
     <string name="the_laba_rice_porridge_festival"/>
     <string name="the_mid_autumn_festival"/>
     <string name="the_rains"/>
@@ -223,6 +232,9 @@ Zkuste to znovu za %d sekund."</string>
     <string name="toast_lockscreen_glogin_empty_password">Je vyžadováno heslo.</string>
     <string name="today">"Dnes "</string>
     <string name="tomorrow">"Zítra "</string>
+    <string name="tw_childrens_day"/>
+    <string name="tw_youth_day"/>
+    <string name="united_nations_day"/>
     <string name="unknown">Neznámé číslo</string>
     <string name="unknown_caller">Neznámy</string>
     <string name="unlock_string">OK</string>

@@ -170,7 +170,7 @@
     <string name="resource_online">Online %1$s</string>
     <string name="resource_price_format">(%1$s)</string>
     <string name="resource_price_free">Zdarma</string>
-    <string name="resource_price_unit">MI Kreditů</string>
+    <string name="resource_price_unit">MiKreditů</string>
     <string name="resource_ringtone_default">Zvonění</string>
     <string name="resource_see_more">Další</string>
     <string name="resource_select">Zvolit</string>
