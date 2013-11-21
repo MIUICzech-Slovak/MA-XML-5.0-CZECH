@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="uninstall_dialog_title_format">
+        <item quantity="other">Odinstalovat \"%1$s\" a %2$d další aplikace?</item>
+        <item quantity="one">Odinstalovat \"%s\"</item>
+        <item quantity="two">Odinstalovat \"%s\" a 1 další aplikaci?</item>
+    </plurals>
+    <plurals name="uninstall_result_succeeded">
+        <item quantity="other">%1$ aplikací je odinstalováno</item>
+        <item quantity="one">Aplikace je odinstalována</item>
+    </plurals>
+    <plurals name="uninstall_result_failed">
+        <item quantity="other">"Nelze odinstalovat \"%1$s\" a %2$d další aplikace"</item>
+        <item quantity="one">"Nelze odinstalovat \"%s\""</item>
+        <item quantity="two">"Nelze odinstalovat \"%s\" a 1 další aplikaci"</item>
+    </plurals>
+</resources>
