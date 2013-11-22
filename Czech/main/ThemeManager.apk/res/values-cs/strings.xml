@@ -124,7 +124,7 @@
     <string name="resource_download">Stáhnout</string>
     <string name="resource_downloaded_title">Stáhnout zdroje</string>
     <string name="resource_downloading">Stahuji</string>
-    <string name="resource_exchange">Zaplatit poukázku</string>
+    <string name="resource_exchange">Zaplatit poukázkou</string>
     <string name="resource_exchange_confirm">Potvrdit</string>
     <string name="resource_exchange_empty_format">Zadejte kód!</string>
     <string name="resource_exchange_has_bought">"Toto téma již máte zakoupeno."</string>
@@ -139,7 +139,7 @@
     <string name="resource_exchange_unavailable">Téma pro nákup tímto kódem není dostupné.</string>
     <string name="resource_exchange_universal_finish">Použijte tento kód na stáhnutí libovolného tématu.</string>	
     <string name="resource_exchange_universal_goon">Tento kód může být použit na nákup libovolného tématu.</string>	
-    <string name="resource_exchange_window_title">Zaplatit poukázku</string>
+    <string name="resource_exchange_window_title">Zaplatit poukázkou</string>
     <string name="resource_exchange_wrong_format_by_local">Zadaný kód není platný.</string>
     <string name="resource_exchange_wrong_format_by_server">"Kód nebyl ověřen. Ujistěte se, že byl zadán správně."</string>
     <string name="resource_expand_full_text">Rozbalit</string>
