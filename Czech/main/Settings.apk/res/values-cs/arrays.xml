@@ -520,4 +520,11 @@ Nyní můžete kopírovat soubory"</item>
         <item>Měřítko animace 5x</item>
         <item>Měřítko animace 10x</item>
     </string-array>
+    <string-array name="slideshow_time_entries">
+        <item>5 minut</item>
+        <item>15 minut</item>
+        <item>30 minut</item>
+        <item>1 hodina</item>
+        <item>Bez omezení</item>
+    </string-array>
 </resources>

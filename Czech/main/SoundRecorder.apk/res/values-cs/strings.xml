@@ -25,6 +25,7 @@
     <string name="error_app_internal">Vnitřní chyba aplikace</string>
     <string name="error_app_internal_title">Chyba záznamníku</string>
     <string name="error_filename_too_long">Název souboru je příliš dlouhý</string>
+    <string name="error_filename_illegal_char">Název souboru obsahuje nepovolené znaky.</string>
     <string name="error_mediadb_new_record">Nelze uložit nahraný záznam</string>
     <string name="error_sdcard_access">SD karta není dostupná</string>
     <string name="fm_record">Nahrávání FM rádia (%d)</string>

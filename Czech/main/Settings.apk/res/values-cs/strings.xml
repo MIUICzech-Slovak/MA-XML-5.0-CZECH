@@ -3204,4 +3204,15 @@ Nastavení telefonu může vyžadovat přenos nemalého množství dat."</string
     <string name="zone_auto_summaryOn">Použít časové pásmo ze sítě</string>
     <string name="zone_list_menu_sort_alphabetically">Řadit abecedně</string>
     <string name="zone_list_menu_sort_by_timezone">Řadit podle časového pásma</string>
+    <string name="miui_screensaver_state_on">Zap.</string>
+    <string name="miui_screensaver_state_off">Vyp.</string>
+    <string name="miui_screensaver_title">Spořič displeje</string>
+    <string name="activate_miui_screensaver">Spořič displeje během spánku</string>
+    <string name="picture_source">Zdroj obrázků</string>
+    <string name="only_when_charging">Jen při nabíjení</string>
+    <string name="miui_screensaver_show_time">Trvání</string>
+    <string name="miui_screensaver_show_time_select_title">Nastavit trvání prezentace</string>
+    <string name="miui_screensaver_usage">Obrázky ve zvoleném albu se budou zobrazovat opakovaně 5 sekund po zhasnutí displeje.</string>
+    <string name="alert_show_screensaver_when_not_charging_title">Upozornění</string>
+    <string name="alert_show_screensaver_when_not_charging_msg">Pokud je spořič displeje aktivní i mimo nabíjení, zvýší se spotřeba energie. Chcete deaktivovat?</string>
 </resources>

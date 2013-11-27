@@ -234,6 +234,8 @@ Prosím otevřete tuto aplikaci znovu pro obnovení zdrojů."</string>
     <string name="title_select_shortcut">Vybrat zástupce</string>
     <string name="toggle_select_title">Zvolit přepínač</string>
     <string name="toggle_title">Přepínač</string>
+    <string name="torch_opened">Svítilna zapnuta</string>
+    <string name="torch_closed">Svítilna vypnuta</string>
     <string name="transformation_type_classic">Klasický</string>
     <string name="transformation_type_classic_no_overshoot">Klasický (bez odrazu)</string>
     <string name="transformation_type_crossfade">Prolínání</string>
