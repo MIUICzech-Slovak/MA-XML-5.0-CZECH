@@ -14,8 +14,7 @@
         <item>Zeptat se</item>
     </string-array>
     <string-array name="pref_homepage_choices">
-        <item>Startovací stránka</item>
-        <item>Nejnavštěvovanější stránky</item>
+        <item>Úvodní stránka</item>
         <item>Jiná</item>
     </string-array>
     <string-array name="pref_text_size_choices">
