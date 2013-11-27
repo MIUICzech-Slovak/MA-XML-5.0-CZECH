@@ -1,0 +1,37 @@
+{
+     cities: [
+         {
+             name: "Taipei"
+             pinyin: "taibei",
+             pid: "101340101"
+         }
+         {
+             name: "Kaohsiung"
+             pid: "101340201"
+         }
+         {
+             name: "Taichung"
+             pid: "101340401"
+         }
+         {
+             name: "Hong Kong"
+             pid: "101320101"
+         }
+         {
+             name: "Beijing"
+             pid: "101010100"
+         }
+         {
+             name: "Shanghai"
+             pid: "101020100"
+         }
+         {
+             name: "Guangzhou"
+             pid: "101280101"
+         }
+         {
+             name: "Shenzhen"
+             pid: "101280601"
+         }
+     ]
+}
