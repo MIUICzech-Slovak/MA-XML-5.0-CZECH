@@ -580,6 +580,7 @@ Poznámka: Zvětšení trojitým klepnutím funguje ve všech částech obrazovk
     <string name="choose_timezone">Zvolit časovou zónu</string>
     <string name="clean_confirm_title">Vymazat tyto soubory?</string>
     <string name="cleaner">Čistič</string>
+    <string name="cleaner_support_hints">Poskytuje Clean Master</string>
     <string name="clear_activities">Vymazat výchozí nastavení</string>
     <string name="clear_activities_summary">Povolit tuto aplikaci jako výchozí</string>	
     <string name="clear_all_calllog">Vymazat log</string>
@@ -909,7 +910,7 @@ Toto nastavení ovlivní všechny uživatele tohoto telefonu."</string>
     <string name="dolby_roomsize_title">Prostorový zvuk:\u0020</string>
     <string name="dolby_surround_virtualizer">Surround</string>
     <string name="dolby_volume_leveler">Hlasitost</string>
-    <string name="downloaded_rom_title">Balíčky aktualizace</string>
+    <string name="downloaded_rom_title">Staré aktualizace MIUI</string>
     <string name="drive_mode">Režim AUTO</string>
     <string name="drive_mode_auto_reply">Auto. odpověď</string>
     <string name="drive_mode_auto_sms_reply_content">Promiňte, Právě řídím. Zavolám později...</string>	
@@ -974,10 +975,10 @@ Toto nastavení ovlivní všechny uživatele tohoto telefonu."</string>
     <string name="error_name_empty">Pole Název nesmí být prázdné.</string>
     <string name="error_title"/>
     <string name="examination_score_100">Kontrola není zapotřebí. Vše se zdá být v pořádku!</string>
-    <string name="examination_score_60_0">Oh! Měli by jste optimalizovat Vaše zařízení...</string>
-    <string name="examination_score_80_100">Některé položky mohou být optimalizovány..</string>
-    <string name="examination_score_80_60">Některé položky mohou být optimalizovány...</string>
-    <string name="examination_score_has_virus">Byly zjištěny některé podezřelé aplikace...</string>
+    <string name="examination_score_60_0">Oh! Měli by jste optimalizovat Vaše zařízení</string>
+    <string name="examination_score_80_100">Některé položky mohou být optimalizovány</string>
+    <string name="examination_score_80_60">Některé položky mohou být optimalizovány</string>
+    <string name="examination_score_has_virus">Byly zjištěny některé podezřelé aplikace</string>
     <string name="external_code_size_label">Aplikace úložiště USB</string>
     <string name="external_data_size_label">Data úložiště USB</string>
     <string name="factory_reset_summary">Můžete vymazat osobní data telefonu, nebo vyberte vymazat instalované aplikace a naformátujte SD kartu pro obnovení do továrního nastavení.</string>
@@ -1806,7 +1807,7 @@ zkuste následující:"
     <string name="power_center_state_on">Zapnuto</string>
     <string name="power_center_title">Baterie</string>
     <string name="power_chooser_check_box_summary">Zvolte profil režimu napájení pro prodloužení životnosti baterie.</string>	
-    <string name="power_chooser_check_box_title">Šetření baterie</string>	
+    <string name="power_chooser_check_box_title">Použít nastavení</string>	
     <string name="power_chooser_mine_summary">Uložit původní systémové nastavení</string>	
     <string name="power_chooser_mine_title">Vlastní</string>	
     <string name="power_chooser_sleep_summary">Zakázat všechny funkce (telefon, zprávy, Internet) kromě budíku</string>	
@@ -1815,7 +1816,7 @@ zkuste následující:"
     <string name="power_chooser_smart_title">Výchozí</string>
     <string name="power_chooser_standby_summary">Vypnout internet</string>
     <string name="power_chooser_standby_title">Maraton</string>
-    <string name="power_chooser_title">Šetření baterie</string>
+    <string name="power_chooser_title">Baterie</string>
     <string name="power_chooser_user_define_summary">Vytvořit vlastní profil pro baterii</string>
     <string name="power_chooser_user_define_title">Přidat vlastní profil</string>
     <string name="power_consume_other">Ostatní</string>
@@ -1863,7 +1864,7 @@ zkuste následující:"
     <string name="power_mgr">Výkon</string>
     <string name="power_mode">Režim výkonu</string>
     <string name="power_mode_airplane_mode">Režim V letadle</string>
-    <string name="power_mode_auto_clean_memery_lock_screen">Zamknout displej za %1$d min</string>
+    <string name="power_mode_auto_clean_memery_lock_screen">Po %1$d min</string>
     <string name="power_mode_auto_clean_memory">Vyčistit paměť</string>
     <string name="power_mode_auto_clean_memory_in_five_minutes">Po 5 minutách</string>
     <string name="power_mode_auto_clean_memory_in_one_minute">Po 1 minutě</string>
@@ -1886,8 +1887,8 @@ zkuste následující:"
     <string name="power_mode_select_desc">Zvolte si režim, který zrovna potřebujete</string>
     <string name="power_mode_select_title">Režim výkonu</string>
     <string name="power_mode_sleep">Spánek</string>
-    <string name="power_mode_sleep_in_minutes">Spánek po %1$d min nečinnosti</string>
-    <string name="power_mode_sleep_in_seconds">Spánek po %1$d s nečinnosti</string>
+    <string name="power_mode_sleep_in_minutes">Po %1$d min nečinnosti</string>
+    <string name="power_mode_sleep_in_seconds">Po %1$d s nečinnosti</string>
     <string name="power_mode_sleep_never">Nikdy</string>
     <string name="power_mode_switch_off">Vypnuto</string>
     <string name="power_mode_switch_on">Zapnuto</string>
@@ -1895,9 +1896,9 @@ zkuste následující:"
     <string name="power_mode_touch_with_ring">Zvuk při dotyku</string>
     <string name="power_mode_touch_with_vibration">Vibrace při dotyku</string>
     <string name="power_mode_vibration">Vibrace</string>
-    <string name="power_mode_vibration_no">Vibrace vypnuty</string>
+    <string name="power_mode_vibration_no">Nikdy</string>
     <string name="power_mode_vibration_silence">Vibrovat při ztišeném vyzvánění</string>
-    <string name="power_mode_vibration_yes">Vibrace zapnuty</string>
+    <string name="power_mode_vibration_yes">Vždy</string>
     <string name="power_mode_wifi">Wi-Fi</string>
     <string name="power_perm_logs_empty">Žádný záznam</string>
     <string name="power_phone">Hlasové hovory</string>
@@ -2788,6 +2789,8 @@ Každý uživatel může přijmout aktualizovaná oprávnění aplikací jménem
     <string name="virus_scan_stop">Zastavit</string>
     <string name="virus_scan_support"/>
     <string name="virus_scan_uninstalled_package">%s (instalátor)</string>
+    <string name="virus_scan_unknown_virus_name">Neznámý</string>
+    <string name="virus_scan_is_cloud_scanning">Kontrola Cloudu...</string>
     <string name="virus_scan_update_lib">Aktualizovat virovou databázi automaticky</string>
     <string name="virus_scan_update_now">Aktualizovat</string>
     <string name="virus_scan_use_cloud">Online virová databáze</string>
