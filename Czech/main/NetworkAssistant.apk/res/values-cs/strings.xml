@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="about">O aplikaci</string>
+    <string name="adjust_module_miss">Chybí nastavovací modul pro využitá data</string>
     <string name="adjust_no_network_update_data_fail">Aktualizace dat selhala, zkontrolujte připojení a zkuste to znovu.</string>
     <string name="adjust_traffic_auto_adjust_hint">Systém se ptá a upravuje údaje pravidelně od operátora. Je třeba nastavit informace o operátorovi.</string>
     <string name="adjust_traffic_auto_adjust_open_hint">Automatické upravování měsíčního balíčku je nastaveno</string>

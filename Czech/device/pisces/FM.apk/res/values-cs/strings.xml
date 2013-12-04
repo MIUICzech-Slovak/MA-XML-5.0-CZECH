@@ -82,7 +82,7 @@
     <string name="msg_callactive">FM Tx není dostupné při aktivním hovoru</string>
     <string name="msg_do_not_support_fm">FM není podporováno na Vašem zařízení.</string>
     <string name="msg_headsetpluggedin">Odpojte sluchátka pro používání FM Tx</string>
-    <string name="msg_noantenna_message">Telefon využívá sluchátka jako anténu pro rádio. Připojte je prosím.</string>
+    <string name="msg_noantenna_message">Pro zlepšení kvality příjmu připojte sluchátka.</string>
     <string name="msg_scanning">Vyhledávání dostupných stanic</string>
     <string name="msg_scanning_pty">Hledám %s</string>
     <string name="msg_search_title">FM - %1$s</string>
