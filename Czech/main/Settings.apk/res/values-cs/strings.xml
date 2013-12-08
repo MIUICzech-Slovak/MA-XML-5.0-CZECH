@@ -1242,7 +1242,7 @@ Toto nastavení ovlivní všechny uživatele tohoto telefonu."</string>
     <string name="last_check_date_yesterday">Poslední kontrola: Včera</string>
     <string name="last_check_never_checked">Doporučuje se spustit kontrolu</string>
     <string name="last_checked_date">Doporučuje se kontrola: Naposledy před 30 dny</string>
-    <string name="last_checked_date2">Poslední kontrola byla před %d dny</string>
+    <string name="last_checked_date2">Poslední kontrola před %d dny</string>
     <string name="last_checked_date_mark">Bodů</string>
     <string name="last_checked_default">Doporučuje se kontrola: Naposledy před %s dny</string>
     <string name="last_synced">Naposledy synch. %1$s</string>

@@ -148,7 +148,7 @@
     <string name="resource_get_auth_exceed_max_limit_title">Autorizace zařízení pro tento účet přesáhla limit</string>
     <string name="resource_get_auth_missing">Toto téma není stáhnuté z oficiálního obchodu.</string>
     <string name="resource_get_auth_retrieving">Získávání autorizace...</string>
-    <string name="resource_hint">Výstraha</string>
+    <string name="resource_hint">Upozornění</string>
     <string name="resource_import_successful">Stahování dokončeno</string>
     <string name="resource_importing">Importování...</string>
     <string name="resource_list_title">Poslední zvolené</string>

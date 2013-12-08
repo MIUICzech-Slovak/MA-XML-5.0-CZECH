@@ -80,10 +80,10 @@
     <string name="incorrect_pincode_remaining_attempts">Nesprávný PIN kód, zbývají %d pokusy</string>
     <string name="incorrect_pukcode">Nesprávný PUK</string>
     <string name="incorrect_pukcode_remaining_attempts">Nesprávný PUK kód, zbývají %d pokusy</string>
-    <string name="input_pin_code">Zadejte PIN</string>
-    <string name="input_pin_code_to_unlock">Zadejte PIN pro odemknutí telefonu</string>
-    <string name="input_puk_code">Zadejte PUK</string>
-    <string name="input_puk_code_to_unlock">Zadejte PUK pro odemknutí telefonu</string>
+    <string name="input_pin_code">Vložte PIN</string>
+    <string name="input_pin_code_to_unlock">Vložte PIN pro odemknutí telefonu</string>
+    <string name="input_puk_code">Vložte PUK</string>
+    <string name="input_puk_code_to_unlock">Vložte PUK pro odemknutí telefonu</string>
     <string name="insects_awaken"/>
     <string name="international_womens_day"/>
     <string name="labour_day"/>
