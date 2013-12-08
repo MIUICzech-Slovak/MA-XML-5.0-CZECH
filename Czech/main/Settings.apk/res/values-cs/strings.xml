@@ -3218,4 +3218,8 @@ Nastavení telefonu může vyžadovat přenos nemalého množství dat."</string
     <string name="miui_screensaver_usage">Obrázky ve zvoleném albu se budou zobrazovat opakovaně 5 sekund po zhasnutí displeje.</string>
     <string name="alert_show_screensaver_when_not_charging_title">Upozornění</string>
     <string name="alert_show_screensaver_when_not_charging_msg">Pokud je spořič displeje aktivní i mimo nabíjení, zvýší se spotřeba energie. Chcete deaktivovat?</string>
+    <string name="bt_hci_snoop_log">Povolit sledování Bluetooth HCI</string>
+    <string name="bt_hci_snoop_log_summary">Zaznamenat všechny pakety Bluetooth HCI do souboru</string> 
+    <string name="bt_trace_log">Povolit Bluetooth Trace log</string>
+    <string name="bt_trace_log_summary">Povolit Bluetooth Trace log</string>
 </resources>
