@@ -8,7 +8,7 @@
     <string name="main_optin">Povolit zasílání</string>
     <string name="main_show_stats">Zobrazit statistiku</string>
     <string name="main_title">Anonymní data použití</string>
-    <string name="notification_desc">Povolit, nebo zakázat anonymní statistiku</string>
+    <string name="notification_desc">Povolit nebo zakázat anonymní statistiku</string>
     <string name="notification_ticker">Statistika odeslána</string>
     <string name="notification_title">Statistika MIUI</string>
     <string name="preview_android_lbl">Verze Android</string>
