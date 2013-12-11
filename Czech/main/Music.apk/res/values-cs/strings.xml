@@ -63,11 +63,11 @@
     <string name="delete_playlist_menu">Vymazat</string>
     <string name="delete_song_desc">%s bude nenávratně smazáno z SD karty.</string>
     <string name="deselect_all">Odznačit vše</string>
-    <string name="dirac_mode_earbuds">Xiaomi sluchátka</string>
+    <string name="dirac_mode_earbuds">Xi. sluchátka</string>
     <string name="dirac_mode_general">Obyčejné</string>
-    <string name="dirac_mode_in_ear">Xiaomi špunty</string>
+    <string name="dirac_mode_in_ear">Xi. špunty</string>
     <string name="dirac_mode_off">Dirac vypnut</string>
-    <string name="dirac_mode_piston_100">Xiaomi piston sluchátka</string>
+    <string name="dirac_mode_piston_100">Xi. Piston</string>
     <string name="download">Stáhnout</string>
     <string name="download_album_settings">Stahovat obrázky alb</string>
     <string name="download_album_summary">Může stahovat větší množství dat, zvažte použití WiFi</string>

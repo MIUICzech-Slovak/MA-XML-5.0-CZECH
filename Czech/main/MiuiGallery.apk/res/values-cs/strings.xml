@@ -497,4 +497,12 @@ společně!"</string>
   <string name="widget_type_shuffle">Náhodně všechny obrázky</string>
   <string name="width">Šířka</string>
   <string name="yes">Ano</string>
+  <string name="file_not_exist_message">Soubor neexistuje</string>
+  <string name="download">Stáhnout</string>
+  <string name="confirm_download">"Potřebujete stáhnout %s. Toto okno se už vícekrát nezobrazí."</string>
+  <string name="download_fail">Stahování selhalo</string>
+  <string name="download_fail_confirm_continue">Stahování %s selhalo. Pokračovat?</string>
+  <string name="make_download_dir_fail">Vytvoření složky pro soubory selhalo</string>
+  <string name="delete_smb_file_fail">Vymazání smb souboru selhalo</string>
+  <string name="new_device_tips">Nalezeno nové zařízení. Stiskněte pro jeho zobrazení</string>
 </resources>

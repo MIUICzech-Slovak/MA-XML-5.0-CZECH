@@ -5,7 +5,7 @@
         <item quantity="zero">%1$d vybráno</item>
         <item quantity="one">%1$d vybrána</item>
     </plurals>
-    <plurals name="number_of_cloudimages">
+    <plurals name="number_of_images">
         <item quantity="other">%1$d</item>
         <item quantity="zero">%1$d</item>
         <item quantity="one">%1$d</item>

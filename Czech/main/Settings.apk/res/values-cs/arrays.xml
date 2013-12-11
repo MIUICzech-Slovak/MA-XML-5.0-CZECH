@@ -527,4 +527,15 @@ Nyní můžete kopírovat soubory"</item>
         <item>1 hodina</item>
         <item>Bez omezení</item>
     </string-array>
+     <string-array name="preferred_app_entries">
+        <item>Launcher</item>
+        <item>Volání</item>
+        <item>Zprávy</item>
+        <item>Prohlížeč</item>
+        <item>Fotoaparát</item>
+        <item>Galerie</item>
+        <item>Hudba</item>
+        <item>Video</item>
+        <item>Email</item>
+    </string-array>
 </resources>
