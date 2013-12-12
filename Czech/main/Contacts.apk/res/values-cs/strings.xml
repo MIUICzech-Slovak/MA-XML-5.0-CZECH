@@ -56,7 +56,7 @@
     <string name="callAgain">Volat znovu</string>
     <string name="callBack">Zpětné volání</string>
     <string name="callDetailTitle">Detaily hovoru</string>
-    <string name="callDetailsDurationFormat" formatted="false">%s min %s s</string>
+    <string name="callDetailsDurationFormat" formatted="false">%s min. %s sek.</string>
     <string name="callShortcutActivityTitle">Vyberte číslo, kterému chcete volat</string>
     <string name="call_assistant">Volat na číslo %s</string>
     <string name="call_callback">Volat na číslo zpětného volání</string>
@@ -91,10 +91,10 @@
     <string name="calllog_menu_edit_before_call">Upravit před voláním</string>
     <string name="calllog_menu_send_sms">Poslat SMS</string>
     <string name="callrecordview_item_newcontact">Nový kontakt</string>
-    <string name="callrecordview_item_op_time_minutes_seconds">%1$d m %2$d s</string>
+    <string name="callrecordview_item_op_time_minutes_seconds">%1$d min. %2$d sek.</string>
     <string name="callrecordview_item_op_time_missed">Nezvednuto</string>
-    <string name="callrecordview_item_op_time_only_minutes">%d min</string>
-    <string name="callrecordview_item_op_time_only_seconds">%d s</string>
+    <string name="callrecordview_item_op_time_only_minutes">%d min.</string>
+    <string name="callrecordview_item_op_time_only_seconds">%d sek.</string>
     <string name="callrecordview_item_op_time_rejected">Odmítnuto</string>
     <string name="callrecordview_item_op_time_short_incoming">"Příchozí "</string>
     <string name="callrecordview_item_op_time_short_outgoing">"Odchozí: "</string>
@@ -177,7 +177,7 @@
     <string name="contact_edit_title_edit">Upravit kontakt</string>
     <string name="contact_edit_title_insert">Vytvořit %s kontakt</string>
     <string name="contact_edit_title_readonly">Kontakt jen pro čtení</string>
-    <string name="contact_editor_prompt_multiple_accounts">Můžete sesynchronizovat váš nový kontakt s jedním z následujících účtů. Vybere, který chcete použít.</string>
+    <string name="contact_editor_prompt_multiple_accounts">Můžete sesynchronizovat Váš nový kontakt s jedním z následujících účtů. Vybere, který chcete použít.</string>
     <string name="contact_editor_prompt_one_account">Váš nový kontakt bude synchronizován s %1$s.</string>
     <string name="contact_editor_prompt_zero_accounts">Váš nový kontakt nebude zálohován. Chcete přidat účet, který zálohuje kontakty online?</string>
     <string name="contact_is_readOnly">Kontakt nelze upravit</string>
@@ -231,7 +231,7 @@
     <string name="description_call_log_play_button">Přehrát hlasovou schránku</string>
     <string name="description_call_log_unheard_voicemail">Nevyzvednutý vzkaz</string>
     <string name="description_call_log_voicemail">Hlasová schránka</string>
-    <string name="description_contact_photo">fotka kontaktu</string>
+    <string name="description_contact_photo">Fotka kontaktu</string>
     <string name="description_delete_button">Zpět</string>
     <string name="description_designer">Designér</string>
     <string name="description_dial_button">Volat</string>
@@ -261,7 +261,7 @@
     <string name="description_summary">Souhrn</string>
     <string name="description_uploadtime">Aktualizace</string>
     <string name="description_version">Verze</string>
-    <string name="description_version_szie">Verze: %1$s Velikost: %2$s</string>
+    <string name="description_version_szie">Verze: %1$s, velikost: %2$s</string>
     <string name="description_view_contact">Zobrazit kontakt %1$s</string>
     <string name="description_view_contact_detail">Zobrazit kontakt</string>
     <string name="description_voicemail_button">Hlasová zpráva</string>
@@ -304,10 +304,10 @@
     <string name="dialog_import_export">Importovat/exportovat kontakty</string>
     <string name="dialog_new_contact_account">Vytvořit kontakt na účtě</string>
     <string name="dialog_new_group_account">Vytvořit skupinu na účtě</string>
-    <string name="dialog_phone_call_prohibited_message">Hovor nebyl odeslaný</string>
+    <string name="dialog_phone_call_prohibited_message">Hovor nebyl odeslán</string>
     <string name="dialog_sync_add">Přidat synchronizaci skupiny</string>
-    <string name="dialog_voicemail_airplane_mode_message">Pro volání do hlasové schránky, vypněte režim letadlo.</string>
-    <string name="dialog_voicemail_not_ready_message">Pro nastavení hlasové schránky, otevřete Menu > Nastavení.</string>
+    <string name="dialog_voicemail_airplane_mode_message">Pro volání do hlasové schránky vypněte režim Letadlo.</string>
+    <string name="dialog_voicemail_not_ready_message">Pro nastavení hlasové schránky otevřete Menu > Nastavení.</string>
     <string name="directory_search_label">Adresář</string>
     <string name="dirty_contacts_notification_description">%d úprav v kontaktech nebylo synchronizováno</string>
     <string name="dirty_contacts_notification_message">(Můžete vypnout upozornění v nastavení kontaktů)</string>
@@ -346,7 +346,7 @@
     <string name="eventLabelsGroup">Události</string>
     <string name="event_edit_field_hint_text">Datum</string>
     <string name="export_sim_contact_finish">Exportování na SIM kartu je kompletní</string>
-    <string name="export_sim_contact_finish_failure">Dokončené: %1$d Zbývá: %2$d</string>
+    <string name="export_sim_contact_finish_failure">Dokončené: %1$d, zbývá: %2$d</string>
     <string name="export_sim_contact_finish_success">Kontakty zkopírované na SIM kartu: %d</string>
     <string name="export_sim_contacts_dialog_message">Vaše SIM karta může uložit %d kontaktů. Opravdu chcete pokračovat?</string>
     <string name="export_to_sdcard">Exportovat do úložiště</string>
@@ -368,7 +368,7 @@ Chyba: \"%s\""</string>
     <string name="fail_reason_failed_to_collect_vcard_meta_info">"Není možné načíst vizitku."</string>
     <string name="fail_reason_failed_to_read_files">"Jeden nebo více souborů nebylo možné importovat (%s)."</string>
     <string name="fail_reason_io_error">Chyba I/O</string>
-    <string name="fail_reason_low_memory_during_import">Nedostatek paměti ( soubor je nejspíš příliš velký )</string>
+    <string name="fail_reason_low_memory_during_import">Nedostatek paměti (soubor je nejspíš příliš velký)</string>
     <string name="fail_reason_no_exportable_contact">Žádný kontakt nelze exportovat</string>
     <string name="fail_reason_not_supported">Formát souboru není podporovaný.</string>
     <string name="fail_reason_too_long_filename">Požadovaný název souboru („%s”) je příliš dlouhý</string>
@@ -390,14 +390,14 @@ Chyba: \"%s\""</string>
     <string name="generic_no_account_prompt_title">Přidat účet</string>
     <string name="ghostData_company">Společnost</string>
     <string name="ghostData_title">Titulek</string>
-    <string name="groupSavedErrorToast">Chyba, nemohu uložit změny.</string>
+    <string name="groupSavedErrorToast">Chyba, nelze uložit změny.</string>
     <string name="groupSavedToast">Skupina uložena</string>
     <string name="group_add_fail_toast">Přidání kontaktů selhalo</string>
     <string name="group_create_fail_toast">Vytvoření skupiny selhalo</string>
     <string name="group_create_success_toast">Skupina vytvořena</string>
     <string name="group_delete_success_toast">Skupina vymazána</string>
     <string name="group_edit_field_hint_text">Jméno skupiny</string>
-    <string name="group_member_remove_toast">Kontakt byl úspěšně odebraný ze skupiny</string>
+    <string name="group_member_remove_toast">Kontakt byl úspěšně odebrán ze skupiny</string>
     <string name="group_name_hint">Název skupiny</string>
     <string name="group_read_only">Na tomto zařízení nelze upravit</string>
     <string name="group_rename_dialog_title">Přejmenovat skupinu</string>
@@ -415,7 +415,7 @@ Chyba: \"%s\""</string>
     <string name="hint_search_contacts">%d kontaktů</string>
     <string name="hint_search_emails">%d E-mailů</string>
     <string name="hint_search_phone_numbers">%d čísel kontaktů</string>
-    <string name="ic_menu_back">Spát</string>
+    <string name="ic_menu_back">Zpět</string>
     <string name="ic_menu_done">Hotovo</string>
   	<string name="imLabelsGroup">IM</string>
     <string name="imei">IMEI</string>
@@ -440,11 +440,11 @@ Chyba: \"%s\""</string>
     <string name="import_to_xiaomi_account_title">Opravdu chcete přesunout zvolené kontakty do vašeho Xiaomi účtu?</string>
     <string name="import_vcard_description">Importovat kontakty z SD karty</string>
     <string name="import_weibo_dialog_title">Import kontaktu z sina weibo</string>
-    <string name="import_weibo_error_no_matched_contacts">Done updating contacts: no matched contacts</string>
-    <string name="import_weibo_error_no_network">Done updating contacts: network error</string>
-    <string name="import_weibo_error_no_xiaomi_phone">Done updating contacts: no phone numbers found under XiaoMi account</string>
-  	<string name="import_weibo_error_unknown">Done updating contacts: unknown error</string>
-    <string name="import_weibo_error_user_cancel">Done updating contacts: user canceled</string>
+    <string name="import_weibo_error_no_matched_contacts">Kontakty byly aktualizovány: žádné odpovídající kontakty</string>
+    <string name="import_weibo_error_no_network">Kontakty byly aktualizovány: chyba sítěerror</string>
+    <string name="import_weibo_error_no_xiaomi_phone">Kontakty byly aktualizovány: v účtu XiaoMi nebyly nalezeny žádná čísla</string>
+  	<string name="import_weibo_error_unknown">Kontakty byly aktualizovány: neznámá chyba</string>
+    <string name="import_weibo_error_user_cancel">Kontakty byly aktualizovány: userzrušeno uživatelem</string>
     <string name="import_weibo_fetch_followers">Získávání Sina Weibo přátel...</string>
     <string name="import_weibo_notification_title_done">Import kompletní</string>
     <string name="import_weibo_progress_name">%1$s</string>
@@ -460,7 +460,7 @@ Chyba: \"%s\""</string>
     <string name="keep_local_btn">Uložit jen do telefonu</string>
     <string name="label_custom_type">Vlastní</string>
     <string name="label_duplicate_count">(%1$d)</string>
-    <string name="label_no_duplicate_contacts">Gratuluji! Nemáte žádné duplicitní kontakty</string>
+    <string name="label_no_duplicate_contacts">Gratulujeme! Nemáte žádné duplicitní kontakty.</string>
     <string name="label_notes">Poznámky</string>
     <string name="label_sip_address">Internetový telefon (SIP)</string>
     <string name="launcherDialer">Telefon</string>
@@ -578,7 +578,7 @@ Chyba: \"%s\""</string>
 
 Pro přidání kontaktů stiskněte "<font fgcolor="#ffffffff"><b>Menu</b></font>", vyberte:
  
-"<li><font fgcolor="#ffffffff"><b>"Přidat účty nebo nastavit účet s kontakty které můžete synchronizovat s telefonem
+"<li><font fgcolor="#ffffffff"><b>"Přidat účty nebo nastavit účet s kontakty, které můžete synchronizovat s telefonem
 "</b></font></li>" 
 "<li><font fgcolor="#ffffffff"><b>"Nový kontakt - pro vytvoření kontaktu 
 "</b></font></li>" 
@@ -586,17 +586,17 @@ Pro přidání kontaktů stiskněte "<font fgcolor="#ffffffff"><b>Menu</b></font
 "</b></font></li>"
 "</string>
     <string name="noContactsHelpTextForCreateShortcut">"Žádný kontakt pro zobrazení."</string>
-    <string name="noContactsHelpTextWithSync">"Nemáte žádné kontakty k zobrazení. (Pokud jste právě přidali svůj účet, může to chvíli trvat než se načtou Vaše kontakty.)
+    <string name="noContactsHelpTextWithSync">"Nemáte žádné kontakty k zobrazení. (Pokud jste právě přidali svůj účet, může to chvíli trvat, než se načtou Vaše kontakty.)
 
 Pro přidání kontaktů stiskněte "<font fgcolor="#ffffffff"><b>Menu</b></font>", vyberte:
  
-"<li><font fgcolor="#ffffffff"><b>"Přidat účty anebo nastavit účet s kontakty které můžete synchronizovat s telefonem
+"<li><font fgcolor="#ffffffff"><b>"Přidat účty nebo nastavit účet s kontakty, které můžete synchronizovat s telefonem
 "</b></font></li>" 
 "<li><font fgcolor="#ffffffff"><b>"Zobrazit možnosti - nastavení, které kontakty jsou viditelné
 "</b></font></li>" 
 "<li><font fgcolor="#ffffffff"><b>"Nový kontakt - pro vytvoření kontaktu
 "</b></font></li>" 
-"<li><font fgcolor="#ffffffff"><b>"Import/Export pro importování kontaktů ze SIM anebo SD karty
+"<li><font fgcolor="#ffffffff"><b>"Import/Export pro importování kontaktů ze SIM nebo SD karty
 "</b></font></li>"
 "</string>
     <string name="noContactsHelpTextWithSyncForCreateShortcut">"Žádný kontakt pro zobrazení. (Pokud jste právě přidali Váš účet, může chvíli trvat, než se vše synchronizuje.)"</string>
@@ -604,18 +604,18 @@ Pro přidání kontaktů stiskněte "<font fgcolor="#ffffffff"><b>Menu</b></font
 
 Pro přidání kontaktů stiskněte "<font fgcolor="#ffffffff"><b>Menu</b></font>", vyberte:
  
-"<li><font fgcolor="#ffffffff"><b>"Přidat účty anebo nastavit účet s kontakty které můžete synchronizovat s telefonem
+"<li><font fgcolor="#ffffffff"><b>"Přidat účty nebo nastavit účet s kontakty, které můžete synchronizovat s telefonem
 "</b></font></li>" 
 "<li><font fgcolor="#ffffffff"><b>"Nový kontakt - pro vytvoření kontaktu
 "</b></font></li>" 
-"<li><font fgcolor="#ffffffff"><b>"Import/Export pro importování kontaktů ze SIM anebo SD karty
+"<li><font fgcolor="#ffffffff"><b>"Import/Export pro importování kontaktů ze SIM nebo SD karty
 "</b></font></li>"
 "</string>
     <string name="noContactsNoSimHelpTextWithSync">"Nemáte žádné kontakty k zobrazení. (Pokud jste právě přidali svůj účet, může to chvíli trvat než se načtou Vaše kontakty.)
 
 Pro přidání kontaktů stiskněte "<font fgcolor="#ffffffff"><b>Menu</b></font>", vyberte:
  
-"<li><font fgcolor="#ffffffff"><b>"Přidat účty anebo nastavit účet s kontakty které můžete synchronizovat s telefonem
+"<li><font fgcolor="#ffffffff"><b>"Přidat účty nebo nastavit účet s kontakty, které můžete synchronizovat s telefonem
 "</b></font></li>" 
 "<li><font fgcolor="#ffffffff"><b>"Zobrazit možnosti - nastavení, které kontakty jsou viditelné
 "</b></font></li>" 
@@ -695,7 +695,7 @@ Synchronizujte je nyní."</string>
     <string name="pickerNewContactText">Vytvořit nový kontakt</string>
     <string name="picker_all_list_empty">Žádné kontakty</string>
     <string name="picker_contact_title">Vyberte kontakt</string>
-    <string name="picker_email_title">Vyberte email</string>
+    <string name="picker_email_title">Vyberte e-mail</string>
     <string name="picker_favorites_list_empty">Žádné oblíbené</string>
     <string name="picker_groups_list_empty">Žádné skupiny</string>
     <string name="picker_join_title">Zvolte kontakt na propojení s %s</string>
@@ -868,7 +868,7 @@ Synchronizujte je nyní."</string>
     <string name="resource_exchange_has_expired">Platnost zadaného kódu vypršela.</string>
     <string name="resource_exchange_has_used">Zadaný kód již byl jednou použit.</string>
     <string name="resource_exchange_hint">Zadejte kód</string>
-    <string name="resource_exchange_purchase_unkown_error">Nastala neznáma chyba. Přihlaste se na http://market.xiaomi.com pro kontrolu stavu platby.</string>
+    <string name="resource_exchange_purchase_unkown_error">Nastala neznámá chyba. Přihlaste se na http://market.xiaomi.com pro kontrolu stavu platby.</string>
     <string name="resource_exchange_share_code_content">Obdrželi jste kód pro téma %1$s. Kód je: %2$s. Stiskněte %3$s pro jeho použití.</string>
     <string name="resource_exchange_share_code_dlg_content">Kód pro nákup téma %1$s je: %2$s. Pokud ho odešlete jinému uživateli MIUI, může ho použít pro stáhnutí tohoto tématu.</string>
     <string name="resource_exchange_share_code_dlg_title">Odesílání</string>
@@ -987,7 +987,7 @@ Prosím otevřete tuto aplikaci ještě jednou pro aktualizaci zdrojů."</string
     <string name="simContacts_title">Kontakty na SIM</string>
     <string name="sim_capacity">Zobrazit kapacitu SIM karty</string>
     <string name="sim_capacity_content" formatted="false">Celkem %d, využito %d</string>
-	  <string name="sim_card_no_free_space_message">Kapacita vaší SIM je vyčerpaná, nemůžete přidat další kontakty. Prosím uvolněte místo</string>
+	  <string name="sim_card_no_free_space_message">Kapacita Vaší SIM je vyčerpaná, nemůžete přidat další kontakty. Prosím uvolněte místo.</string>
     <string name="sim_card_no_free_space_title">SIM karta je plná</string>
     <string name="sim_contact_dropdown_menu_deselect_all_miui">Odznačit vše</string>
     <string name="sim_contact_dropdown_menu_select_all_miui">Označit vše</string>
@@ -996,8 +996,8 @@ Prosím otevřete tuto aplikaci ještě jednou pro aktualizaci zdrojů."</string
     <string name="sim_contact_search_error">Došlo k chybě při hledání kontaktů na SIM kartě</string>
     <string name="sim_contacts">SIM kontakty</string>
     <string name="sim_error_anr_full">Úložiště pro čísla je plné.</string>
-    <string name="sim_error_email_full">Úložiště pro email je plné.</string>
-    <string name="sim_error_email_too_long">Email je příliš dlouhý.</string>
+    <string name="sim_error_email_full">Úložiště pro e-mail je plné.</string>
+    <string name="sim_error_email_too_long">E-mail je příliš dlouhý.</string>
     <string name="sim_error_generic_failure">Selhalo.</string>
     <string name="sim_error_not_ready">Načítání kontaktů na SIM, čekejte...</string>
     <string name="sim_error_number_too_long">Číslo je příliš dlouhé.</string>
@@ -1045,7 +1045,7 @@ Prosím otevřete tuto aplikaci ještě jednou pro aktualizaci zdrojů."</string
     <string name="sms_work_pager">Odeslat zprávu na pracovní pager</string>
     <string name="social_widget_label">Kontakt</string>
     <string name="social_widget_loading">Nahrávám...</string>
-    <string name="splitConfirmation">Opravdu chcete tento kontakt rozdělit do více kontaktů? Pro každou připojenou kontaktní informaci bude vytvořen samostatný kontakt?</string>
+    <string name="splitConfirmation">Opravdu chcete tento kontakt rozdělit do více kontaktů? Pro každou připojenou kontaktní informaci bude vytvořen samostatný kontakt.</string>
     <string name="splitConfirmation_title">Oddělit kontakt</string>
     <string name="starredList">Označené hvězdičkou</string>
     <string name="starred_contacts">Oblíbené</string>
@@ -1069,7 +1069,7 @@ Prosím otevřete tuto aplikaci ještě jednou pro aktualizaci zdrojů."</string
     <string name="toast_finish_delete_call_log">Seznam hovorů byl smazán</string>
     <string name="toast_for_failed_saving_nickname">Nepodařilo se uložit přezdívku!</string>
     <string name="toast_for_saving_nickname">Přezdívka uložena</string>
-    <string name="toast_join_with_empty_contact">Prosím zadejte jméno kontaktu před spojením s dalším kontaktem.</string>
+    <string name="toast_join_with_empty_contact">Prosím, zadejte jméno kontaktu před spojením s dalším kontaktem.</string>
     <string name="toast_making_personal_copy">Vytvářím osobní kopii</string>
     <string name="toast_text_copied">Text zkopírován</string>
     <string name="today">Dnes</string>
@@ -1082,10 +1082,10 @@ Prosím otevřete tuto aplikaci ještě jednou pro aktualizaci zdrojů."</string
     <string name="upgrade_in_progress">"Aktualizace seznamu kontaktů"</string>
     <string name="upgrade_out_of_memory">Proces aktualizace kontaktů. 
     
-Aktualizace vyžaduje přibližně %s MB vnitřní paměti. 
+Aktualizace vyžaduje přibližně %sMB vnitřní paměti. 
 
 Vyberte si z následujících možností:</string>
-    <string name="upgrade_out_of_memory_retry">Zkusit upgradovat znovu</string>
+    <string name="upgrade_out_of_memory_retry">Zkusit aktualizovat znovu</string>
     <string name="upgrade_out_of_memory_uninstall">Odinstalovat některé aplikace</string>
     <string name="use_photo_as_primary">Použít tuto fotku</string>
     <string name="use_photo_as_primary2">Použít %1$s fotku kontaktu</string>
@@ -1115,8 +1115,8 @@ Vyberte si z následujících možností:</string>
     <string name="voicemail_status_action_configure">Nastavit</string>
     <string name="voicemail_status_audio_not_available">Zvuk není dostupný.</string>
     <string name="voicemail_status_configure_voicemail">Nastavit hlasovou schránku.</string>
-    <string name="voicemail_status_messages_waiting">Nemohu se připojit k hlasové schránce. Jsou dostupné nové hlasové zprávy.</string>
-    <string name="voicemail_status_voicemail_not_available">Nemohu se připojit na server s hlasovou schránkou.</string>
+    <string name="voicemail_status_messages_waiting">Nelze se připojit k hlasové schránce. Jsou dostupné nové hlasové zprávy.</string>
+    <string name="voicemail_status_voicemail_not_available">Nelze se připojit na server s hlasovou schránkou.</string>
     <string name="websiteLabelsGroup">WWW stránka</string>
     <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
     <string name="wipe_data">Vymazat data</string>
