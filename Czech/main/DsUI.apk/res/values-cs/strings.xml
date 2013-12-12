@@ -7,9 +7,9 @@
     <string name="dolbyDigitalPlus">Dolby Digital Plus</string>
     <string name="intelligent_equalizer">Inteligentní EQ:</string>
     <string name="surround_virtualizer">Surround Virtualizer</string>
-    <string name="dialogue_enhancer">Zvýraznění Dialogů</string>
+    <string name="dialogue_enhancer">Zvýraznění dialogů</string>
     <string name="volume_leveler">Úprava hlasitosti</string>
-    <string name="copyright">Dolby a symbol DD je registrované značka Dolby Laboratories. ©2012 Dolby Laboratories. Všechna práva vyhrazena.</string>
+    <string name="copyright">Dolby a symbol DD jsou registrované značky společnosti Dolby Laboratories. ©2012 Dolby Laboratories. Všechna práva vyhrazena.</string>
     <string name="movie">Film</string>
     <string name="music">Hudba</string>
     <string name="game">Hry</string>
@@ -38,8 +38,8 @@
     <string name="default_text" />
     <string name="stop">Zastavit</string>
     <string name="exit">Ukončit</string>
-    <string name="tooltip_eq_title">Inteligentní Ekvalizér/Grafický Ekvalizér</string>
-    <string name="tooltip_eq_text">Inteligentní Ekvalizér analyzuje a dynamicky upravuje zvuk pro co nejlepší dosáhnutí požadovaného tónu. Zvolte si ze čtyř přednastavených režimů a pomocí posuvníků si zvuk dolaďte dle svých potřeb.</string>
+    <string name="tooltip_eq_title">Inteligentní ekvalizér/Grafický ekvalizér</string>
+    <string name="tooltip_eq_text">Inteligentní ekvalizér analyzuje a dynamicky upravuje zvuk pro co nejlepší dosáhnutí požadovaného tónu. Zvolte si ze čtyř přednastavených režimů a pomocí posuvníků si zvuk dolaďte podle svých potřeb.</string>
     <string name="tooltip_sv_title">Surround</string>
     <string name="tooltip_sv_text">Surround zvuk vytváří realistický prostorový zvuk z každého typu sluchátek nebo stereo reproduktorů. Pomocí přepínače aktivujete tento režim.</string>
     <string name="tooltip_de_title">Zvýraznění řeči</string>
