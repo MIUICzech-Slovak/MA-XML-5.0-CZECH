@@ -3,7 +3,7 @@
     <string name="accessibility_add_attendee">Přidat účastníka</string>
     <string name="accessibility_add_reminder">Přidat připomenutí</string>
     <string name="accessibility_all_day">Celodenní událost</string>
-    <string name="accessibility_email_notification">Email hostí</string>
+    <string name="accessibility_email_notification">E-mail hostů</string>
     <string name="accessibility_pick_end_date">Datum ukončení</string>
     <string name="accessibility_pick_end_time">Čas ukončení</string>
     <string name="accessibility_pick_start_date">Datum zahájení</string>
@@ -43,7 +43,7 @@
     <string name="calendar_refresh">Aktualizovat</string>
     <string name="change_response_title">Změnit odpověď</string>
     <string name="copy_db">Odeslat databázi</string>
-    <string name="copy_email">Kopírovat emailovou adresu</string>
+    <string name="copy_email">Kopírovat e-mailovou adresu</string>
     <string name="copy_number">Kopírovat číslo telefonu</string>
     <string name="create_an_account_desc">"Kalendář funguje lépe s účtem Google.\n • Přístup z jakéhokoliv webového prohlížeče\n • Bezpečné zálohování událostí"</string>
     <string name="creating_event">Událost byla vytvořena.</string>
@@ -71,8 +71,8 @@
     <string name="edit_event_to_label">Do</string>
     <string name="edit_label">Upravit</string>
     <string name="email_guests_label">Odpověď účastníkům</string>
-    <string name="email_organizer_label">Organizér Emailů</string>
-    <string name="email_picker_label">Email z</string>
+    <string name="email_organizer_label">Organizér e-mailů</string>
+    <string name="email_picker_label">E-mail od</string>
     <string name="email_subject_prefix">"Re: "</string>
     <string name="empty_event">Prázdná událost se nevytvořila</string>
     <string name="event_create">Nová událost</string>
@@ -115,7 +115,7 @@
     <string name="more_string">Ještě %1$s...</string>
     <string name="new_event_dialog_label">Nová událost</string>
     <string name="new_event_dialog_option">Nová událost</string>
-    <string name="no_calendars_found">Před přidáním události je nutné přidat do zařízení alespoň jeden účet s kalendářem a zobrazit ho. Chcete-li přidat účet, klepněte na tlačítko Přidat účet (pokud jste účet právě přidali, počkejte na dokončení synchronizace a zkuste to znovu). Případně se dotkněte tlačítka Zrušit a zkontrolujte, zda je zobrazen alespoň jeden kalendář.</string>
+    <string name="no_calendars_found">Před přidáním události je nutné přidat do zařízení alespoň jeden účet s kalendářem a zobrazit ho. Chcete-li přidat účet, klepněte na tlačítko Přidat účet (pokud jste účet právě přidali, počkejte na dokončení synchronizace a zkuste to znovu). Případně se klepněte na tlačítko Zrušit a zkontrolujte, zda je zobrazen alespoň jeden kalendář.</string>
     <string name="no_syncable_calendars">Žádné kalendáře</string>
     <string name="no_title_label">(bez názvu)</string>
     <string name="not_synced">není synchronizován</string>
@@ -149,7 +149,7 @@
     <string name="privacy_label">Soukromá/Veřejná</string>
     <string name="quick_response_custom_msg">Vlastní odpověď...</string>
     <string name="quick_response_dialog_title">Vyber vlastní odpověď</string>
-    <string name="quick_response_email_failed">Není možné najít aplikaci Email</string>
+    <string name="quick_response_email_failed">Není možné najít aplikaci E-mail</string>
     <string name="quick_response_settings">Rychlá odpověď</string>
     <string name="quick_response_settings_edit_title">Rychlá odpověď</string>
     <string name="quick_response_settings_summary">Upravit vlastní odpověď při odeslání emailu</string>
