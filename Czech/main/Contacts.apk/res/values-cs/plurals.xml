@@ -37,8 +37,8 @@
         <item quantity="one">%1$d číslo</item> 
     </plurals>
     <plurals name="notification_voicemail_title">
-        <item quantity="other">%1$d Hlasových mailů</item>
-        <item quantity="one">Hlasový mail</item>
+        <item quantity="other">%1$d hlasových zpráv</item>
+        <item quantity="one">%1$d hlasová zpráva</item>
     </plurals>
     <plurals name="number_of_items_selected">
         <item quantity="other">Vybraných: %1$d</item>
