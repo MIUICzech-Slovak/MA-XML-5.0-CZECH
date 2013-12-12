@@ -2,9 +2,9 @@
 <resources>
     <string name="remote_service_stopped">Vzdálená služba se zastavila</string>
     <string name="app_name">DS</string>
-    <string name="name_widget_extra_large">DS 6 Profilů</string>
-    <string name="name_widget_large">DS 3 Profily</string>
-    <string name="name_widget_small">DS Zap/Vyp</string>
+    <string name="name_widget_extra_large">DS 6 profilů</string>
+    <string name="name_widget_large">DS 3 profily</string>
+    <string name="name_widget_small">DS Zap./Vyp.</string>
     <string name="movie">Film</string>
     <string name="music">Hudba</string>
     <string name="game">Hry</string>
