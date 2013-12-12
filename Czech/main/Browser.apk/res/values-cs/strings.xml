@@ -143,7 +143,7 @@
     <string name="contextmenu_view_image">Zobrazit obrázek</string>
     <string name="copy_link">Kopírovat</string>
     <string name="copy_page_url">Kopírovat URL stránky</string>
-    <string name="crash_recovcery_message">Prohlížeč ukončen nestandardním způsobem. Chcete obnovit poslední relaci prohlížeče?</string>
+    <string name="crash_recovcery_message">Prohlížeč byl ukončen nestandardním způsobem. Chcete obnovit poslední relaci prohlížeče?</string>
     <string name="create_shortcut_bookmark">Vytvořit zástupce na ploše</string>
     <string name="current_page">"z "</string>
     <string name="defaultBookmarksUpButton">Záložky</string>
@@ -369,7 +369,7 @@
     <string name="pref_default_zoom">Výchozí přiblížení</string>
     <string name="pref_default_zoom_dialogtitle">Výchozí přiblížení</string>
     <string name="pref_developer_options">Vývojářské nastavení</string>
-    <string name="pref_developer_options_summary">Debugging nebo oznámení chyby</string>
+    <string name="pref_developer_options_summary">Ladění nebo oznámení chyby</string>
     <string name="pref_development_cpu_upload_path">Povolit Cpu Upload Path</string>
     <string name="pref_development_error_console">Zobrazit Javascriptovou konzoli</string>
     <string name="pref_development_hardware_accel">Zapnout renderování pomocí OpenGL</string>
@@ -486,17 +486,17 @@
     <string name="progress_dialog_setting_wallpaper">Nastavují tapetu...</string> 
     <string name="quicklinks_management">Užitečné stránky</string>
     <string name="quicklink_saved_before">Stránka byla přidána</string>
-    <string name="readmode_already_add_to_bookshelf">Has joined bookshelf</string>    
+    <string name="readmode_already_add_to_bookshelf">Přišel do knihovny</string>    
     <string name="readmode_battery">Baterie </string> 
     <string name="readmode_login">Přihlásit</string>
-    <string name="readmode_login_message">subsequent chapters need to log in before mobile reading base account View</string>
+    <string name="readmode_login_message">Před prohlédnutím následujících kapitol se musíte přihlásit</string>
     <string name="readmode_page_load_error">Načítání stránky selhalo. Načtěte znovu tlačítkem Obnovit.</string>
     <string name="readmode_page_loading">Načítání...</string>
     <string name="readmode_pay">Předplatit</string>
-    <string name="readmode_pay_message">subsequent chapters require a subscription fee before view</string>
+    <string name="readmode_pay_message">Před zobrazením následujících kapitol je vyžadován členský poplatek</string>
     <string name="readmode_reach_last_page">Konec stránky</string>
     <string name="readmode_recommend">Doporučené</string>
-    <string name="readmode_recommend_message">"You've read all the sections of the book, change another now"</string>
+    <string name="readmode_recommend_message">"Přečetli jste všechny sekce knihy. Změnit na jinou."</string>
     <string name="readmode_refresh">Obnovit</string>
     <string name="readmodelist_bookmarks_to_show">Seznam zajímavých</string>
     <string name="recover">Obnovit</string>
@@ -543,7 +543,7 @@
     <string name="shortcut_bookmark">Záložka</string>
     <string name="shortcut_bookmark_title">Vybrat záložku</string>
     <string name="sign_in_to" formatted="false">Přihlásit k %s1 \"%s2\"</string>
-    <string name="snapshot_failed">"Nemohu uložit pro offline použití."</string>
+    <string name="snapshot_failed">"Nelze uložit pro offline použití."</string>
     <string name="snapshot_go_live">Aktualizovat</string>
     <string name="ssl_continue">Pokračovat</string>
     <string name="ssl_date_invalid">Certifikát má neplatné datum.</string>
