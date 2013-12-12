@@ -28,10 +28,10 @@
     <string name="dlg_no_block_ok">Neblokovat</string>
     <string name="dlg_remove_blacklist">Odstranit toto číslo z černé listiny?</string>
     <string name="dlg_remove_blacklist_ok">Odstranit</string>
-    <string name="dlg_retore">Obnovit tyto SMS správy?</string>
+    <string name="dlg_retore">Obnovit tyto SMS zprávy?</string>
     <string name="dlg_retore_ok">Obnovit</string>
     <string name="fw_blocked">Blokované:</string>
-    <string name="fw_blocked_count" formatted="false">Blokované: %d Hovorů a %d SMS</string>
+    <string name="fw_blocked_count" formatted="false">Blokované: %d hovorů a %d SMS</string>
     <string name="log_count">(%d)</string>
     <string name="marked_by_others">%d lidí označilo jako</string>
     <string name="marked_by_user">jste označili jako</string>
@@ -59,18 +59,18 @@
     <string name="qm_auto_button_title">Naplánovat</string>
     <string name="qm_auto_setting_group">Automatická aktivace</string>
     <string name="qm_auto_time_setting">Aktivní</string>
-    <string name="qm_auto_time_setting_summary">Od: %1$s, Do: %2$s</string>
+    <string name="qm_auto_time_setting_summary">Od: %1$s do: %2$s</string>
     <string name="qm_auto_time_turn_off">Deaktivovat</string>
-    <string name="qm_auto_time_turn_off_title">Čas kdy se deaktivuje tichý režim</string>
+    <string name="qm_auto_time_turn_off_title">Čas deaktivace tichého režimu</string>
     <string name="qm_auto_time_turn_on">Aktivovat</string>
-    <string name="qm_auto_time_turn_on_title">Čas kdy se aktivuje tichý režim</string>
+    <string name="qm_auto_time_turn_on_title">Čas aktivace tichého režimu</string>
     <string name="qm_notification">"Tichý režim je aktivní"</string>
     <string name="qm_open">Povolit tichý režim</string>
     <string name="qm_repeated_call_setting_title">Neblokovat opakující se hovor</string>
     <string name="qm_repeated_call_summary_3min">Druhý hovor ze stejného čísla během 3 minut nebude ztišen</string>
     <string name="qm_repeated_call_summary_none">Blokovat i opakující se hovory</string>
     <string name="qm_special_call_setting_group">Výjimky</string>
-    <string name="qm_summary">Pokud je povolen Tichý režim, budou všechny notifikace a hovory ztišeny. Kromě VIP seznamu.</string>
+    <string name="qm_summary">Pokud je povolen tichý režim, budou všechny notifikace a hovory kromě VIP seznamu ztišeny.</string>
     <string name="qm_vip_call_button_title">Povolit hovory z VIP</string>
     <string name="qm_vip_call_setting_title">Nastavení VIP hovorů</string>
     <string name="qm_vip_call_summary_contact">Veškeré kontakty</string>
