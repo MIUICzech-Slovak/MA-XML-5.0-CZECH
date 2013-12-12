@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
     <string-array name="backup_dialog_content_type">
-        <item>Wifi připojení</item>
+        <item>Wi-Fi připojení</item>
         <item>Všechny aplikace</item>
     </string-array>
     <string-array name="system_package_label">
@@ -19,11 +19,11 @@
         <item>SMS</item>
         <item>MMS</item>
         <item>Nastavení systému</item>
-        <item>Nastavení Wifi</item>
+        <item>Nastavení Wi-Fi</item>
         <item>Rozložení ploch</item>
         <item>Nastavení upozornění</item>
         <item>Poznámky</item>
-        <item>Režim nerušit</item>
+        <item>Režim Nerušit</item>
         <item>Účet</item>
     </string-array>
     <string-array name="app_type_desc">
