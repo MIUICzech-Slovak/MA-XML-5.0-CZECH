@@ -70,11 +70,11 @@
     <string name="incoming_file_confirm_Notification_caption">Potvrďte přijmutí souboru</string>
     <string name="incoming_file_confirm_Notification_title">Přijímám soubor…</string>
     <string name="incoming_file_confirm_cancel">Odmítnout</string>
-    <string name="incoming_file_confirm_content" formatted="false">"\"%1$s\" se vám pokouší odeslat soubor %2$s (%3$s).
+    <string name="incoming_file_confirm_content" formatted="false">"\"%1$s\" se Vám pokouší odeslat soubor %2$s (%3$s).
     
 Přijmout soubor?"</string>
     <string name="incoming_file_confirm_ok">Přijmout</string>
-    <string name="incoming_file_confirm_timeout_content">Čas vypršel. Požadavek selhal</string>
+    <string name="incoming_file_confirm_timeout_content">Čas vypršel. Požadavek selhal.</string>
     <string name="incoming_file_confirm_timeout_ok">OK</string>
     <string name="incoming_file_confirm_title">Přenos souborů</string>
     <string name="incoming_file_toast_msg">Potvrďte prosím příjem příchozího souboru z jiného zařízení.</string>
@@ -126,7 +126,7 @@ Přijmout soubor?"</string>
     <string name="status_bpp_aborted_by_printer">Tisk byl zrušen tiskárnou</string>
     <string name="status_bpp_canceled_by_user">Tisk byl zrušen uživatelem</string>
     <string name="status_bpp_cancelled_by_printer">Tisk byl zrušen tiskárnou</string>
-    <string name="status_bpp_disconnected">Připojení bluetooth se přerušilo. Tisk selhal</string>
+    <string name="status_bpp_disconnected">Připojení bluetooth se přerušilo. Tisk selhal.</string>
     <string name="status_bpp_door_open">Tisk selhal kvůli otevřenému krytu tiskárny</string>
     <string name="status_bpp_marker_failure">Tisk selhal kvůli selhání náplně</string>
     <string name="status_bpp_marker_supply_empty">Tisk selhal kvůli prázdné náplni</string>
@@ -174,30 +174,30 @@ Přijmout soubor?"</string>
     <string name="upload_succ_line5">Soubor odeslán</string>
     <string name="upload_succ_ok">OK</string>
     <string name="upload_success">%1$s odesláno</string>
-    <string name="permlab_bluetoothMap">Access Bluetooth Message Access Profile content provider.</string>
-    <string name="permdesc_bluetoothMap">Allows the app to access the Bluetooth Message Access Profile content provider and use it send messages to MAP messages to clients.</string>
-    <string name="permlab_fm_receiver">access FM receiver</string>
-    <string name="permdesc_fm_receiver">Allows an application to access the FM receiver functions.</string>
+    <string name="permlab_bluetoothMap">Přistoupit k poskytovateli obsahu Bluetooth Message Access Profile.</string>
+    <string name="permdesc_bluetoothMap">Umožní aplikaci přistupovat k poskytovateli obsahu Bluetooth Message Access Profile a použít jej pro odesílání zpráv MAP klientům.</string>
+    <string name="permlab_fm_receiver">Přistoupit k FM přijímači</string>
+    <string name="permdesc_fm_receiver">Umožní aplikaci přistupovat k funkcím FM přijímače.</string>
     <string name="bt_advanced_settings">Rozšířené možnosti Bluetooth</string>
     <string name="profile_hs_hfp">HS/HFP</string>
     <string name="profile_description_hs_hfp">Headset/Handsfree</string>
     <string name="profile_a2dp">A2DP</string>
-    <string name="profile_description_a2dp">A2DP Profily</string>
+    <string name="profile_description_a2dp">A2DP profily</string>
     <string name="profile_hid">HID Host</string>
-    <string name="profile_description_hid">Human Interface Device (Host) Profile</string>
+    <string name="profile_description_hid">Profil Human Interface Device (Host)</string>
     <string name="profile_hdp">HDP</string>
     <string name="profile_description_hdp">Zařízení pro zdraví</string>
     <string name="profile_pan">PAN</string>
-    <string name="profile_description_pan">Personal Area Network Profile</string>
+    <string name="profile_description_pan">Profil Personal Area Network</string>
     <string name="profile_gatt">GATT</string>
-    <string name="profile_description_gatt">GATT/BLE Profil</string>
+    <string name="profile_description_gatt">Profil GATT/BLE</string>
     <string name="profile_sap">SAP</string>
     <string name="profile_description_sap">Přístup k SIM</string>
     <string name="profile_ftp">FTP</string>
     <string name="profile_description_ftp">Přenos souborů</string>
     <string name="profile_mse">MAP</string>
     <string name="profile_description_mse">Přístup ke zprávám</string>
-    <string name="title_bt_mse_settings">Bluetooth MAP nastavení</string>
+    <string name="title_bt_mse_settings">Nastavení Bluetooth MAP</string>
     <string name="map_provider_smsmms_name">Zprávy</string>
     <string name="map_datasource_sms_name">SMS</string>
     <string name="map_datasource_mms_name">MMS</string>
