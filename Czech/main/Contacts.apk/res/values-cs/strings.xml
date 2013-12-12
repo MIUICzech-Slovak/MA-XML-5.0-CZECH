@@ -192,7 +192,7 @@
     <string name="contactsGroupsLabel">Skupiny</string>
     <string name="contactsJoinedMessage">Kontakty byly spojeny</string>
     <string name="contactsList">Kontakty</string>
-    <string name="contacts_unavailable_add_account">Přihlaste se k existujícímu účtu</string>
+    <string name="contacts_unavailable_add_account">Přihlásit se k existujícímu účtu</string>
     <string name="contacts_unavailable_create_contact">Vytvořit nový kontakt</string>
     <string name="contacts_unavailable_import_contacts">Importovat kontakty ze souboru</string>
     <string name="copy_text">Kopírovat do schránky</string>
