@@ -50,7 +50,7 @@
         <item>Pondělí</item>
     </string-array>
     <string-array name="timezone_labels">
-        <item>Marshallove ostrovy</item>
+        <item>Marshallové ostrovy</item>
         <item>Midwayské ostrovy</item>
         <item>Havaj</item>
         <item>Aljaška</item>
@@ -67,10 +67,10 @@
         <item>Východní čas</item>
         <item>Venezuela</item>
         <item>Atlantický čas</item>
-        <item>Atlantic Time (Canada)</item>
+        <item>Atlantický čas (Kanada)</item>
         <item>Manaus</item>
         <item>Santiago</item>
-        <item>Newfoundland</item>
+        <item>Nový Foundland</item>
         <item>Brazílie</item>
         <item>Buenos Aires</item>
         <item>Grónsko</item>
@@ -81,7 +81,7 @@
         <item>Casablanca</item>
         <item>Londýn, Dublin</item>
         <item>Amsterdam, Berlín</item>
-        <item>Belehrad</item>
+        <item>Bělehrad</item>
         <item>Brusel</item>
         <item>Sarajevo</item>
         <item>Windhoek</item>
