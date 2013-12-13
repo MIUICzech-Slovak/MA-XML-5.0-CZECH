@@ -2,14 +2,14 @@
 <resources>
     <string name="app_name">Povolení</string>
     <string name="Dashboard_App">Aplikace</string>
-    <string name="Dashboard_HIPS_Disable_Content">Vypnutí zastaví sledování požadavků od aplikací. Tím pádem MIUI přestane chránit Vaši bezpečnost a soukromí. Určitě chcete sledování vypnout?</string>
+    <string name="Dashboard_HIPS_Disable_Content">Vypnutí zastaví sledování požadavků od aplikací. Z toho důvodu MIUI přestane chránit Vaši bezpečnost a soukromí. Určitě chcete sledování vypnout?</string>
     <string name="Dashboard_HIPS_Disable_Title">Sledování práv</string>
     <string name="Dashboard_Log">Záznamy</string>
     <string name="Dashboard_Log_Clear_Content">Všechny záznamy budou vymazány. Opravdu chcete pokračovat?</string>
     <string name="Dashboard_Log_Clear_Title">Vymazat záznamy</string>
     <string name="Dashboard_Perm">Práva</string>
     <string name="Dashboard_Perm_AutoStart">Po startu</string>
-    <string name="Dashboard_Perm_AutoStart_Desc">Zap/vyp autom. spouštění aplikací</string>
+    <string name="Dashboard_Perm_AutoStart_Desc">Zap./vyp. autom. spouštění aplikací</string>
     <string name="Dashboard_Perm_AutoStart_Switch">Správce autom. spuštění</string>
     <string name="Dashboard_Perm_Header">Sledování %1$d aplikací</string>
     <string name="Dashboard_Perm_Header_Disabled">Sledování práv je vypnuto</string>
@@ -47,11 +47,11 @@
     <string name="Generic_Service_Disabled">Služba je vypnuta</string>
     <string name="Generic_Service_Enabled">Služba je povolena</string>
     <string name="Generic_Shortcut">Kontextové menu</string>
-    <string name="Generic_ShowSystemApp">Ukázat systémové aplikace</string>
+    <string name="Generic_ShowSystemApp">Zobrazit systémové aplikace</string>
     <string name="Generic_Summary_Disabled">Vypnout</string>
     <string name="Generic_Summary_Enabled">Zapnout</string>
     <string name="Generic_SystemApp">Systémové aplikace (%d)</string>
-    <string name="Generic_SystemApp_Label">[Systémové Aplikace]</string>
+    <string name="Generic_SystemApp_Label">[Systémové aplikace]</string>
     <string name="Generic_TrustedApp">Důvěryhodné aplikace (%1$d)</string>
     <string name="Generic_Update">Aktualizace softwaru</string>
     <string name="Generic_UserApp">Stažené aplikace (%d)</string>
@@ -76,7 +76,7 @@
     <string name="HIPS_Perm_AllowAll">Povolit vše</string>
     <string name="HIPS_Perm_AnswerCall">Přijmout příchozí hovor</string>
     <string name="HIPS_Perm_Call">Telefonní hovor</string>
-    <string name="HIPS_Perm_Call_Desc">Vytočení, přijmutí a zavěšení hovoru</string>
+    <string name="HIPS_Perm_Call_Desc">Vytočení, přijetí a zavěšení hovoru</string>
     <string name="HIPS_Perm_Call_Hint">%1$s aplikace mají povolení k vytočení, přijmutí a zavěšení hovoru</string>
     <string name="HIPS_Perm_Call_Number">Volat %1$s</string>
     <string name="HIPS_Perm_CallLog">Seznam hovorů</string>
