@@ -24,10 +24,10 @@
     <string name="adding_recipients">Přidání příjemce…</string>
     <string name="app_label">Zprávy</string>
     <string name="attach_image">Obrázky</string>
-    <string name="attach_record_sound">Nahrát audio</string>
+    <string name="attach_record_sound">Nahrát zvuk</string>
     <string name="attach_record_video">Nahrát video</string>
     <string name="attach_slideshow">Prezentace</string>
-    <string name="attach_sound">Audio</string>
+    <string name="attach_sound">Zvuk</string>
     <string name="attach_subject">Předmět</string>
     <string name="attach_take_photo">Vyfotit obrázek</string>
     <string name="attach_video">Videa</string>
@@ -85,7 +85,7 @@
     <string name="context_menu_view_contact">Zobrazit kontakt</string>
     <string name="context_menu_view_mms">Zobrazit MMS</string>
     <string name="conversation">Zprávy</string>
-    <string name="conversation_style">bubliny</string>
+    <string name="conversation_style">Bubliny</string>
     <string name="converting_to_picture_message">Převádění na multimediální zprávu...</string>
     <string name="converting_to_text_message">Převádění na textovou zprávu...</string>
     <string name="copy_message_text">Kopírovat text zprávy</string>
@@ -152,8 +152,8 @@
     <string name="group_message">Skupinové zprávy</string>
     <string name="group_message_failed_title">Selhalo odeslání zprávy k %d kontaktům. Zkusit to znovu?</string>
     <string name="group_resend_message">Odesílání (%d)</string>
-    <string name="guild_add_attachments">Klikněte zde pro přidání příloh nebo smajlíků do zprávy</string>
-    <string name="guild_add_recipients">Klikněte zde pro přidání příjemců z adresáře</string>
+    <string name="guild_add_attachments">Klepněte zde pro přidání příloh nebo smajlíků do zprávy</string>
+    <string name="guild_add_recipients">Klepněte zde pro přidání příjemců z adresáře</string>
     <string name="has_invalid_recipient">Neplatní příjemci: %1$s</string>
     <string name="hidden_sender_address">Adresa skrytého odesílatele</string>
     <string name="hint_search_sms">%d SMS</string>
@@ -232,7 +232,7 @@
     <string name="mx_enable_int_popup_msg">Cloud zprávy Vám umožní posílat SMS zprávy zdarma mezi uživateli MIUI. Pro aktivaci se odešle mezinárodní SMS zpráva, která bude zpoplatněna dle ceníku Vašeho operátora.</string>
     <string name="mx_enable_popup_msg">Cloud zprávy Vám umožňují odesílat SMS přes MIUI. Vyžaduje se odeslání běžné SMS pro jejich aktivaci. Chcete pokračovat?</string>	
     <string name="mx_int_warning_notice">Pro aktivací Cloud zpráv se odešle mezinárodní SMS zpráva, která bude zpoplatněná Vašim operátorem</string>
-    <string name="mx_msg">Cloudová Zpráva</string>
+    <string name="mx_msg">Cloudová zpráva</string>
     <string name="mx_offline">Offline</string>
     <string name="mx_online">Online</string>
     <string name="mx_reactivate">Znovu aktivovat Cloudové zprávy</string>
@@ -384,8 +384,8 @@
     <string name="set">Nastavit</string>
     <string name="set_smsc_address_title_miui">Nastavit číslo SMS centra</string>
     <string name="show_all_messages">Zobrazit všechny zprávy</string>
-    <string name="sim_card1">SIM Karta 1</string>
-    <string name="sim_card2">SIM Karta 2</string>
+    <string name="sim_card1">SIM karta 1</string>
+    <string name="sim_card2">SIM karta 2</string>
     <string name="sim_card_cloud">%s (Cloudová zpráva)</string>
     <string name="sim_copy_to_phone_memory">Kopírovat do paměti telefonu</string>
     <string name="sim_delete">Smazat</string>
@@ -440,7 +440,7 @@
     <string name="too_many_unsent_mms">Nelze odeslat zprávu hned. Existuje příliš mnoho neodeslaných MMS zpráv.</string>
     <string name="try_to_send">Pokusit se odeslat</string>
     <string name="type_attachment">příloha</string>
-    <string name="type_audio">audio</string>
+    <string name="type_audio">zvuk</string>
     <string name="type_picture">obrázek</string>
     <string name="type_to_compose_text_enter_to_send">Sem pište zprávu</string>
     <string name="type_to_compose_text_or_leave_blank">Zadejte text nebo nechte prázdné</string>
