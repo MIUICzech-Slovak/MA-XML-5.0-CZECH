@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="account_abnormal_state">Chyba v informaci o účtě, zkuste se znovu přihlásit.</string>
+    <string name="account_abnormal_state">Chyba v informaci o účtu, zkuste se znovu přihlásit.</string>
     <string name="activity_not_found">Aplikace není v telefonu nainstalovaná.</string>
     <string name="all_resources">Vše</string>
     <string name="application_name">MIUI Launcher</string>
@@ -69,7 +69,7 @@
     <string name="gadget_photo_44_label">Fotorámeček 4x4</string>
     <string name="gadget_weather_app_not_installed">Prosím nainstalujte Weather BZ</string>
     <string name="gadget_weather_aqi_title">Kvalita ovzduší</string>
-    <string name="gadget_weather_download_message">Vyžaduje se stáhnutí tématu: %1$s. velikost: %2$s. Prosím, po dokončení stahování zvolte znovu.</string>
+    <string name="gadget_weather_download_message">Vyžaduje se stáhnutí tématu: %1$s, velikost: %2$s. Prosím, po dokončení stahování zvolte znovu.</string>
     <string name="gadget_weather_download_start">Start</string>
     <string name="gadget_weather_download_title">Stáhnout</string>
     <string name="gadget_weather_downloading">Téma se stahuje. Po dokončení jej opět vyberte.</string>
@@ -83,7 +83,7 @@
     <string name="group_folder">Nová složka</string>
     <string name="group_live_folders">Složky</string>
     <string name="group_shortcuts">Zkratky</string>
-    <string name="guide_install_app_msg">Aplikace není nainstalovaná. Chcete ji najít v obchodě Google?</string>
+    <string name="guide_install_app_msg">Aplikace není nainstalovaná. Chcete ji najít v Google Play?</string>
     <string name="guide_install_app_title">Instalovat aplikaci</string>
     <string name="guide_tips_editing_mode">Podržte prst na widgetu pro jeho přetažení na obrazovku</string>
     <string name="install">Instalovat</string>
@@ -182,8 +182,8 @@
     <string name="resource_title_select_ringtone">Vybrat zvonění</string>
     <string name="resource_update">Aktualizovat</string>
     <string name="resource_waiting_download">Čeká na stáhnutí...</string>
-    <string name="screen_button_disabled_message">Tlačítka pod displejem jsou deaktivované. Můžete je aktivovat stiskem \"Domů\" a \"Zapnutí\"</string>
-    <string name="screen_button_enabled_message">Tlačítka pod displejem jsou aktivované</string>
+    <string name="screen_button_disabled_message">Tlačítka pod displejem jsou deaktivována. Můžete je aktivovat stiskem \"Domů\" a \"Zapnutí\"</string>
+    <string name="screen_button_enabled_message">Tlačítka pod displejem jsou aktivována</string>
     <string name="screen_rotation_freeze_message">Rotace obrazovky je uzamknuta v horizontální poloze</string>
     <string name="scroll_tip_format_when_announce_accessibility">Strana %1$d, %2$d aplikací</string>
     <string name="sdcard_status_changed_dialog_message">"Aplikace se ukončí.
@@ -224,12 +224,12 @@ Prosím otevřete tuto aplikaci znovu pro obnovení zdrojů."</string>
     <string name="status_bar_toggle_shutdown">Vypnout</string>	
     <string name="status_bar_toggle_sync">Synchro.</string>	
     <string name="status_bar_toggle_sync_auto">Auto Synchr.</string>
-    <string name="status_bar_toggle_sync_manual">Manuální Synchr.</string>
+    <string name="status_bar_toggle_sync_manual">Manuální synchr.</string>
     <string name="status_bar_toggle_syncing">Synchronizuji...</string>
     <string name="status_bar_toggle_torch">Svítidlo</string>	
     <string name="status_bar_toggle_vibrate">Vibrace</string>	
-    <string name="status_bar_toggle_wifi">Wifi</string>
-    <string name="status_bar_toggle_wifi_ap">Hot-spot</string>
+    <string name="status_bar_toggle_wifi">Wi-Fi</string>
+    <string name="status_bar_toggle_wifi_ap">Hotspot</string>
     <string name="title_select_live_folder">Vybrat složku</string>
     <string name="title_select_shortcut">Vybrat zástupce</string>
     <string name="toggle_select_title">Zvolit přepínač</string>
@@ -248,7 +248,7 @@ Prosím otevřete tuto aplikaci znovu pro obnovení zdrojů."</string>
     <string name="uninstall_dialog_message">Odebrat aplikaci</string>
     <string name="uninstall_dialog_title_format">Odebrat \"%s\"</string>
     <string name="unknown_artist_name">Neznámý interpret</string>
-    <string name="unnamed_folder_name">Beze jména</string>
+    <string name="unnamed_folder_name">Bez názvu</string>
     <string name="wallpaper_scrolling">Vše</string>
     <string name="widget_favorite_contacts_edit">Editor</string>
     <string name="widget_favorite_contacts_label">Oblíbené</string>
