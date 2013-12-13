@@ -35,8 +35,8 @@
 
 Stáhnutí tohoto souboru může výrazně zvýšit poplatky za mobilní internet"</string>
     <string name="wifi_recommended_title">Zařadit do fronty pro pozdější stažení?</string>
-    <string name="wifi_required_body" formatted="false">"K dokončení tohoto stahování o velikosti %s  je třeba připojení Wi-Fi.
+    <string name="wifi_required_body" formatted="false">"K dokončení tohoto stahování o velikosti %s je třeba připojení Wi-Fi.
     
-Chcete-li stahování spustit při příštím připojení k síti Wi-Fi, dotkněte se možnosti %s ."</string>
+Chcete-li stahování spustit při příštím připojení k síti Wi-Fi, dotkněte se možnosti %s."</string>
     <string name="wifi_required_title">Stahovaný soubor je pro síť operátora příliš velký</string>
 </resources>
