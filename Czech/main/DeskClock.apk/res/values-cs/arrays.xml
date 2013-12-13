@@ -41,8 +41,8 @@
 	  <string-array name="alarm_repeat_type">
         <item>Jednou</item>
         <item>Každý den</item>
-        <item>Pracovní dny (v Číně)</item>
-        <item>Pondělí až Pátek</item>
+        <item>Prac. dny (v Číně)</item>
+        <item>Pondělí až pátek</item>
         <item>Vlastní</item>
     </string-array>
     <string-array name="snooze_duration_entries">
@@ -67,7 +67,7 @@
     <string-array name="alarm_repeat_type_no_workdays">
         <item>Pouze jednou</item>
         <item>Každý den</item>
-        <item>Pondělí až Pátek</item>
+        <item>Pondělí až pátek</item>
         <item>Vlastní</item>
     </string-array>
 </resources>
