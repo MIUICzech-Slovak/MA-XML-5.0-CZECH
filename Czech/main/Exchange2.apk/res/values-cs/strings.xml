@@ -7,7 +7,7 @@
     <string name="account_setup_options_mail_window_3days">Tři dny</string>
     <string name="account_setup_options_mail_window_all">Všechny</string>
     <string name="account_setup_options_mail_window_auto">Automaticky</string>
-    <string name="app_name">Exchange Services</string>
+    <string name="app_name">Služby Exchange</string>
     <string name="exception_cancel">Tato událost byla zrušená pro termín: %s</string>
     <string name="exception_updated">Došlo ke změně podrobnosti této události pro termín: %s</string>
     <string name="exchange_name_alternate">Microsoft Exchange ActiveSync</string>
