@@ -68,7 +68,7 @@
     <string name="camera_key_action_shortcut_screenshot">Vytvořit snímek</string>
     <string name="camera_key_action_shortcut_search">Vyhledat</string>
     <string name="camera_key_action_shortcut_title">Zástupci</string>
-    <string name="camera_key_action_shortcut_wake">Zamknout/probudit zařízení</string>
+    <string name="camera_key_action_shortcut_wake">Zamknout/Probudit zařízení</string>
     <string name="camera_key_action_toggle_title">Vyvolat přepínače</string>
     <string name="center_clock_title">Hodiny uprostřed</string>
     <string name="chooseUsbActivity">Vyberte aplikaci pro USB zařízení</string>
@@ -78,7 +78,7 @@
     <string name="compat_mode_on">Zvětšit pro vyplnění obrazovky</string>
     <string name="cust_carrier_label_title">Změnit název operátora</string>
     <string name="cust_carrier_label_text_title">Přizpůsobit název operátora</string>
-    <string name="data_usage_disabled_dialog">"Byl dosažen datový limit. Další použití datového připojení se může projevit na výši vašeho vyúčtování."</string>
+    <string name="data_usage_disabled_dialog">"Byl dosažen datový limit. Další použití datového připojení se může projevit na výši Vašeho vyúčtování."</string>
     <string name="data_usage_disabled_dialog_3g_title">2G-3G data vypnuta</string>
     <string name="data_usage_disabled_dialog_4g_title">4G data vypnuta</string>
     <string name="data_usage_disabled_dialog_enable">Znovu povolit data</string>
@@ -202,7 +202,7 @@ d.MMMM yyyy"</string>
     <string name="status_bar_network_flow_today">Dnes: %1$s</string>
     <string name="status_bar_network_name_separator">"\n"</string>
     <string name="status_bar_no_recent_apps">Žádné nové aplikace</string>
-    <string name="status_bar_notification_inspect_item_title">App info</string>
+    <string name="status_bar_notification_inspect_item_title">Informace o aplikaci</string>
     <string name="status_bar_recent_guide_all">Přetažením nahoru ukončíte, přetažením dolů uzamknete</string>
     <string name="status_bar_recent_guide_bottom">Přetažením dolů uzamknete</string>
     <string name="status_bar_recent_guide_top">Přetažením nahoru ukončíte</string>	
@@ -248,7 +248,7 @@ d.MMMM yyyy"</string>
     <string name="status_bar_toggle_shutdown">Vypnout</string>
     <string name="status_bar_toggle_sync">Synchro.</string>
     <string name="status_bar_toggle_sync_auto">Auto Synchr.</string>
-    <string name="status_bar_toggle_sync_manual">Manuální Synchr.</string>   
+    <string name="status_bar_toggle_sync_manual">Manuální synchr.</string>   
     <string name="status_bar_toggle_syncing">Synchronizuji...</string>  
     <string name="status_bar_toggle_torch">Svítilna</string>
     <string name="status_bar_toggle_vibrate">Vibrace</string> 
@@ -281,7 +281,7 @@ d.MMMM yyyy"</string>
     <string name="usb_notification_ptp_ticker_text">USB Připojeno (PTP)</string>
     <string name="usb_ptp_text">Fotky</string>
     <string name="usb_share_net_info">Použít internet z PC</string>
-    <string name="usb_storage_error_message">Vyskytl se problém při použití USB úložiště jako USB mass storage.</string>
+    <string name="usb_storage_error_message">Vyskytl se problém při použití USB úložiště jako USB Mass Storage.</string>
     <string name="usb_storage_message">Jste připojeni k počítači přes USB. Stiskněte tlačítko níže, pokud chcete kopírovat soubory mezi počítačem a Android USB úložištěm.</string>
     <string name="usb_storage_notification_message">Vyberte soubory pro zkopírování do/z vašeho počítače.</string>
     <string name="usb_storage_notification_title">USB připojeno</string>
@@ -292,5 +292,5 @@ d.MMMM yyyy"</string>
     <string name="usb_storage_title">USB připojeno</string>
     <string name="user_guide_for_notification">Nová notifikace, stáhněte lištu pro detail</string>
     <string name="user_guide_for_toggle">Seznam přepínačů lze posouvat horizontálně</string>
-    <string name="user_guide_for_toggle_list">Klikněte zde pro přizpůsobení seznamu přepínačů</string>
+    <string name="user_guide_for_toggle_list">Klepněte zde pro přizpůsobení seznamu přepínačů</string>
 </resources>
