@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="account">Účet</string>
-    <string name="account_delete_dlg_instructions_fmt">Účet \"%s\" bude z aplikace Email odebrán. Pokračovat?</string>
+    <string name="account_delete_dlg_instructions_fmt">Účet \"%s\" bude z aplikace E-mail odebrán. Pokračovat?</string>
     <string name="account_delete_dlg_title">Odebrat účet</string>
     <string name="account_duplicate_dlg_message_fmt">"Toto uživatelské jméno již používáte pro účet \"%s\"."</string>
     <string name="account_duplicate_dlg_title">Duplicitní účet</string>
@@ -66,7 +66,7 @@
     <string name="account_setup_account_type_pop_action">POP3</string>
     <string name="account_setup_account_type_title">Nastavení účtu</string>
     <string name="account_setup_basic_description_label">Název účtu (volitelné)</string>
-    <string name="account_setup_basic_label">Vložte prosím informace pro %s email:</string>
+    <string name="account_setup_basic_label">Vložte prosím informace pro e-mail %s:</string>
     <string name="account_setup_basic_name_label">Vaše jméno (volitelné)</string>
     <string name="account_setup_basics_default_label">Ve výchozím nastavení odesílat e-maily z tohoto účtu.</string>
     <string name="account_setup_basics_email_label">E-mailová adresa</string>
@@ -130,8 +130,8 @@
     <string name="account_setup_incoming_security_tls_trust_certificates_label">STARTTLS (Přijímat všechny certifikáty)</string>
     <string name="account_setup_incoming_title">Nastavení účtu</string>
     <string name="account_setup_incoming_username_label">Uživatelské jméno</string>
-    <string name="account_setup_index_label">Zvolte emailový účet který chcete přidat:</string>
-    <string name="account_setup_index_other_mails">Jiný email</string>
+    <string name="account_setup_index_label">Zvolte e-mailový účet který chcete přidat:</string>
+    <string name="account_setup_index_other_mails">Jiný e-mail</string>
     <string name="account_setup_index_title">Nastavení účtu</string>
     <string name="account_setup_names_account_name_label">Pojmenovat tento účet (nepovinné)</string>
     <string name="account_setup_names_headline">Váš účet je nastaven, e-mail je na cestě!</string>
@@ -194,7 +194,7 @@
     <string name="attachment_info_dialog_default_title">Informace o příloze</string>
     <string name="attachment_info_dialog_wifi_title">Je požadováno připojení Wi-Fi</string>
     <string name="attachment_info_malware">Tento soubor nemůžete uložit ani otevřít, protože tento typ přílohy může obsahovat škodlivý software.</string>
-    <string name="attachment_info_no_intent">Nemáte nainstalovanou žádnou aplikaci, která by dokázala tuto přílohu otevřít. Zkuste příslušnou aplikaci stáhnout ze služby Android Market.</string>
+    <string name="attachment_info_no_intent">Nemáte nainstalovanou žádnou aplikaci, která by dokázala tuto přílohu otevřít. Zkuste příslušnou aplikaci stáhnout ze služby Google Play.</string>
     <string name="attachment_info_policy">Tuto přílohu nelze uložit ani otevřít kvůli pravidlům zabezpečení účtu.</string>
     <string name="attachment_info_sideload_disabled">Tato příloha je aplikace. Chcete-li ji nainstalovat, zaškrtněte nejdříve v části Nastavení > Aplikace možnost Neznámé zdroje.</string>
     <string name="attachment_info_unknown">Přílohu nelze otevřít.</string>
@@ -236,7 +236,7 @@
     <string name="debug_disable_graphics_acceleration_label">Zakázat HW akceleraci UI</string>
     <string name="debug_enable_debug_logging_label">Zapnout debug log?</string>
     <string name="debug_enable_exchange_file_logging_label">Zapnout logování Exchange z SD karty?</string>
-    <string name="debug_enable_exchange_logging_label">Enable exchange parser logging? (Extremely verbose)</string>
+    <string name="debug_enable_exchange_logging_label">Povolit logování parseru Exchange? (extrémně detailní)</string>
     <string name="debug_enable_strict_mode_label">Povolit v omezeném režimu (s logováním)</string>
     <string name="debug_force_one_minute_refresh_label">Vynutit 1-minutovou aktualizaci pro POP / IMAP</string>
     <string name="debug_title">Ladění</string>
@@ -438,7 +438,7 @@ Kopie: %4$s
     <string name="password_expired_dialog_content_fmt">Ze zařízení jsou mazána data účtu %s. Data můžete obnovit změnou kódu PIN nebo hesla pro uzamčení obrazovky.</string>
     <string name="password_expired_dialog_title">Platnost hesla zámku obrazovky vypršela</string>
     <string name="password_expired_ticker">Platnost kódu PIN nebo hesla pro uzamčení obrazovky vypršela.</string>
-    <string name="pause_state_low_battery">pozastaveno – slabá baterie</string>
+    <string name="pause_state_low_battery">pozastaveno – vybitá baterie</string>
     <string name="pause_state_manually_paused">ručně pozastaveno</string>
     <string name="pause_state_need_connectivity">pozastaveno – čekání na připojení</string>
     <string name="pause_state_need_charger">pozastaveno – odloženo až do nabití</string>
