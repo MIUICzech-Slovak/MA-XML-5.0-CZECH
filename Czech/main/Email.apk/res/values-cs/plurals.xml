@@ -10,8 +10,8 @@
         <item quantity="few">Nepřečtené zprávy: %1$d (%2$s)</item>
     </plurals>
     <plurals name="notification_new_multi_account_fmt">
-        <item quantity="other">v(e) %d účtech</item>
-        <item quantity="few">v(e) %d účtech</item>
+        <item quantity="other">v %d účtech</item>
+        <item quantity="few">v %d účtech</item>
     </plurals>
     <plurals name="number_of_accounts">
         <item quantity="other">Počet účtů: %1$d</item>
@@ -42,8 +42,8 @@
         <item quantity="one">%1$d zpráva byla přesunuta do schránky %2$s</item>
     </plurals>
     <plurals name="message_view_attachment_bytes">
-        <item quantity="other">%d B</item>
-        <item quantity="one">%d B</item>
+        <item quantity="other">%d bajtů</item>
+        <item quantity="one">%d bajtů</item>
     </plurals>
     <plurals name="message_view_attachment_kilobytes">
         <item quantity="other">%d kB</item>
