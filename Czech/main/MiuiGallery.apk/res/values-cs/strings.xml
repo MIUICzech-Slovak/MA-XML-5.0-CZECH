@@ -20,7 +20,7 @@
   <string name="add_to_cloud_space_full_message">Cloud album je plné.</string>
   <string name="add_to_cloud_successfully_message">Přidáno do cloudu.</string>
   <string name="add_to_cloud_type_not_support_message">Typ souboru není podporován.</string>
-  <string name="add_to_cloud_unknow_reasons">Neznáma chyba</string>
+  <string name="add_to_cloud_unknow_reasons">Neznámá chyba</string>
   <string name="adding_recipients">Přidávání příjemců...</string>
   <string name="album_member">Osoby %s</string>
   <string name="album_name">Název alba</string>
@@ -32,14 +32,14 @@
   <string name="album_share_subtitle_denying">Odmítání pozvání od %1$s...</string>
   <string name="album_share_subtitle_invited">Sdílení %1$s, Přijmout/Odmítnout?</string>
   <string name="album_share_subtitle_normal">Sdílené %1$s</string>
-  <string name="album_share_subtitle_not_ready">Informace o albu nejsou dostupné. Stiskněte pro jejich stáhnutí.</string>
+  <string name="album_share_subtitle_not_ready">Informace o albu nejsou dostupné. Klepněte pro jejich stáhnutí.</string>
   <string name="album_share_subtitle_quitting">Zrušení pozvání od %1$s...</string>
   <string name="album_share_subtitle_requesting">Stahování informací o albu...</string>
   <string name="album_share_title_new_album">Nové sdílené album</string>
   <string name="albums">Alb</string>
   <string name="albumset_page_title_separator"> | </string>
   <string name="alert">Oznámení</string>
-  <string name="alert_message_initial_cloud">Systém automaticky odešle Vaše staré a nové fotografie jen pokud jste připojení na síť Wifi.</string>
+  <string name="alert_message_initial_cloud">Systém automaticky odešle Vaše staré a nové fotografie jen pokud jste připojení na síť Wi-Fi.</string>
   <string name="alert_message_open_sync">Vyžaduje se synchronizace, přejete si synchronizovat nyní?</string>
   <string name="already_apply_album">Otevřít %1$s?</string>
   <string name="android_tencent_tencent_weibo">Tencent Weibo</string>
@@ -51,7 +51,7 @@
   <string name="appwidget_title">Fotogalerie</string>
   <string name="auto">Auto</string>
   <string name="auto_create_recent_album">Auto. tvorba alb</string>
-  <string name="auto_create_recent_album_confirm">Po vypnutí této funkce, vymaže galerie údaje oblíbených alb. Oblíbená alba nastavené uživatelem to neovlivní. Alternativně to můžete nastavit dlouhým klikem na album.</string>
+  <string name="auto_create_recent_album_confirm">Po vypnutí této funkce, vymaže galerie údaje oblíbených alb. Oblíbená alba nastavené uživatelem to neovlivní. Alternativně to můžete nastavit dlouhým stiskem na album.</string>
   <string name="auto_create_recent_album_over_ten_times">Automatické vytvoření oblíbeného alba, pokud je album otevřeno více jak 10 krát</string>
   <string name="autofix">Auto-fix</string>
   <string name="autohomemain">Autohomemain</string>
@@ -114,12 +114,12 @@ společně!"</string>
   <string name="cloudfolder_name_reserved">Tento název složky už nelze použít.</string>
   <string name="comfirm_delete_current_album">Vymazat toto album?</string>
   <string name="confirm">OK</string>
-  <string name="confirm_delete">Opravdu chcete položky(%s) vymazat?</string>
-  <string formatted="false" name="confirm_delete_album">Opravdu chcete vymazat alba(%s) včetně obsažených položek(%s)?</string>
-  <string name="confirm_delete_cloud_all_item_page" formatted="false">Obrázky: %s, Alba: %s. Opravdu chcete vymazat?</string>
-  <string name="confirm_delete_pictures">obrázky(%s)</string>
+  <string name="confirm_delete">Opravdu chcete položky (%s) vymazat?</string>
+  <string formatted="false" name="confirm_delete_album">Opravdu chcete vymazat alba (%s) včetně obsažených položek(%s)?</string>
+  <string name="confirm_delete_cloud_all_item_page" formatted="false">Obrázky: %s, alba: %s. Opravdu chcete vymazat?</string>
+  <string name="confirm_delete_pictures">obrázky (%s)</string>
   <string name="confirm_delete_system_album">%s je systémové album, opravdu vymazat?</string>
-  <string name="confirm_delete_videos">videa(%s)</string>
+  <string name="confirm_delete_videos">videa (%s)</string>
   <string name="contact_photo">Obrázek kontaktu</string>
   <string name="context_menu_add_contact">Přidat do kontaktů</string>
   <string name="context_menu_copy">Kopírovat</string>
@@ -161,10 +161,10 @@ společně!"</string>
   <string name="duration">Trvání</string>
   <string name="edit">Upravit</string>
   <string name="edited_photo_bucket_name">Upraveno</string>
-  <string name="email_picker_title">Přidat sdílený E-mail</string>
+  <string name="email_picker_title">Přidat sdílený e-mail</string>
   <string name="empty_album">Žádné obrázky/videa.</string>
   <string name="enable_cloud_for_sharing">Je nutné povolit cloudové album pro zobrazení sdílených fotografií.</string>
-  <string name="enter_email_hint">"Zadejte E-mail "</string>
+  <string name="enter_email_hint">"Zadejte e-mail "</string>
   <string name="error_album_not_exist">"Album neexistuje."</string>
   <string name="error_cloud_not_active">Cloud album se nepoužívá</string>
   <string name="error_invalid_link">Tento odkaz je neplatný. Požádejte vlastníka o vytvoření nového odkazu.</string>
@@ -219,9 +219,9 @@ společně!"</string>
   <string name="height">Výška</string>
   <string name="highlight">Jas</string>
   <string name="home_my_captured_items">" snímků"</string>
-  <string name="how_many_pics">%d\u0020Snímků</string>
-  <string name="how_many_sub_folders">%d\u0020Složek</string>
-  <string name="how_many_videos">%d\u0020Videí</string>
+  <string name="how_many_pics">%d\u0020obrázků</string>
+  <string name="how_many_sub_folders">%d\u0020složek</string>
+  <string name="how_many_videos">%d\u0020videí</string>
   <string name="image_quota_fulfiled">"Nelze vytvořit obrázek, Počet obrázků přesáhnul limit."</string>
   <string name="immomo_camera">Immomo</string>
   <string name="import_complete">Import kompletní</string>
@@ -261,7 +261,7 @@ společně!"</string>
   <string name="menu_item_sort_visit_asc">Vzestupně podle frekventovanosti</string>
   <string name="menu_item_sort_visit_desc">Sestupně podle frekventovanosti</string>
   <string name="menu_view_contact">Zobrazit kontakt</string>
-  <string name="message_no_delete_access">Přístup zamítnutý. Není možno odstranit soubor nebo adresář: %s</string>
+  <string name="message_no_delete_access">Přístup zamítnut. Není možné odstranit soubor nebo adresář: %s</string>
   <string name="message_no_delete_access_with_count">Nelze vymazat soubory/složky(%d). Možná neexistují, nebo nemáte oprávnění.</string>
   <string name="messagelist_sender_self">Já</string>
   <string name="miliao_folder_display_name">MiTalk</string>
@@ -338,7 +338,7 @@ společně!"</string>
   <string name="publish_failed">Zveřejnění selhalo.</string>
   <string name="publish_succeeded">Album zveřejněno</string>
   <string name="publishing">Zveřejňování...</string>
-  <string name="qqbrowser_img">QQ Browser</string>
+  <string name="qqbrowser_img">Prohlížeč QQ</string>
   <string name="qsbk_save">QSBK</string>
   <string name="recipient_editor_count_format">%d</string>
   <string name="redeye">Červené oči</string>
@@ -364,7 +364,7 @@ společně!"</string>
   <string name="saving_failure">Snímek nemůže být uložen</string>
   <string name="saving_image">Ukládám obrázek...</string>
   <string name="scan_barcode">Skenovat</string>
-  <string name="scan_barcode_guide">Pro zobrazení QR kódu stiskněte tlačítko sdílet v pravém horním rohu.</string>
+  <string name="scan_barcode_guide">Pro zobrazení QR kódu stiskněte tlačítko Sdílet v pravém horním rohu.</string>
   <string name="scan_barcode_to_join">Načíst QR kód pro vstup do alba.</string>
   <string name="scan_qr_code">Povolit ostatním skenovat QR kód pro zobrazení tohoto alba</string>
   <string name="scan_qr_code_buttom_text">QR kód pro zobrazení tohoto alba.</string>
@@ -473,7 +473,7 @@ společně!"</string>
   <string name="try_to_send">Pokusit se odeslat</string>
   <string name="turn_left">Otočit doleva</string>
   <string name="turn_right">Otočit doprava</string>
-  <string name="ucdownloads_screenshot">UC Prohlížeč</string>
+  <string name="ucdownloads_screenshot">Prohlížeč UC</string>
   <string name="unit_mm">mm</string>
   <string name="unpublish_failed">Odstranění z veřejných alb selhalo.</string>
   <string name="unpublish_succeeded">Album není zveřejněno.</string>
@@ -504,5 +504,5 @@ společně!"</string>
   <string name="download_fail_confirm_continue">Stahování %s selhalo. Pokračovat?</string>
   <string name="make_download_dir_fail">Vytvoření složky pro soubory selhalo</string>
   <string name="delete_smb_file_fail">Vymazání smb souboru selhalo</string>
-  <string name="new_device_tips">Nalezeno nové zařízení. Stiskněte pro jeho zobrazení</string>
+  <string name="new_device_tips">Nalezeno nové zařízení. Stiskněte pro jeho zobrazení.</string>
 </resources>
