@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="confirm_delete_conversation">
-        <item quantity="other">Opravdu chcete smazat vybrané konverzace(%1$s)?</item>
+        <item quantity="other">Opravdu chcete smazat vybrané konverzace (%1$s)?</item>
         <item quantity="one">Opravdu chcete smazat tuto konverzaci?</item>
     </plurals>
     <plurals name="slide_duration">
