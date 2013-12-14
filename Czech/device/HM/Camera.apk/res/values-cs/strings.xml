@@ -117,7 +117,7 @@
     <string name="hand_night_exit_button_text">Ukončit noční režim</string>
     <string name="hdr_exit_button_text">Ukončit HDR</string>
     <string name="height">Výška</string>
-    <string name="image_file_name_format">"'OBR'_yyyyMMdd_HHmmss"</string>
+    <string name="image_file_name_format">"'IMG'_yyyyMMdd_HHmmss"</string>
     <string name="import_complete">Import dokončený</string>
     <string name="import_contact">Import kontaktu</string>
     <string name="import_fail">Import selhal!</string>
