@@ -15,8 +15,8 @@
     <string name="auto_reject_title_video">Video hovory</string>
     <string name="auto_reject_title_voice">Hlasové hovory</string>
     <string name="buttonTxtContinue">Pokračovat</string>
-    <string name="callDurationFormat">%1$smin %2$ss</string>
-    <string name="callFailed_cdma_notEmergency">Pouze nouzové hovory.</string>
+    <string name="callDurationFormat">%1$s min., %2$s sek.</string>
+    <string name="callFailed_cdma_notEmergency">Pouze tísňové hovory.</string>
     <string name="callFailed_cdma_reorder">CDMA: reorder.</string>
     <string name="callFailed_dsac_vt_bear_not_authorized">Videohovor nelze uskutečnit, protože není na této SIM kartě aktivován. Chcete uskutečnit hlasový hovor?</string>
     <string name="callFailed_dsac_vt_bearer_not_avail">Videohovor nelze uskutečnit. Chcete uskutečnit hlasový hovor?</string>
