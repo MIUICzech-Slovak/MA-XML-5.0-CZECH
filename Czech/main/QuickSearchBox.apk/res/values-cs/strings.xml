@@ -39,5 +39,5 @@
   <string name="system_search_category_title">Telefon</string>
   <string name="voice_search_hint_quotation_end">\"</string>
   <string name="voice_search_hint_quotation_start">\"</string>
-  <string name="voice_search_hint_title">Zkus mluvit:</string>
+  <string name="voice_search_hint_title">Zkuste mluvit:</string>
 </resources>

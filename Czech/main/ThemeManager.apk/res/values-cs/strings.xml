@@ -9,7 +9,7 @@
     <string name="apply_font_btn_exclude">Neměnit písmo</string>	
     <string name="apply_font_btn_reboot">Restartovat</string>	
     <string name="apply_font_tip">Téma obsahuje nové písmo. Pro aplikování je nutné restartovat telefon.</string>	
-    <string name="apply_lockscreen_paper_tips">Uzamčená obrazovka nepodporuje změnu tapety.</string>	
+    <string name="apply_lockscreen_paper_tips">Uzamknutá obrazovka nepodporuje změnu tapety.</string>	
     <string name="apply_theme_no_select_message">Vyberte komponenty.</string>	
     <string name="apply_theme_with_ringtones">Použít téma se zvoněním</string>	
     <string name="backup_preference_title">Zálohovat aktuální téma</string>	
@@ -18,7 +18,7 @@
     <string name="backup_theme_name">Moje zálohy</string>	
     <string name="backup_theme_progress_message">Probíhá zálohování, vyčkejte prosím...</string>	
     <string name="backup_theme_success_message">Téma úspěšně zálohováno</string>
-    <string name="basic_info">Informácie</string>
+    <string name="basic_info">Informace</string>
     <string name="change_wallpaper">Změna tapety</string>
     <string name="close">Zavřít</string>	
     <string name="component_category_finest_title">VŠEOBECNÉ</string>	
@@ -36,7 +36,7 @@
     <string name="description_summary">Popis</string>
     <string name="description_uploadtime">Aktualizace</string>
     <string name="description_version">Verze</string>	
-    <string name="description_version_szie">Verze: %1$s Velikost: %2$s</string>
+    <string name="description_version_szie">Verze: %1$s, velikost %2$s</string>
     <string name="desktop_wallpaper">Tapeta plochy</string>
     <string name="download_failed">Stahování selhalo</string>
     <string name="download_preview_failed">Načítání náhledu selhalo</string>
@@ -59,7 +59,7 @@
     <string name="resource_account_current">Účet: %1$s</string>
     <string name="resource_account_fail_to_add">Přidávání účtu selhalo.</string>
     <string name="resource_account_login">Přihlásit</string>
-    <string name="resource_account_login_before_action">Musíte se nejprve přihlásit Vašim Xiaomi účtem.</string>
+    <string name="resource_account_login_before_action">Musíte se nejprve přihlásit Vaším Xiaomi účtem.</string>
     <string name="resource_account_login_title">Přihlásit</string>
     <string name="resource_account_switch">Přepnout</string>
     <string name="resource_alarm_default">Budík</string>
@@ -101,10 +101,10 @@
     <string name="resource_comment_upload_data_invalid">Chybný komentář.</string>	
     <string name="resource_comment_upload_failed">Odesílání komentáře selhalo.</string>	
     <string name="resource_comment_upload_hint">Váš komentář se zobrazí až po schválení.</string>	
-    <string name="resource_comment_upload_not_bought">Nejdříve musíte téma použít, když chcete přidat komentář.</string>	
+    <string name="resource_comment_upload_not_bought">Nejdříve musíte téma použít, pokud chcete přidat komentář.</string>	
     <string name="resource_comment_upload_not_logined">Musíte se nejprve přihlásit</string>	
-    <string name="resource_comment_upload_success">Komentář je odeslaný! Zobrazí se až po jeho schválení.</string>	
-    <string name="resource_comment_version_name">(%1$s verze)</string>	
+    <string name="resource_comment_upload_success">Komentář je odeslán! Zobrazí se až po jeho schválení.</string>	
+    <string name="resource_comment_version_name">(Verze %1$s)</string>	
     <string name="resource_default">Výchozí zvonění</string>	
     <string name="resource_default_name">Zdroj</string>	
     <string name="resource_delete_all">Vymazat (%1$d)?</string>	
@@ -131,7 +131,7 @@
     <string name="resource_exchange_has_expired">Platnost zadaného kódu vypršela.</string>
     <string name="resource_exchange_has_used">Zadaný kód již byl jednou použit.</string>	
     <string name="resource_exchange_hint">Zadejte kód</string>
-    <string name="resource_exchange_purchase_unkown_error">Nastala neznáma chyba. Přihlaste se na http://market.xiaomi.com pro kontrolu stavu platby.</string>
+    <string name="resource_exchange_purchase_unkown_error">Nastala neznámá chyba. Přihlaste se na http://market.xiaomi.com pro kontrolu stavu platby.</string>
     <string name="resource_exchange_share_code_content">Obdrželi jste kód pro téma %1$s. Kód je: %2$s. Stiskněte %3$s pro jeho použití.</string>	
     <string name="resource_exchange_share_code_dlg_content">Kód pro nákup téma %1$s je: %2$s. Pokud ho odešlete jinému uživateli MIUI, může ho použít pro stáhnutí tohoto tématu.</string>	
     <string name="resource_exchange_share_code_dlg_title">Odesílání</string>	
@@ -182,7 +182,7 @@
 	  <string name="resource_selected">Nejlepší</string>
     <string name="resource_send">Odeslat</string>
     <string name="resource_server_alert_dialog_title">Server je momentálně nedostupný</string>
-    <string name="resource_server_out_of_service">Promiňte ale náš server je momentálně nedostupný. Zkuste to později.</string>
+    <string name="resource_server_out_of_service">Promiňte, ale náš server je momentálně nedostupný. Zkuste to později.</string>
     <string name="resource_share_subject">Sdílím téma: %1$s</string>
     <string name="resource_share_text">Zde je téma pro MIUI, které se Ti může líbit: %1$s! Adresa: %2$s</string>
     <string name="resource_share_title">Sdílet</string>
@@ -191,18 +191,16 @@
     <string name="resource_tip_select_ringtone">Nic nebylo vybráno</string>
     <string name="resource_title">Podrobnosti</string>
     <string name="resource_title_select_ringtone">Zvolit zvonění</string>
-    <string name="resource_unable_to_access">"Promiňte 
-ale obsah který hledáte není dostupný ve Vaší zemi."</string>
+    <string name="resource_unable_to_access">"Promiňte, ale obsah který hledáte, není dostupný ve Vaší zemi."</string>
     <string name="resource_unknow_error">Neznámá chyba.</string>
     <string name="resource_update">Aktualizovat</string>
     <string name="resource_user_know">OK</string>
     <string name="resource_waiting_download">Čeká na stáhnutí...</string>
     <string name="restore_default_theme_alert">Stali jste se obětí neoprávněného kopírování téma. Stáhněte si téma znovu z online obchodu nebo si ho zakupte.</string>
     <string name="ringtone_volume_mute">Vaše zvonění je momentálně ztišené.</string>
-    <string name="sdcard_not_mounted_dialog_message">"Vložte SD kartu.
-"</string>
+    <string name="sdcard_not_mounted_dialog_message">"Vložte SD kartu."</string>
     <string name="sdcard_not_mounted_dialog_title">Žádná SD karta</string>
-    <string name="sdcard_status_changed_dialog_message">"Ukončuji. \nProsím otevřete tuto aplikaci znovu pro aktualizaci zdrojů."</string>  
+    <string name="sdcard_status_changed_dialog_message">"Ukončuji.\nProsím, otevřete tuto aplikaci znovu pro aktualizaci zdrojů."</string>  
     <string name="sdcard_status_changed_dialog_title">Stav SD karty se změnil</string>
     <string name="selected_resource_file_invalid">Zvolený soubor je vadný.</string>
     <string name="settings">Nastavení</string>
@@ -220,9 +218,9 @@ ale obsah který hledáte není dostupný ve Vaší zemi."</string>
     <string name="theme_component_title_alarm">Budík</string>
     <string name="theme_component_title_alarmstyle">Styl budíku</string>
     <string name="theme_component_title_all">Téma</string>
-    <string name="theme_component_title_audio_effect">Audio efekty</string>
-    <string name="theme_component_title_boot_animation">Boot animace</string>
-    <string name="theme_component_title_boot_audio">Boot audio</string>
+    <string name="theme_component_title_audio_effect">Zvukové efekty</string>
+    <string name="theme_component_title_boot_animation">Spouštěcí animace</string>
+    <string name="theme_component_title_boot_audio">Spouštěcí zvuk</string>
     <string name="theme_component_title_clock">Hodiny</string>
     <string name="theme_component_title_contact">Číselník</string>
     <string name="theme_component_title_font">Písmo</string>
@@ -261,17 +259,17 @@ ale obsah který hledáte není dostupný ve Vaší zemi."</string>
     <string name="theme_import_oper_complete">Dokončeno</string>
     <string name="theme_import_oper_start">Aktualizovat vše</string>
     <string name="theme_import_oper_stop">Zastavit</string>
-    <string name="theme_import_oper_stop_request_content">Téma musí být aktualizované aby mohlo pracovat správně. Chcete zrušit jeho aktualizaci?</string>
+    <string name="theme_import_oper_stop_request_content">Téma musí být aktualizované, aby mohlo pracovat správně. Chcete zrušit jeho aktualizaci?</string>
     <string name="theme_import_preparing">Kontrola lokálních témat</string>
-    <string name="theme_import_stoping">Zastavování…</string>
-    <string name="theme_importing">Nahrávání téma…</string>
+    <string name="theme_import_stoping">Zastavování...</string>
+    <string name="theme_importing">Nahrávání téma...</string>
     <string name="theme_is_imported">Téma je importované</string>
     <string name="theme_sdcard_importing">Nahrávání z SD karty...</string>
     <string name="theme_select_others">Ostatní</string>
     <string name="theme_upgrade_request_cancel">Ne</string>
-    <string name="theme_upgrade_request_content">Téma musí být aktualizované aby mohlo pracovat správně. Je nutné internetové připojení, chcete pokračovat..?</string>
+    <string name="theme_upgrade_request_content">Téma musí být aktualizované, aby mohlo pracovat správně. Je nutné internetové připojení. Chcete pokračovat?</string>
     <string name="theme_upgrade_request_title">Aktualizace téma</string>
-    <string name="theme_upgrade_request_yes">Ok</string>
+    <string name="theme_upgrade_request_yes">OK</string>
     <string name="third_party_pickers_activity_title">Nastavit %1$s</string>
     <string name="title_component">Mix</string>
     <string name="title_local">Lokální</string>

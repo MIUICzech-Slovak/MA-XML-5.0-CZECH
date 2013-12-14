@@ -2,9 +2,9 @@
 <resources>
     <string-array name="animator_duration_scale_entries">
         <item>Animace vypnuté</item>
-        <item>Animace 0,5x</item>
+        <item>Animace 0.5x</item>
         <item>Animace 1x</item>
-        <item>Animace 1,5x</item>
+        <item>Animace 1.5x</item>
         <item>Animace 2x</item>
         <item>Animace 5x</item>
         <item>Animace 10x</item>
@@ -34,15 +34,15 @@
         <item>Maximálně 4 procesy</item>
     </string-array>
     <string-array name="back_long_press_timeout">
-        <item>0,5 s</item>
-        <item>1 s</item>
-        <item>1,5 s</item>
-        <item>2 s</item>
+        <item>0.5 s.</item>
+        <item>1 s.</item>
+        <item>1.5 s.</item>
+        <item>2 s.</item>
     </string-array>
     <string-array name="battery_indicator_style_entries">
         <item>Grafický</item>
         <item>Procenta</item>
-        <item>Linka nad oznamovací lištou</item>
+        <item>Linka nad notifikační lištou</item>
     </string-array>
     <string-array name="bearer_entries">
         <item>LTE</item>
@@ -50,9 +50,9 @@
         <item>Nespecifikováno</item>
     </string-array>
     <string-array name="bluetooth_visibility_timeout_entries">
-        <item>2 min</item>
-        <item>5 min</item>
-        <item>1 h</item>
+        <item>2 min.</item>
+        <item>5 min.</item>
+        <item>1 h.</item>
         <item>Bez časového limitu</item>
     </string-array>
     <string-array name="button_light_timeout_entries">
@@ -71,13 +71,13 @@
     </string-array>
     <string-array name="dream_timeout_entries">
         <item>Nikdy</item>
-        <item>15 s</item>
-        <item>30 s</item>
-        <item>1 min</item>
-        <item>2 min</item>
-        <item>5 min</item>
-        <item>10 min</item>
-        <item>30 min</item>
+        <item>15 s.</item>
+        <item>30 s.</item>
+        <item>1 min.</item>
+        <item>2 min.</item>
+        <item>5 min.</item>
+        <item>10 min.</item>
+        <item>30 min<./item>
     </string-array>
     <string-array name="emergency_tone_entries">
         <item>Vypnuto</item>
@@ -145,14 +145,14 @@
     </string-array>
     <string-array name="lock_after_timeout_entries">
         <item>Za okamžik</item>
-        <item>5 s</item>
-        <item>15 s</item>
-        <item>30 s</item>
-        <item>1 min</item>
-        <item>2 min</item>
-        <item>5 min</item>
-        <item>10 min</item>
-        <item>30 min</item>
+        <item>5 s.</item>
+        <item>15 s.</item>
+        <item>30 s.</item>
+        <item>1 min.</item>
+        <item>2 min.</item>
+        <item>5 min.</item>
+        <item>10 min.</item>
+        <item>30 min.</item>
     </string-array>
     <string-array name="long_press_timeout_selector_titles">
         <item>Krátké</item>
@@ -171,66 +171,66 @@
     </string-array>
     <string-array name="msd_pc_system">
         <item>Windows XP nebo starší</item>
-        <item>Windows Vista,7,8</item>
+        <item>Windows Vista, 7, 8</item>
         <item>Mac OS</item>
         <item>Linux</item>
     </string-array>
     <string-array name="msd_pc_system_install_finish_summary">
-        <item>"Jestliže nainstalujete tento ovladač
+        <item>"Jestliže nainstalujete tento ovladač, 
 MI 2 úložiště se zobrazí ve Vašem počítači"</item>
-        <item>"Pro Windows Vista a Win7,8,
+        <item>"Pro Windows Vista, 7, 8
 se MI 2 zobrazí jako přehrávač hudby ve Vašem počítači"</item>
-        <item>"Jestliže nainstalujete tento ovladač
-Počítač automaticky otevře složku ve Vašem telefonu"</item>
+        <item>"Jestliže nainstalujete tento ovladač, 
+počítač automaticky otevře složku ve Vašem telefonu"</item>
         <item/>
     </string-array>
     <string-array name="msd_pc_system_install_start_summary">
         <item>"Pro Windows XP a starší systémy,
-musí být ovladač nainstalovaný manuálně"</item>
-        <item>"Pro Windows Vista a Win7,8
+musí být ovladač nainstalovaný ručně"</item>
+        <item>"Pro Windows Vista, 7, 8 
 se Xiaomi Mi2 zobrazí jako přehrávač hudby MTP"</item>
-        <item>"Pro operační systém Mac OS,
-musí být ovladač nainstalovaný manuálně"</item>
+        <item>"Pro operační systém Mac OS 
+musí být ovladač nainstalovaný ručně"</item>
         <item/>
     </string-array>
     <string-array name="msd_pc_system_install_step_1_summary">
         <item>"(Ignorujte vyskakovací okno průvodce instalací)
 XIAOMI úložiště se zobrazí ve Vašem počítači.
-Otevřete soubor Setup.exe pro nainstalování"</item>
+Otevřete soubor Setup.exe pro nainstalování."</item>
         <item/>
-        <item>"XIAOMI úložiště se zobrazí ve Vašem počítači
-Otevřete soubor AndroidFileTransfer.dmg pro nainstalování"</item>
+        <item>"XIAOMI úložiště se zobrazí ve Vašem počítači. 
+Otevřete soubor AndroidFileTransfer.dmg pro nainstalování."</item>
         <item/>
     </string-array>
     <string-array name="msd_pc_system_install_step_2_summary">
-        <item>"2.MI 2 úložiště se zobrazí ve Vašem počítači
-Nyní můžete kopírovat soubory"</item>
+        <item>"2.MI 2 úložiště se zobrazí ve Vašem počítači. 
+Nyní můžete kopírovat soubory."</item>
         <item/>
-        <item>"Počítač automaticky otevře složku ve Vašem telefonu
-Nyní můžete kopírovat soubory"</item>
+        <item>"Počítač automaticky otevře složku ve Vašem telefonu. 
+Nyní můžete kopírovat soubory."</item>
         <item/>
     </string-array>
     <string-array name="multi_sim_entries">
-        <item>Subscription 1</item>
-        <item>Subscription 2</item>
+        <item>Předplatné 1</item>
+        <item>Předplatné 2</item>
     </string-array>
     <string-array name="multi_sim_entries_voice">
-        <item>Subscription 1</item>
-        <item>Subscription 2</item>
+        <item>Předplatné 1</item>
+        <item>Předplatné 2</item>
         <item>Prompt</item>
     </string-array>
 	  <string-array name="multi_sim_entries_voice_without_prompt">
-        <item>Subscription 1</item>
-        <item>Subscription 2</item>
+        <item>Předplatné 1</item>
+        <item>Předplatné 2</item>
     </string-array>
 <string-array name="multi_sim_summaries">
-        <item>Subscription 1</item>
-        <item>Subscription 2</item>
+        <item>Předplatné 1</item>
+        <item>Předplatné 2</item>
     </string-array>
 <string-array name="multi_sim_summaries_voice">
-        <item>Subscription 1</item>
-        <item>Subscription 2</item>
-        <item>Prompt User</item>
+        <item>Předplatné 1</item>
+        <item>Předplatné 2</item>
+        <item>Zeptat se uživatele</item>
     </string-array>
     <string-array name="overlay_display_devices_entries">
         <item>Žádné</item>
@@ -288,7 +288,7 @@ Nyní můžete kopírovat soubory"</item>
     <string-array name="score_suggests">
         <item>Povolit černou listinu</item>
         <item>Aktivujte Správce práv</item>
-        <item>Vyčištěte rezidua (možné nepotřebné soubory)</item>
+        <item>Vyčištěte možné nepotřebné soubory</item>
         <item>Aktualizujte databázi virů</item>
         <item>Omezte aplikace na pozadí</item>
     </string-array>
@@ -299,8 +299,8 @@ Nyní můžete kopírovat soubory"</item>
     </string-array>
     <string-array name="screen_key_long_press_action">
         <item>Žádná akce</item>
-        <item>Spustit manažer RAM</item>
-        <item>Spustit Hlasový Asistent</item>
+        <item>Spustit Správce RAM</item>
+        <item>Spustit Hlasového asistenta</item>
         <item>Spustit Google Now</item>
         <item>Ukončit otevřenou aplikaci</item>
     </string-array>
@@ -311,16 +311,16 @@ Nyní můžete kopírovat soubory"</item>
         <item>2 sekundy</item>
     </string-array>
     <string-array name="screen_saturation_title">
-        <item>Brilliant</item>
-        <item>Standard</item>
+        <item>Brilantní</item>
+        <item>Standardní</item>
     </string-array>  
 	  <string-array name="screen_timeout_entries">
-        <item>15 s</item>
-        <item>30 s</item>
-        <item>1 min</item>
-        <item>2 min</item>
-        <item>5 min</item>
-        <item>10 min</item>
+        <item>15 s.</item>
+        <item>30 s.</item>
+        <item>1 min.</item>
+        <item>2 min.</item>
+        <item>5 min.</item>
+        <item>10 min.</item>
         <item>Nikdy</item>
     </string-array>
  	  <string-array name="security_settings_premium_sms_values">
@@ -336,16 +336,16 @@ Nyní můžete kopírovat soubory"</item>
         <item>Amerika</item>
         <item>Evropa</item>
         <item>Afrika</item>
-        <item>Asie</item>
+        <item>Ásie</item>
         <item>Austrálie</item>
         <item>Pacifik</item>
         <item>Vše</item>
     </string-array>
     <string-array name="transition_animation_scale_entries">
         <item>Animace je vypnuta</item>
-        <item>Měřítko animace 0,5x</item>
+        <item>Měřítko animace 0.5x</item>
         <item>Měřítko animace 1x</item>
-        <item>Měřítko animace 1,5x</item>
+        <item>Měřítko animace 1.5x</item>
         <item>Měřítko animace 2x</item>
         <item>Měřítko animace 5x</item>
         <item>Měřítko animace 10x</item>
@@ -407,10 +407,10 @@ Nyní můžete kopírovat soubory"</item>
     </string-array>
     <string-array name="wfd_status">
         <item>Zařízení připojeno...</item>
-        <item>Session created</item>
-        <item>Session tearing down...</item>
-        <item>Session failed</item>
-        <item>Session creating timeout, retrying...</item>
+        <item>Relace vytvořena</item>
+        <item>Relace se ukončuje...</item>
+        <item>Relace selhala</item>
+        <item>Vytváření relace vypršelo. Opakování...</item>
         <item>Zařízení připojeno</item>
     </string-array>
     <string-array name="wifi_ap_security">
@@ -438,7 +438,7 @@ Nyní můžete kopírovat soubory"</item>
     <string-array name="wifi_frequency_band_entries">
         <item>Automaticky</item>
         <item>Pouze 5 GHz</item>
-        <item>Pouze 2,4 GHz</item>
+        <item>Pouze 2.4 GHz</item>
     </string-array>
     <string-array name="wifi_ip_settings">
         <item>DHCP</item>
@@ -513,9 +513,9 @@ Nyní můžete kopírovat soubory"</item>
     </string-array>
     <string-array name="window_animation_scale_entries">
         <item>Animace je vypnuta</item>
-        <item>Měřítko animace 0,5x</item>
+        <item>Měřítko animace 0.5x</item>
         <item>Měřítko animace 1x</item>
-        <item>Měřítko animace 1,5x</item>
+        <item>Měřítko animace 1.5x</item>
         <item>Měřítko animace 2x</item>
         <item>Měřítko animace 5x</item>
         <item>Měřítko animace 10x</item>
@@ -536,6 +536,6 @@ Nyní můžete kopírovat soubory"</item>
         <item>Galerie</item>
         <item>Hudba</item>
         <item>Video</item>
-        <item>Email</item>
+        <item>E-mail</item>
     </string-array>
 </resources>

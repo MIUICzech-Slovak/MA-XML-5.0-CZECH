@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="access_denied">Přístup zamítnut</string>
-    <string name="access_token_expired_warning">Weibo account has expired, please rebind</string>
-    <string name="access_token_invalid_warning">Weibo account is invalid, please rebind</string>
+    <string name="access_token_expired_warning">Účet Weibo vypršel. Přihlaste se znova.</string>
+    <string name="access_token_invalid_warning">Účet Weibo je neplatný. Přihlaste se znova.</string>
     <string name="account">Účet</string>
     <string name="account_detail">"Xiaomi účet:
     %1$s"</string>
     <string name="account_dspt">"Účet Xiaomi může synchronizovat a zálohovat Vaše zprávy, 
 kontakty, fotky, atd"</string>
-    <string name="account_hint_text">Email nebo Telefonní číslo</string>
+    <string name="account_hint_text">E-mail nebo telefonní číslo</string>
     <string name="account_name">Účet: %1$s</string>
     <string name="activate_phone_failed_notif_title">Nastavení MiCloud selhalo</string>
     <string name="activate_phone_send_sms_fail">Odeslání aktivační SMS selhalo, nelze spustit synchronizaci</string>
@@ -23,12 +23,12 @@ kontakty, fotky, atd"</string>
     <string name="bad_authentication">Nesprávné jméno nebo heslo</string>
     <string name="balance">Zůstatek: %1$s MiKreditů</string>
     <string name="bankcall_bank_account">Kreditní karta:</string>
-    <string name="bankcall_call_hint">"Budete mít hovor z banky Union pay (020-96585). 
+    <string name="bankcall_call_hint">"Budete mít hovor z banky Unionpay (020-96585). 
 Postupujte dle instrukcí pro dokončení objednávky."</string>
     <string name="bankcall_card">Kreditní karta</string>
     <string name="bankcall_card_hint">Vložte Vaše číslo účtu</string>
     <string name="bankcall_card_type">%1$s-%2$s</string>
-    <string name="bankcall_card_type_tailnum">%1$s-%2$s(Karta č. %3$s)</string>
+    <string name="bankcall_card_type_tailnum">%1$s-%2$s (Karta č. %3$s)</string>
     <string name="bankcall_city">Město (pouze Čína)</string>
     <string name="bankcall_credit_card">Kreditní karta</string>
     <string name="bankcall_debit_card">Debetní karta</string>
@@ -74,7 +74,7 @@ Postupujte dle instrukcí pro dokončení objednávky."</string>
     <string name="btn_wait_call">Čekání</string>
     <string name="btn_wait_call_count">Čekání (%1$s)</string>
     <string name="btn_wait_confirm">Čekání</string>	
-    <string name="btn_wait_confirm_count">Čekání（%1$s）</string>	
+    <string name="btn_wait_confirm_count">Čekání （%1$s）</string>	
     <string name="button_cancel">Zrušit</string>
     <string name="button_pay">Zaplatit</string>
     <string name="button_recharge">Navýšit</string>
@@ -83,7 +83,7 @@ Postupujte dle instrukcí pro dokončení objednávky."</string>
     <string name="check_phone_io_error">Chyba sítě</string>
     <string name="checking_account">Ověřování účtu...</string>
     <string name="cloud_messaging">MiCloud zprávy</string>
-    <string name="cmcc_data_sync_notice">Použijte svůj Xiaomi účet pro synchronizaci zpráv, Kontaktů a ostatních dat.</string>  
+    <string name="cmcc_data_sync_notice">Použijte svůj Xiaomi účet pro synchronizaci zpráv, kontaktů a ostatních dat.</string>  
     <string name="cmcc_micloud_dspt">Služby Cloudu obsahují synchronizaci, vyhledání polohy zařízení a mnoho dalších funkcí. Také můžete svá data spravovat kdekoli online!</string> 
     <string name="completed">Dokončit</string>
     <string name="confirm">Potvrdit</string>
@@ -93,7 +93,7 @@ Postupujte dle instrukcí pro dokončení objednávky."</string>
     <string name="data_wipe_from_phone">Smazat z mého telefonu</string>
     <string name="disable_find_device_error">Chyba: %1$s</string>	
     <string name="disable_micloud"><u>Zakázat MiCloud</u></string>
-    <string name="email_already_be_used">Emailová adresa je již použita s jiným účtem</string>
+    <string name="email_already_be_used">E-mailová adresa je již použita s jiným účtem</string>
     <string name="enable_find_device_error">Chyba: %1$s</string>
     <string name="enable_micloud">Registrovat nebo přihlásit</string>
     <string name="error_account_changed_summary">Váš Xiaomi účet byl aktualizován. 
@@ -172,8 +172,8 @@ prvně a nemohou být použité po vypršení platnosti"</string>
     <string name="login_instead_reg">Přihlásit se za pomocí telefonního čísla</string>
     <string name="login_notice">Přihlašování...</string>
     <string name="memu_refresh">Obnovit</string>
-    <string name="mibi_license_message">Xiaomi MiKredity. Kliknutím na OK souhlasíte s %1$s.</string>
-    <string name="mibi_license_message_span">Podmínky používání MiKreditů</string>
+    <string name="mibi_license_message">Xiaomi MiKredity. Klepnutím na OK souhlasíte s %1$s.</string>
+    <string name="mibi_license_message_span">Podmínkami používání MiKreditů</string>
     <string name="mibi_license_title">Podmínky používání MiKreditů</string>
     <string name="micloud_account">Xiaomi</string>
     <string name="micloud_account_label">Účet: %1$s</string>
@@ -190,15 +190,15 @@ prvně a nemohou být použité po vypršení platnosti"</string>
     <string name="micloud_active_email_sent_2" />
     <string name="micloud_active_email_visit">Navštivte %s</string>
     <string name="micloud_activing_account">Aktivuji váš účet</string>
-    <string name="micloud_activing_account_delayed">"Aktivace bude trvat zhruba 30 sekund.
-S telefonem můžete bez obav pokračovat v práci..."</string>
+    <string name="micloud_activing_account_delayed">Aktivace bude trvat zhruba 30 sekund.
+S telefonem můžete bez obav pokračovat v práci.</string>
     <string name="micloud_activing_account_failed">Aktivace Vašeho účtu selhala</string>
-    <string name="micloud_click_email">Klikněte na odkaz v emailu pro aktivaci svého účtu Xiaomi</string>
-    <string name="micloud_click_email_to_valid">Klikněte na aktivační odkaz v doručeném emailu</string>
+    <string name="micloud_click_email">Klikněte na odkaz v e-mailu pro aktivaci svého účtu Xiaomi</string>
+    <string name="micloud_click_email_to_valid">Klepněte na aktivační odkaz v doručeném e-mailu</string>
     <string name="micloud_delete_account">Odhlásit se</string>
     <string name="micloud_dspt">Používejte MiCloud na synchronizaci dat, vyhledávání zařízení a sdílení souboru s přáteli...</string>
-    <string name="micloud_email">Emailová adresa</string>
-    <string name="micloud_error_email">Chybný email</string>
+    <string name="micloud_email">E-mailová adresa</string>
+    <string name="micloud_error_email">Chybný e-mail</string>
     <string name="micloud_error_empty_pwd">Zadejte heslo</string>
     <string name="micloud_error_empty_captcha_code">Zadejte Captcha kód.</string>
     <string name="micloud_error_empty_vcode">Zadejte ověřovací kód.</string>
@@ -218,7 +218,7 @@ S telefonem můžete bez obav pokračovat v práci..."</string>
     <string name="micloud_password_req_notice">8 ~ 16 znaků, číslice, písmena abecedy, velká a malá písmena</string>
     <string name="micloud_proceed">Pokračovat</string>
     <string name="micloud_reg_new">Vytvořit nový</string>
-    <string name="micloud_resend_active_email">Znovu poslat aktivační email</string>
+    <string name="micloud_resend_active_email">Znovu poslat aktivační e-mail</string>
     <string name="micloud_summary">Přihlaste se na Xiaomi účet pro synchronizaci kontaktů, fotografií a mnoho dalších funkcí.</string>
     <string name="micloud_use_existing">Existující účet</string>
     <string name="micloud_via_int_sms_alert">Odešle se SMS zpráva, která bude zpoplatněná dle ceníku Vašeho mobilního operátora.</string>
@@ -264,7 +264,7 @@ S telefonem můžete bez obav pokračovat v práci..."</string>
     <string name="prepaid_picker_hint_1_2">Je možné navýšit jen jednou;</string>
     <string name="prepaid_picker_hint_2_1">2.</string>
     <string name="prepaid_picker_hint_2_2_a">Zvolená suma musí být v rámci hodnoty předplacené karty.</string>
-    <string name="prepaid_picker_hint_2_2_b">Když suma předplacené karty není %1$s Jen, dojde k chybě a karta bude neplatná</string>
+    <string name="prepaid_picker_hint_2_2_b">Pokud suma předplacené karty není %1$s jenů, dojde k chybě a karta bude neplatná</string>
     <string name="prepaid_picker_title_default">Zvolte sumu navýšení</string>
     <string name="prepaid_picker_title_selected">Navýšit kredit</string>
     <string name="prev">Zpět</string>
@@ -301,7 +301,7 @@ Zkontrolujeme to do dvou pracovních dnů"</string>
     <string name="recharge_bankcall_title">Kreditní karta</string>	
     <string name="recharge_denomination">%1$s RMB</string>
     <string name="recharge_grid_edit_hint">Suma (RMB)</string>
-    <string name="recharge_grid_edit_limit">%1$s~%2$sRMB</string>
+    <string name="recharge_grid_edit_limit">%1$s~%2$s RMB</string>
     <string name="recharge_grid_error_denomination">Vložte správnou sumu</string>
     <string name="recharge_grid_picker_hint">Zvolte množství MiKreditu</string>
     <string name="recharge_group_favorite">Použité způsoby navýšení</string>
@@ -337,7 +337,7 @@ Zkontrolujeme to do dvou pracovních dnů"</string>
     <string name="sina_weibo">Sina Weibo</string>
     <string name="skip_login">Přeskočit přihlášení</string>
     <string name="skip_login_u"><u>Přeskočit</u></string>
-    <string name="skip_setup_account_msg">Svůj účet můžete nastavit i později v Nastavení telefonu.</string>	
+    <string name="skip_setup_account_msg">Svůj účet můžete nastavit i později v nastavení telefonu.</string>	
     <string name="skip_setup_account_title">Přeskočit nastavení účtu</string>	
     <string name="start_micloud">Start</string>
     <string name="sync_dspt">Použijte svůj Xiaomi účet pro synchronizaci dat</string>
@@ -385,14 +385,14 @@ s "</string>
     <string name="noRemind">Nepřipomínat</string>
     <string name="restoreSync">Obnovit</string>
     <string name="enableAll">Povolit vše</string>
-    <string name="master_alert_notif_dspt" formatted="false">"Za tento čas bylo přidáno %s kontaktů, %s SMS, %s fotografií, %s poznámek a ostatních dat. 
+    <string name="master_alert_notif_dspt" formatted="false">"Za tuto dobu bylo přidáno %s kontaktů, %s SMS, %s fotografií, %s poznámek a ostatních dat. 
 
- Když se Váš telefon ztratí nebo omylem vymaže, tato data budou nenávratně ztracena. Doporučuje se obnovit synchronizace pro zabezpečení vašich dat"</string>
+ Pokud se Váš telefon ztratí nebo omylem vymaže, tato data budou nenávratně ztracena. Doporučuje se obnovit synchronizace pro zabezpečení vašich dat"</string>
     <string name="sub_alert_notif_dspt" formatted="false">"Máte %s lokálních kontaktů, %s SMS, %s fotografií, %s poznámek a ostatních nesynchronizovaných dat. 
 
- Když se Váš telefon ztratí nebo omylem vymaže, tato data budou nenávratně ztracena. Doporučuje se obnovit synchronizace pro zabezpečení vašich dat"</string>
-    <string name="wipe_data_dialog_title">"Některé položky nebyly synchronizovány."</string>
-    <string name="wipe_data_dialog_msg">%s nebylo synchronizované (tato data se ztratí pokud budete pokračovat).</string>
+ Pokud se Váš telefon ztratí nebo omylem vymaže, tato data budou nenávratně ztracena. Doporučuje se obnovit synchronizace pro zabezpečení vašich dat"</string>
+    <string name="wipe_data_dialog_title">Některé položky nebyly synchronizovány.</string>
+    <string name="wipe_data_dialog_msg">%s nebylo synchronizováno (tato data se ztratí pokud budete pokračovat).</string>
     <string name="dirty_contacts_count">kontaktů: %d</string>
     <string name="dirty_mms_count">zpráv: %d</string>
     <string name="dirty_note_count">poznámek: %d</string>

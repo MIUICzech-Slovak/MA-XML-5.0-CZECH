@@ -29,15 +29,15 @@
         <item quantity="one">Heslo musí obsahovat nejméně jeden znak jiný než písmeno</item>
     </plurals>
     <plurals name="power_center_battery_day">
-        <item quantity="other">"%ddní "</item>
-        <item quantity="one">"%dden "</item>
+        <item quantity="other">"%d dní "</item>
+        <item quantity="one">"%d den "</item>
     </plurals>
     <plurals name="power_center_battery_hour">
-        <item quantity="other">"%dh "</item>
-        <item quantity="one">"%dh "</item>
+        <item quantity="other">"%d hod. "</item>
+        <item quantity="one">"%d hod. "</item>
     </plurals>
     <plurals name="power_center_battery_minute">
-        <item quantity="other">"%dmin "</item>
-        <item quantity="one">"%dmin "</item>
+        <item quantity="other">"%d min. "</item>
+        <item quantity="one">"%d min. "</item>
     </plurals>
 </resources>

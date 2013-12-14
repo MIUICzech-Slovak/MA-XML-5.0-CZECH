@@ -7,7 +7,7 @@
     <string name="app_name">Nástroj k instalaci balíčků</string>
     <string name="app_not_found_dlg_text">Aplikace nebyla nalezena na seznamu nainstalovaných aplikací.</string>
     <string name="app_not_found_dlg_title">Aplikace nebyla nalezena</string>
-    <string name="auto_startup_dialog_msg">"Miui dovolí aplikaci spustit se automaticky. To může zvýšit nejen spotřebu energie ale i dat. \nPovolit automatické spuštění？"</string>
+    <string name="auto_startup_dialog_msg">"MIUI dovolí aplikaci spustit se automaticky. To může zvýšit nejen spotřebu energie ale i dat.\nPovolit automatické spuštění?"</string>
     <string name="caller_app">Vyvolané aplikací: %1$s</string>
     <string name="cancel">Zrušit</string>
     <string name="dlg_app_replacement_statement">"Aplikace, kterou instalujete, nahradí jinou aplikaci.\nVšechna dříve zadaná data uživatelů budou uložena."</string>
@@ -56,7 +56,7 @@
     <string name="safe_relative">Možné riziko</string>
     <string name="security_settings_desc">Povolit této aplikaci:</string>
     <string name="settings">Nastavení</string>
-    <string name="trust_switch_dialog_msg">"MIUI se nebude ptát na potvrzení operací této aplikace, což může ohrozit Vaši bezpečnost. \nVěříte této aplikaci?"</string>
+    <string name="trust_switch_dialog_msg">"MIUI se nebude ptát na potvrzení operací této aplikace, což může ohrozit Vaši bezpečnost.\nVěříte této aplikaci?"</string>
     <string name="uninstall_activity_text">Činnost %1$s je součástí následující aplikace:</string>
     <string name="uninstall_application_text">Tato aplikace bude odinstalována.</string>
     <string name="uninstall_application_title">Odinstalovat aplikaci</string>
@@ -76,5 +76,5 @@
     <string name="virus_scan_clear">Vyčistit</string>
     <string name="virus_scan_install">" "<u>Pokračovat</u>" "</string>
     <string name="virus_scan_is_risk">Tato aplikace je podezřelá!</string>
-    <string name="virus_scan_is_virus">Tato aplikace je Virus!</string>
+    <string name="virus_scan_is_virus">Tato aplikace je virus!</string>
 </resources>

@@ -2,7 +2,7 @@
 <resources>
     <string name="about_device">Info o telefonu</string>
     <string name="active_xiaomi_account">Aktivovat</string>
-    <string name="active_xiaomi_account_msg">"Jděte prosím na MIUI fórum pro aktivaci Xiaomi účtu:"</string>
+    <string name="active_xiaomi_account_msg">"Přejděte na MIUI fórum pro aktivaci Xiaomi účtu:"</string>
     <string name="active_xiaomi_account_title">Aktivovat Xiaomi účtu</string>
     <string name="app_name">Aktualizace</string>
     <string name="apply_buddy_update_info_message">Stlačením tlačítka Aktualizovat spustíte instalaci nové verze MIUI.</string>
@@ -14,7 +14,7 @@
     <string name="apply_update_dialog_update_button">Aktualizace</string>
     <string name="apply_update_fail">Aktualizace systému selhala!</string>
     <string name="apply_update_timer">Aktualizace je dokončena. Telefon se restartuje za %d sekund.</string>
-    <string name="apply_upload_info_message">Kliknutím na Aktualizuj se automaticky telefon restartuje, aby mohla proběhnout aktualizace.</string>
+    <string name="apply_upload_info_message">klepnutím na Aktualizovat se automaticky telefon restartuje, aby mohla proběhnout aktualizace.</string>
     <string name="apply_upload_info_message_manually">Vypněte prosím zařízení a ručně spusťte Recovery k aplikování aktualizace %s z SD karty. Pokud si přejete zálohovat svá data, zálohujte si je a pak se vraťte k aktualizaci systému.</string>
     <string name="applying_rom_message">Použít aktualizaci</string>
     <string name="applying_update">Aktualizuji... %s</string>
@@ -39,7 +39,7 @@
     <string name="current_version_update_monthly_build">Současná verze (Aktualizace měsíčních verzí)</string>
     <string name="daily_build">Denní sestavení</string>
     <string name="dialog_no">Ne</string>
-    <string name="dialog_ok">Ok</string>
+    <string name="dialog_ok">OK</string>
     <string name="dialog_yes">Ano</string>
     <string name="download_current_rom">Stáhnout poslední verzi ROM</string>
     <string name="download_ota_rom">Stáhnout (%s)</string>
@@ -50,21 +50,21 @@
     <string name="edit_text_default">Napište svůj komentář</string>
     <string name="emegency_build">Sestavení:</string>
     <string name="exception_while_downloading">Chyba při stahování aktualizací</string>
-    <string name="expect">4. Očekávané</string>
+    <string name="expect">4. očekávané</string>
     <string name="experimental_build">Experimentální verze</string>
     <string name="file_not_found_error_message">Soubor nebyl na serveru nalezen</string>
     <string name="finish">Dokončit</string>
     <string name="finish_download">Stahování dokončeno</string>
-    <string name="fourgrid_hint_text">Děkujeme za používání MIUI ROM. Dejte nám prosím vědět co si o ní myslíte a pomožte nám ji ještě více vylepšit.</string>
+    <string name="fourgrid_hint_text">Děkujeme za používání MIUI ROM. Dejte nám prosím vědět co si o ní myslíte a pomozte nám ji ještě více vylepšit.</string>
     <string name="fourgrid_no_notificaiont">"Nezobrazovat v notif. liště"</string>
     <string name="fourgrid_notificaiont">Zobrazit v notif. liště</string>
     <string name="get_update_error">Nelze získat informace o aktualizaci</string>
     <string name="install_email">Nastavte si prosím e-mail</string>
     <string name="install_file_explorer">Nainstalujte si správce souborů prosím</string>
-    <string name="install_qq">Instalovat QQ app</string>
+    <string name="install_qq">Instalovat aplikaci QQ</string>
     <string name="install_rom_from_sd">Vybrat ZIP s novou verzí MIUI</string>
-    <string name="install_sina">Instalovat Sina app</string>
-    <string name="install_whole_rom">Není stažena celá rom nebo je soubor poškozený</string>
+    <string name="install_sina">Instalovat aplikaci Sina</string>
+    <string name="install_whole_rom">Není stažena celá ROM nebo je soubor poškozený</string>
     <string name="internal_build">Neveřejná verze</string>
     <string name="kernel_upgrade_link"/>
     <string name="kernel_upgrade_version"/>
@@ -78,7 +78,7 @@
     <string name="move_data_to_sdcard_not_enough_space_message">Není dostatek místa na SD kartě pro přesun %dMB dat.</string>
     <string name="move_data_to_sdcard_title">Přesunout data na SD kartu</string>
     <string name="moving_data_to_sdcard_message">"Data se přesouvají na SD kartu. Prosím neodpojujte USB připojení nebo nevyjímejte SD kartu."</string>
-    <string name="moving_data_to_sdcard_progress_format">Přesunuto %1$d Kb z %2$d Kb</string>
+    <string name="moving_data_to_sdcard_progress_format">Přesunuto %1$dKB z %2$dKB</string>
     <string name="my_best_update">Nejlepší update</string>
     <string name="my_expect_update">Očekávané</string>
     <string name="my_rank">Hodnocení:</string>
@@ -106,7 +106,7 @@
     <string name="reboot_to_new_system">Restartovat systém</string>
     <string name="recommend">Doporučené</string>
     <string name="recommend_comment_hint">Důvod (volitelné)</string>
-    <string name="recommend_vote_title">MIUI Beta Team Poll</string>
+    <string name="recommend_vote_title">Anketa beta týmu MIUI</string>
     <string name="refuse_recommend_reason">Prosím vyplňte důvod</string>
     <string name="sdcard_has_no_space_dialog_body">Na SD kartě není dost volného místa, uvolněte jej a znovu stáhněte Aktualizaci.</string>
     <string name="sdcard_has_no_space_dialog_title">Na SD kartě je málo volného místa</string>
@@ -128,8 +128,8 @@
     <string name="sina_share_fail">Odeslání selhalo!</string>  
     <string name="sina_share_pendding">Odesílání...</string>  
     <string name="sina_share_success">Odeslání dokončeno!</string> 
-    <string name="sina_token_expired_warning">Weibo účet vypršel, prosím rebind</string>
-    <string name="sina_token_invalid_warning">Weibo účet je chybný, prosím rebind</string>
+    <string name="sina_token_expired_warning">Weibo účet vypršel, prosím připojte se znova</string>
+    <string name="sina_token_invalid_warning">Weibo účet je chybný, prosím připojte se znova</string>
     <string name="stable_build">Stabilní verze</string>
     <string name="start_update">Aktualizovat</string>
     <string name="submit">Odeslat</string>
@@ -139,7 +139,7 @@
     <string name="system_backup_apply_helper">"Telefon se automaticky restartuje pro aplikování aktualizace. "</string>
     <string name="system_backup_ask">Zeptat se znovu</string>
     <string name="system_backup_button_text">Vytvoření zálohy systému</string>
-    <string name="system_backup_cancel_text">Restartuj kvůli aktualizaci</string>
+    <string name="system_backup_cancel_text">Restartovat kvůli aktualizaci</string>
     <string name="system_backup_download_helper">Telefon se po stáhnutí automaticky restartuje pro aplikování aktualizace.</string>
     <string name="system_backup_error_message">MIUI záloha nebyla nalezena, prosím zálohujte manuálně.</string>
     <string name="system_backup_helper">Aktualizace nevymaže vaše uživatelská data. Avšak doporučuje se v rámci bezpečnosti tato data zálohovat.</string>
@@ -149,7 +149,7 @@
     <string name="update_comment_hint">(volitelné)</string>
     <string name="update_comment_title">Komentovat</string>
     <string name="update_feedback">Hodnocení aktualizace</string>
-    <string name="update_feedback_expired">"Zmeškali jste hodnocení aktualizace! \nVyplňte jej prosím následující úterý"</string>
+    <string name="update_feedback_expired">"Zmeškali jste hodnocení aktualizace!\nVyplňte jej prosím následující úterý"</string>
     <string name="update_feel">Jak hodnotíte tuto aktualizaci?</string>
     <string name="update_general">Není špatná</string>
     <string name="update_happy"/>
@@ -161,13 +161,13 @@
     <string name="updater_finish_download">Stahování ROM je dokončeno</string>
     <string name="upgrade_close">Zavřít</string>
     <string name="upgrade_kernel">Kernel potřebuje aktualizovat</string>
-    <string name="upgrade_kernel_msg">"Aktuální verze Kernelu nesouhlasí s MIUI ROM. Musíte aktualizovat kernel manuálně. Viz kurz aktualizace:"</string>
+    <string name="upgrade_kernel_msg">"Aktuální verze kernelu nesouhlasí s MIUI ROM. Musíte aktualizovat kernel manuálně. Viz kurz aktualizace:"</string>
     <string name="verify_and_apply_dialog_message">Ověření integrity souborů</string>
     <string name="verify_and_apply_dialog_title">Kontrola integrity dat</string>
     <string name="view_install_log">Zobrazit záznam</string>
     <string name="view_upgrade_tutorial">Prohlédnout návod</string>
     <string name="weekly_build">Týdenní verze</string>
-    <string name="wifi_not_available_body">Doporučuje se použít Wifi připojení pro stáhnutí aktualizace kvůli její velikosti. Momentálně nemáte připojenou Wifi, chcete i tak pokračovat?.</string>
+    <string name="wifi_not_available_body">Doporučuje se použít Wi-Fi připojení pro stáhnutí aktualizace kvůli její velikosti. Momentálně nemáte připojenou Wi-Fi, chcete i tak pokračovat?.</string>
     <string name="wifi_not_available_title">Wi-Fi nepřipojeno</string>
     <string name="worst_update">Nejhorší aktualizace</string>
 </resources>

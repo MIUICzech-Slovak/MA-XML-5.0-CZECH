@@ -7,8 +7,7 @@
     <string name="balance_giftcard_payment">%1$s MiKreditů (%2$s-MiKreditů dárková poukázka)</string>
     <string name="balance_payment">%1$s MiKreditů</string>
     <string name="bankcall_bank_account">Kreditní karta:</string>
-    <string name="bankcall_call_hint">"Budete mít hovor z banky Union pay (020-96585). 
-Postupujte dle instrukcí pro dokončení objednávky."</string>
+    <string name="bankcall_call_hint">"Budete mít hovor z banky Unionpay (020-96585). Postupujte dle instrukcí pro dokončení objednávky."</string>
     <string name="bankcall_card">Kreditní karta</string>
     <string name="bankcall_card_hint">Vložte Vaše číslo účtu</string>
     <string name="bankcall_card_type">%1$s-%2$s</string>
@@ -30,7 +29,7 @@ Postupujte dle instrukcí pro dokončení objednávky."</string>
     <string name="bankcall_phone_credit_hint">"Telefonní číslo přiřazené k účtu"</string>
     <string name="bankcall_phone_debit_hint">Zajistěte stabilní internet. připojení</string>
     <string name="bankcall_province">Provincie</string>
-    <string name="bankcall_saved_card_info">%1$s - Karta č. %2$s</string>
+    <string name="bankcall_saved_card_info">%1$s - karta č. %2$s</string>
     <string name="bankcall_xiaomi_company">Xiaomi Corporation (Beijing)</string>	
     <string name="btn_back">Zpět</string>
     <string name="btn_call">Hovor</string>
@@ -51,7 +50,7 @@ Postupujte dle instrukcí pro dokončení objednávky."</string>
     <string name="btn_wait_call">Čekání...</string>
     <string name="btn_wait_call_count">Čekání (%1$s)</string>
     <string name="btn_wait_confirm">Čekání</string>	
-    <string name="btn_wait_confirm_count">Čekání（%1$s）</string>	
+    <string name="btn_wait_confirm_count">Čekání （%1$s）</string>	
     <string name="button_call">Volat</string>
     <string name="button_cancel">Zrušit</string>
     <string name="button_pay">Potvrdit</string>
@@ -132,7 +131,7 @@ prvně a nemohou být použité po vypršení platnosti"</string>
     <string name="lockscreen_forgot_pattern_button_text"><u>Zapomněl jsem vzor</u></string>
     <string name="login">Přihlásit</string>
     <string name="memu_refresh">Obnovit</string>
-    <string name="mibi_license_message">Xiaomi MiKredity. Kliknutím na OK souhlasíte s %1$s.</string>
+    <string name="mibi_license_message">Xiaomi MiKredity. Klepnutím na OK souhlasíte s %1$s.</string>
     <string name="mibi_license_message_span">Podmínky používání MiKreditů</string>
     <string name="mibi_license_title">Podmínky používání MiKreditů</string>
     <string name="mili_center">MiKredity</string>
@@ -144,18 +143,18 @@ prvně a nemohou být použité po vypršení platnosti"</string>
     <string name="msg_picker_hint_2_2">Za každé navýšení přes SMS si operátor účtuje %1$s RMB poplatek</string>
     <string name="msg_picker_hint_3_1">3.</string>
     <string name="msg_picker_hint_3_2">Maximálně je možné navýšit 300 RMB za měsíc</string>
-    <string name="msg_send_no_net_error">Failed to send message: cannot connect to your network provider.</string>
-    <string name="msg_send_no_sim_error">Failed to send message: try reinserting your network provider card.</string>
+    <string name="msg_send_no_net_error">Selhalo odeslání zprávy: nelze se připojit k Vašemu poskytovateli sítě.</string>
+    <string name="msg_send_no_sim_error">Selhalo odeslání zprávy: zkuste znova vložit kartu Vašeho poskytovatele sítě.</string>
     <string name="msg_send_send_fail_error">Odesílání zprávy selhalo</string>
-    <string name="msg_telecom_order_denom">%1syuan（does not include mobile network data fees）</string>
-    <string name="msg_telecom_order_denom_label">Amout due:</string>
-    <string name="msg_telecom_order_goods">%1sMiCredit(s)</string>
-    <string name="msg_telecom_order_goods_label">Product description:</string>
-    <string name="msg_telecom_picker_hint_1_1">After you touch Confirm purchase, your phone will</string>
-    <string name="msg_telecom_picker_hint_1_2">automatically contact your service provider.</string>
-    <string name="msg_telecom_picker_hint_2_1">Your network provider has been contacted!</string>
-    <string name="msg_telecom_picker_hint_2_2">You will receive a text confirmation shortly.</string>
-    <string name="msg_telecom_sending">Contacting your network provider…</string>
+    <string name="msg_telecom_order_denom">%1s juanů (neobsahuje poplatky za mobilní data)</string>
+    <string name="msg_telecom_order_denom_label">Splatná částka:</string>
+    <string name="msg_telecom_order_goods">%1s MiKreditů</string>
+    <string name="msg_telecom_order_goods_label">Popis produktu:</string>
+    <string name="msg_telecom_picker_hint_1_1">Až potvrdíte nákup, Váš telefon se</string>
+    <string name="msg_telecom_picker_hint_1_2">automaticky spojí s Vaším poskytovatelem sítě.</string>
+    <string name="msg_telecom_picker_hint_2_1">Váš poskytovatel sítě byl kontaktován!</string>
+    <string name="msg_telecom_picker_hint_2_2">Brzy obdržíte textové potvrzení.</string>
+    <string name="msg_telecom_sending">Kontaktování Vašeho poskytovatele sítě...</string>
     <string name="onemore_click_exit">Stiskněte ještě jednou pro ukončení</string>
     <string name="order_price">%1$s MiKreditů</string>
     <string name="password_error">Zadejte heslo</string>
@@ -165,7 +164,7 @@ prvně a nemohou být použité po vypršení platnosti"</string>
     <string name="paytool_alipay">Alipay</string>
     <string name="paytool_error_install">%1$s instalace bezpečnostního doplňku selhala</string>
     <string name="paytool_error_msp">%1$s selhalo!</string>
-    <string name="paytool_msp_not_installed">Nemáte nainstalovaný %1$s bezpečnostní doplněk, chcete ho nainstalovat?</string>
+    <string name="paytool_msp_not_installed">Nemáte nainstalovaný bezpečnostní doplněk %1$s, chcete jej nainstalovat?</string>
     <string name="paytool_tenpay">Tenpay</string>
     <string name="prepaid_china_mobile">China Mobile</string>
     <string name="prepaid_china_telcom">China Telecom</string>
@@ -203,7 +202,7 @@ prvně a nemohou být použité po vypršení platnosti"</string>
     <string name="progress_submit_pay_summary">Platba: %1$s RMB</string>
     <string name="progress_submit_recharge_summary">Navýšení: %1$s MiKreditů</string>
     <string name="progress_submit_title">Objednávka odeslána</string>
-    <string name="progress_success_pay_summary">%1$s MiKreditů navýšeno，%2$s MiKreditů zaplaceno</string>
+    <string name="progress_success_pay_summary">%1$s MiKreditů navýšeno, %2$s MiKreditů zaplaceno</string>
     <string name="progress_success_pay_title">Platba %1$s MiKreditů dokončena</string>
     <string name="progress_success_recharge_summary">Stav konta: %1$s MiKreditů</string>
     <string name="progress_success_recharge_title">Navýšení %1$s MiKreditů dokončeno</string>
@@ -218,7 +217,7 @@ Zkontrolujeme to do dvou pracovních dnů"</string>
     <string name="recharge_bankcall_title">Kreditní karta</string>
     <string name="recharge_denomination">%1$s RMB</string>
     <string name="recharge_grid_edit_hint">Suma (RMB)</string>
-    <string name="recharge_grid_edit_limit">%1$s~%2$sRMB</string>
+    <string name="recharge_grid_edit_limit">%1$s~%2$s RMB</string>
     <string name="recharge_grid_edit_upper_limit">"Ne více jak %1$s RMB"</string>
     <string name="recharge_grid_error_denomination">Vložte správnou sumu</string>
     <string name="recharge_grid_picker_hint">Zvolte hodnotu</string>
@@ -230,7 +229,7 @@ Zkontrolujeme to do dvou pracovních dnů"</string>
     <string name="recharge_other">Ostatní způsoby</string>
     <string name="recharge_pcpay_title">Navýšení přes PC</string>
     <string name="recharge_prepaid_title">Předplacené karty</string>
-    <string name="recharge_push_notification_prime_title">%1$d odeslal %2$s MiKreditů na váš účet</string>
+    <string name="recharge_push_notification_prime_title">%1$d odeslal %2$s MiKreditů na Váš účet</string>
     <string name="recharge_push_notification_sub_title">Navýšení dokončeno.</string>
     <string name="recharge_record_empty">Žádné navýšení</string>
     <string name="recharge_tenpay_title">Tenpay</string>

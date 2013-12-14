@@ -94,7 +94,7 @@
     <string name="noti_receiving">%1$s:Přijímání %2$d/%3$d souborů</string>
     <string name="noti_sending">%1$s:Odesílání %2$d/%3$d souborů</string>
     <string name="noti_wait_receive">Čekání na příjem souborů</string>
-    <string name="noti_wait_send">"Čekání na příjem souborů. Prosím ujistěte se, že odesílatel má povolené připojení a může odesílat soubory "</string>
+    <string name="noti_wait_send">"Čekání na příjem souborů. Prosím, ujistěte se, že odesílatel má povolené připojení a může odesílat soubory "</string>
     <string name="notify_after_download">Oznámit po stáhnutí</string>
     <string name="notify_after_restore">Oznámit po obnovení</string>
     <string name="ok">Potvrdit</string>
@@ -108,7 +108,7 @@
     <string name="pause">Pozastavit</string>
     <string name="pic">Obrázky</string>
     <string name="picker_title">Zvolit aplikaci</string>
-    <string name="please_select_share">Zvolte soubory které chcete sdílet</string>
+    <string name="please_select_share">Zvolte soubory, které chcete sdílet</string>
     <string name="press_to_handle">Stiskněte pro přidání</string>
     <string name="press_to_view">Zobrazit</string>
     <string name="press_to_view_receive_history">Historie přijatých</string>
@@ -141,8 +141,7 @@
     <string name="save_to_kuaipan">Do MiDrive</string>
     <string name="scan_2d_code">QR kód</string>
     <string name="scan_file">Soubory</string>
-    <string name="scan_tip">"Ujistěte se prosím, že na druhém zařízení 
-    je povoleno přijímání souborů"</string>
+    <string name="scan_tip">"Ujistěte se prosím, že na druhém zařízení je povoleno přijímání souborů"</string>
     <string name="scan_title">Zaměřte QR kód</string>
     <string name="scanning">Vyhledávání...</string>
     <string name="sdcard_invalid">SD karta je nedostupná!</string>
@@ -161,17 +160,17 @@
     <string name="send_nfc">Odeslat pomocí NFC</string>
     <string name="send_share_link">Odeslat adresu</string>
     <string name="send_sound">Odeslat pomocí zvuku</string>
-    <string name="send_tip">Odesílání většího množství obrázků, hudby a kontaktů....</string>
+    <string name="send_tip">Odesílání většího množství obrázků, hudby a kontaktů...</string>
     <string name="send_to">Odeslat do:</string>
     <string name="send_uncompleted">Přenos selhal</string>
     <string name="sent">Odeslané</string>
-    <string name="settings_auto_pair_sender_summary">Použít audio signál pro automatické párování se zařízením</string>
-    <string name="settings_auto_pair_sender_title">Párování zařízení pomocí audio signálu</string>
+    <string name="settings_auto_pair_sender_summary">Použít zvukový signál pro automatické párování se zařízením</string>
+    <string name="settings_auto_pair_sender_title">Párování zařízení pomocí zvukového signálu</string>
     <string name="settings_connect">Nastavení připojení</string>
     <string name="settings_label">Nastavení připojení</string>
     <string name="settings_photo">Avatar</string>
     <string name="settings_photo_camera">Nová fotografie</string>
-    <string name="settings_photo_pick">Vybrat z Galerie</string>
+    <string name="settings_photo_pick">Vybrat z galerie</string>
     <string name="settings_photo_remove">Vymazat avatar</string>
     <string name="settings_receive_confirm_summary">Vyžadovat Vaše povolení pro přijímání souborů</string>
     <string name="settings_receive_confirm_title">Povolení přijetí</string>
@@ -179,9 +178,8 @@
     <string name="share_history">Sdílené soubory</string>
     <string name="share_item_not_found">Soubor neexistuje nebo je nedostupný</string>
     <string name="share_message">Sdílený soubor %1$s</string>
-    <string name="share_msg_model">"Sdílím s Vámi soubory. 
-Odkaz na stáhnutí: %1$s"</string>
-    <string name="share_text">MIUIv5 podporuje přenos souborů bez potřeby mobilních dat. Uživatelé, kteří nemají MIUIv5 si musí nainstalovat: %1$s</string>
+    <string name="share_msg_model">"Sdílím s Vámi soubory. Odkaz na stáhnutí: %1$s"</string>
+    <string name="share_text">MIUIv5 podporuje přenos souborů bez potřeby mobilních dat. Uživatelé, kteří nemají MIUIv5, si musí nainstalovat: %1$s</string>
     <string name="shortmessage">Krátká zpráva</string>
     <string name="start">Start</string>
     <string name="summary_step_one">Odesílejte obrázky, hudbu, kontakty a ostatní soubory</string>
@@ -198,7 +196,7 @@ Odkaz na stáhnutí: %1$s"</string>
     <string name="transfer_history">Historie přenosů</string>
     <string name="trasfer_list">Seznam přenosů</string>
     <string name="unselect_all">Odznačit</string>
-    <string name="upload_complete">%1$s | %2$s Dokončeno</string>
+    <string name="upload_complete">%1$s | %2$s dokončeno</string>
     <string name="upload_failed_msg">Odesílání souboru selhalo!</string>
     <string name="use_start">Začít teď</string>
     <string name="video">Videa</string>
