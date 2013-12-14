@@ -72,7 +72,7 @@
   <string name="FMR_Status_Stereomono">kontrola...</string>
   <string name="FMR_Status_RSSI_text">RSSI (dBm):</string>
   <string name="FMR_Status_RSSI">kontrola...</string>
-  <string name="FMR_Status_Caparray_text">CapArray(pF):</string>
+  <string name="FMR_Status_Caparray_text">CapArray (pF):</string>
   <string name="FMR_Status_Caparray">kontrola...</string>
   <string name="FMR_RDS_text">RDS</string>
   <string name="FMR_RDS_Ratio_text">Poměr:</string>

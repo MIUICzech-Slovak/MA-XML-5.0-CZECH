@@ -15,17 +15,17 @@
         <item>Získat parametry stanice</item>
         <item>Opakovat 20x získání parametrů stanice</item>
         <item>Hledat parametry stanice</item>
-        <item>Get FM Band sweep parameters</item>
+        <item>Získat parametry sweep rozsahu FM</item>
         <item>Konfigurovat parametry FM hledání</item>
     </string-array>
     <string-array name="cfg_rf">
         <item>Nastavit FM RSSI Delta</item>
-        <item>Set Signal Threshold</item>
-        <item>RF Statistiky</item>
+        <item>Nastavit zesílení signálu</item>
+        <item>Statistika RF</item>
     </string-array>
     <string-array name="stats_options">
         <item>Zvolit možnosti</item>
         <item>Konfigurovat parametry FM hledání</item>
-        <item>RF Statistiky</item>
+        <item>Statistika RF</item>
     </string-array>
 </resources>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="preferred_network_mode_choices">
-        <item>LTE/CDMA</item>
+        <item>LTE / CDMA</item>
         <item>Jen EvDo</item>
         <item>CDMA bez EvDo</item>
         <item>CDMA / EvDo auto</item>

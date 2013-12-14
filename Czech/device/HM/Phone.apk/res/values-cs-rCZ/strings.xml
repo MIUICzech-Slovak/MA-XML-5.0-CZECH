@@ -49,8 +49,8 @@
     <string name="cb_default_new_channel_name">Nový kanál</string>
     <string name="cb_dialog_title_language_choice">Vybrat jazyk</string>
     <string name="cb_error_channel_id_exist">ID kanálu již existuje.</string>
-    <string name="cb_error_channel_name">Název kanálu není správný(1- písmen).</string>
-    <string name="cb_error_channel_num">Zadejte číslo kanálu(0-65534).</string>
+    <string name="cb_error_channel_name">Název kanálu není správný (1- písmen).</string>
+    <string name="cb_error_channel_num">Zadejte číslo kanálu (0-65534).</string>
     <string name="cb_error_language_select">Zvolte alespoň jeden jazyk.</string>
     <string name="cb_menu_add_channel">Přidat kanál</string>
     <string name="cb_menu_channel_list">Seznam kanálů</string>
@@ -116,7 +116,7 @@
     <string name="incall_toast_hold">Podržet</string>
     <string name="incall_toast_unhold">Obnovit</string>
     <string name="international_dialing_add_country_code" formatted="false">"Zadáváte telefonní číslo %s. Chcete přidat před číslo kód Vaší země (+%s)?"</string>
-    <string name="international_dialing_add_country_code_and_area_code">"Zadáváte telefonní číslo %1$s, %2$s. Chcete přidat před číslo kód Vaší země a městě (+%3$s)?"</string>
+    <string name="international_dialing_add_country_code_and_area_code">"Zadáváte telefonní číslo %1$s, %2$s. Chcete přidat před číslo kód Vaší země a města (+%3$s)?"</string>
     <string name="international_dialing_add_country_code_and_area_code_without_prefix">Chcete přidat předvolbu země a Vašeho města?</string>
     <string name="international_dialing_add_country_code_default_input_area_code" formatted="false">"Zadáváte telefonní číslo %s. Pokud se nenacházíte v %s, zadejte místní předvolbu."</string>
     <string name="international_dialing_add_country_code_input_area_code">"Zadáváte telefonní číslo %s. Zadejte i místní předvolbu."</string>

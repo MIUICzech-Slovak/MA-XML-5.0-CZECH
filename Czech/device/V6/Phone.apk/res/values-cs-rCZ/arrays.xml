@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="preferred_network_mode_choices">
-        <item>LTE/CDMA</item>
+        <item>LTE / CDMA</item>
         <item>Jen EvDo</item>
-        <item>CDMA w/o EvDo</item>
-        <item>CDMA/EvDo auto</item>
-        <item>GSM/WCDMA auto</item>
+        <item>CDMA bez EvDo</item>
+        <item>CDMA / EvDo auto</item>
+        <item>GSM / WCDMA auto</item>
         <item>Jen WCDMA</item>
         <item>Jen GSM</item>
-        <item>Preferované GSM/WCDMA</item>
+        <item>Preferované GSM / WCDMA</item>
     </string-array>
     <string-array name="call_reject_dialog_array">
         <item>Kontakty</item>
@@ -20,20 +20,20 @@
         <item>Seznam blokovaných</item>
     </string-array>
     <string-array name="umts_network_preferences_choices_cmcc">
-        <item>GSM/TD-SCDMA (auto)</item>
+        <item>GSM / TD-SCDMA (auto)</item>
         <item>Jen TD-SCDMA</item>
     </string-array>
     <string-array name="umts_network_preferences_choices">
-        <item>GSM/WCDMA (auto)</item>
+        <item>GSM / WCDMA (auto)</item>
         <item>Jen WCDMA</item>
     </string-array>
     <string-array name="gsm_umts_network_preferences_choices_cmcc">
-        <item>GSM/TD-SCDMA (auto)</item>
+        <item>GSM / TD-SCDMA (auto)</item>
         <item>Jen TD-SCDMA</item>
         <item>Jen GSM</item>
     </string-array>
     <string-array name="gsm_umts_network_preferences_choices">
-        <item>GSM/WCDMA (auto)</item>
+        <item>GSM / WCDMA (auto)</item>
         <item>Jen WCDMA</item>
         <item>Jen GSM</item>
     </string-array>

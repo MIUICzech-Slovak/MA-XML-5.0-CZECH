@@ -29,7 +29,7 @@
         <item>Nikdy</item>
     </string-array>
     <string-array name="gsm_umts_network_preferences_choices">
-        <item>GSM/WCDMA (auto)</item>
+        <item>GSM / WCDMA (auto)</item>
         <item>Jen WCDMA</item>
         <item>Jen GSM</item>
     </string-array>
@@ -75,8 +75,8 @@
     </string-array>
     <string-array name="wifi_hotspot_disable_policy_entries">
         <item>Vždy</item>
-        <item>Vypnout při neaktivitě 5 min</item>
-        <item>Vypnout při neaktivitě 10 min</item>
+        <item>Vypnout při neaktivitě 5 min.</item>
+        <item>Vypnout při neaktivitě 10 min.</item>
     </string-array>
     <string-array name="tethered_ipv6_entries">
         <item>IPv4</item>
