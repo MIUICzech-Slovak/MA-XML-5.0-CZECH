@@ -85,7 +85,7 @@ Chcete jej ukončit?"</string>
     <string name="autofill_address_summary_separator">", "</string>
     <string name="autofill_area">Oblast</string>
     <string name="autofill_county">Okres</string>
-    <string name="autofill_department">Department</string>
+    <string name="autofill_department">Oddělení</string>
     <string name="autofill_district">Okres</string>
     <string name="autofill_emirate">Emirát</string>
     <string name="autofill_island">Ostrov</string>
@@ -94,16 +94,16 @@ Chcete jej ukončit?"</string>
     <string name="autofill_prefecture">Prefektura</string>
     <string name="autofill_province">Provincie</string>
     <string name="autofill_state">Stát</string>
-    <string name="autofill_this_form">Aut.vyp.</string>
+    <string name="autofill_this_form">Aut. vyp.</string>
     <string name="autofill_zip_code">PSČ</string>
     <string name="back_button_label">Zpět</string>
     <string name="badPin">Původní kód PIN byl zadán nesprávně.</string>
     <string name="badPuk">Kód PUK byl zadán nesprávně.</string>
     <string name="beforeOneMonthDurationPast">Déle než před 1 měsícem</string>
-    <string name="bluetooth_a2dp_audio_route_name">Bluetooth Audio</string>
+    <string name="bluetooth_a2dp_audio_route_name">Zvuk Bluetooth</string>
     <string name="bugreport_message">Shromažďuje informace o aktuálním stavu zařízení. Tyto informace je následně možné poslat v e-mailové zprávě, chvíli však potrvá, než bude hlášení o chybě připraveno k odeslání. Buďte prosím trpěliví.</string>
     <string name="bugreport_title">Zaznamenat zprávu o chybě</string>
-    <string name="byteShort">B</string>
+    <string name="byteShort">bajtů</string>
     <string name="cancel">Zrušit</string>
     <string name="candidates_style"><u>kandidáti</u></string>
     <string name="capital_off">O</string>
@@ -160,7 +160,7 @@ pro %s."</string>
     <string name="date_time_done">Hotovo</string>
     <string name="date_time_set">Nastavit</string>
     <string name="day">den</string>
-    <string name="days">d.</string>
+    <string name="days">dní</string>
     <string name="decline">Odmítnout</string>
     <string name="defaultMsisdnAlphaTag">MSISDN1</string>
     <string name="defaultVoiceMailAlphaTag">Hlasová schránka</string>
@@ -255,13 +255,13 @@ pro %s."</string>
     <string name="global_action_lock">Zámek obrazovky</string>
     <string name="global_action_power_off">Vypnout</string>
     <string name="global_action_reboot_summary">Ukončit všechny aplikace a restartovat</string>
-    <string name="global_action_silent_mode_off_status">Zvuk je zapnutý</string>
-    <string name="global_action_silent_mode_on_status">Zvuk je VYPNUTÝ.</string>
+    <string name="global_action_silent_mode_off_status">Zvuk je ZAPNUTÝ</string>
+    <string name="global_action_silent_mode_on_status">Zvuk je VYPNUTÝ</string>
     <string name="global_action_toggle_silent_mode">Tichý režim</string>
     <string name="global_actions">Možnosti telefonu</string>
-    <string name="global_actions_airplane_mode_off_status">Režim V letadle je VYPNUTÝ</string>
-    <string name="global_actions_airplane_mode_on_status">Režim V letadle je ZAPNUTÝ</string>
-    <string name="global_actions_toggle_airplane_mode">Režim V letadle</string>
+    <string name="global_actions_airplane_mode_off_status">Režim Letadlo je VYPNUTÝ</string>
+    <string name="global_actions_airplane_mode_on_status">Režim Letadlo je ZAPNUTÝ</string>
+    <string name="global_actions_toggle_airplane_mode">Režim Letadlo</string>
     <string name="gpsNotifMessage">Požadavek od uživatele %1$s (%2$s)</string>
     <string name="gpsNotifTicker">Požadavek na informace o poloze od uživatele %s</string>
     <string name="gpsNotifTitle">Požadavek na informace o poloze</string>
@@ -412,17 +412,17 @@ Přejděte na stránku "<b>google.com/accounts/recovery</b>.</string>
     <string name="kg_too_many_failed_attempts_countdown">Zkuste to znovu za %d s.</string>
     <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">"Již %dkrát jste nesprávně zadali heslo. 
 
-Zkuste to znovu za %d s."</string>
+Zkuste to znovu za %d sek."</string>
     <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">"Již %dkrát jste zadali nesprávné bezpečnostní gesto. 
 
-Zkuste to znovu za %d s."</string>
+Zkuste to znovu za %d sek."</string>
     <string name="kg_too_many_failed_pin_attempts_dialog_message" formatted="false">"Již %dkrát jste zadali nesprávný kód PIN. 
 
-Zkuste to znovu za %d s."</string>
+Zkuste to znovu za %d sek."</string>
     <string name="kg_wrong_password">Nesprávné heslo</string>
     <string name="kg_wrong_pattern">Nesprávné gesto</string>
     <string name="kg_wrong_pin">Nesprávný kód PIN</string>
-    <string name="kilobyteShort">kB</string>
+    <string name="kilobyteShort">KB</string>
     <string name="last_month">Poslední měsíc</string>
     <string name="launchBrowserDefault">Spustit prohlížeč?</string>
     <string name="launch_warning_original">Původně byla spuštěna aplikace %1$s.</string>
@@ -504,9 +504,9 @@ Zkuste to znovu za %d s."</string>
     <string name="media_route_button_content_description">Výstup médií</string>
     <string name="media_route_chooser_grouping_done">Hotovo</string>
     <string name="media_route_status_available">Dostupná</string>
-    <string name="media_route_status_connecting">Připojování…</string>
+    <string name="media_route_status_connecting">Připojování...</string>
     <string name="media_route_status_not_available">Není k dispozici</string>
-    <string name="media_route_status_scanning">Vyhledávání…</string>
+    <string name="media_route_status_scanning">Vyhledávání...</string>
     <string name="media_shared">Úložiště USB je momentálně používáno počítačem.</string>
     <string name="media_unknown_state">Neznámý stav externího média.</string>
     <string name="megabyteShort">MB</string>
@@ -515,8 +515,8 @@ Zkuste to znovu za %d s."</string>
     <string name="menu_enter_shortcut_label">enter</string>
     <string name="menu_space_shortcut_label">mezerník</string>
     <string name="midnight">půlnoc</string>
-    <string name="minute">min</string>
-    <string name="minutes">min</string>
+    <string name="minute">min.</string>
+    <string name="minutes">min.</string>
     <string name="mismatchPin">Zadané kódy PIN se neshodují.</string>
     <string name="mmiComplete">Funkce MMI byla dokončena.</string>
     <string name="mmiError">Problém s připojením nebo neplatný kód MMI.</string>
@@ -1067,7 +1067,7 @@ pro účet %s."</string>
     <string name="relationTypeBrother">Bratr</string>
     <string name="relationTypeChild">Dítě</string>
     <string name="relationTypeCustom">Vlastní</string>
-    <string name="relationTypeDomesticPartner">Druh/družka</string>
+    <string name="relationTypeDomesticPartner">Druh/Družka</string>
     <string name="relationTypeFather">Otec</string>
     <string name="relationTypeFriend">Známý</string>
     <string name="relationTypeManager">Vedoucí</string>
@@ -1190,7 +1190,7 @@ Dlouhodobý poslech hlasitého zvuku může poškodit sluch."</string>
     <string name="sms_control_no">Odmítnout</string>
     <string name="sms_control_title">Odesílání zpráv SMS</string>
     <string name="sms_control_yes">Povolit</string>
-    <string name="sms_premium_short_code_details"><font fgcolor="#ffffb060">Budou účtovány poplatky na váš mobilní účet.</font></string>
+    <string name="sms_premium_short_code_details"><font fgcolor="#ffffb060">Budou účtovány poplatky na Váš mobilní účet.</font></string>
     <string name="sms_short_code_confirm_allow">Odeslat</string>
     <string name="sms_short_code_confirm_always_allow">Povolit vždy</string>
     <string name="sms_short_code_confirm_deny">Zrušit</string>

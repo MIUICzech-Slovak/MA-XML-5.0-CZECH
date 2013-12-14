@@ -4,10 +4,10 @@
         <item>LTE / CDMA</item>
         <item>Jen EvDo</item>
         <item>CDMA bez EvDo</item>
-        <item>CDMA / EvDo auto</item>
-        <item>GSM / WCDMA auto</item>
+        <item>Automaticky CDMA / EvDo</item>
+        <item>Automaticky GSM / WCDMA</item>
         <item>Jen WCDMA</item>
         <item>Jen GSM</item>
-        <item>Preferované GSM / WCDMA</item>
+        <item>GSM / WCDMA preferováno</item>
     </string-array>
 </resources>
