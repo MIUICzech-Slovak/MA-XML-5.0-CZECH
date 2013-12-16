@@ -18,7 +18,7 @@
   <string name="act_weather_aqi_title">Index kvality ovzduší</string>
   <string name="act_weather_cycle_low_temp">Nízká</string>
   <string name="act_weather_cycle_update">Aktalizování...</string>
-  <string name="act_weather_find_city_connect_net">Zkontrolujte připojení k internetu a zkuste to znova.</string>
+  <string name="act_weather_find_city_connect_net">Zkontrolujte připojení k internetu a zkuste to znovu.</string>
   <string name="act_weather_find_city_search_online">Najít města</string>
   <string name="act_weather_find_city_searching">Hledání...</string>
   <string name="act_weather_main_aqi_index">Kvalita ovzduší: %s</string>
@@ -105,8 +105,8 @@ Dnes v %1$s je  počasí %2$s, %3$s, %4$s. %5$s.</string>
   <string name="sina_share_fail">Odeslání selhalo!</string>
   <string name="sina_share_pendding">Odesílání...</string>
   <string name="sina_share_success">Sdíleno!</string>
-  <string name="sina_token_expired_warning">Účet Weibo vypršel. Přihlaste se znova.</string>
-  <string name="sina_token_invalid_warning">Účet Weibo je neplatný. Přihlaste se znova.</string>
+  <string name="sina_token_expired_warning">Účet Weibo vypršel. Přihlaste se znovu.</string>
+  <string name="sina_token_invalid_warning">Účet Weibo je neplatný. Přihlaste se znovu.</string>
   <string name="sms_notification">Sdílet přes SMS</string>
   <string name="tip_weather">Upozornění MIUI počasí</string>
   <string name="tip_weather_info_content_1">Přináší vrstvy!</string>

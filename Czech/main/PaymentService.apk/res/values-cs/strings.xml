@@ -144,7 +144,7 @@ prvně a nemohou být použité po vypršení platnosti"</string>
     <string name="msg_picker_hint_3_1">3.</string>
     <string name="msg_picker_hint_3_2">Maximálně je možné navýšit 300 RMB za měsíc</string>
     <string name="msg_send_no_net_error">Selhalo odeslání zprávy: nelze se připojit k Vašemu poskytovateli sítě.</string>
-    <string name="msg_send_no_sim_error">Selhalo odeslání zprávy: zkuste znova vložit kartu Vašeho poskytovatele sítě.</string>
+    <string name="msg_send_no_sim_error">Selhalo odeslání zprávy: zkuste znovu vložit kartu Vašeho poskytovatele sítě.</string>
     <string name="msg_send_send_fail_error">Odesílání zprávy selhalo</string>
     <string name="msg_telecom_order_denom">%1s juanů (neobsahuje poplatky za mobilní data)</string>
     <string name="msg_telecom_order_denom_label">Splatná částka:</string>

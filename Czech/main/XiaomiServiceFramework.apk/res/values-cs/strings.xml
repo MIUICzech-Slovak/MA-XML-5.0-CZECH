@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="access_denied">Přístup zamítnut</string>
-    <string name="access_token_expired_warning">Účet Weibo vypršel. Přihlaste se znova.</string>
-    <string name="access_token_invalid_warning">Účet Weibo je neplatný. Přihlaste se znova.</string>
+    <string name="access_token_expired_warning">Účet Weibo vypršel. Přihlaste se znovu.</string>
+    <string name="access_token_invalid_warning">Účet Weibo je neplatný. Přihlaste se znovu.</string>
     <string name="account">Účet</string>
     <string name="account_detail">"Xiaomi účet:
     %1$s"</string>

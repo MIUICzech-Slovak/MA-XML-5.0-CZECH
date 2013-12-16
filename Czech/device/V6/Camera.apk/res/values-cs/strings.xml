@@ -322,10 +322,10 @@
     <string name="pref_camera_skinToneEnhancement_entry_enable">Zapnout</string>
     <string name="pref_camera_skinToneEnhancement_title">Vylepšení tónu pleti</string>
     <string name="pref_camera_sound_title">Zvuk kamery</string>
-    <string name="pref_camera_sound_title_entry_off">VYP.</string>
-    <string name="pref_camera_sound_title_entry_on">ZAP.</string>
-    <string name="pref_camera_touchafaec_entry_off">VYP.</string>
-    <string name="pref_camera_touchafaec_entry_on">Zap</string>
+    <string name="pref_camera_sound_title_entry_off">Vypnutý</string>
+    <string name="pref_camera_sound_title_entry_on">Zapnutý</string>
+    <string name="pref_camera_touchafaec_entry_off">Vypnuto</string>
+    <string name="pref_camera_touchafaec_entry_on">Zapnuto</string>
     <string name="pref_camera_touchafaec_title">Ostření dotykem</string>
     <string name="pref_camera_video_duration_entry_10">10 minut</string>
     <string name="pref_camera_video_duration_entry_120">2 hodiny</string>
@@ -541,7 +541,7 @@
     <string name="pref_camera_jpegquality_entry_superfine">Velmi dobrá</string>
     <string name="pref_camera_jpegquality_entry_fine">Dobrá</string>
     <string name="pref_camera_saturation_entry_low">Nizká</string>
-    <string name="pref_camera_saturation_entry_middle">Střední</string>
+    <string name="pref_camera_saturation_entry_middle">"Střední "</string>
     <string name="pref_camera_saturation_entry_high">Vysoká</string>
     <string name="pref_camera_sharpness_entry_low">Nízká</string>
     <string name="pref_camera_sharpness_entry_middle">Střední (výchozí)</string>

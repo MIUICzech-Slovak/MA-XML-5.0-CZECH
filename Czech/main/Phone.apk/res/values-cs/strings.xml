@@ -1112,7 +1112,7 @@
     <string name="xdivert_active">Aktivní</string>
     <string name="xdivert_button">Nastavení X-Divert</string>
     <string name="xdivert_enternumber_error">Zadejte telefonní číslo pro obě předplatné</string>
-    <string name="xdivert_imsi_not_read">Probíhá inicializace SIM. Zkuste to znova za chvíli.</string>
+    <string name="xdivert_imsi_not_read">Probíhá inicializace SIM. Zkuste to znovu za chvíli.</string>
     <string name="xdivert_not_active">Neaktivní</string>
     <string name="xdivert_not_supported">X-Divert není podporováno pro CDMA</string>
     <string name="xdivert_partial_set">XDivert byl nastaven jen pro první předplatné</string>

@@ -800,7 +800,7 @@ Toto nastavení ovlivní všechny uživatele tohoto telefonu."</string>
     <string name="device_memory">RAM</string>
     <string name="device_miui_version">MIUI</string>
     <string name="device_name">Název zařízení</string>
-    <string name="device_name_input_error">Ukládání názvu zařízení selhalo, zadejte jej znova</string>
+    <string name="device_name_input_error">Ukládání názvu zařízení selhalo, zadejte jej znovu.</string>
     <string name="device_name_input_hint">Zadejte název Vašeho zařízení</string>
     <string name="device_name_usage_point">Povolit vyhledání telefonu jiným Bluetooth zařízením.</string>
     <string name="device_picker">Výběr zařízení Bluetooth</string>
@@ -2275,7 +2275,7 @@ Toto nastavení ovlivní všechny uživatele tohoto telefonu."</string>
     <string name="service_stop_description">Tato služba byla spuštěna svou aplikací. Pokud ji zastavíte, může dojít k selhání aplikace.</string>
     <string name="set_data_subscription_progress">Probíhá nastavení datového předplatného</string>
     <string name="set_dds_error">Chyba při nastavení datového předplatného.</string>
-    <string name="set_dds_failed">Chyba při nastavení datového předplatného. Uvolněte jakékoli existující datové připojení a zkuste to znova.</string>
+    <string name="set_dds_failed">Chyba při nastavení datového předplatného. Uvolněte jakékoli existující datové připojení a zkuste to znovu.</string>
     <string name="set_dds_success">Nastavení datového předplatného bylo úspěšné</string>
     <string name="set_sms_error">Chyba při nastavení SMS předplatného. Předplatné není aktivní.</string>
     <string name="set_voice_error">Chyba při nastavení hlasového předplatného. Předplatné není aktivní.</string>
