@@ -548,7 +548,7 @@ Toto nastavení ovlivni všechny uživatele na tomto zařízení."</string>
     <string name="usb_sharing_summary">Sharing Windows PC internet via USB cable</string>
     <string name="usb_sharing_title">USB Internet</string>
     <string name="usb_tether_type_title">USB tethering type</string>
-    <string name="usb_ums_summary">Doporučeno pro Windows XP. Povolí přesouvat soubory mnezi PC a telefonem.</string>
+    <string name="usb_ums_summary">Doporučeno pro Windows XP. Povolí přesouvat soubory mezi PC a telefonem.</string>
     <string name="usb_ums_title">USB úložiště</string>
     <string name="user_account_title">Account for content</string>
     <string name="user_add_user_message_long">"You can share this device with other people by creating additional users. Each user has their own space, which they can customize with their own apps, wallpaper, and so on. Users can also adjust tablet settings like Wi-Fi that affect everyone.
