@@ -308,21 +308,21 @@
     <string name="track_bit_rate_standard">Dobrá</string>
     <string name="track_bit_rate_hd">Vysoká</string>
     <string name="track_bit_rate_uhd">Nejvyšší</string>
-    <string name="choose_stream_quality">Choose stream quality</string>
-    <string name="choose_download_quality">Choose download quality</string>
+    <string name="choose_stream_quality">Vyberte kvalitu streamování</string>
+    <string name="choose_download_quality">Vyberte kvalitu při stahování</string>
     <string name="ultra_high_quality">Nejvyšší kvalita</string>
     <string name="high_quality">Vysoká kvalita</string>
-    <string name="normal_quality">Dobrý kvalita</string>
+    <string name="normal_quality">Dobrá kvalita</string>
     <string name="login_first">Musíte se nejprve přihlásit ke svému Xiaomi účtu</string>
     <string name="login">Přihlásit se</string>
     <string name="payment_success">Zaplaceno</string>
     <string name="payment_fail">Platba selhala</string>
     <string name="pay_service_guide_listen">Kvalita streamování</string>
-    <string name="pay_service_guide_dowload">Download quality</string>
-    <string name="vip_recommend_title">Get higher quality music</string>
+    <string name="pay_service_guide_dowload">Kvalita při stahování</string>
+    <string name="vip_recommend_title">Ziskat hudbu ve vyšší kvalitě</string>
     <string name="vip_recommend_main_title">Neomezená CD-kvalita hudby (320 kbps)</string>
     <string name="vip_recommend_sub_title">Pouze 5 RMB na měsíc</string>
     <string name="vip_recommend_summary">Stream or download all your favorite artists from Baidu Music at 320 kbps.</string>
     <string name="vip_recommend_buy">Zakoupit (5 RMB na 1 měsíc)</string>
-    <string name="vip_recommend_exchange">Použít darovaný kupoón</string>
+    <string name="vip_recommend_exchange">Použít darovaný kupón</string>
 </resources>
