@@ -59,8 +59,8 @@
   <string name="baidu_flyflow_downloads">Baidu Browser</string>
   <string name="beautyphone">Beauty Phone</string>
   <string name="big_screen_alertdialog_title">Zařízení</string>
-  <string name="bigscrren_slide_exit">Ukončit prezentaci</string>
   <string name="bigscreen_slide_fail_cause_loading">Zkuste to znovu po načtení obrázku.</string>
+  <string name="bigscrren_slide_exit">Ukončit prezentaci</string>
   <string name="browse_category">Prohlížení fotografií</string>
   <string name="by_email">E-mail</string>
   <string name="by_others">Ostatní</string>
@@ -119,7 +119,10 @@ společně!"</string>
   <string name="confirm_delete_cloud_all_item_page" formatted="false">Obrázky: %s, alba: %s. Opravdu chcete vymazat?</string>
   <string name="confirm_delete_pictures">obrázky (%s)</string>
   <string name="confirm_delete_system_album">%s je systémové album, opravdu vymazat?</string>
+  <string name="confirm_delete_this_picture">Vymazat tento obrázek?</string>
+  <string name="confirm_delete_this_video">Vymazat toto video?</string>
   <string name="confirm_delete_videos">videa (%s)</string>
+  <string name="confirm_download">"Potřebujete stáhnout %s. Toto okno se už vícekrát nezobrazí."</string>
   <string name="contact_photo">Obrázek kontaktu</string>
   <string name="context_menu_add_contact">Přidat do kontaktů</string>
   <string name="context_menu_copy">Kopírovat</string>
@@ -138,13 +141,14 @@ společně!"</string>
   <string name="damaged_file">Soubor je poškozený</string>
   <string name="dcim_100media">Taobao TMall</string>
   <string name="dcim_opaipic">Opaipic</string>
-  <string name="dcim_viva_pics">VIVA</string>
-  <string name="defalt_local_mobile">Mobile</string>
-  <string name="delete"> Vymazat</string>
-  <string name="delete_fail_too_many_items">Nepodařilo se vymazat, je vybráno příliš mnoho položek</string>  
-  <string name="delete_file">Opravdu chcete vymazat tyto soubory (%1$d)?</string>  
-  <string name="delete_files_and_folders">Opravdu chcete vymazat tyto soubory (%1$d) a složky (%2$d)?</string> 
+  <string name="dcim_viva_pics">VIVA</string>  
+  <string name="defalt_local_mobile">Mobile</string>  
+  <string name="delete"> Vymazat</string> 
+  <string name="delete_fail_too_many_items">Nepodařilo se vymazat, je vybráno příliš mnoho položek</string>
+  <string name="delete_file">Opravdu chcete vymazat tyto soubory (%1$d)?</string>
+  <string name="delete_files_and_folders">Opravdu chcete vymazat tyto soubory (%1$d) a složky (%2$d)?</string>
   <string name="delete_folder">Opravdu chcete vymazat tyto složky (%1$d)?</string>
+  <string name="delete_smb_file_fail">Vymazání smb souboru selhalo</string>
   <string name="deleting_files">Odstraňuji soubory...</string>
   <string name="demo_video_folder_display_name">Demo Video</string>
   <string name="deny">Odmítnout</string>
@@ -157,6 +161,9 @@ společně!"</string>
   <string name="done">Hotovo</string>
   <string name="doodle">Čmáranice</string>
   <string name="doodle_tooltip">Kresli na snímku čmáranici</string>
+  <string name="download">Stáhnout</string>
+  <string name="download_fail">Stahování selhalo</string>
+  <string name="download_fail_confirm_continue">Stahování %s selhalo. Pokračovat?</string>
   <string name="duotone">Duo-tone</string>
   <string name="duration">Trvání</string>
   <string name="edit">Upravit</string>
@@ -188,6 +195,7 @@ společně!"</string>
   <string name="fail_to_apply">Připojení k albu selhalo.</string>
   <string name="fail_to_pick_email">Není zvolený žádný E-mail</string>
   <string name="fail_to_sync_album">Nastala chyba při synchronizaci se serverem. Zkontrolujte nastavení sítě.</string>
+  <string name="file_not_exist_message">Soubor neexistuje</string>
   <string name="file_size">Velikost souboru</string>
   <string name="filllight">Osvětlit</string>
   <string name="fisheye">Rybí oko</string>
@@ -243,11 +251,13 @@ společně!"</string>
   <string name="kick_sharer_successfully">Úspěšně odstraněno ze sdílených</string>
   <string name="loading">Nahrávám...</string>
   <string name="loading_failure">Snímek se nepodařilo nahrát</string>
+  <string name="loading_members">Načítání členů...</string>
   <string name="loading_thumbnail">Stahování náhledů...</string>
   <string name="local_albums">Lokální obrázky</string>
   <string name="location">Poloha</string>
   <string name="locations">Místa</string>
   <string name="lomoish">Lomo</string>
+  <string name="make_download_dir_fail">Vytvoření složky pro soubory selhalo</string>
   <string name="maker">Tvůrce</string>
   <string name="manual">Manuál</string>
   <string name="me">Já</string>
@@ -282,6 +292,7 @@ společně!"</string>
   <string name="must_pick_file">Vyber obrázek</string>
   <string name="negative">Negativ</string>
   <string name="netease_newsreader_netease_down_pic">Netease Newsreader</string>
+  <string name="new_device_tips">Nalezeno nové zařízení. Stiskněte pro jeho zobrazení.</string>
   <string name="no">Ne</string>
   <string name="no_albums_alert">Žádná dostupná alba.</string>
   <string name="no_connectivity">"Některé polohy není možno identifikovat kvůli problémům se sítí."</string>
@@ -290,7 +301,7 @@ společně!"</string>
   <string name="no_network_connected">Žádné internetové připojení</string>
   <string name="no_picture_or_video">Prázdné</string>
   <string name="no_storage_disable_cloud_albums">Cloudová alba jsou nedostupná, prosím zkuste znovu až bude externí úložiště dostupné.</string>
-  <string name="no_such_item">"Nemohu najít položku."</string>
+  <string name="no_such_item">"Nemohu najít položku."</string>  
   <string name="no_thumbnail">Žádný náhled</string>
   <string name="none_picture">Žádné fotky</string>
   <string name="not_auto_create_recent_album">Nevytvářet automaticky často zobrazená alba</string>
@@ -302,7 +313,7 @@ společně!"</string>
   <string name="open_sync_title">Vyžaduje se Synchronizace</string>
   <string name="operation_add_picture">Vybrat obrázky</string>
   <string name="operation_delete_confirm_message_folder">"Složky a soubory v nich budou vymazány.
-"</string>  
+"</string>
   <string name="operation_failed">Operace selhala.</string>
   <string name="operation_in_process">Zpracovávání...</string>
   <string name="operation_refresh">Obnovit</string>
@@ -437,7 +448,7 @@ společně!"</string>
   <string name="slideshow_interval">Časový interval prezentace</string>
   <string name="slideshow_interval_dialog_title">Časový interval prezentace musí být větší než 0 sekund</string>
   <string name="slideshow_interval_invalid">Neplatné nastavení časového intervalu, musí být mezi 1 a 3600.</string>
-  <string name="slideshow_repeat_mode">Opakovat</string>
+  <string name="slideshow_repeat_mode">Opakovat</string> 
   <string name="slideshow_time_select_title">Zvolte čas prezentace</string>
   <string name="slideshow_time_title">Čas prezentace</string>
   <string name="storage_all_volumes">Všechna úložná zařízení</string>
@@ -448,7 +459,7 @@ společně!"</string>
   <string name="sync_album_error">Nepodařilo se stáhnout snímky v tomto albu. Prosím zkuste to později.</string>
   <string name="sync_album_in_proecess">Album se synchronizuje se serverem. Čekejte prosím...</string>
   <string name="sync_album_set_error">Nepodařilo se stáhnout seznam alb. Prosím zkuste to později.</string>
-  <string name="sync_album_summary">Nahrajte Vaše fotky do MiCloud</string> 
+  <string name="sync_album_summary">Nahrajte Vaše fotky do MiCloud</string>
   <string name="sync_history_power_on">Synchronizovat fotografie jen po dobu nabíjení.</string>
   <string name="sync_only_in_wifi">Jen Wi-Fi</string>
   <string name="sync_only_in_wifi_alert">Deaktivování synchronizace jen přes Wi-Fi může zvýšit Vaše poplatky za mobilní data. Opravdu Deaktivovat?</string>
@@ -481,8 +492,8 @@ společně!"</string>
   <string name="untagged">Neoznačené</string>
   <string name="user_alias_self">Já</string>
   <string name="video_download_in_process">Stahování videa</string>
-  <string name="video_download_start">Začít stahovat video</string>
-  <string name="video_err">"Není možno přehrát video."</string>
+  <string name="video_download_start">Začít stahování</string>
+  <string name="video_err">"Video nelze přehrát."</string>
   <string name="video_not_exist">Video nenalezeno</string>
   <string name="view_sharers">Sdíleno s</string>
   <string name="vignette">Portrét</string>
@@ -497,12 +508,4 @@ společně!"</string>
   <string name="widget_type_shuffle">Náhodně všechny obrázky</string>
   <string name="width">Šířka</string>
   <string name="yes">Ano</string>
-  <string name="file_not_exist_message">Soubor neexistuje</string>
-  <string name="download">Stáhnout</string>
-  <string name="confirm_download">"Potřebujete stáhnout %s. Toto okno se už vícekrát nezobrazí."</string>
-  <string name="download_fail">Stahování selhalo</string>
-  <string name="download_fail_confirm_continue">Stahování %s selhalo. Pokračovat?</string>
-  <string name="make_download_dir_fail">Vytvoření složky pro soubory selhalo</string>
-  <string name="delete_smb_file_fail">Vymazání smb souboru selhalo</string>
-  <string name="new_device_tips">Nalezeno nové zařízení. Stiskněte pro jeho zobrazení.</string>
 </resources>

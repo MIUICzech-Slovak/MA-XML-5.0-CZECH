@@ -247,6 +247,7 @@ Zkuste to znovu za %d sekund."</string>
     <string name="user_agreement3">" a "</string>
     <string name="user_agreement4">"ochrana osobních údajů. "</string>
     <string name="user_agreement5">Klepněte na OK pokud souhlasíte s podmínkami. Klepnutím na Zrušit akci ukončíte.</string>
+    <string name="v5_date_time_picker_dialog_title">Čas upozornění</string>
     <string name="v5_date_picker_label_day"/>
     <string name="v5_date_picker_label_month"/>
     <string name="v5_date_picker_label_year"/>

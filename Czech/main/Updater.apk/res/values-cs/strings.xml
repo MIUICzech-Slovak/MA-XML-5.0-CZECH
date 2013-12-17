@@ -13,7 +13,7 @@
     <string name="apply_update_dialog_cancel_button">Zrušit</string>
     <string name="apply_update_dialog_update_button">Aktualizace</string>
     <string name="apply_update_fail">Aktualizace systému selhala!</string>
-    <string name="apply_update_timer">Aktualizace je dokončena. Telefon se restartuje za %d sekund.</string>
+    <string name="apply_update_timer">Restartujte</string>
     <string name="apply_upload_info_message">klepnutím na Aktualizovat se automaticky telefon restartuje, aby mohla proběhnout aktualizace.</string>
     <string name="apply_upload_info_message_manually">Vypněte prosím zařízení a ručně spusťte Recovery k aplikování aktualizace %s z SD karty. Pokud si přejete zálohovat svá data, zálohujte si je a pak se vraťte k aktualizaci systému.</string>
     <string name="applying_rom_message">Použít aktualizaci</string>
@@ -73,7 +73,7 @@
     <string name="md5_check_cancelled">Ověření kontrolního součtu zrušeno</string>
     <string name="mione_update_fail_description">Prosím spusťte aktualizaci znovu</string>
     <string name="mione_update_fail_title">Aktualizace systému selhala!</string>
-    <string name="mione_update_success_title">Aktualizace úspěšná</string>
+    <string name="mione_update_success_title">Aktualizováno</string>
     <string name="monthly_build">Měsíční sestavení</string>
     <string name="move_data_to_sdcard_not_enough_space_message">Není dostatek místa na SD kartě pro přesun %dMB dat.</string>
     <string name="move_data_to_sdcard_title">Přesunout data na SD kartu</string>
@@ -152,10 +152,10 @@
     <string name="update_feedback_expired">"Zmeškali jste hodnocení aktualizace!\nVyplňte jej prosím následující úterý"</string>
     <string name="update_feel">Jak hodnotíte tuto aktualizaci?</string>
     <string name="update_general">Není špatná</string>
-    <string name="update_happy"/>
+    <string name="update_happy">Výborná</string>
     <string name="update_monthly_build_only">Aktualizovat pouze měsíční sestavení</string>
     <string name="update_sad">Nic moc</string>
-    <string name="update_success">Aktualizace byla úspěšná</string>
+    <string name="update_success">Aktualizace proběhla úspěšně</string>
     <string name="update_success_body">na verzi %s</string>
     <string name="update_success_title">MIUI byla aktualizována</string>
     <string name="updater_finish_download">Stahování ROM je dokončeno</string>

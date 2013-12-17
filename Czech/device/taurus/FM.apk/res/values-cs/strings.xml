@@ -106,6 +106,7 @@
     <string name="record_file_format">%1$s_%2$s</string>
     <string name="record_file_location_format">Klepněte pro zobrazení souboru %s</string>
     <string name="record_sucess">Nahrávání dokončeno</string>
+    <string name="record_completed">Nahrávání dokončeno</string>
     <string name="reduce_af">Snížit citlivost</string>
     <string name="regional_band">Rozsah frekvence (vymaže stanice)</string>
     <string name="search_dialog_title">Vyhledat stanice</string>
