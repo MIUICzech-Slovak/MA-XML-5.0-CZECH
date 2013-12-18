@@ -24,6 +24,8 @@
     <string name="acessibility_cal_notification">Oznámení kalendáře</string>
     <string name="acessibility_selected_marker_description">Vybrané události</string>
     <string name="acessibility_snooze_notification">Ztlumit upozornění</string>
+    <string name="activity_summary"/>
+    <string name="activity_title"/>
     <string name="add_account">Přidat účet</string>
     <string name="agenda_today">Dnes, %1$s</string>
     <string name="agenda_tomorrow">ZÍTRA, %1$s</string>
@@ -32,9 +34,9 @@
     <string name="alert_title">Upozornění kalendáře</string>
     <string name="app_label">Kalendář</string>
     <string name="attendees_label">Hosté</string>
-    <string name="birthday_calendar_display_name">Připomenutí narozenin</string>
+    <string name="birthday_calendar_display_name">Připomenutí narozenin</string>  
     <string name="birthday_event_description">"Dnes má %1$s narozeniny!"</string>
-    <string name="birthday_event_description_detail_leap"/>  
+    <string name="birthday_event_description_detail_leap"/>
     <string name="birthday_event_description_detail_smart"/>
     <string name="birthday_notification_age_term"/>
     <string name="birthday_notification_text_three_days_later">Zbývají 3 dny do narozenin (%3$s)</string>
@@ -46,6 +48,7 @@
     <string name="button_month">M</string>
     <string name="calendar_refresh">Aktualizovat</string>
     <string name="change_response_title">Změnit odpověď</string>
+    <string name="chongsha"/>
     <string name="copy_db">Odeslat databázi</string>
     <string name="copy_email">Kopírovat e-mailovou adresu</string>
     <string name="copy_number">Kopírovat číslo telefonu</string>
@@ -59,10 +62,10 @@
     <string name="day_view_new_event_hint">Přidat novou událost</string>
     <string name="default_reminder_mode">Výchozí upozornění</string>
     <string name="delete_label">Smazat</string>
-    <string name="delete_recurring_event_title">Ztlumit %s?</string>
+    <string name="delete_recurring_event_title">Ztlumit %s?</string>   
     <string name="delete_this_event_title">Smazat tuto událost?</string>
     <string name="description_label">Popis</string>
-    <string name="directory_searching_fmt">Vyhledávání na webu %s…</string>   
+    <string name="directory_searching_fmt">Vyhledávání na webu %s…</string>
     <string name="discard_label">Zrušit</string>
     <string name="dismiss_all_label">Zavřít vše</string>
     <string name="do_not_check">Nekontrolovat -></string>
@@ -94,6 +97,7 @@
     <string name="event_info_title_invite">Pozvánka na schůzku</string>
     <string name="event_info_when">"Kdy: "</string>
     <string name="event_info_where">"Kde: "</string>
+    <string name="event_lunar_month"/>
     <string name="event_not_found">Událost nenalezena.</string>
     <string name="event_show_more">Zobrazit</string>
     <string name="event_view">Zobrazit událost</string>
@@ -106,6 +110,8 @@
     <string name="hint_description">Popis</string>
     <string name="hint_what">Název události</string>
     <string name="hint_where">Místo</string>
+    <string name="huangli_bad_type"/>
+    <string name="huangli_good_type"/>
     <string name="jump_date">Přejít</string>
     <string name="jump_date_full">Přejít na datum</string>
     <string name="loading">Načítání...</string>
@@ -133,6 +139,7 @@
     <string name="no_syncable_calendars">Žádné kalendáře</string>
     <string name="no_title_label">(bez názvu)</string>
     <string name="not_synced">není synchronizován</string>
+    <string name="pengzu"/>
     <string name="prefDialogTitle_vibrateWhen">Vibrace</string>
     <string name="preferences_about_title">O aplikaci</string>
     <string name="preferences_alerts_popup_title">Vyskakovací oznámení</string>
@@ -167,14 +174,14 @@
     <string name="quick_response_settings">Rychlá odpověď</string>
     <string name="quick_response_settings_edit_title">Rychlá odpověď</string>
     <string name="quick_response_settings_summary">Upravit vlastní odpověď při odeslání emailu</string>
-    <string name="quick_response_settings_title">Upravit rychlé odpovědi</string>
+    <string name="quick_response_settings_title">Upravit rychlé odpovědi</string>   
     <string name="reminders_label">Přidat připomenutí</string>
     <string name="repeats_label">Opakování</string>
     <string name="response_maybe">Možná</string>
     <string name="response_no">Ne</string>
     <string name="response_yes">Ano</string>
     <string name="rest_day_indication"/>
-    <string name="save_label">Uložit</string>   
+    <string name="save_label">Uložit</string>
     <string name="saving_event">Událost byla uložena.</string>
     <string name="saving_event_with_guest">Aktualizace byly odeslány.</string>
     <string name="search">Hledat</string>
@@ -191,6 +198,7 @@
     <string name="snooze_all_label">Odložit vše</string>
     <string name="snooze_label">Ztlumit</string>
     <string name="synced">synchronizován</string>
+    <string name="taishen"/>
     <string name="tardis">TARDIS</string>
     <string name="template_announce_item_index" formatted="false">Událost %1$s z %2$s</string>
     <string name="time_zone">Časová zóna</string>
@@ -211,6 +219,9 @@
     <string name="widget_no_events">Žádné události</string>
     <string name="widget_select_style">Vyberte styl</string>
     <string name="work_day_indication"/>
+    <string name="wuxing"/>
+    <string name="xingxiu"/>
     <string name="yearly">Ročně (%s)</string>
     <string name="yearly_plain">Ročně</string>
+    <string name="zhushen"/>
 </resources>

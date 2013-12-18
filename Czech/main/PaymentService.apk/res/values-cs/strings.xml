@@ -53,12 +53,32 @@
     <string name="btn_wait_confirm_count">Čekání （%1$s）</string>	
     <string name="button_call">Volat</string>
     <string name="button_cancel">Zrušit</string>
+    <string name="button_confirm">Potvrdit</string>
+    <string name="button_next">Další</string>
     <string name="button_pay">Potvrdit</string>
     <string name="button_recharge">Navýšit</string>
     <string name="button_recharge_pay">Potvrdit</string>
     <string name="button_retry">Znovu</string>
     <string name="cancel">Zrušit</string>
     <string name="change_security_lock">Více možností zamykání</string>
+    <string name="detail_consume_account">ID uživatele</string>
+    <string name="detail_consume_amount">Suma</string>
+    <string name="detail_consume_name">Produkt</string>
+    <string name="detail_consume_order">ID platby</string>
+    <string name="detail_consume_time">Čas</string>
+    <string name="detail_consume_title">Záznamy o platbě</string>
+    <string name="detail_giftcard_activity">Akce</string>
+    <string name="detail_giftcard_expired_time">Datum ukončení</string>
+    <string name="detail_giftcard_theme">Zakoupení témat</string>
+    <string name="detail_giftcard_title">Podrobnosti o poukázce</string>
+    <string name="detail_giftcard_total">Poukázky celkem</string> 
+    <string name="detail_pay_account">ID platby</string>
+    <string name="detail_recharge_account">ID navýšení</string>
+    <string name="detail_recharge_amount">Suma</string>
+    <string name="detail_recharge_method">Způsob</string>
+    <string name="detail_recharge_order">Číslo objednávky navýšení</string>
+    <string name="detail_recharge_time">Čas</string>
+    <string name="detail_recharge_title">Záznamy o navýšení</string>
     <string name="error_account_changed_summary">Váš Xiaomi účet byl aktualizován. 
 Zkontrolujte si svoje údaje a zkuste to znovu.</string>
     <string name="error_account_changed_title">Účet aktualizován</string>
@@ -72,7 +92,7 @@ Zkontrolujte si svoje údaje a zkuste to znovu.</string>
     <string name="error_frozen_title">Zablokovaný účet!</string>
     <string name="error_giftcard_summary">Není možné získat informace o poukázce</string>
     <string name="error_has_bought_summary">Tento produkt již máte zakoupený</string>
-    <string name="error_has_bought_title">Opakovat nákup</string> 
+    <string name="error_has_bought_title">Opakovat nákup</string>
     <string name="error_illegal_order_summary">Chyba objednávky, zkuste to znovu.</string>
     <string name="error_illegal_order_title">Chyba objednávky!</string>
     <string name="error_mili_summary">Nedostatečné finanční prostředky</string>
@@ -95,19 +115,19 @@ Vyčkejte prosím 5 minut a zkuste to znovu"</string>
     <string name="giftcard_denom_available">MiKreditů dostupných</string>
     <string name="giftcard_denom_frozen">MiKreditů zmrazených</string>
     <string name="giftcard_empty">Žádná poukázka</string>
-    <string name="giftcard_expire">%1$s-%2$s-%3$s vypršela platnost</string>
+    <string name="giftcard_expire">%1$s-%2$s-%3$s vypršela platnost</string>	
     <string name="giftcard_hint">"MiKredity z poukázky se použijí 
-prvně a nemohou být použité po vypršení platnosti"</string>
-    <string name="giftcard_push_notification_prime_title">"Dostali jste dárkovou poukázku"</string>
-    <string name="giftcard_push_notification_sub_title">%1$s: %2$s MiKreditů.</string>
-    <string name="giftcard_record">Mé poukázky</string>
-    <string name="giftcard_value">(%1$s MiKreditů)</string>
-    <string name="label_balance">Stav:</string>
-    <string name="label_order_name">Produkt:</string>
-    <string name="label_order_price">Cena:</string>
-    <string name="linkpay_china_unicom_english">China Unicom</string>
-    <string name="linkpay_id">ID:</string>
-    <string name="lockpassword_choose_your_pattern_header">Zvolte Váš vzor</string>
+prvně a nemohou být použité po vypršení platnosti"</string>	
+    <string name="giftcard_push_notification_prime_title">"Dostali jste dárkovou poukázku"</string>	
+    <string name="giftcard_push_notification_sub_title">%1$s: %2$s MiKreditů.</string>	
+    <string name="giftcard_record">Mé poukázky</string>	
+    <string name="giftcard_value">(%1$s MiKreditů)</string>	
+    <string name="label_balance">Stav:</string>	
+    <string name="label_order_name">Produkt:</string>	
+    <string name="label_order_price">Cena:</string>	
+    <string name="linkpay_china_unicom_english">China Unicom</string>	
+    <string name="linkpay_id">ID:</string>	
+    <string name="lockpassword_choose_your_pattern_header">Zvolte Váš vzor</string>	
     <string name="lockpassword_confirm_your_pattern_header">Potvrďte Váš vzor</string>
     <string name="lockpassword_input_your_pattern_header">Potvrďte Váš vzor</string>
     <string name="lockpattern_confirm_button_text">Potvrdit</string>
@@ -116,18 +136,18 @@ prvně a nemohou být použité po vypršení platnosti"</string>
     <string name="lockpattern_need_to_confirm_wrong">Není shodný s předchozím vzorem, zadejte ho znovu:</string>
     <string name="lockpattern_need_to_unlock_footer"/>
     <string name="lockpattern_need_to_unlock_wrong">&lt;font color=red>Nesprávné heslo. Můžete ho zadat ještě %d krát&lt;/font></string>
-    <string name="lockpattern_need_to_unlock_wrong_footer"/>	
-    <string name="lockpattern_pattern_confirmed_header">Váš nový odemykací vzor:</string>	
+    <string name="lockpattern_need_to_unlock_wrong_footer"/>
+    <string name="lockpattern_pattern_confirmed_header">Váš nový odemykací vzor:</string>
     <string name="lockpattern_pattern_entered_header">Vzor uložen.</string>	
     <string name="lockpattern_recording_incorrect_too_short">Spojte %d body. Zkuste to znovu:</string>	
-    <string name="lockpattern_recording_inprogress">Oddalte prst jakmile skončíte.</string>	
-    <string name="lockpattern_recording_intro_header">Nakreslete odemykací vzor:</string>	
-    <string name="lockpattern_retry_text"><u>Obnovit odemykací vzor</u></string>	
-    <string name="lockpattern_settings_help_how_to_record">Jak nakreslit odemykací vzor</string>	
-    <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Zkuste to znovu za %d sekund.</string>	
-    <string name="lockpattern_too_many_failed_confirmation_attempts_header">&lt;font color=red>Příliš mnoho nesprávných pokusů!&lt;/font></string>	
-    <string name="lockpattern_tutorial_cancel_label">Zrušit</string>	
-    <string name="lockpattern_tutorial_continue_label">Další</string>	
+    <string name="lockpattern_recording_inprogress">Oddalte prst jakmile skončíte.</string>
+    <string name="lockpattern_recording_intro_header">Nakreslete odemykací vzor:</string>
+    <string name="lockpattern_retry_text"><u>Obnovit odemykací vzor</u></string>
+    <string name="lockpattern_settings_help_how_to_record">Jak nakreslit odemykací vzor</string>
+    <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Zkuste to znovu za %d sekund.</string>
+    <string name="lockpattern_too_many_failed_confirmation_attempts_header">&lt;font color=red>Příliš mnoho nesprávných pokusů!&lt;/font></string>
+    <string name="lockpattern_tutorial_cancel_label">Zrušit</string>
+    <string name="lockpattern_tutorial_continue_label">Další</string>
     <string name="lockscreen_forgot_pattern_button_text"><u>Zapomněl jsem vzor</u></string>
     <string name="login">Přihlásit</string>
     <string name="memu_refresh">Obnovit</string>
@@ -138,8 +158,8 @@ prvně a nemohou být použité po vypršení platnosti"</string>
     <string name="msg_denomination_type">MiKredity</string>
     <string name="msg_error">Navýšení selhalo</string>
     <string name="msg_picker_hint_1_1">1.</string>
-    <string name="msg_picker_hint_1_2">Cena navýšení přes SMS je větší, než za jiný způsob navýšení 2 RMB (0,24€) = 1 MiKredit</string>	
-    <string name="msg_picker_hint_2_1">2.</string>	
+    <string name="msg_picker_hint_1_2">Cena navýšení přes SMS je větší, než za jiný způsob navýšení 2 RMB (0,24€) = 1 MiKredit</string>
+    <string name="msg_picker_hint_2_1">2.</string>
     <string name="msg_picker_hint_2_2">Za každé navýšení přes SMS si operátor účtuje %1$s RMB poplatek</string>
     <string name="msg_picker_hint_3_1">3.</string>
     <string name="msg_picker_hint_3_2">Maximálně je možné navýšit 300 RMB za měsíc</string>
@@ -159,9 +179,9 @@ prvně a nemohou být použité po vypršení platnosti"</string>
     <string name="order_price">%1$s MiKreditů</string>
     <string name="password_error">Zadejte heslo</string>
     <string name="password_hint">Zadejte heslo Xiaomi účtu:</string>
-    <string name="pay_record_empty">Žádné platby</string>
+	  <string name="pay_record_empty">Žádné platby</string>
     <string name="pay_record_typeall">Vše</string>
-    <string name="paytool_alipay">Alipay</string>
+    <string name="paytool_alipay">Alipay</string>	
     <string name="paytool_error_install">%1$s instalace bezpečnostního doplňku selhala</string>
     <string name="paytool_error_msp">%1$s selhalo!</string>
     <string name="paytool_msp_not_installed">Nemáte nainstalovaný bezpečnostní doplněk %1$s, chcete jej nainstalovat?</string>
@@ -172,16 +192,16 @@ prvně a nemohou být použité po vypršení platnosti"</string>
     <string name="prepaid_edit_limit">číslice</string>
     <string name="prepaid_error_card_length">Vložte správné číslo předplacené karty nebo heslo</string>
     <string name="prepaid_error_card_number">Nesprávné číslo karty</string>
-    <string name="prepaid_error_carrier">Zvolte svého operátora (jen Čína)</string>
+    <string name="prepaid_error_carrier">Zvolte svého operátora (jen Čína)</string>	
     <string name="prepaid_error_denomination">Zvolte hodnotu</string>
     <string name="prepaid_error_password">Nesprávné heslo karty</string>
     <string name="prepaid_number_edit_hint">Číslo: </string>
     <string name="prepaid_password_edit_hint">Heslo: </string>
     <string name="prepaid_picker_hint_1_1">1.</string>
     <string name="prepaid_picker_hint_1_2">Je možné navýšit jen jednou;</string>
-	  <string name="prepaid_picker_hint_2_1">2.</string>
+    <string name="prepaid_picker_hint_2_1">2.</string>
     <string name="prepaid_picker_hint_2_2_a">Zvolte hodnotu předplacené karty. Volba nesprávné sumy způsobí neplatnost karty a nelze to vrátit zpět.</string>
-    <string name="prepaid_picker_hint_2_2_b">Když suma předplacené karty není %1$s RMB, dojde k chybě a karta bude neplatná</string>	
+    <string name="prepaid_picker_hint_2_2_b">Když suma předplacené karty není %1$s RMB, dojde k chybě a karta bude neplatná</string>
     <string name="prepaid_picker_title_default">Zvolte výši navýšení</string>
     <string name="prepaid_picker_title_selected">Navýšit kredit</string>
     <string name="progress_bankcall_card_creating">Vytváření objednávky...</string>
@@ -192,7 +212,7 @@ prvně a nemohou být použité po vypršení platnosti"</string>
     <string name="progress_error_pay_title">Platba selhala</string>
     <string name="progress_error_recharge_summary">Navýšení selhalo. Zkuste to znovu později.</string>
     <string name="progress_error_recharge_title">Navýšení selhalo</string>
-    <string name="progress_loading">Zpracovávání...</string>	
+    <string name="progress_loading">Zpracovávání...</string>
     <string name="progress_msg_creating">Vytváření objednávky přes SMS...</string>
     <string name="progress_paytool_creating">Generování %1$s objednávky...</string>
     <string name="progress_paytool_installing">Instalace %1$s bezpečnostního doplňku...</string>
@@ -202,7 +222,7 @@ prvně a nemohou být použité po vypršení platnosti"</string>
     <string name="progress_submit_pay_summary">Platba: %1$s RMB</string>
     <string name="progress_submit_recharge_summary">Navýšení: %1$s MiKreditů</string>
     <string name="progress_submit_title">Objednávka odeslána</string>
-    <string name="progress_success_pay_summary">%1$s MiKreditů navýšeno, %2$s MiKreditů zaplaceno</string>
+    <string name="progress_success_pay_summary">%1$s MiKreditů navýšeno, %2$s MiKreditů zaplaceno</string>    
     <string name="progress_success_pay_title">Platba %1$s MiKreditů dokončena</string>
     <string name="progress_success_recharge_summary">Stav konta: %1$s MiKreditů</string>
     <string name="progress_success_recharge_title">Navýšení %1$s MiKreditů dokončeno</string>
@@ -225,7 +245,7 @@ Zkontrolujeme to do dvou pracovních dnů"</string>
     <string name="recharge_group_others">Ostatní způsoby navýšení</string>
     <string name="recharge_message_title">SMS (Jen Čína)</string>
     <string name="recharge_notification">Navýšení o %1$s MiKreditů</string>
-    <string name="recharge_novalid_method">Žádný možný způsob navýšení.</string>    
+    <string name="recharge_novalid_method">Žádný možný způsob navýšení.</string>
     <string name="recharge_other">Ostatní způsoby</string>
     <string name="recharge_pcpay_title">Navýšení přes PC</string>
     <string name="recharge_prepaid_title">Předplacené karty</string>
@@ -234,6 +254,9 @@ Zkontrolujeme to do dvou pracovních dnů"</string>
     <string name="recharge_record_empty">Žádné navýšení</string>
     <string name="recharge_tenpay_title">Tenpay</string>
     <string name="recharge_voucher_title">Poukázka</string>
+    <string name="scan_prompt_number">Načítat %1$s číslo předplacené karty</string>
+    <string name="scan_prompt_password">Načítat %1$s heslo předplacené karty</string>
+    <string name="scan_prompt_voucher">Načítat heslo MiKreditů</string>
     <string name="security_setting">Zabezpečení</string>
     <string name="summary_lockpattern">Vyžadovat odemykací vzor pro MiKredity</string>
     <string name="title_change_lockpattern">Nastavit odemykací vzor</string>
@@ -255,6 +278,6 @@ Zkontrolujeme to do dvou pracovních dnů"</string>
     <string name="title_visible_pattern">Zobrazit vzor</string>
     <string name="voucher_edit_hint">Kód</string>
     <string name="voucher_edit_limit">čísla</string>
-    <string name="voucher_error_password_empty">Prázdné.</string>
+    <string name="voucher_error_password_empty">Prázdné</string>
     <string name="voucher_input_password_prompt">Vložte heslo</string>
 </resources>
