@@ -3212,7 +3212,7 @@ Nastavení telefonu může vyžadovat přenos nemalého množství dat."</string
     <string name="miui_screensaver_title">Spořič displeje</string>
     <string name="activate_miui_screensaver">Spořič displeje během spánku</string>
     <string name="picture_source">Zdroj obrázků</string>
-    <string name="only_when_charging">Jen při nabíjení</string>
+    <string name="only_when_charging">Pouze při nabíjení</string>
     <string name="miui_screensaver_show_time">Trvání</string>
     <string name="miui_screensaver_show_time_select_title">Nastavit trvání prezentace</string>
     <string name="miui_screensaver_usage">Obrázky ve zvoleném albu se budou zobrazovat opakovaně 5 sekund po zhasnutí displeje.</string>
@@ -3222,13 +3222,13 @@ Nastavení telefonu může vyžadovat přenos nemalého množství dat."</string
     <string name="bt_hci_snoop_log_summary">Zaznamenat všechny pakety Bluetooth HCI do souboru</string> 
     <string name="bt_trace_log">Povolit Bluetooth Trace log</string>
     <string name="bt_trace_log_summary">Povolit Bluetooth Trace log</string>
-    <string name="preferred_application_title">Preferovaný %s</string>
+    <string name="preferred_application_title">%s</string>
     <string name="preferred_application_warning_title">Nahradit výchozí %s</string>
-    <string name="preferred_application_warning_message">Nahrazení výchozího %1$s může zvýšit spotřebu baterie, zpomalit chod systému a ohrozit obsah zařízení. Doporučuje se použít "%2$s".</string>
+    <string name="preferred_application_warning_message">Nahrazením výchozí aplikace %1$s se může zvýšit spotřeba baterie, zpomalit chod systému a ohrozit obsah zařízení. Doporučuje se ponechat aplikaci "%2$s".</string>
     <string name="preferred_application_warning_replace">Nahradit</string>
-    <string name="preferred_application_warning_use_system">Použít výchozí</string>
+    <string name="preferred_application_warning_use_system">Ponechat výchozí</string>
     <string name="preferred_app_settings">Výchozí aplikace</string>
     <string name="preferred_app_settings_default">Výchozí MIUI</string>
     <string name="preferred_app_settings_reset">Obnovit výchozí</string>
-    <string name="preferred_app_settings_reset_message">Obnovit nastavení výchozí aplikace?</string>
+    <string name="preferred_app_settings_reset_message">Obnovit nastavení výchozích aplikací?</string>
 </resources>
