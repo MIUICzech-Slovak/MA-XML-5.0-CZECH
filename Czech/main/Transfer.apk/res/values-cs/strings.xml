@@ -163,7 +163,7 @@
     <string name="send_tip">Odesílání většího množství obrázků, hudby a kontaktů...</string>
     <string name="send_to">Odeslat do:</string>
     <string name="send_uncompleted">Přenos selhal</string>
-    <string name="sent">Odeslané</string>
+    <string name="sent">Odesláno</string>
     <string name="settings_auto_pair_sender_summary">Použít zvukový signál pro automatické párování se zařízením</string>
     <string name="settings_auto_pair_sender_title">Párování zařízení pomocí zvukového signálu</string>
     <string name="settings_connect">Nastavení připojení</string>
