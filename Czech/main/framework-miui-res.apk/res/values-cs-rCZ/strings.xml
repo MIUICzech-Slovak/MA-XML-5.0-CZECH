@@ -8,11 +8,8 @@
     <string name="anniversary_of_lifting_martial_law"/>
     <string name="anti_aggression_day"/>
     <string name="app_no_notification">Žádné notifikace</string>
-    <string name="app_no_notification">žádné</string>
-    <string name="app_notificaiton_on_notificationBar">Roletka</string>
     <string name="app_notificaiton_on_notificationBar">Roletka</string>
     <string name="app_notificaiton_on_statusBar_and_notificationBar">Lišta a roletka</string>
-    <string name="app_notificaiton_on_statusBar_and_notificationBar">Stavová lišta a roletka</string>
     <string name="armed_forces_day"/>
     <string name="callNoAnswerTimeFormat">Zvonil %s krát</string>
     <string name="call_record_or">Anebo</string>
