@@ -106,7 +106,7 @@ Můžete je upravit."</string>
     <string name="overseas_menu_traffic_adjust">Nastavit manuálně</string>
     <string name="overseas_menu_traffic_settings">Limit dat</string>	
     <string name="overseas_unknown_traffic_hint">Nemáte nastavený limit stažených dat. Chcete jej nastavit?</string>
-    <string name="plate_traffic_already_used">Využito (%s)</string>
+    <string name="plate_traffic_already_used">Využito</string>
     <string name="plate_traffic_exceed">Překročeno</string>
     <string name="plate_traffic_remain">Zbývá</string>
     <string name="powered_by"/>
