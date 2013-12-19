@@ -129,6 +129,7 @@
     <string name="filter_by_size_prefix">Minimální velikost:</string>
     <string name="filter_by_size_summary">Filtrovat velmi malé soubory</string>	
     <string name="filter_notification">Složky jsou filtrovány. Můžete upravit v nastavení filtrování</string>
+    <string name="find_ktv">Vyhledat KTV</string>
     <string name="folder_title_format" formatted="false">%s(%d)</string>
     <string name="folders_title">Složky</string>
     <string name="frequentlyplayed_title">Nejčastěji přehrávané</string>
@@ -293,7 +294,7 @@
     <string name="where_is_barcode">"Kde je QR kód?"</string>
     <string name="i_know">OK</string>
     <string name="ktv_alert_title">Pouze pro podporované zařízení</string>
-    <string name="ktv_alert_message">"Zvolte Použít telefon pro přidání skladby na stránku KTV konzole"</string>
+    <string name="ktv_alert_message">"Pouze pro Čínu"</string>
     <string name="ktv_and_room">%1$s %2$s</string>
     <string name="ktv_connected_alert_titel">Připojeno k %1$s</string>
     <string name="ktv_connected_alert_message">Vybrané skladby budou přidány do playlistu Moje KTV</string>
