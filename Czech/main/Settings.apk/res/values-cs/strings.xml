@@ -1465,8 +1465,8 @@ Toto nastavení ovlivní všechny uživatele tohoto telefonu."</string>
     <string name="misc_files_selected_count_bytes">%1$s z %2$s</string>
     <string name="miui_screensaver_show_time">Trvání</string>
     <string name="miui_screensaver_show_time_select_title">Nastavit trvání prezentace</string>
-    <string name="miui_screensaver_state_off">VYP.</string>	
-    <string name="miui_screensaver_state_on">ZAP.</string>
+    <string name="miui_screensaver_state_off">Vypnutý</string>	
+    <string name="miui_screensaver_state_on">Zapnutý</string>
     <string name="miui_screensaver_title">Spořič displeje</string>
     <string name="miui_screensaver_usage">Obrázky ve zvoleném albu se budou zobrazovat opakovaně 5 sekund po zhasnutí displeje.</string>
     <string name="mms_log_tab_title">Seznam zpráv</string>
