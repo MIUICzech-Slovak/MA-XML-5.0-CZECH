@@ -242,7 +242,7 @@
     <string name="mx_warning_notice">SMS byla odeslána k aktivaci cloudových zpráv.</string>
     <string name="need_download">Čekání na synchr...</string>
     <string name="new_message">Nová zpráva</string>
-    <string name="new_message_arrived">Došla nová zpráva</string>
+    <string name="new_message_arrived">Přišla nová zpráva</string>
     <string name="new_phrase">Nová fráze</string>
     <string name="new_phrase_hint">Zadejte novou frázi</string>
     <string name="nickname_placeholder">Název</string>
