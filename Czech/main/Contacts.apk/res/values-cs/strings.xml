@@ -97,7 +97,7 @@
     <string name="callrecordview_item_op_time_only_seconds">%d sek.</string>
     <string name="callrecordview_item_op_time_rejected">Odmítnuto</string>
     <string name="callrecordview_item_op_time_short_incoming">"Příchozí "</string>
-    <string name="callrecordview_item_op_time_short_outgoing">"Odchozí: "</string>
+    <string name="callrecordview_item_op_time_short_outgoing">"Odchozí "</string>
     <string name="callrecordview_menu_add_call_note">Přidat poznámku</string>
     <string name="callrecordview_menu_delete">Smazat seznam hovorů</string>
     <string name="callrecordview_menu_delete_accepted">Smazat přijaté hovory</string>
