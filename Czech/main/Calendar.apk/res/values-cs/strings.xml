@@ -83,7 +83,7 @@
     <string name="email_picker_label">E-mail od</string>
     <string name="email_subject_prefix">"Re: "</string>
     <string name="empty_event">Prázdná událost se nevytvořila</string>
-    <string name="event_account">Účet kalendáře</string>
+    <string name="event_account">Účet</string>
     <string name="event_all_day_label">Celý den</string>
     <string name="event_create">Nová událost</string>
     <string name="event_delete">Smazat událost</string>
@@ -99,7 +99,7 @@
     <string name="event_info_where">"Kde: "</string>
     <string name="event_lunar_month"/>
     <string name="event_not_found">Událost nenalezena.</string>
-    <string name="event_show_more">Zobrazit</string>
+    <string name="event_show_more">Více</string>
     <string name="event_view">Zobrazit událost</string>
     <string name="every_weekday">Každý pracovní den (po–pá)</string>
     <string name="gadget_no_events">Žádné nadcházející události</string>
@@ -190,7 +190,8 @@
     <string name="select_synced_calendars_button">Kalendáře, které se mají synchronizovat</string>
     <string name="select_synced_calendars_title">Kalendáře, které se mají synchronizovat</string>
     <string name="select_visible_calendars_title">Kalendáře, které se mají zobrazit</string>
-    <string name="show_all_lunar">Zobrazit všechny lunární</string>
+    <string name="show_all_lunar">Lunární (Čína)</string>
+    <string name="show_almanac">Almanach (Čína)</string>
     <string name="show_controls">Zobrazit ovládací prvky</string>
     <string name="show_day_view">Zobrazit den</string>
     <string name="show_newer_events">Dotykem zobrazíte události po období %1$s</string>
@@ -201,7 +202,7 @@
     <string name="taishen"/>
     <string name="tardis">TARDIS</string>
     <string name="template_announce_item_index" formatted="false">Událost %1$s z %2$s</string>
-    <string name="time_zone">Časová zóna</string>
+    <string name="time_zone">Zóna</string>
     <string name="timezone_label">Časové pásmo</string>
     <string name="today">Dnes</string>
     <string name="today_at_time_fmt">Dnes v %s</string>
@@ -215,7 +216,7 @@
     <string name="what_label">Co</string>
     <string name="when_label">Kdy</string>
     <string name="where_label">Kde</string>
-    <string name="widget_events">Další události</string>
+    <string name="widget_events">Následující události</string>
     <string name="widget_no_events">Žádné události</string>
     <string name="widget_select_style">Vyberte styl</string>
     <string name="work_day_indication"/>

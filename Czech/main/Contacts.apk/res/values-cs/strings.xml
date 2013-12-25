@@ -1081,6 +1081,7 @@ Prosím otevřete tuto aplikaci ještě jednou pro aktualizaci zdrojů."</string
     <string name="today">Dnes</string>
     <string name="type_incoming">Příchozí hovor</string>
     <string name="type_missed">Zmeškaný hovor</string>
+    <string name="type_mx_msg">Cloud zprávy</string>
     <string name="type_outgoing">Odchozí hovor</string>
     <string name="type_voicemail">Hlasová zpráva</string>
     <string name="unknown">Neznámý</string>
@@ -1133,5 +1134,9 @@ Vyberte si z následujících možností:</string>
     <string name="yellowpage_navigation_search_hint">Vyhledat</string>
     <string name="yellowpage_navigation_search_offline_hint">Žádné připojení</string>
     <string name="yellowpage_navigation_search_select_city">Zvolte město</string>
+    <string name="yellowpage_navigation_search_result_no_more">Nic více</string>
+    <string name="yellowpage_navigation_search_result_network_error">"Nelze se připojit k síti"</string>
+    <string name="yellowpage_navigation_search_result_service_error">Služba není dostupná</string>
+    <string name="yellowpage_navigation_search_result_unknown_error">Neznámá chyba</string>
     <string name="zero_items_selected">Nic není vybráno</string>
 </resources>

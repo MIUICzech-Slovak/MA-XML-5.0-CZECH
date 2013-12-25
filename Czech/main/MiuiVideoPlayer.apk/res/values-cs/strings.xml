@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="about_app_name">Video přehrávač MIUI</string>
+    <string name="about_app_name">MIUIVideo</string>
     <string name="about_developer_label">Vývojář</string>
     <string name="about_developer_name">MIUI</string>
     <string name="about_title">O aplikaci</string>
     <string name="about_version">V4.0</string>
-	  <string name="about_version_label">Verze:</string>
+	<string name="about_version_label">Verze:</string>
     <string name="adjust_position_next_media_notice">Další</string>
     <string name="adjust_position_prev_media_notice">Předchozí</string>
     <string name="airkan_control_device_des">Můžete ovládat přehrávání pomocí tlačítek v dolní části</string>
@@ -20,6 +20,8 @@
     <string name="loading_video_netplay_label">Načítání, čekejte prosím...</string>
     <string name="loading_video_netplay_label_v5">Načítá se stream, čekejte prosím...</string>
     <string name="menu_item_about_label">O aplikaci</string>
+    <string name="menu_item_disable_audio_enhance">Zakázat vylepšení zvuku</string>
+    <string name="menu_item_enable_audio_enhance">Povolit vylepšení zvuku</string>
     <string name="menu_item_hide_media_info_label">Skrýt info o videu</string>
     <string name="menu_item_media_info_label">Informace o videu</string>
     <string name="menu_item_orientation_auto_sensor_action">Povolit otáčení</string>
@@ -29,7 +31,7 @@
     <string name="menu_item_switch_width_height_label">Nastavit poměr stran</string>
     <string name="menu_wh_item_adapt_height_label">Přizpůsobit na výšku</string>
     <string name="menu_wh_item_adapt_width_label">Přizpůsobit na šířku</string>
-    <string name="menu_wh_item_auto_select_label">Výchozí</string>
+    <string name="menu_wh_item_auto_select_label">Automaticky</string>
     <string name="menu_wh_item_full_screen_label">Celá obrazovka</string>
     <string name="menu_wh_item_using_16_9_label">Poměr 16:9</string>
     <string name="menu_wh_item_using_4_3_label">Poměr 4:3</string>
@@ -41,9 +43,10 @@
     <string name="to_be_play_label_v5">Začíná přehrávání</string>
     <string name="toast_back_key_pressed_notice">Stiskněte znovu pro ukončení</string>
     <string name="toast_message_continue_play_from">Přehrávání pokračuje od </string>
-    <string name="toast_message_continue_play_hour">h. </string>
-    <string name="toast_message_continue_play_minute">m. </string>
+    <string name="toast_message_continue_play_hour">"h. "</string>
+    <string name="toast_message_continue_play_minute">"m. "</string>
     <string name="toast_message_continue_play_second_and_play">s</string>
+    <string name="toast_message_set_misound">Nastavování...</string>
     <string name="top_status_local_media">Lokální média</string>
     <string name="top_status_online_media">Online média</string>
     <string name="video_info_audio_bitrate_label">Bitrate audia:</string>
@@ -56,6 +59,6 @@
     <string name="vp_VideoView_error_button">OK</string>
     <string name="vp_VideoView_error_network_not_available">Síť je nedostupná</string>
     <string name="vp_VideoView_error_text_invalid_progressive_playback">Omlouváme se, ale vybrané video není možné streamovat do zařízení</string>
-    <string name="vp_VideoView_error_text_unknown">Omlouváme se, ale vybraný formát není možné přehrát</string>
+    <string name="vp_VideoView_error_text_unknown">Vybraný formát nelze přehrát</string>
     <string name="vp_VideoView_error_title">Chyba přehrávání videa!</string>
 </resources>

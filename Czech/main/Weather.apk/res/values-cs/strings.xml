@@ -16,6 +16,7 @@
   <string name="act_set_city_re_find_side">Hledání...</string>
   <string name="act_weather_aqi_share">Sdílet</string>
   <string name="act_weather_aqi_title">Index kvality ovzduší</string>
+  <string name="act_weather_cycle_link_china">WeatherChina</string>
   <string name="act_weather_cycle_low_temp">Nízká</string>
   <string name="act_weather_cycle_update">Aktalizování...</string>
   <string name="act_weather_find_city_connect_net">Zkontrolujte připojení k internetu a zkuste to znovu.</string>
@@ -69,10 +70,12 @@
   <string name="location_management">Města</string>
   <string name="location_notification">Upozornění na počasí</string>
   <string name="menu_about">Co to je</string>
+  <string name="menu_add">Přidat města</string>
   <string name="menu_around">Okolní</string>
   <string name="menu_delete">Vymazat</string>
   <string name="menu_location">Města</string>
   <string name="menu_main">Index</string>
+  <string name="menu_more">Podrobnosti</string>
   <string name="menu_notification">Upozornění</string>
   <string name="menu_reload">Obnovit</string>
   <string name="menu_reloading">Aktualizování...</string>

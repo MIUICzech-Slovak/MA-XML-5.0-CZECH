@@ -220,6 +220,8 @@ Zkuste to znovu za %d sekund."</string>
     <string name="summer_solstice"/>
     <string name="sync_one_time_sync">Klepněte pro synchronizaci (%1$s)</string>
     <string name="teachers_day"/>
+    <string name="text_copied">Text byl zkopírován</string>
+    <string name="text_cut">Text byl vyjmut</string>
     <string name="text_pastelist">Schránka</string>
     <string name="the_armys_day"/>
     <string name="the_double_ninth_festival"/>
