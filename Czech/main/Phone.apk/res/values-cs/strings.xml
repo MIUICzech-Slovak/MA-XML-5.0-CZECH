@@ -85,7 +85,7 @@
     <string name="auto_ip_setting_miui">Automatické nastavené IP</string>
     <string name="auto_ip_summary_not_enabled">Není povoleno</string>
     <string name="auto_ip_support_local_numbers">Podpora lokálních čísel</string>
-    <string name="auto_record_call_summary_miui">Začne nahrávat hovor při spojení a ukládat jej na SD kartu</string>
+    <string name="auto_record_call_summary_miui">Začne nahrávat hovor při spojení a ukládat jej do úložiště</string>
     <string name="auto_record_call_title_miui">Automaticky nahrávat</string>
     <string name="auto_record_scenario_enteries_always_miui">Všechna tel. čísla</string>
     <string name="auto_record_scenario_title_miui">Režim nahrávání hovoru</string>
