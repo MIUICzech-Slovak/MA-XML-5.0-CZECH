@@ -13,13 +13,13 @@
 	    "position": 0
         },
         {
-            "title":"LevneSmartphony.cz",
-            "url":"http://www.levnesmartphony.cz/cs/?refferal=miui",
-            "thumbnail":"ls.png",
+            "title":"xiaomimobile.cz",
+            "url":"http://www.xiaomimobile.cz/",
+            "thumbnail":"xm.png",
             "logobg":"bg01.9.png",
             "nightModeMask": "night.9.png",
             "favicon":"",
-	    "displayName": "LevneSmartphony.cz",
+	    "displayName": "Xiaomimobile.cz",
 	    "isDelete": true,
 	    "movable": true,
 	    "position": 1
