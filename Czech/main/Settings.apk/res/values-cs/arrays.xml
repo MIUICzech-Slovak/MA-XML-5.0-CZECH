@@ -22,7 +22,7 @@
     </string-array>
     <string-array name="app_install_location_entries">
         <item>Interní úložiště zařízení</item>
-        <item>Vyjímatelná karta SD</item>
+        <item>Vyjímatelná SD karta</item>
         <item>Automaticky vybere systém</item>
     </string-array>
     <string-array name="app_process_limit_entries">
@@ -278,6 +278,16 @@ Nyní můžete kopírovat soubory."</item>
         <item>Vyvážený režim</item>
         <item>Úsporný režim</item>
     </string-array>
+    <string-array name="preferred_app_entries">
+        <item>Launcher</item>
+        <item>Volání</item>
+        <item>Zprávy</item>
+        <item>Prohlížeč</item>
+        <item>Fotoaparát</item>
+        <item>Galerie</item>
+        <item>Hudba</item>
+        <item>E-mail</item>
+    </string-array>
     <string-array name="score_descriptions">
         <item>Černá listina je deaktivována.</item>
         <item>Správce práv je deaktivován.</item>
@@ -328,6 +338,13 @@ Nyní můžete kopírovat soubory."</item>
         <item>Zakázat</item>
         <item>Vždy povolit</item>
     </string-array>  
+<string-array name="slideshow_time_entries">
+        <item>5 minut</item>
+        <item>15 minut</item>
+        <item>30 minut</item>
+        <item>1 hodina</item>
+        <item>Bez omezení</item>   
+   </string-array>
     <string-array name="startup_hips_action">
         <item>Povolit</item>
         <item>Zakázat</item>
@@ -519,23 +536,5 @@ Nyní můžete kopírovat soubory."</item>
         <item>Měřítko animace 2x</item>
         <item>Měřítko animace 5x</item>
         <item>Měřítko animace 10x</item>
-    </string-array>
-    <string-array name="slideshow_time_entries">
-        <item>5 minut</item>
-        <item>15 minut</item>
-        <item>30 minut</item>
-        <item>1 hodina</item>
-        <item>Bez omezení</item>
-    </string-array>
-     <string-array name="preferred_app_entries">
-        <item>Launcher</item>
-        <item>Volání</item>
-        <item>Zprávy</item>
-        <item>Prohlížeč</item>
-        <item>Fotoaparát</item>
-        <item>Galerie</item>
-        <item>Hudba</item>
-        <item>Video</item>
-        <item>E-mail</item>
     </string-array>
 </resources>
