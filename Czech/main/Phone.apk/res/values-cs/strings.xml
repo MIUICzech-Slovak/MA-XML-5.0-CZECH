@@ -782,6 +782,7 @@
     <string name="preferred_network_mode_dialogtitle">Preferovaný režim sítě</string>
     <string name="preferred_network_mode_evdo_only_summary">Preferovaný režim sítě: Jen EvDo</string>
     <string name="preferred_network_mode_global_summary">Preferovaný režim sítě: Globální</string>
+    <string name="preferred_network_type_group_title_miui">Mobilní síť (%s)</string>
     <string name="preferred_network_mode_gsm_only_summary">Preferovaný režim sítě: Jen GSM</string>
     <string name="preferred_network_mode_gsm_wcdma_summary">Preferovaný režim sítě: GSM / WCDMA</string>
     <string name="preferred_network_mode_lte_cdma_evdo_summary">Preferovaný režim sítě: CDMA+LTE / EVDO</string>
@@ -944,6 +945,10 @@
     <string name="sim_lock_off_miui">Vyžadován PIN pro použití telefonu</string>
     <string name="sim_lock_on_miui">Vyžadován PIN pro použití telefonu</string>
     <string name="sim_lock_title_miui">Nastavení zámku SIM</string>
+    <string name="sim_slot_alert_title">Slot na SIM kartu</string>
+    <string name="sim_slot_alert_message">Vložte %s SIM kartu do prvního slotu, který podporuje 3G sítě.</string>
+    <string name="sim_slot_alert_shutdown">Vypnout</string>
+    <string name="sim_slot_alert_cancel">Používat nadále</string>
     <string name="sim_ndp_dismiss_text">Odmítnout</string>
     <string name="sim_ndp_unlock_text">Odblokovat</string>
     <string name="sim_pin_change_miui">Změnit PIN</string>
