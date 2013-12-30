@@ -247,7 +247,7 @@
   <string name="pref_camera_picturesize_entry_3200x1800">6MP 16:9</string>
   <string name="pref_camera_picturesize_entry_3200x2400">8MP 4:3</string>
   <string name="pref_camera_picturesize_entry_4208x2368">Širokoúhlý 16:9</string>
-  <string name="pref_camera_picturesize_entry_4208x3120">13MP</string>
+  <string name="pref_camera_picturesize_entry_4208x3120">Standard 4:3 13MP</string>
   <string name="pref_camera_picturesize_professional_entry_1024x768">0.8MP (1024×768)</string>
   <string name="pref_camera_picturesize_professional_entry_1280x720">0.9MP (1280×720)</string>
   <string name="pref_camera_picturesize_professional_entry_1600x1200">2MP (1600×1200)</string>
