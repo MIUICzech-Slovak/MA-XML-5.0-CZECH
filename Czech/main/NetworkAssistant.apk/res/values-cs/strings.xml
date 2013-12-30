@@ -20,6 +20,7 @@
     <string name="adjust_traffic_sms_template_update">Vzor SMS o stavu</string>
     <string name="adjust_traffic_title">Upravit přenos dat</string>
     <string name="adjust_traffic_update">Obnovit</string>
+    <string name="another_sim_card_adjusting">Nastavuje se druhá SIM karta.</string>
     <string name="app_detail_internet_background">Průběh na pozadí</string>
     <string name="app_detail_internet_background_traffic">"V popředí: %1$s | Na pozadí:%2$s"</string>
     <string name="app_detail_internet_control_category">Typ sítě</string>
@@ -100,8 +101,10 @@ Můžete je upravit."</string>
     <string name="network_control_service_notification_title_nettype_mobile">Mobilní data</string>
     <string name="network_control_service_notification_title_nettype_wifi">Wi-Fi</string>
     <string name="network_control_service_notification_title_single">%1$s bylo zamítnuté připojení přes %2$s</string>
+    <string name="notify_carrier_settings_format">"%s Nebyl nastaven Váš poskytovatel služeb. Chcete jej nastavit?"</string>
     <string name="notify_carrier_settings_title">Nemáte nastaveného svého operátora. Nastavit teď?</string>
     <string name="notify_traffic_settings_cancel_hint">Oznámení a monitorování spotřeby dat bude deaktivováno. Ukončit?</string>
+    <string name="notify_traffic_settings_format">"%s Nebyl nastaven limit dat. Chcete jej nastavit?"</string>
     <string name="notify_traffic_settings_title">Nemáte nastavený Váš limit dat. Chcete jej nastavit?</string>
     <string name="overseas_menu_traffic_adjust">Nastavit manuálně</string>
     <string name="overseas_menu_traffic_settings">Limit dat</string>	
@@ -151,6 +154,12 @@ Můžete je upravit."</string>
     <string name="text_day"/>
     <string name="text_done">Hotovo</string>
     <string name="text_save">Uložit</string>
+    <string name="this_month_mobile_format">%s Provoz za měsíc</string>
+    <string name="this_month_total_traffic_format">%s Provoz za měsíc</string>
+    <string name="this_month_wlan">Wi-Fi tento měsíc</string>
+    <string name="today_mobile_format">%s Provoz za dnešek</string>
+    <string name="today_total_traffic_format">%s Provoz za dnešek</string>
+    <string name="today_wlan">Wi-Fi za dnešek</string>
     <string name="traffic_bought">Navýšit</string>
     <string name="traffic_none">Žádné</string>
     <string name="traffic_remain">Zbývající</string>
@@ -177,4 +186,7 @@ Využito"</string>
     <string name="warning_title">Upozornění</string>
     <string name="wifi_traffic">Wi-Fi: %s</string>
     <string name="wifi_type">Wi-Fi</string>	
+    <string name="yesterday_mobile_format">%s Provoz za včerejšek</string>
+    <string name="yesterday_total_traffic_format">%s Provoz za včerejšek</string>
+    <string name="yesterday_wlan">Wi-Fi včera</string>
 </resources>
