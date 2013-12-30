@@ -165,7 +165,7 @@
   <string name="pref_camera_antibanding_entry_2">60 Hz</string>
   <string name="pref_camera_antibanding_entry_3">Auto</string>
   <string name="pref_camera_antibanding_title">Redukce pruhů na displeji</string>
-  <string name="pref_camera_audio_capture_title">Záznam zvuků</string>
+  <string name="pref_camera_audio_capture_title">Spoušť zvukem</string>
   <string name="pref_camera_auto_focus_title_entry_off">Zapnuto</string>
   <string name="pref_camera_auto_focus_title_entry_on">Vypnuto</string>
   <string name="pref_camera_autoexposure_entry_centerweighted">Na střed</string>
@@ -414,7 +414,7 @@
   <string name="show_images_only">Zobrazit fotografie</string>
   <string name="show_on_map">Zobrazit na mapě</string>
   <string name="show_videos_only">Zobrazit videa</string>
-  <string name="simple_mode_button_text_audio_capture">Ukončit záznam zvuku</string>
+  <string name="simple_mode_button_text_audio_capture">Ukončit zvukovou spoušť</string>
   <string name="simple_mode_button_text_color_effect">Ukončit filtry</string>
   <string name="simple_mode_button_text_hand_night">Ukončit noční režim</string>
   <string name="simple_mode_button_text_hdr">Ukončit HDR</string>
@@ -436,7 +436,7 @@
   <string name="title">Název</string>
   <string name="toast_burst_snap_finished_end">Vytvořené fotografie</string>
   <string name="toast_burst_snap_finished_start">Dávkové snímání dokončeno</string>
-  <string name="toast_burst_snap_forbidden_when_audio_capture_open">Dávkové snímání není podporováno při záznamu zvuku.</string>
+  <string name="toast_burst_snap_forbidden_when_audio_capture_open">Dávkové snímání není podporováno při zvukové spoušti.</string>
   <string name="toast_burst_snap_forbidden_when_hdr_open">Dávkové snímání není podporováno v režimu HDR.</string>
   <string name="toast_burst_snap_forbidden_when_iso_not_auto">Dávkové snímání není podporované když ISO není nastaveno na AUTO.</string>
   <string name="toast_start_audio_capture">Vydejte zvuk pro vyfocení snímku</string>
