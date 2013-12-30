@@ -2770,7 +2770,7 @@ Každý uživatel může přijmout aktualizovaná oprávnění aplikací jménem
     <string name="virus_button_clear">Vyčistit</string>
     <string name="virus_scan">Antivirus</string>
     <string name="virus_scan_app_continue">Pokračovat ve skenování</string>
-    <string name="virus_scan_app_find_risk">%d je podezřelých, doporučuje se je odinstalovat.</string>
+    <string name="virus_scan_app_find_risk">Podezřelé: %d, doporučuje se je okamžitě odinstalovat!.</string>
     <string name="virus_scan_app_finish">Zavřít</string>
     <string name="virus_scan_app_force_stop">Skenování zastaveno.</string>
     <string name="virus_scan_app_is_stop_scan">Chcete zastavit Antivirus?</string>
@@ -2825,7 +2825,7 @@ Každý uživatel může přijmout aktualizovaná oprávnění aplikací jménem
     <string name="virus_scan_parpare">Začínám...</string>
     <string name="virus_scan_risk_button_name">Rizika</string>
     <string name="virus_scan_risk_list_empty">Žádná rizika.</string>
-    <string name="virus_scan_risk_title">%d podezřelých aplikací</string>
+    <string name="virus_scan_risk_title">Podezřelé aplikace: %d</string>
     <string name="virus_scan_safe">V pořádku</string>
     <string name="virus_scan_settings">Nastavení</string>
     <string name="virus_scan_settings_title">Virová databáze</string>
@@ -2838,7 +2838,7 @@ Každý uživatel může přijmout aktualizovaná oprávnění aplikací jménem
     <string name="virus_scan_update_now">Aktualizovat</string>
     <string name="virus_scan_use_cloud">Online virová databáze</string>
     <string name="virus_scan_virus_list_empty">Žádný virus.</string>
-    <string name="virus_scan_virus_title">Nalezených virů: %d</string>
+    <string name="virus_scan_virus_title">Nalezené viry: %d</string>
     <string name="virus_scan_viruslib_version">Verze virové databáze: %s</string>
     <string name="virus_scanner_auto_update">Aktualizovat automaticky</string>
     <string name="virus_scanner_date_formater">dd. MMM. yyyy</string>
