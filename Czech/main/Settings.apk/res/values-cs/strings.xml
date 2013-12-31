@@ -1896,7 +1896,7 @@ zkuste následující:"
     <string name="power_idle">V nečinnosti</string>
     <string name="power_mgr">Výkon</string>
     <string name="power_mode">Režim výkonu</string>
-    <string name="power_mode_airplane_mode">Režim Letadloe</string>
+    <string name="power_mode_airplane_mode">Režim Letadlo</string>
     <string name="power_mode_auto_clean_memery_lock_screen">Po %1$d min.</string>
     <string name="power_mode_auto_clean_memory">Vyčistit paměť</string>
     <string name="power_mode_auto_clean_memory_in_five_minutes">Po 5 minutách</string>

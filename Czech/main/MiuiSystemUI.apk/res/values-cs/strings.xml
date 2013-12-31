@@ -177,7 +177,7 @@
     <string name="settings_notification_icon">Notifikace v liště</string>
     <string name="settings_screenshot_notification_disabled">Nezobr. notif. o screenshotu</string>
     <string name="settings_show_flow_info">Zobrazovat traffic</string>
-    <string name="settings_show_network_speed">Zobr. rychlosti přenostu dat</string>
+    <string name="settings_show_network_speed">Zobr. rychlosti přenosu dat</string>
     <string name="settings_show_notificationBar_notification">Zobrazit v roletce</string>
     <string name="settings_show_statusBar_notification">Zobrazit v liště</string>
     <string name="settings_status_bar">Notifikační lišta</string>
