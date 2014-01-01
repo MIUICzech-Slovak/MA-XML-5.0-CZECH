@@ -3,13 +3,13 @@
     <string name="FMRecording_reach_storage_threshold">Nahrávání bylo ukončeno, dochází volné místo pro zápis.</string>
     <string name="access_sd_fail">Nelze načíst SD kartu</string>
     <string name="alert_dialog_cancel">Zrušit</string>
-    <string name="alert_dialog_ok">Ok</string>
+    <string name="alert_dialog_ok">OK</string>
     <string name="alert_invalid_frequency">Nesprávná frekvence.</string>
     <string name="alert_message_delete_station">Opravdu chcete odstranit tuto stanici?</string>
     <string name="alert_title_delete">Odstranit</string>
     <string name="alert_title_new_station">Nová stanice</string>
     <string name="alert_title_save_station">Uložit stanici - %s</string>
-    <string name="app_name">FM Rádio</string>
+    <string name="app_name">FM rádio</string>
     <string name="audio_db_album_name">Nahrávky z rádia</string>
     <string name="audio_db_artist_name">z rádia</string>
     <string name="audio_db_playlist_name">Nahrávky z rádia</string>
@@ -23,7 +23,7 @@
     <string name="context_menu_item_edit">Upravit</string>
     <string name="context_menu_item_favorite">Přidat k oblíbeným</string>
     <string name="context_menu_item_unfavorite">Odebrat z oblíbených</string>
-    <string name="context_menu_title">%sMHZ</string>
+    <string name="context_menu_title">%sMHz</string>
     <string name="default_audio">Stereo</string>
     <string name="default_band">Spojené státy</string>
     <string name="default_blank"/>
@@ -33,7 +33,7 @@
     <string name="durationformat">%2$d:%5$02d</string>
     <string name="edit_station">Upravit</string>
     <string name="enter_rssi">Vložte RMSSI Delta</string>
-    <string name="enter_sigth">Vložte Signál Th</string>
+    <string name="enter_sigth">Zadejte zesílení signálu</string>
     <string name="exit_fm">Konec</string>
     <string name="factory_reset_dialog_message">Tato volba odstraní veškerá nastavení včetně stanic</string>
     <string name="factory_reset_dialog_title">Potvrdit reset</string>
@@ -47,7 +47,7 @@
     <string name="fmradio_clear_confirm_msg">Uložené stanice budou odstraněny, pokračovat v hledání?</string>
     <string name="fmtx_autoselect_name">Automatický výběr odstraní všechny současné stanice, pokračovat?</string>
     <string name="frequency_already_exist">Frekvence již existuje</string>
-    <string name="frequency_mhz_fomart">%sMHZ</string>
+    <string name="frequency_mhz_fomart">%sMHz</string>
     <string name="frequency_out_of_range">(%1$s~%2$s) Frekvence je mimo povolený rozsah</string>
     <string name="frequency_should_not_null">Frekvence musí být zadána</string>
     <string name="frequency_string"/>
@@ -64,7 +64,7 @@
     <string name="menu_new_station">Přidat novou stanici</string>
     <string name="menu_play">Přehrát</string>
     <string name="menu_record_list">Seznam nahrávek</string>
-    <string name="menu_record_start">Začít nahrávání</string>
+    <string name="menu_record_start">Spustit nahrávání</string>
     <string name="menu_record_stop">Ukončit nahrávání</string>
     <string name="menu_rename_list">Přejmenovat seznam</string>
     <string name="menu_reorder_list">Změnit pořadí seznamu</string>
@@ -82,7 +82,7 @@
     <string name="msg_callactive">FM Tx není dostupné při aktivním hovoru</string>
     <string name="msg_do_not_support_fm">FM není podporováno na Vašem zařízení.</string>
     <string name="msg_headsetpluggedin">Odpojte sluchátka pro používání FM Tx</string>
-    <string name="msg_noantenna_message">Telefon využívá sluchátka jako anténu pro rádio. Připojte je prosím.</string>
+    <string name="msg_noantenna_message">Pro zlepšení kvality příjmu připojte sluchátka.</string>
     <string name="msg_scanning">Vyhledávání dostupných stanic</string>
     <string name="msg_scanning_pty">Hledám %s</string>
     <string name="msg_search_title">FM - %1$s</string>
@@ -104,8 +104,9 @@
     <string name="record_error_unknown">Nahrávání bylo ukončeno, došlo k neznámé chybě.</string>
     <string name="record_fail">Nahrávání selhalo</string>
     <string name="record_file_format">%1$s_%2$s</string>
-    <string name="record_file_location_format">Klepni pro zobrazení souboru %s</string>
+    <string name="record_file_location_format">Klepněte pro zobrazení souboru %s</string>
     <string name="record_sucess">Nahrávání dokončeno</string>
+    <string name="record_completed">Nahrávání dokončeno</string>
     <string name="reduce_af">Snížit citlivost</string>
     <string name="regional_band">Rozsah frekvence (vymaže stanice)</string>
     <string name="search_dialog_title">Vyhledat stanice</string>
@@ -133,7 +134,7 @@
     <string name="test_run">Spustit test</string>
     <string name="title_select_station">Vybrat stanici - %s</string>
     <string name="toast_added_to_list">Přidáno do seznamu</string>
-    <string name="toast_added_to_presets">Přidané</string>
+    <string name="toast_added_to_presets">Přidáno do předvoleb</string>
     <string name="toast_channel_searched">Nalezených %1$d stanic.</string>
     <string name="toast_delete_station">%s MHz smazáno</string>
     <string name="toast_edit_station">Úspěšně uloženo</string>
@@ -144,7 +145,7 @@
     <string name="toast_fm_starting">Spouští se FM，čekejte prosím...</string>
     <string name="toast_fm_stoping">Ukončuje se FM, čekejte prosím...</string>
     <string name="toast_removed_from_presets">Odebrané</string>
-    <string name="toast_save_station">%s MHz uloženo</string>
+    <string name="toast_save_station">%sMHz uloženo</string>
     <string name="toast_sleep_mode">Rádio se ukončí za %s</string>
     <string name="toast_sleep_mode_exit">Automatické vypnutí rádia zrušeno.</string>
     <string name="transmit_msg_string">Vysílám na:</string>

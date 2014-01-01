@@ -64,7 +64,7 @@
     <string name="menu_new_station">Přidat novou stanici</string>
     <string name="menu_play">Přehrát</string>
     <string name="menu_record_list">Seznam nahrávek</string>
-    <string name="menu_record_start">Začít nahrávání</string>
+    <string name="menu_record_start">Spustit nahrávání</string>
     <string name="menu_record_stop">Ukončit nahrávání</string>
     <string name="menu_rename_list">Přejmenovat seznam</string>
     <string name="menu_reorder_list">Změnit pořadí seznamu</string>
@@ -132,7 +132,7 @@
     <string name="test_run">Spustit test</string>
     <string name="title_select_station">Vybrat stanici - %s</string>
     <string name="toast_added_to_list">Přidáno do seznamu</string>
-    <string name="toast_added_to_presets">Přidané</string>
+    <string name="toast_added_to_presets">Přidáno do předvoleb</string>
     <string name="toast_channel_searched">Nalezených %1$d stanic.</string>
     <string name="toast_delete_station">%s MHz smazáno</string>
     <string name="toast_edit_station">Úspěšně uloženo</string>
