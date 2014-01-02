@@ -101,7 +101,7 @@
     <string name="callrecordview_menu_add_call_note">Přidat poznámku</string>
     <string name="callrecordview_menu_delete">Smazat seznam hovorů</string>
     <string name="callrecordview_menu_delete_accepted">Smazat přijaté hovory</string>
-	  <string name="callrecordview_menu_delete_all">Smazat všechny seznamy hovorů</string>
+    <string name="callrecordview_menu_delete_all">Smazat všechny seznamy hovorů</string>
     <string name="callrecordview_menu_delete_called">Smazat odchozí hovory</string>
     <string name="callrecordview_menu_delete_confirm">%s?</string>
     <string name="callrecordview_menu_delete_missed">Smazat zmeškané hovory</string>
@@ -112,7 +112,7 @@
     <string name="callrecordview_menu_paste">Vložit</string>
     <string name="callrecordview_menu_settings">Nastavení</string>
     <string name="callrecordview_menu_show">Zobrazit</string>
-	  <string name="callrecordview_menu_show_accepted">Zobrazit přijaté</string>
+    <string name="callrecordview_menu_show_accepted">Zobrazit přijaté</string>
     <string name="callrecordview_menu_show_all">Všechny hovory</string>
     <string name="callrecordview_menu_show_called">Zobrazit odchozí</string>
     <string name="callrecordview_menu_show_missed">Zmeškané hovory</string>
@@ -183,10 +183,10 @@
     <string name="contact_is_readOnly">Kontakt nelze upravit</string>
     <string name="contact_list_loading">Načítání...</string>
     <string name="contact_pick_photo">Fotka</string>
-	  <string name="contact_read_only">Kontaktní informace ze zdroje %1$s není možné na tomto zařízení upravit.</string>
+    <string name="contact_read_only">Kontaktní informace ze zdroje %1$s není možné na tomto zařízení upravit.</string>
     <string name="contact_status_update_attribution">přes %1$s</string>
     <string name="contact_status_update_attribution_with_date">%1$s přes %2$s</string>
-	  <string name="contact_unfavorite_toast">Kontakt byl odebrán z oblíbených</string>
+    <string name="contact_unfavorite_toast">Kontakt byl odebrán z oblíbených</string>
     <string name="contactsAllLabel">Vše</string>
     <string name="contactsFavoritesLabel">Oblíbené kontakty</string>
     <string name="contactsGroupsLabel">Skupiny</string>
@@ -202,12 +202,12 @@
     <string name="customLabelPickerTitle">Vlastní označení</string>
     <string name="custom_list_filter">Definovat vlastní zobrazení</string>
     <string name="custom_nickname_hint">Vložte oslovení jako: Pan/Paní</string>
-	  <string name="date_picker_label">Připomenout 3 dny před narozeninami</string>
+    <string name="date_picker_label">Připomenout 3 dny před narozeninami</string>
     <string name="date_time_set">Nastavit</string>
     <string name="date_year_toggle">Zadejte rok</string>
     <string name="default_ringtone">Výchozí vyzvánění</string>
     <string name="deleteConfirmation">Tento kontakt bude smazán.</string>
-	  <string name="deleteConfirmationDetail">Kontakt \"%s\" bude vymazán</string>
+    <string name="deleteConfirmationDetail">Kontakt \"%s\" bude vymazán</string>
     <string name="deleteConfirmation_title">Smazat</string>
     <string name="delete_call_log_title">Smazat vybrané logy hovorů?</string>
     <string name="delete_contact_calllog_title">Chcete vymazat všechny záznamy o volání kontaktu?</string>
@@ -217,11 +217,11 @@
     <string name="delete_group_dialog_message">"Opravdu chcete vymazat skupinu \"%1$s\"? (Kontakty ve skupině nebudou smazány.)"</string>  
     <string name="delete_group_dialog_title">Vymazat skupinu</string> 
     <string name="delete_selected_sim_entry_miui">Vymazat vybrané kontakty</string>
-	  <string name="delete_sim_entries_finish">Vymazání kontaktů na SIM kartě dokončeno</string>
-	  <string name="delete_sim_entry_miui">Vymazat</string>
+    <string name="delete_sim_entries_finish">Vymazání kontaktů na SIM kartě dokončeno</string>
+    <string name="delete_sim_entry_miui">Vymazat</string>
     <string name="delete_unknown_contact_calllog_title">Potvrdit smazání volání na neznámá čísla?</string>
-	  <string name="deleting">Odstraňování...</string>
-	  <string name="deleting_sim_entry_miui">Mazání kontaktů na SIM kartě...</string>
+    <string name="deleting">Odstraňování...</string>
+    <string name="deleting_sim_entry_miui">Mazání kontaktů na SIM kartě...</string>
     <string name="description_add_contact">Přidat kontakt</string>
     <string name="description_author">Autor</string>
     <string name="description_call">Volat %1$s</string>
@@ -270,7 +270,7 @@
     <string name="device_brand_title">Zvolte značku telefonu</string>
     <string name="device_import_account_dialog_title">Zvolte účet pro import</string>
     <string name="device_import_account_dialog_title_suffix">"
-(nalezených %1$s kontaktů)"</string>
+(nalezených kontaktů: %1$s)"</string>
     <string name="device_import_done_toast">%1$d importovaných kontaktů</string>
     <string name="device_import_failed_message">Import selhal!</string>
     <string name="device_import_local_account">Lokální účet</string>
@@ -417,16 +417,16 @@ Chyba: \"%s\""</string>
     <string name="hint_search_phone_numbers">%d čísel kontaktů</string>
     <string name="ic_menu_back">Zpět</string>
     <string name="ic_menu_done">Hotovo</string>
-  	<string name="imLabelsGroup">IM</string>
+    <string name="imLabelsGroup">IM</string>
     <string name="imei">IMEI</string>
-  	<string name="import_all_sim_entries_miui">Importování všech kontaktů</string>
+    <string name="import_all_sim_entries_miui">Importování všech kontaktů</string>
     <string name="import_all_vcard_string">Importovat všechny vizitky</string>
-  	<string name="import_contact_card_button">Import</string>
+    <string name="import_contact_card_button">Import</string>
     <string name="import_failure_no_vcard_file">Na SD kartě nebyla nalezena žádná vizitka</string>
     <string name="import_from_other_phone">Importovat z jiného telefonu</string>
     <string name="import_from_sdcard">Importovat z SD karty</string>
     <string name="import_from_sim">Importovat ze SIM karty</string>
-  	<string name="import_multiple_vcard_string">Importovat více vizitek</string>
+    <string name="import_multiple_vcard_string">Importovat více vizitek</string>
     <string name="import_name">Jméno</string>
     <string name="import_one_vcard_string">Importovat vizitku</string>
     <string name="import_percent">0%</string>
@@ -443,7 +443,7 @@ Chyba: \"%s\""</string>
     <string name="import_weibo_error_no_matched_contacts">Kontakty byly aktualizovány: žádné odpovídající kontakty</string>
     <string name="import_weibo_error_no_network">Kontakty byly aktualizovány: chyba sítěerror</string>
     <string name="import_weibo_error_no_xiaomi_phone">Kontakty byly aktualizovány: v účtu XiaoMi nebyly nalezeny žádná čísla</string>
-  	<string name="import_weibo_error_unknown">Kontakty byly aktualizovány: neznámá chyba</string>
+    <string name="import_weibo_error_unknown">Kontakty byly aktualizovány: neznámá chyba</string>
     <string name="import_weibo_error_user_cancel">Kontakty byly aktualizovány: userzrušeno uživatelem</string>
     <string name="import_weibo_fetch_followers">Získávání Sina Weibo přátel...</string>
     <string name="import_weibo_notification_title_done">Import kompletní</string>
@@ -453,7 +453,7 @@ Chyba: \"%s\""</string>
     <string name="importing_vcard_canceled_title">Import %s byl přerušen</string>
     <string name="importing_vcard_description">Import %s</string>
     <string name="importing_vcard_finished_title">Import vizitky %s dokončen</string>
-  	<string name="insertContactDescription">Vytvořit kontakt</string>
+    <string name="insertContactDescription">Vytvořit kontakt</string>
     <string name="insertGroupDescription">Vytvořit skupinu</string>
     <string name="invalidContactMessage">Kontakt neexistuje.</string>
     <string name="keep_local">Místní</string>
@@ -471,13 +471,13 @@ Chyba: \"%s\""</string>
     <string name="listTotalAllContactsZeroCustom">Žádné viditelné kontakty.</string>   
     <string name="listTotalAllContactsZeroGroup">Žádné kontakty v %s</string>
     <string name="listTotalAllContactsZeroStarred">Žádné oblíbené kontakty</string>
-  	<string name="listTotalPhoneContactsZero">Žádné kontakty s telefonním číslem</string>
-  	<string name="list_filter_all_accounts">Všechny kontakty</string>
+    <string name="listTotalPhoneContactsZero">Žádné kontakty s telefonním číslem</string>
+    <string name="list_filter_all_accounts">Všechny kontakty</string>
     <string name="list_filter_all_starred">Oblíbené</string>
     <string name="list_filter_custom">Vlastní</string>
     <string name="list_filter_customize">Vlastní...</string>
     <string name="list_filter_phones">Všechny kontakty s telefonními čísly</string>
-  	<string name="list_filter_single">Kontakt</string>
+    <string name="list_filter_single">Kontakt</string>
     <string name="loading">Načítání...</string>
     <string name="loading_group_members">Načítání kontaktů ve skupině...</string>
     <string name="loading_groups">Načítání skupin...</string>
@@ -496,21 +496,21 @@ Chyba: \"%s\""</string>
     <string name="map_home">Zobrazit adresu domů</string>
     <string name="map_other">Zobrazit adresu</string>
     <string name="map_work">Zobrazit pracovní adresu</string>
-  	<string name="meid">MEID</string>
+    <string name="meid">MEID</string>
     <string name="menu_accounts">Účty</string>
     <string name="menu_addStar">Oblíbený</string>
     <string name="menu_bar_group_add">Přidat</string>
-  	<string name="menu_bar_group_delete">Vymazat</string>
+    <string name="menu_bar_group_delete">Vymazat</string>
     <string name="menu_bar_group_rename">Přejmenovat</string>
-	  <string name="menu_bar_group_ringtone">Zvonění</string>
+    <string name="menu_bar_group_ringtone">Zvonění</string>
     <string name="menu_bar_group_ringtone_largeui">Zvonění</string>
-	  <string name="menu_bar_group_sms">Skupinová SMS</string>
+    <string name="menu_bar_group_sms">Skupinová SMS</string>
     <string name="menu_call">Volat kontakt</string>
     <string name="menu_callNumber">Volat kontakt %s</string>
     <string name="menu_call_ip_number">Vytočit IP hovor (volaný %s)</string>
     <string name="menu_clear_frequents">Vyčistit časté</string>
     <string name="menu_contacts_filter">Zobrazit kontakty</string>
-	  <string name="menu_copy">Kopírovat</string>
+    <string name="menu_copy">Kopírovat</string>
     <string name="menu_copyContact">Zkopírovat do mých kontaktů</string>
     <string name="menu_create_contact_shortcut">Přidat na plochu</string>
     <string name="menu_deleteContact">Smazat</string>
@@ -522,7 +522,7 @@ Chyba: \"%s\""</string>
     <string name="menu_doNotSave">Zrušit</string>
     <string name="menu_done">Hotovo</string>
     <string name="menu_editContact">Upravit</string>
-	  <string name="menu_editGroup">Upravit</string>
+    <string name="menu_editGroup">Upravit</string>
     <string name="menu_help">Pomoc</string>
     <string name="menu_import_export">Import/Export</string>
     <string name="menu_joinAggregate">Spojit</string>
@@ -530,12 +530,12 @@ Chyba: \"%s\""</string>
     <string name="menu_new_contact_action_bar">Nový kontakt</string>
     <string name="menu_new_favorite_action_bar">Nový oblíbený kontakt</string>
     <string name="menu_new_group_action_bar">Nová skupina</string>
-  	<string name="menu_not_redirect_calls_to_vm">Hlasová schránka se nepoužívá</string>
+    <string name="menu_not_redirect_calls_to_vm">Hlasová schránka se nepoužívá</string>
     <string name="menu_redirect_calls_to_vm">Přesměrovat do hlasové schránky</string>
     <string name="menu_refresh">Obnovit</string>
     <string name="menu_removeStar">Odstranit z oblíbených</string>
-	  <string name="menu_search">Hledat</string>
-	  <string name="menu_select_all">Vybrat vše</string>
+    <string name="menu_search">Hledat</string>
+    <string name="menu_select_all">Vybrat vše</string>
     <string name="menu_select_none">Odznačit vše</string>
     <string name="menu_sendSMS">Poslat SMS</string>
     <string name="menu_sendTextMessage">Odeslat SMS</string>
@@ -546,7 +546,7 @@ Chyba: \"%s\""</string>
     <string name="menu_show_voicemails_only">Zobrazit jen hlasové vzkazy</string>
     <string name="menu_splitAggregate">Rozdělit</string>
     <string name="menu_sync_remove">Zrušit synchronizaci skupiny</string>
-  	<string name="menu_viewContact">Zobrazit kontakt</string>
+    <string name="menu_viewContact">Zobrazit kontakt</string>
     <string name="merge_contact_message" formatted="false">%1$d kontaktů s částečně duplicitními daty, %2$d vybráno</string>
     <string name="messageShortcutActivityTitle">Výběr čísla pro zprávu</string>
     <string name="missing_name">(bez jména)</string>
@@ -557,10 +557,10 @@ Chyba: \"%s\""</string>
     <string name="my_phone_provider_bluetooth">Můj telefon má Bluetooth</string>
     <string name="nameLabelsGroup">Jméno</string>
     <string name="name_family">Příjmení</string>
-	  <string name="name_given">Křestní jméno</string>
+    <string name="name_given">Křestní jméno</string>
     <string name="name_middle">Prostřední jméno</string>
     <string name="name_phonetic">Jméno foneticky</string>
-	  <string name="name_phonetic_family">Příjmení foneticky</string>
+    <string name="name_phonetic_family">Příjmení foneticky</string>
     <string name="name_phonetic_given">Křestní jméno foneticky</string>
     <string name="name_phonetic_middle">Prostřední jméno foneticky</string>
     <string name="name_prefix">Před jménem</string>
@@ -570,7 +570,7 @@ Chyba: \"%s\""</string>
     <string name="nfc_vcard_file_name">Kontakt získán přes NFC</string>
     <string name="nicknameLabelsGroup">Jméno kontaktu</string>
     <string name="nickname_editor_title">Upravit přezdívku</string>
-     <string name="nickname_picker_name_column">Jméno kontaktu</string>
+    <string name="nickname_picker_name_column">Jméno kontaktu</string>
     <string name="nickname_picker_nickname_column">Titul</string>
     <string name="noAccounts">Aby bylo možné vytvořit skupiny, musí výt vytvořen účet</string>
     <string name="noContactHelpTextAccountsInfo">Synchronizujte Google nebo Exchange kontakty.</string>
@@ -653,7 +653,7 @@ Synchronizujte je nyní."</string>
     <string name="no_sdcard_message">Úložiště nebylo nalezeno</string>
     <string name="non_phone_add_to_contacts">Přidat do kontaktů</string>
     <string name="non_phone_caption">Telefonní číslo</string>
-	  <string name="non_phone_close">Zavřít</string>
+    <string name="non_phone_close">Zavřít</string>
     <string name="none_found">Žádné zařízení</string>
     <string name="none_paired">Žádné spárované zařízení</string>
     <string name="not_applied">Není podporováno</string>
@@ -667,7 +667,7 @@ Synchronizujte je nyní."</string>
     <string name="option_delete_contact">Vymazat</string>
     <string name="option_delete_group">Vymazat</string>
     <string name="option_edit_contact">Upravit</string>
-	  <string name="option_not_in_group">Odebrat</string>
+    <string name="option_not_in_group">Odebrat</string>
     <string name="option_not_star">Odebrat z oblíbených</string>
     <string name="option_rename_group">Přejmenovat</string>
     <string name="option_send_to_desktop">Odeslat na plochu</string>
@@ -755,7 +755,7 @@ Synchronizujte je nyní."</string>
     <string name="preference_smart_group_location_title">Podle adresy</string>
     <string name="preference_smart_group_title">Inteligentní skupiny</string>
     <string name="preference_telocation_summary_countrycode_off">Nepřidávat automaticky kód země</string>
-	  <string name="preference_telocation_summary_countrycode_on">Automaticky přidat kód země</string>
+    <string name="preference_telocation_summary_countrycode_on">Automaticky přidat kód země</string>
     <string name="preference_telocation_summary_teloc_off">Skrýt místo</string>
     <string name="preference_telocation_summary_teloc_on">Zobrazit místo</string>
     <string name="preference_telocation_title">Poloha volajícího</string>
@@ -837,7 +837,7 @@ Synchronizujte je nyní."</string>
     <string name="resource_comment_publish">Odeslat</string>
     <string name="resource_comment_rate">Hodnocení:</string>
     <string name="resource_comment_score_count">%1$s uživatelů</string>     
-	  <string name="resource_comment_sending">Odesílání komentáře...</string>
+    <string name="resource_comment_sending">Odesílání komentáře...</string>
     <string name="resource_comment_title">Komentáře: %1$s</string>
     <string name="resource_comment_upload_data_invalid">Chybný komentář.</string>
     <string name="resource_comment_upload_failed">Odesílání komentáře selhalo.</string>
@@ -885,7 +885,7 @@ Synchronizujte je nyní."</string>
     <string name="resource_expand_full_text">Rozbalit</string>
     <string name="resource_get_auth_checking">Kontrola autorizace...</string>
     <string name="resource_get_auth_exceed_max_limit_tips">Zvolený vzhled nemůže být aplikován na tomto telefonu s Vaším Xiaomi účtem. Na jeden účet je možné přihlásit maximálně 10 zařízení za rok. Vložte jiný Xiaomi účet.</string>
-  	<string name="resource_get_auth_exceed_max_limit_title">Autorizace zařízení pro tento účet přesáhla limit</string>
+    <string name="resource_get_auth_exceed_max_limit_title">Autorizace zařízení pro tento účet přesáhla limit</string>
     <string name="resource_get_auth_missing">Toto téma není stáhnuté z oficiálního obchodu.</string>
     <string name="resource_get_auth_retrieving">Získávání autorizace...</string>
     <string name="resource_hint">Výstraha</string>
@@ -902,7 +902,7 @@ Synchronizujte je nyní."</string>
     <string name="resource_pack_confirm">Už jste zakoupili %1$d položek, ale současná cena je stále výhodnější, než jejich zakoupení jednotlivě. Pokračovat?</string>
     <string name="resource_pack_discount_info">%1$s Uloženo!</string>
     <string name="resource_pack_price_info">%1$s Originál</string>
-	  <string name="resource_pack_warning">Upozornění! Už jste zakoupili %1$d položek, ale současná cena je stále výhodnější, než jejich zakoupení jednotlivě.</string>
+    <string name="resource_pack_warning">Upozornění! Už jste zakoupili %1$d položek, ale současná cena je stále výhodnější, než jejich zakoupení jednotlivě.</string>
     <string name="resource_present">Dárek</string>
     <string name="resource_price_format">(%1$s)</string>
     <string name="resource_price_free">Zdarma</string>
@@ -987,7 +987,7 @@ Prosím otevřete tuto aplikaci ještě jednou pro aktualizaci zdrojů."</string
     <string name="simContacts_airplaneMode">Pro importování kontaktů ze SIM karty deaktivujte režim Letadlo.</string>
     <string name="simContacts_empty">Žádné kontakty na Vaší SIM kartě.</string>
     <string name="simContacts_emptyLoading">Načítání kontaktů na SIM...</string>
-	  <string name="simContacts_title">Kontakty na SIM</string>
+    <string name="simContacts_title">Kontakty na SIM</string>
     <string name="sim_capacity">Zobrazit kapacitu SIM karty</string>
     <string name="sim_capacity_content" formatted="false">Celkem %d, využito %d</string>
     <string name="sim_card_no_free_space_message">Kapacita Vaší SIM je vyčerpaná, nemůžete přidat další kontakty. Prosím uvolněte místo.</string>
@@ -1020,7 +1020,7 @@ Prosím otevřete tuto aplikaci ještě jednou pro aktualizaci zdrojů."</string
     <string name="smart_group_frequency_3">Posledních 6 měsíců</string>
     <string name="smart_group_frequency_4">Nekontaktování 6 měsíců</string>
     <string name="smart_group_frequency_label">Naposledy kontaktovaní</string>
-   <string name="smart_group_label">Inteligentní skupiny</string>
+    <string name="smart_group_label">Inteligentní skupiny</string>
     <string name="smart_group_loading">Načítání inteligentních skupin...</string>
     <string name="smart_group_location_label">Podle adresy</string>
     <string name="smart_group_location_unavailable">Žádná adresa</string>
@@ -1055,7 +1055,7 @@ Prosím otevřete tuto aplikaci ještě jednou pro aktualizaci zdrojů."</string
     <string name="starred_contacts">Oblíbené</string>
     <string name="status_available">Dostupný</string>
     <string name="status_away">Pryč</string>
-	  <string name="status_busy">Zaneprázdněný</string>
+    <string name="status_busy">Zaneprázdněný</string>
     <string name="strequentList">Oblíbené</string>
     <string name="success_message_import_from_account">Import byl úspěšný</string>
     <string name="summary_kind_title">Souhrn</string>
@@ -1130,6 +1130,7 @@ Vyberte si z následujících možností:</string>
     <string name="yellowPageNavigationIconLabel">Adresář</string>
     <string name="yellowPageNavigationLabel">Adresář</string>
     <string name="yellowpage_navigation_no_content">Nic nebylo nalezeno</string>
+    <string name="yellowpage_navigation_menu_order">Má objednávka</string>
     <string name="yellowpage_navigation_search_city_name_hint">Město</string>
     <string name="yellowpage_navigation_search_hint">Vyhledat</string>
     <string name="yellowpage_navigation_search_offline_hint">Žádné připojení</string>

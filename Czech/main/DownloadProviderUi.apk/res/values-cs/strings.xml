@@ -55,6 +55,7 @@
     <string name="paused_unknown">Pozastaveno</string>
     <string name="paused_waiting_for_network">Pozastaveno, čekání na připojení k síti</string>
     <string name="paused_waiting_to_retry">Pozastaveno, čekání na obnovení</string>
+    <string name="xunlei_brand">Poskytuje Xunlei</string>
     <string name="pref_dialog_title_max_bytes_limit">Limit velikosti souboru</string>
     <string name="pref_download_settings_title">Využití dat</string>
     <string name="pref_summary_enable_max_bytes_popup">"Při stahování pomocí mobilního internetu se zeptat, pokud soubor přesahuje povolený limit"</string>

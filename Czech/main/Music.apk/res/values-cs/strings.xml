@@ -59,6 +59,8 @@
     <string name="create_equalzier_create_text_prompt">Název ekvalizéru</string>
     <string name="create_playlist_create_text_prompt">Název playlistu</string>
     <string name="custom">Přizpůsobit</string>
+    <string name="data_usage_warning">Upozonění využití dat!</string>
+    <string name="data_usage_warning_summary">Používání mobilních dat pro poslech hudby ve vysoké kvalitě může zvýšit Vaše měsíční poplatky.</string>
     <string name="default_interval">30</string>
     <string name="delete_file_from_sdcard">Současně odstranit soubory z SD karty</string>
     <string name="delete_item">Vymazat</string>
@@ -88,6 +90,7 @@
     <string name="empty_edit_hint">Informace o skladbě nejsou dostupné</string>
     <string name="empty_track_list">Žádné skladby</string>
     <string name="emptyplaylist">Vybraný playlist je prázdný.</string>
+    <string name="enabled">Povoleno</string>
     <string name="enter_sleep_mode">Režim spánku</string>
     <string name="eq_auto">Vlastní</string>
     <string name="eq_blues">Blues</string>
@@ -113,6 +116,7 @@
     <string name="equalizer_delete">Vymazat</string>
     <string name="equalizer_delete_success">Profil ekvalizéru byl odebrán</string>
     <string name="equalizer_save_success">Profil ekvalizéru byl uložen</string>
+    <string name="expired">Předplatné vypršelo</string>
     <string name="fade_effect_settings">Prolínání</string>
     <string name="fade_effect_summary">Povolit prolínání mezi jednotlivými skladbami</string>
     <string name="fast_scroll_alphabet">" ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
@@ -138,6 +142,8 @@
     <string name="frequentlyplayed_title">Nejčastěji přehrávané</string>
     <string name="headphone_settings">Nastavení typu sluchátek</string>
     <string name="high_quality">Vysoká kvalita</string>
+    <string name="higher_quality_music">Vysoká kvalita hudby</string>
+    <string name="higher_quality_music_summary">Poslouchejte a stahujte hudbu vysoké kvality</string>
     <string name="hot_artists">Nejhranější autor</string>
     <string name="i_know">OK</string>
     <string name="id3_edit">Upravit ID3 informace</string>
@@ -187,6 +193,7 @@
     <string name="lyric_picker_not_found">Ve vašem zařízení nebyl nalezen žádný správce souborů</string>
     <string name="max_interval">90</string>
     <string name="mediaplaybacklabel">Hudba</string>
+    <string name="menu_higher_quality_music">Vysoká kvalita hudby (měsíční přístup)</string>
     <string name="mi_effect">MiSound</string>
     <string name="mi_effect_summary">Vždy použít MiSound při použití reproduktoru</string>
     <string name="mi_effect_title">Použít MiSound</string>
@@ -203,6 +210,7 @@
     <string name="music_not_loaded">Nebylo načteno žádné audio.</string>
     <string name="music_open_other_connect">Stáhnout hudbu přes mobilní internet</string>
     <string name="music_picker_title">Vyberte skladbu</string>
+    <string name="music_quality">Kvalita hudby</string>
     <string name="music_settings">Nastavení</string>
     <string name="network_error">Žádné připojení k internetu, prosím zkontrolujte nastavení internetu</string>
     <string name="new_albums">Nová alba</string>
@@ -319,9 +327,14 @@
     <string name="unknown_artist_name">Neznámy umělec</string>
     <string name="use_local_album">Použít uložený obrázek alba</string>
     <string name="use_local_lyric">Použít uložené texty</string>
+    <string name="valid_period">"Platné od: "</string>
+    <string name="vip_bought">"Už máte zakúpen přístup k vysoké kvalitě hudby"</string>
+    <string name="vip_expired">Váš přístup k vysoké kvalitě hudby vypršel</string>
+    <string name="vip_rebuy">Obnovit</string>
     <string name="vip_recommend_buy">Zakoupit (5 RMB na 1 měsíc)</string>
     <string name="vip_recommend_exchange">Dárkový kupón</string>
     <string name="vip_recommend_main_title">Neomezená CD-kvalita hudby (320 kbps)</string>
+    <string name="vip_recommend_rebuy">Obnovení VIP přístupu na 30 dní stojí 5 MiKreditů</string>
     <string name="vip_recommend_sub_title">Pouze 5 RMB měsíčně</string>
     <string name="vip_recommend_summary">Streamujte nebo stahujte všechny Vaše oblíbené skladby z Baidu Music ve kvalitě 320 kbps.</string>
     <string name="vip_recommend_title">Ziskat hudbu ve vyšší kvalitě</string>
