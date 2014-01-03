@@ -289,7 +289,7 @@ S telefonem můžete bez obav pokračovat v práci.</string>
     <string name="micloud_storage_space">Úložiště MiCloud</string>	
     <string name="micloud_summary">Přihlaste se na Xiaomi účet pro synchronizaci kontaktů, fotografií a mnoho dalších funkcí.</string>
     <string name="micloud_title_dspt" formatted="false">"Celkem %s
-  využito %s | zbývá %s"</string>
+Využito %s | Zbývá %s"</string>
     <string name="micloud_title_full_dspt">Úložiště je plné!</string>
     <string name="micloud_use_existing">Existující účet</string>
     <string name="micloud_user_base_info">Info o uživateli</string>
