@@ -201,7 +201,7 @@ Server je momentálně nedostupný, zkuste to znovu později
     <string name="operation_download_link">Generovat odkaz ke stažení</string>
     <string name="operation_favorite">Oblíbené</string>
     <string name="operation_hide_sys">Skrýt systémové soubory</string>
-    <string name="operation_info">Info</string>
+    <string name="operation_info">Vlastnosti</string>
     <string name="operation_move">Přesunout</string>
     <string name="operation_moving">Přesouvám...</string>
     <string name="operation_moving_detail">Přesouvání (%1$d/%2$d)</string>
