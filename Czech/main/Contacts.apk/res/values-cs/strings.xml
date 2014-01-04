@@ -177,7 +177,7 @@
     <string name="contact_edit_title_edit">Upravit kontakt</string>
     <string name="contact_edit_title_insert">Vytvořit %s kontakt</string>
     <string name="contact_edit_title_readonly">Kontakt jen pro čtení</string>
-    <string name="contact_editor_prompt_multiple_accounts">Můžete synchronizovat Váš nový kontakt s jedním z následujících účtů. Vybere, který chcete použít.</string>
+    <string name="contact_editor_prompt_multiple_accounts">Se kterým účtem chcete tento kontakt synchronizovat?</string>
     <string name="contact_editor_prompt_one_account">Váš nový kontakt bude synchronizován s %1$s.</string>
     <string name="contact_editor_prompt_zero_accounts">Váš nový kontakt nebude zálohován. Chcete přidat účet, který zálohuje kontakty online?</string>
     <string name="contact_is_readOnly">Kontakt nelze upravit</string>
