@@ -37,6 +37,9 @@
         <item>Ostatní</item>
         <item>Vlastní</item>
     </string-array>
+    <string-array name="config_usbHostBlacklist">
+        <item>/dev/bus/usb/001</item>
+    </string-array>
     <string-array name="imAddressTypes">
         <item>Domů</item>
         <item>Práce</item>
