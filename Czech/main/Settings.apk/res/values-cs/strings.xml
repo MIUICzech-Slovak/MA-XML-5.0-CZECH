@@ -2800,9 +2800,9 @@ Každý uživatel může přijmout aktualizovaná oprávnění aplikací jménem
     <string name="virus_scan_guard_provider_missed">Antivirus byl napaden. Musíte provést obnovení továrního nastavení telefonu.</string>
     <string name="virus_scan_installed_package">%s (nainstalované)</string>
     <string name="virus_scan_is_cloud_scanning">Kontrola Cloudu...</string>
-    <string name="virus_scan_is_scanning">Skenuji...</string>
+    <string name="virus_scan_is_scanning">"Kontrola: "</string>
     <string name="virus_scan_judge_is_virus">Kontrolovat aplikace před instalací</string>
-    <string name="virus_scan_last_risk">Podezřelé aplikace nalezené v posledním testu ještě nebyly odstraněny.</string>
+    <string name="virus_scan_last_risk">Byly nalezeny podezřelé aplikace, ale nebyly odstraněny.</string>
     <string name="virus_scan_last_scan_date">Poslední kontrola před %d dny</string>
     <string name="virus_scan_last_scan_today">"Poslední kontrola: Dnes "</string>
     <string name="virus_scan_last_scan_yesterday">"Poslední kontrola: Včera"</string>
