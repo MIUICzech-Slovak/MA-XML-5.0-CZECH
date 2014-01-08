@@ -37,13 +37,49 @@
         <item>Ostatní</item>
         <item>Vlastní</item>
     </string-array>
-    <string-array name="config_usbHostBlacklist">
-        <item>/dev/bus/usb/001</item>
-    </string-array>
     <string-array name="imAddressTypes">
-        <item>Domů</item>
+        <item>Domov</item>
         <item>Práce</item>
-        <item>Ostatní</item>
+        <item>Jiné</item>
         <item>Vlastní</item>
+    </string-array>
+    <string-array name="app_ops_labels">
+        <item>Pokus o přístup k poloze</item>
+        <item>Pokus o přístup k poloze</item>
+        <item>Pokus o přístup k poloze</item>
+        <item>Pokus o použití vibrací</item>
+        <item>Pokus o čtení kontaktů</item>
+        <item>Pokus o úpravu kontaktů</item>
+        <item>Pokus o čtení záznamu o volání</item>
+        <item>Pokus o úpravu záznamu o volání</item>
+        <item>Pokus o čtení kalendáře</item>
+        <item>Pokus o úpravu kalendáře</item>
+        <item>Pokus o přístup k poloze</item>
+        <item>Pokus o notifikace</item>
+        <item>Pokus o přístup k poloze</item>
+        <item>Pokus o hovor</item>
+        <item>Pokus o čtení SMS</item>
+        <item>Pokus o psaní/úpravu SMS</item>
+        <item>Pokus o přijetí SMS</item>
+        <item>Pokus o přijetí SMS</item>
+        <item>Pokus o přijetí MMS</item>
+        <item>Pokus o přijetí SMS</item>
+        <item>Pokus o odeslání SMS</item>
+        <item>Pokus o čtení SMS</item>
+        <item>Pokus o psaní/úpravu SMS</item>
+        <item>Pokus o změnu nastavení</item>
+        <item>Pokus o draw on top</item>
+        <item>Pokus o přístup k notifikacím</item>
+        <item>Pokus o přístup k fotoaparátu</item>
+        <item>Pokus o nahrávání zvuku</item>
+        <item>Pokus o přehrání zvuku</item>
+        <item>Pokus o čtení schránky</item>
+        <item>Pokus o úpravu schránky</item>
+        <item>Pokus o zap./vyp. Wi-Fi</item>
+        <item>Pokus o zap./vyp. bluetooth</item>
+        <item>Pokus o zap./vyp. mobilních dat</item>
+        <item>Pokus o odeslání MMS</item>
+        <item>Pokus o čtení MMS</item>
+        <item>Pokus o psaní MMS</item>
     </string-array>
 </resources>

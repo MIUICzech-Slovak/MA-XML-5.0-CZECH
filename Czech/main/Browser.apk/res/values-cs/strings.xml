@@ -40,6 +40,7 @@
     <string name="added_to_bookmarks">Přidáno do záložek.</string>
     <string name="alert_tips">Tato stránka může ohrozit Vaši bezpečnost a soukromí, buďte opatrní!</string>
     <string name="allow">Povolit</string>
+    <string name="already_in_top_level">Záložka již je v nejvyšší úrovni</string>
     <string name="app_new_version">Poslední verze aplikace již je nainstalována</string>
     <string name="app_update_install">Stahování je dokončeno</string>
     <string name="application_name">Prohlížeč</string>
@@ -152,6 +153,8 @@
     <string name="delete_bookmark_warning">Vymazat záložku „%s”?</string>
     <string name="delete_folder">Vymazat složku</string>
     <string name="delete_multi_bookmarks_alert_title">Opravdu chcete smazat %1$s položek?</string>	
+    <string name="dialog_geolocation_reject">Odmítnout</string>	
+    <string name="dialog_geolocation_share">Souhlasím</string>	
     <string name="disable_autofill">Vypnout automatické vyplňování</string>
     <string name="disk_space_available">%1$s dostupné</string>	
     <string name="disk_space_selected">%1$s vybrané</string>	
@@ -303,6 +306,7 @@
     <string name="navigation_button_newtab">Nová</string>	
     <string name="navigation_button_tab">Karta</string>	
     <string name="navigation_button_view">Zobrazit</string>
+    <string name="network_alert_message">Wi-Fi není dostupná, použít mobilní data?</string>	
     <string name="network_show_wifi_setting_tip_dialog_description">Je dostupná Wi-Fi síť. Chcete se k ní připojit?</string> 
     <string name="network_show_wifi_setting_tip_dialog_notshow">Zapamatovat</string>
     <string name="network_show_wifi_setting_tip_dialog_setting_cate_title">Upozornění o dostupné Wi-Fi síti</string>	
@@ -311,6 +315,7 @@
     <string name="new_folder">Nová složka</string>
     <string name="new_incognito_tab">Nová anonymní karta</string>
     <string name="new_tab">Nová karta</string>
+    <string name="no">Ne</string>
     <string name="no_subfolders">Žádné podsložky.</string>
     <string name="not_enough_disk_space_alert">Není dostupné místo v interní paměti</string>
     <string name="not_remind_again">Znovu nepřipomínat</string>
@@ -595,6 +600,18 @@
     <string name="username">Jméno</string>
     <string name="view_certificate">Zobrazit certifikát</string>
     <string name="warning">Varování</string>
+    <string name="webapp_add_to_desktop">Přidat na plochu</string>
+    <string name="webapp_addtodeskpop_append">Přidáno</string>
+    <string name="webapp_app_name">Obchod aplikací</string>
+    <string name="webapp_bottom_bar_addtodesk">Přidat na plochu</string>
+    <string name="webapp_bottom_bar_exit">Ukončit</string>
+    <string name="webapp_bottom_bar_hidebar">Skrýt spodní lištu</string>
+    <string name="webapp_bottom_bar_openbrowser">Otevřít z Prohlížeče</string>
+    <string name="webapp_bottom_bar_showbar">Zobrazit spodní lištu</string>
+    <string name="webapp_dialog_title">Přidat aplikaci na plochu</string>
+    <string name="webapp_splashview_loading">Načítání...</string>
+    <string name="webapp_web_forward">Vpřed</string>
+    <string name="webapp_web_goback">Vzad</string>
     <string name="website_settings_clear_all">Vymazat vše</string>
     <string name="website_settings_clear_all_dialog_cancel_button">Zrušit</string>
     <string name="website_settings_clear_all_dialog_message">Vymazat všechna data stránek a povolení k přístupu k pozici?</string>
@@ -606,4 +623,5 @@
     <string name="webstorage_origin_summary_mb_stored">MB uložených ve Vašem telefonu</string>
     <string name="webstorage_outofspace_notification_text">Dotkněte se pro uvolnění místa.</string>
     <string name="webstorage_outofspace_notification_title">Úložiště prohlížeče je plné</string>
+    <string name="yes">Ano</string>
 </resources>

@@ -40,4 +40,8 @@
         <item quantity="other">"%d min. "</item>
         <item quantity="one">"%d min. "</item>
     </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">%d aplikací může číst upozornění</item>
+        <item quantity="one">%d aplikace může číst upozornění</item>
+    </plurals>
 </resources>

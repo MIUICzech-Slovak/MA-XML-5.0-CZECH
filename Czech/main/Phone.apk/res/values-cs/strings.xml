@@ -3,6 +3,7 @@
     <string name="ContactScreen">Přidat/Upravit kontakty na SIM</string>
     <string name="ExportContactScreen">Exportovat kontakty v telefonu na SIM kartu</string>
     <string name="absent_num">CHYBÍ ČÍSLO</string>
+    <string name="accept_modify_call_request_prompt">Přijmout požadavek na změnu volání?</string>
     <string name="accessibility_call_muted">Hovor ztlumen.</string>
     <string name="accessibility_speakerphone_enabled">Reproduktor je zapnutý.</string>
     <string name="addSimEntries">Přidat kontakt na SIM</string>
@@ -88,11 +89,14 @@
     <string name="auto_record_call_summary_miui">Začne nahrávat hovor při spojení a ukládat jej do úložiště</string>
     <string name="auto_record_call_title_miui">Automaticky nahrávat</string>
     <string name="auto_record_scenario_enteries_always_miui">Všechna tel. čísla</string>
+    <string name="auto_record_scenario_enteries_whitelist_miui">Přizpůsobit</string>
     <string name="auto_record_scenario_title_miui">Režim nahrávání hovoru</string>
+    <string name="auto_record_unknown_miui">Neznámé číslo</string>
     <string name="auto_record_whitelist_miui">Nastavit vybraná čísla</string>
     <string name="auto_record_whitelist_no_item_miui">Přidejte čísla pro automatické nahrávání hovoru</string>
     <string name="auto_record_whitelist_summary_for_one_miui">1 číslo</string>
     <string name="auto_record_whitelist_summary_miui">%d čísel</string>
+    <string name="auto_record_yellowpage_miui">Zlaté stránky (pouze Čína)</string>
     <string name="auto_redial_pref_summary_miui">Automaticky volat zpět, pokud je linka obsazená</string>
     <string name="auto_redial_pref_title_miui">Automaticky volat zpět</string>
     <string name="auto_retry_mode_summary">Aktivovat režim Automaticky zkusit znovu</string>
@@ -140,14 +144,15 @@
     <string name="call_forwarding_settings_miui">Nastavení přesměrování</string>
     <string name="call_ind_services">Volat nezávislé služby</string>
     <string name="call_lost">Hovor byl ztracen.</string>
+    <string name="call_lost_title">Ztracený hovor</string>
     <string name="call_number">Pro:</string>
     <string name="call_record_button_label">Nahrávání %s</string>
     <string name="call_record_notification_message_low_space_miui">Nahrávání bylo zastaveno, nedostatek místa na kartě, klepněte pro zobrazení %s.</string>
     <string name="call_record_notification_message_miui">Klepněte pro zobrazení %s.</string>
     <string name="call_record_notification_message_sd_unmounted_miui">Nahrávání bylo zastaveno, SD karta byla odpojena.</string>
+    <string name="call_record_notification_message_start_failed">Nahrávání je obsazeno jinou aplikací.</string>
     <string name="call_record_notification_title_error_miui">Nahrávání hovoru selhalo</string>
     <string name="call_record_notification_title_miui">Nahrávání hovoru ukončeno.</string>
-    <string name="call_record_notification_message_start_failed">Nahrávání je obsazeno jinou aplikací.</string>
     <string name="call_record_path_name_of_sdcard_miui">SD karta</string>
     <string name="call_record_sd_error_miui">Chyba přístupu k SD kartě</string>
     <string name="call_record_sd_space_low_miui">SD karta má málo místa, zkuste znovu po uvolnění místa</string>
@@ -160,6 +165,8 @@
     <string name="call_settings_category_miui">Nastavení hovorů</string>
     <string name="call_settings_miui">Nastavení hovorů</string>
     <string name="call_title_redialing_with_times_miui">Volám zpět %d krát</string>
+    <string name="call_type">Typ hovoru</string>
+    <string name="call_type_title">Typ hovoru IMS</string>
     <string name="call_waiting_sum_miui">Informovat mě o příchozích hovorech i během hovoru</string>
     <string name="call_waiting_tone_continuously_miui">Přehrávat tón nepřetržitě</string>
     <string name="call_waiting_tone_stop_summary">(Stiskem tlačítka hlasitosti můžete tón vypnout manuálně)</string>
@@ -178,6 +185,7 @@
     <string name="cancel_call">Zrušit</string>
     <string name="card_01">Karta 1</string>
     <string name="card_02">Karta 2</string>
+    <string name="card_03">Karta 3</string>
     <string name="card_title_MOcall_forwarding">Odchozí přesměrovaný hovor</string>
     <string name="card_title_MTcall_forwarding">Příchozí hovor je přesměrovaný</string>
     <string name="card_title_call_deflected">Hovor odmítnut</string>
@@ -308,6 +316,7 @@
     <string name="default_contacts_countrycode_hint_miui">Například: 86</string>
     <string name="default_contacts_countrycode_miui">Výchozí kód země kontaktů</string>
     <string name="default_contacts_countrycode_sum_miui">Nastavit výchozí kód země pro Vaše kontakty: %s</string>
+    <string name="default_ims_call_type">Hlas</string>
     <string name="default_notification_description">Výchozí vyzvánění (%1$s)</string>
     <string name="default_port">5060</string>
     <string name="default_preference_summary">&lt;Nenastaveno&gt;</string>
@@ -326,12 +335,16 @@
     <string name="description_call_recording_miui">Probíhá nahrávání hovoru..</string>
     <string name="description_delete_button">vymazání</string> 
     <string name="description_dial_button">vytáčení</string>
+    <string name="description_direction_down_left">Vlevo dole</string>
+    <string name="description_direction_down_right">Vpravo dole</string>
     <string name="description_direction_left">Vlevo pro %s.</string>
     <string name="description_direction_left_miui">Vlevo pro %s.</string>
     <string name="description_direction_right">Vpravo pro %s.</string>
     <string name="description_direction_right_miui">Vpravo pro %s.</string>
     <string name="description_direction_up">Nahoru pro %s.</string>
+    <string name="description_direction_up_left">Vlevo nahoře</string>
     <string name="description_direction_up_miui">Nahoru pro %s.</string>
+    <string name="description_direction_up_right">Vpravo nahoře</string>
     <string name="description_image_button_eight">osm</string>
     <string name="description_image_button_five">pět</string>
     <string name="description_image_button_four">čtyři</string>
@@ -346,6 +359,9 @@
     <string name="description_image_button_zero">nula</string>
     <string name="description_target_answer">Odpověď</string>
     <string name="description_target_answer_miui">Přijmout</string>
+    <string name="description_target_answer_rx_video">Odpovědět s RX Video</string>
+    <string name="description_target_answer_tx_video">Odpovědět s TX Video</string>
+    <string name="description_target_answer_video">Odpovědět s videem</string>
     <string name="description_target_decline">Odmítnout</string>
     <string name="description_target_decline_miui">Odmítnout</string>
     <string name="description_target_send_sms">Odeslat SMS</string>
@@ -353,6 +369,7 @@
     <string name="dial">Vytočit</string>
     <string name="dial_emergency_empty_error">Hovor nebyl spojen, vytočte číslo tísňového volání!</string>
     <string name="dial_emergency_error">Hovor nelze spojit, %s není číslo nouzového volání.</string>
+    <string name="dial_pad_autocomplete">Automatické doplnění číselníku</string>
     <string name="dial_related_setting_catory_miui">Vytočit</string>
     <string name="dialerKeyboardHintText">Číslo vytočíte pomocí klávesnice.</string>
     <string name="disable">Vypnout</string>
@@ -493,6 +510,11 @@
     <string name="import_sim_entry_miui">Import</string>
     <string name="importingSimContacts">Importování kontaktů z karty SIM</string>
     <string name="importing_sim_contacts_miui">Importuji kontakty SIM...</string>
+    <string name="ims_accounts_title">IMS účet</string>
+    <string name="ims_domain_address_title">IMS server</string>
+    <string name="ims_edit_title">Detaily IMS účtu</string>
+    <string name="ims_menu_discard">Zrušit</string>
+    <string name="ims_menu_save">Uložit</string>
     <string name="in_calling">Volat</string>
     <string name="in_sms">Zpráva</string>
     <string name="incall_call_type_label_sip">Internetový hovor</string>
@@ -612,6 +634,15 @@
     <string name="mobile_network_setting">Nastavení mobilní sítě</string>
     <string name="mobile_networks">Nastavení mobilní sítě</string>
     <string name="mobile_networks_miui">Nastavení mobilní sítě</string>
+    <string name="modify_call_failure_str">"Modify Call request failed
+"</string>
+    <string name="modify_call_option_title">Which type of call?</string>
+    <string name="modify_call_option_voice">Pouze hlas</string>
+    <string name="modify_call_option_vt">VT</string>
+    <string name="modify_call_option_vt_rx">Video receive</string>
+    <string name="modify_call_option_vt_tx">Video transmit</string>
+    <string name="modify_call_prompt_no">Ne</string>
+    <string name="modify_call_prompt_yes">Ano</string>
     <string name="multi_category_disable">Více kategorií zakázáno</string>
     <string name="multi_category_enable">Více kategorií povoleno</string>
     <string name="name">Jméno</string>
@@ -640,6 +671,7 @@
     <string name="no_vm_number">Chybí číslo hlasové schránky</string>
     <string name="no_vm_number_msg">Na kartě SIM není uloženo žádné číslo hlasové schránky.</string>
     <string name="no_voip">Internetové volání není podporováno</string>
+    <string name="no_volte">Nelze uskutečnit IMS hovor</string>
     <string name="no_wifi_available">K uskutečnění internetového volání musíte být připojen k Wi-Fi</string>
     <string name="no_wifi_available_title">Chybí Wi-Fi připojení</string>
     <string name="not_a_valid_port">Číslo portu by mělo být od 1000 do 65534</string>
@@ -682,14 +714,17 @@
     <string name="old_pin_hint_miui">Aktuální PIN</string>
     <string name="onHold">Přidržený hovor</string>
     <string name="onscreenAddCallText">Přidat hovor</string>
+    <string name="onscreenAddParticipant">Přidat účastníka</string>
     <string name="onscreenAudioText">Audio</string>
     <string name="onscreenEndCallText">Konec</string>
     <string name="onscreenHoldText">Přidržet</string>
     <string name="onscreenManageCallsText">Spravovat hovory</string>
     <string name="onscreenManageConferenceText">Upravit konferenci</string>
     <string name="onscreenMergeCallsText">Spojit hovory</string>
+    <string name="onscreenModifyCallText">Upravit hovor</string>
     <string name="onscreenMuteText">Ztlumit</string>
     <string name="onscreenShowDialpadText">Číselník</string>
+    <string name="onscreenSwitchText">Přepnout předplatné</string>
     <string name="onscreenSwapCallsText">Zaměnit</string>
     <string name="onscreen_add_call_text_miui">Přidat hovor</string>
     <string name="onscreen_audio_mode_bluetooth_miui">Bluetooth</string>
@@ -768,6 +803,7 @@
     <string name="pin_progress_unlock_icc_miui">Odblokování SIM karty...</string>
     <string name="place_a_call1">Předplatné 1</string>
     <string name="place_a_call2">Předplatné 2</string>
+    <string name="place_a_call3">Předplatné 3</string>
     <string name="port">Port</string>
     <string name="port_title">Číslo portu</string>
     <string name="pref_custom_location_summary_miui">Přizpůsobení lokalizace a formátu čísel</string>
@@ -791,6 +827,16 @@
     <string name="preferred_network_mode_lte_summary">Preferovaný režim sítě: LTE</string>
     <string name="preferred_network_mode_lte_wcdma_summary">Preferovaný režim sítě: LTE / WCDMA</string>
     <string name="preferred_network_mode_summary">Změní síťový operační režim</string>
+    <string name="preferred_network_mode_td_scdma_cdma_evdo_gsm_wcdma_summary">Preferred network mode: TD-SCDMA/CDMA/EvDo/GSM/WCDMA</string>
+    <string name="preferred_network_mode_td_scdma_gsm_lte_summary">Preferred network mode: TD-SCDMA/GSM/LTE</string>
+    <string name="preferred_network_mode_td_scdma_gsm_summary">Preferred network mode: TD-SCDMA / GSM</string>
+    <string name="preferred_network_mode_td_scdma_gsm_wcdma_lte_summary">Preferred network mode: TD-SCDMA/GSM/WCDMA/LTE</string>
+    <string name="preferred_network_mode_td_scdma_gsm_wcdma_summary">Preferred network mode: TD-SCDMA/GSM/WCDMA</string>
+    <string name="preferred_network_mode_td_scdma_lte_cdma_evdo_gsm_wcdma_summary">Preferred network mode: TD-SCDMA/LTE/CDMA/EvDo/GSM/WCDMA</string>
+    <string name="preferred_network_mode_td_scdma_lte_summary">Preferred network mode: TD-SCDMA / LTE</string>
+    <string name="preferred_network_mode_td_scdma_only_summary">Preferred network mode: TD-SCDMA only</string>
+    <string name="preferred_network_mode_td_scdma_wcdma_lte_summary">Preferred network mode: TD-SCDMA/WCDMA/LTE</string>
+    <string name="preferred_network_mode_td_scdma_wcdma_summary">Preferred network mode: TD-SCDMA / WCDMA</string>
     <string name="preferred_network_mode_title">Režim sítě</string>
     <string name="preferred_network_mode_wcdma_only_summary">Preferovaná síť: Jen WCDMA</string>
     <string name="preferred_network_mode_wcdma_perf_summary">Preferovaná síť: WCDMA preferované</string>
@@ -847,6 +893,7 @@
     <string name="reject_via_sms_summary_miui">Nastavte odesílanou sms při odmítnutí hovoru</string>
     <string name="reject_via_sms_title_miui">Nastavení odpovědní sms</string>
     <string name="remember_my_choice">Vždy používejte toto místo pro volání přes Internet</string>
+    <string name="remove_ims_account">Odebrat účet</string>
     <string name="remove_miui">Smazat</string>
     <string name="remove_sip_account">Smazat účet</string>
     <string name="removing_account">Mažu účet...</string>
@@ -875,6 +922,7 @@
     <string name="respond_via_sms_confirmation_format">Zpráva byla odeslána na číslo %s.</string>
     <string name="respond_via_sms_custom_message">Vlastní zpráva...</string>
     <string name="respond_via_sms_edittext_dialog_title">Rychlá odpověď</string>
+    <string name="respond_via_sms_menu_reset_default_activity">Resetovat výchozí</string>
     <string name="respond_via_sms_setting_summary">Obsah zprávy po odmítnutí příchozího hovoru</string>
     <string name="respond_via_sms_setting_title">Rychlé odpovědi</string>
     <string name="respond_via_sms_setting_title_2">Upravit rychlé odpovědi</string>
@@ -883,6 +931,7 @@
     <string name="restaurants_enable">Restaurace povoleny</string>
     <string name="retail_directory_disable">Adresář prodejců zakázán</string>
     <string name="retail_directory_enable">Adresář prodejců povolen</string>
+    <string name="retry">Znovu</string>
     <string name="reverting_settings">Probíhá vrácení předchozích nastavení...</string>
     <string name="rhrpd_unlock_failed">Požadavek na odemknutí UIM HRPD nebyl úspěšný.</string>
     <string name="rhrpd_unlock_success">Požadavek na odemknutí RUIM HRPD byl úspěšný.</string>
@@ -920,6 +969,7 @@
     <string name="set_smsc_address_title_miui">Nastavit číslo SMS centra</string>
     <string name="set_sub_1">Předplatné 1:</string>
     <string name="set_sub_2">Předplatné 2:</string>
+    <string name="set_sub_3">Předplatné 3:</string>
     <string name="set_sub_activate_failed">Aktivace selhala</string>
     <string name="set_sub_activate_not_supported">Aktivace není podporována</string>
     <string name="set_sub_activate_success">Aktivace byla úspěšná</string>
@@ -927,7 +977,10 @@
     <string name="set_sub_deactivate_not_supported">Deaktivace není podporována</string>
     <string name="set_sub_deactivate_success">Deaktivace byla úspěšná</string>
     <string name="set_sub_failed">Nastavení předplatného selhalo</string>
+    <string name="set_sub_global_activate_failed">Activate global failed</string>
+    <string name="set_sub_global_deactivate_failed">Deactivate global failed</string>
     <string name="set_sub_no_change">Žádná změna v předplatném</string>
+    <string name="set_sub_not_supported_phone_in_call">Activate or Deactivate subscription is not allowed while phone in call.</string>
     <string name="set_sub_success">Nastavení předplatného bylo úspěšné</string>
     <string name="set_subscription">Vybrat předplatné</string>
     <string name="set_subscription_error_atleast_one">Vyberte alespoň jedno předplatné</string>
@@ -992,8 +1045,14 @@
     <string name="stk_cc_ss_to_ussd_error">SS request modified to USSD request.</string>
     <string name="stock_quotes_disable">Zprávy z akciových trhů zakázány</string>
     <string name="stock_quotes_enable">Zprávy z akciových trhů povoleny</string>
+    <string name="sub1">Předplatné 1</string>
     <string name="sub1LineNumber">Číslo SUB1:</string>
+    <string name="sub1_summary">Upravit předplatné 1</string>
+    <string name="sub2">Předplatné 2</string>
     <string name="sub2LineNumber">Číslo SUB2:</string>
+    <string name="sub2_summary">Upravit předplatné 2</string>
+    <string name="sub3">Předplatné 3</string>
+    <string name="sub3_summary">Upravit předplatné 3</string>
     <string name="sub_1">SUB1</string>
     <string name="sub_2">SUB2</string>
     <string name="sub_one">Spravovat předplatné 1</string>
@@ -1079,6 +1138,12 @@
     <string name="updating_fdn_contact">Probíhá aktualizace povoleného telefonního čísla...</string>
     <string name="updating_settings">Probíhá aktualizace nastavení...</string>
     <string name="updating_title">Nastavení hovorů</string>
+    <string name="upgrade_vt_prompt">Would you like to upgrade the call to video call?</string>
+    <string name="upgrade_vt_rx_prompt">Would you like to upgrade the call to video receive only call?</string>
+    <string name="upgrade_vt_tx_prompt">Would you like to upgrade the call to video transmit only call?</string>
+    <string name="use_ims_default">UseImsDefault</string>
+    <string name="use_ims_default_summary">Použít IMS pro všechny hlasové hovory</string>
+    <string name="use_ims_default_title">Použít vždy IMS</string>
     <string name="username">Uživatelské jméno</string>
     <string name="username_title">Uživatelské jméno</string>
     <string name="ussdRunning">Spouštění USSD kódu...</string>
@@ -1111,6 +1176,8 @@
     <string name="voicemail_settings_number_hint_miui">Vložte číslo hlasové schránky</string>
     <string name="voicemail_settings_number_label">Číslo hlasové schránky</string>
     <string name="voicemail_settings_number_title_miui">Číslo hlasové schránky</string>
+<string name="vt_init_fail_str">"VT initialization failed. Downgrading call to VoLTE
+"</string>
     <string name="wait_prompt_str">"Odeslat následující tóny?"</string>
     <string name="wild_prompt_str">Nahradit zástupný znak znakem</string>
     <string name="wrong_password">Nesprávné heslo</string>
@@ -1126,7 +1193,4 @@
     <string name="xdivert_sub_absent">Obě předplatné by měly být pro zpracování X-Divert aktivovány</string>
     <string name="xdivert_summary">Nastavení CFNRc</string>
     <string name="xdivert_title">X-Divert</string>
-    <string name="auto_record_unknown_miui">Neznámé číslo</string>
-    <string name="auto_record_yellowpage_miui">Zlaté stránky (pouze Čína)</string>
-    <string name="auto_record_scenario_enteries_whitelist_miui">Přizpůsobit</string>
 </resources>

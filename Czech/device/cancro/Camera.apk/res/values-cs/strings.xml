@@ -2,20 +2,29 @@
 <resources>
   <string name="Import">Import</string>
   <string name="access_sd_fail">"Není možný přístup na SD kartu"</string>
+  <string name="accessibilit_camera_video_switch_picker_and_state">Přepnout Foto a Video (Aktualně je %s)</string>
+  <string name="accessibility_camera_auto_flashmode">Auto-Blesk</string>
+  <string name="accessibility_camera_flash_closemode">Bez blesku</string>
+  <string name="accessibility_camera_flashmode">Vždy</string>
   <string name="accessibility_camera_picker">Výběr přední/zadní kamery</string>
   <string name="accessibility_close_more_ptions">zatvoriť nastavení</string>
+  <string name="accessibility_ev_control">Ovládání vyrovnání expozice</string>
   <string name="accessibility_flash_mode_button">Blesk</string>
+  <string name="accessibility_more_ptions_closed">Více nastavení deaktivováno</string>
+  <string name="accessibility_more_ptions_opened">Více nastavení povoleno</string>
+  <string name="accessibility_open_more_ptions">Povolit více nastavení</string>
   <string name="accessibility_review_thumbnail">Nejnovější fotografie</string>
   <string name="accessibility_scroll_button_slider">Foto/Video</string>
   <string name="accessibility_show_setting_panel_button">Nastavení</string>
   <string name="accessibility_shutter_button">Tlačítko spouště</string>
   <string name="accessibility_skin_beautify_button">Vylepšení pleti</string>
+  <string name="accessibility_skin_beautify_closed">Vylepšení tónu pleti deaktivováno</string>
+  <string name="accessibility_skin_beautify_opened">Vylepšení tónu pleti povoleno</string>
   <string name="accessibility_zoom_control">Ovládaní zoomu</string>
   <string name="albums">Alba</string>
   <string name="aperture">Závěrka</string>
   <string name="app_details">Aplikace:</string>
   <string name="auto">Auto</string>
-  <string name="auto_scene_exit_button_text">Ukončit režim scény</string>
   <string name="bg_replacement_message">"Nasměrujte svůj telefon dolů, 
   opusťte na chvíli náhled"</string>
   <string name="camera_disabled">Fotoaparát byl deaktivován z bezpečnostních důvodů.</string>
@@ -184,7 +193,6 @@
   <string name="pref_camera_audio_capture_title">Spoušť zvukem</string>
   <string name="pref_camera_auto_focus_title_entry_off">VYP.</string>
   <string name="pref_camera_auto_focus_title_entry_on">ZAP.</string>
-  <string name="pref_camera_auto_scene_title">Rozpoznat scénu</string>
   <string name="pref_camera_autoexposure_entry_centerweighted">Na střed</string>
   <string name="pref_camera_autoexposure_entry_frameaverage">Matice</string>
   <string name="pref_camera_autoexposure_entry_spotmetering">Bod</string>
@@ -233,7 +241,6 @@
   <string name="pref_camera_hdr_title">HDR</string>
   <string name="pref_camera_hdr_type_entry_live">Živé</string>
   <string name="pref_camera_hdr_type_entry_normal">Normální</string>
-  <string name="pref_camera_hdr_type_title">HDR</string>
   <string name="pref_camera_hfr_entry_2x">60</string>
   <string name="pref_camera_hfr_entry_3x">90</string>
   <string name="pref_camera_hfr_entry_4x">120</string>
@@ -276,13 +283,20 @@
   <string name="pref_camera_picture_format_title">Formát fotografie</string>
   <string name="pref_camera_picturesize_entry_1024x768">0.8MP</string>
   <string name="pref_camera_picturesize_entry_1280x720">720p</string>
+  <string name="pref_camera_picturesize_entry_1280x768">1MP</string>
+  <string name="pref_camera_picturesize_entry_1440x1080">Standard 4:3</string>
+  <string name="pref_camera_picturesize_entry_1440x816">Širokoúhlý 16:9</string>
   <string name="pref_camera_picturesize_entry_1920x1080">2MP</string>
   <string name="pref_camera_picturesize_entry_3200x1800">6MP 16:9</string>
   <string name="pref_camera_picturesize_entry_3200x2400">8MP 4:3</string>
+  <string name="pref_camera_picturesize_entry_3264x1840">Širokoúhlý 16:9</string>
+  <string name="pref_camera_picturesize_entry_3264x2448">Standard 4:3</string>
   <string name="pref_camera_picturesize_entry_4208x2368">Širokoúhlý 16:9</string>
   <string name="pref_camera_picturesize_entry_4208x3120">Standard 4:3</string>
   <string name="pref_camera_picturesize_professional_entry_1024x768">0.8MP (1024×768)</string>
   <string name="pref_camera_picturesize_professional_entry_1280x720">0.9MP (1280×720)</string>
+  <string name="pref_camera_picturesize_professional_entry_1440x1080">1.6MP (1440x1080)</string>
+  <string name="pref_camera_picturesize_professional_entry_1440x816">1.2MP (1440x816)</string>
   <string name="pref_camera_picturesize_professional_entry_1600x1200">2MP (1600×1200)</string>
   <string name="pref_camera_picturesize_professional_entry_1920x1080">2MP (1920×1088)</string>
   <string name="pref_camera_picturesize_professional_entry_1920x1088">2M  (1920×1088)</string>
@@ -290,7 +304,9 @@
   <string name="pref_camera_picturesize_professional_entry_2592x1944">5MP (2592×1944)</string>
   <string name="pref_camera_picturesize_professional_entry_3200x1800">6MP (3264×1836)</string>
   <string name="pref_camera_picturesize_professional_entry_3200x2400">8MP (3264×2448)</string>
+  <string name="pref_camera_picturesize_professional_entry_3264X2448">8M(3264X2448)</string>
   <string name="pref_camera_picturesize_professional_entry_3264x1836">6MP (3264×1836)</string>
+  <string name="pref_camera_picturesize_professional_entry_3264x1840">6M(3264x1840)</string>
   <string name="pref_camera_picturesize_professional_entry_4208x2368">10MP (4208×2368)</string>
   <string name="pref_camera_picturesize_professional_entry_4208x3120">13MP (4208×3120)</string>
   <string name="pref_camera_picturesize_title">Velikost fotografie</string>
@@ -310,7 +326,6 @@
   <string name="pref_camera_scenedetect_title">Auto detekce scény</string>
   <string name="pref_camera_scenemode_entry_auto">Auto</string>
   <string name="pref_camera_scenemode_entry_backlight">Protisvětlo</string>
-  <string name="pref_camera_scenemode_entry_backlight_portrait">Portrét v protisvětle</string>
   <string name="pref_camera_scenemode_entry_beach">Pláž</string>
   <string name="pref_camera_scenemode_entry_fireworks">Ohňostroj</string>
   <string name="pref_camera_scenemode_entry_flowers">Květy</string>
@@ -351,7 +366,6 @@
   <string name="pref_camera_volumekey_function_entry_shutter">Spoušť</string>
   <string name="pref_camera_volumekey_function_entry_volume">Hlas</string>
   <string name="pref_camera_volumekey_function_entry_zooming">Zoom</string>
-  <string name="pref_camera_volumekey_function_title">Funkce tlačítek hlasitosti</string>
   <string name="pref_camera_watermark_entry_off">Vypnutý</string>
   <string name="pref_camera_watermark_entry_on">Zapnutý</string>
   <string name="pref_camera_watermark_title">Časový vodoznak</string>
@@ -382,9 +396,9 @@
   <string name="pref_setting_title">Nastavení</string>
   <string name="pref_settings_mode">Režim kamery</string>
   <string name="pref_video_captrue_ability_title">Snímek během videa</string>
-  <string name="pref_video_focusmode_title">Režim ostření</string>
-  <string name="pref_video_focusmode_entry_continuous">Kontinuální ostření</string>
   <string name="pref_video_focusmode_entry_auto">Dotykem</string>
+  <string name="pref_video_focusmode_entry_continuous">Kontinuální ostření</string>
+  <string name="pref_video_focusmode_title">Režim ostření</string>
   <string name="pref_video_quality_entry_1080p">1080p</string>
   <string name="pref_video_quality_entry_480p">480p</string>
   <string name="pref_video_quality_entry_720p">720p</string>
@@ -488,7 +502,9 @@
   <string name="wechat_details">"Weixin: "</string>
   <string name="white_balance">Vyvážení bílé</string>
   <string name="width">Šířka</string>
+  <string name="wifi_connect_current_connetion">Můžete se připojit k Wi-Fi</string>
   <string name="wifi_connect_fail">Připojení k Wi-Fi selhalo</string>
+  <string name="wifi_connect_not_found">"Wi-Fi nenalezena"</string>
   <string name="wifi_connect_success">Připojení k Wi-Fi úspěšné</string>
   <string name="wifi_connecting">Připojování k Wi-Fi...</string>
   <string name="wifi_details">Detaily o Wi-Fi:</string>

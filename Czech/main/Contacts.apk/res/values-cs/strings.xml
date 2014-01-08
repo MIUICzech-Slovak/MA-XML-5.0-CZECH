@@ -398,6 +398,7 @@ Chyba: \"%s\""</string>
     <string name="group_delete_success_toast">Skupina vymazána</string>
     <string name="group_edit_field_hint_text">Jméno skupiny</string>
     <string name="group_member_remove_toast">Kontakt byl úspěšně odebrán ze skupiny</string>
+    <string name="group_name">Moje skupiny</string>
     <string name="group_name_hint">Název skupiny</string>
     <string name="group_read_only">Na tomto zařízení nelze upravit</string>
     <string name="group_rename_dialog_title">Přejmenovat skupinu</string>
@@ -467,8 +468,8 @@ Chyba: \"%s\""</string>
     <string name="listCustomView">Kontakty ve vlastním zobrazení</string>
     <string name="listFoundAllContactsZero">Nenalezené</string>
     <string name="listSingleContact">Jediný kontakt</string>
-    <string name="listTotalAllContactsZero">Žádné kontakty.</string>
-    <string name="listTotalAllContactsZeroCustom">Žádné viditelné kontakty.</string>   
+    <string name="listTotalAllContactsZero">Žádné kontakty.</string>   
+    <string name="listTotalAllContactsZeroCustom">Žádné viditelné kontakty.</string>
     <string name="listTotalAllContactsZeroGroup">Žádné kontakty v %s</string>
     <string name="listTotalAllContactsZeroStarred">Žádné oblíbené kontakty</string>
     <string name="listTotalPhoneContactsZero">Žádné kontakty s telefonním číslem</string>
@@ -644,11 +645,11 @@ Pro přidání kontaktu do oblíbených:
     <string name="no_account_prompt">"Kontakty pracují nejlépe s účtem Google. 
 
 Mějte k nim přístup odkudkoliv. 
-Synchronizujte je nyní."</string>
-    <string name="no_contact_details">Žádné další informace o tomto kontaktu.</string>  
+Synchronizujte je nyní."</string>  
+    <string name="no_contact_details">Žádné další informace o tomto kontaktu.</string>
     <string name="no_contact_in_other_phone">Žádné kontakty ve Vašem telefonu</string>
-    <string name="no_contacts_dialog_message">Ve Vašich kontaktech se nic nenašlo. Možná jsou uloženy na SIM kartě, importujte je do telefonu.</string>
-    <string name="no_contacts_dialog_title">Kontakt nenalezen</string>	
+    <string name="no_contacts_dialog_message">Ve Vašich kontaktech se nic nenašlo. Možná jsou uloženy na SIM kartě, importujte je do telefonu.</string>	
+    <string name="no_contacts_dialog_title">Kontakt nenalezen</string>
     <string name="no_contacts_selected">Nejsou vybrány žádné kontakty.</string>
     <string name="no_sdcard_message">Úložiště nebylo nalezeno</string>
     <string name="non_phone_add_to_contacts">Přidat do kontaktů</string>
@@ -703,8 +704,8 @@ Synchronizujte je nyní."</string>
     <string name="picker_join_title">Zvolte kontakt na propojení s %s</string>
     <string name="picker_number_title">Vyberte číslo</string>
     <string name="picker_postal_title">Vyberte poštu</string>
-    <string name="picker_recent_list_empty">Žádné poslední kontakty</string>
-    <string name="pkgLabel">Kontakty a Volání</string> 
+    <string name="picker_recent_list_empty">Žádné poslední kontakty</string> 
+    <string name="pkgLabel">Kontakty a Volání</string>
     <string name="postalLabelsGroup">Adresa</string>
     <string name="postal_address">Adresa</string>
     <string name="postal_city">Město</string>
@@ -796,9 +797,9 @@ Synchronizujte je nyní."</string>
     <string name="remind_btn_ignore">Ignorovat</string>
     <string name="remind_btn_sync_now">Synchronizovat nyní</string>
     <string name="removePhoto">Odstranit fotku</string>
-    <string name="remove_blacklist">Odstranit z černé listiny</string>
-    <string name="remove_duplicate">"MIUI Vám pomůže najít a sloučit duplicitní kontakty. Kontakty se nesloučí automaticky."</string>  
-    <string name="resource_account_abnormal_state">Chyba účtu: Zkuste to znovu později.</string> 
+    <string name="remove_blacklist">Odstranit z černé listiny</string>  
+    <string name="remove_duplicate">"MIUI Vám pomůže najít a sloučit duplicitní kontakty. Kontakty se nesloučí automaticky."</string> 
+    <string name="resource_account_abnormal_state">Chyba účtu: Zkuste to znovu později.</string>
     <string name="resource_account_current">Účet: %1$s</string>
     <string name="resource_account_fail_to_add">Přidávání účtu selhalo.</string>
     <string name="resource_account_login">Přihlásit</string>
@@ -808,6 +809,7 @@ Synchronizujte je nyní."</string>
     <string name="resource_alarm_default">Budík</string>
     <string name="resource_app_name">Prohlížeč zdrojů</string>
     <string name="resource_apply">Použít</string>
+    <string name="resource_apply_trial">Vyzkoušet</string>
     <string name="resource_buy">"Koupit "</string>
     <string name="resource_can_not_selected">%1$s se nedá vybrat!</string>
     <string name="resource_category">Kategorie</string>
@@ -834,9 +836,9 @@ Synchronizujte je nyní."</string>
     <string name="resource_comment_name_default">Uživatel %1$s</string>
     <string name="resource_comment_no_average_score">-.-</string>
     <string name="resource_comment_no_comment">Bez komentáře.</string>
-    <string name="resource_comment_publish">Odeslat</string>
+    <string name="resource_comment_publish">Odeslat</string>     
     <string name="resource_comment_rate">Hodnocení:</string>
-    <string name="resource_comment_score_count">%1$s uživatelů</string>     
+    <string name="resource_comment_score_count">%1$s uživatelů</string>
     <string name="resource_comment_sending">Odesílání komentáře...</string>
     <string name="resource_comment_title">Komentáře: %1$s</string>
     <string name="resource_comment_upload_data_invalid">Chybný komentář.</string>
@@ -856,12 +858,13 @@ Synchronizujte je nyní."</string>
     <string name="resource_detail_comment_title">Komentáře</string>
     <string name="resource_detail_jump_to_online_title">Online</string>
     <string name="resource_detail_jump_to_same_author_title">Stejný autor</string>
-    <string name="resource_detail_recommend_desiner_other_themes">Ostatní témata od %1$s</string>
+    <string name="resource_detail_recommend_desiner_other_themes">Další témata od %1$s</string>  
     <string name="resource_detail_recommend_desiner_themes">%1$s témata</string>
-    <string name="resource_detail_recommend_other_themes">Uživatelům se také líbí</string>  
+    <string name="resource_detail_recommend_other_themes">Uživatelům se také líbí</string>
     <string name="resource_detail_update_log_title">Aktualizace</string>
     <string name="resource_detail_window_title">%1$s podrobnosti</string>
     <string name="resource_download">Stáhnout</string>
+    <string name="resource_download_trial">Na zkoušku</string>
     <string name="resource_downloaded_title">Stáhnout zdroje</string>
     <string name="resource_downloading">Stahuji</string>
     <string name="resource_exchange">Zaplatit poukázkou</string>
@@ -889,6 +892,7 @@ Synchronizujte je nyní."</string>
     <string name="resource_get_auth_missing">Toto téma není stáhnuté z oficiálního obchodu.</string>
     <string name="resource_get_auth_retrieving">Získávání autorizace...</string>
     <string name="resource_hint">Výstraha</string>
+    <string name="resource_import_failed">Import selhal</string>
     <string name="resource_import_successful">Stahování dokončeno.</string>
     <string name="resource_importing">Importování</string>
     <string name="resource_list_title">Poslední zvolené</string>
@@ -898,6 +902,7 @@ Synchronizujte je nyní."</string>
     <string name="resource_my">Lokální</string>
     <string name="resource_no_result">Nenalezeno</string>
     <string name="resource_notification_default">Upozornění</string>
+    <string name="resource_on_trial">Zkoušíte: %1$s</string>
     <string name="resource_online">Online</string>
     <string name="resource_pack_confirm">Už jste zakoupili %1$d položek, ale současná cena je stále výhodnější, než jejich zakoupení jednotlivě. Pokračovat?</string>
     <string name="resource_pack_discount_info">%1$s Uloženo!</string>
@@ -914,6 +919,7 @@ Synchronizujte je nyní."</string>
     <string name="resource_ranking_free">Zdarma</string>
     <string name="resource_ranking_purchase">Placené</string>
     <string name="resource_ringtone_default">Zvonění</string>
+    <string name="resource_ringtone_playing_error">chyba přehrávání</string>
     <string name="resource_ringtone_volume_mute">Zvonění je ztišeno.</string>
     <string name="resource_save_to_note">Uložit do poznámek</string>
     <string name="resource_see_more">Více</string>
@@ -930,6 +936,11 @@ Synchronizujte je nyní."</string>
     <string name="resource_tip_select_ringtone">Nic nebylo vybráno</string>
     <string name="resource_title">Podrobnosti</string>
     <string name="resource_title_select_ringtone">Zvolit zvonění</string>
+    <string name="resource_trial_end_message">Zkušební verze %1$s vypršela. Pokud se Vám líbí, můžete si ji zakoupit.</string>
+    <string name="resource_trial_end_purchase">Zakoupit</string>
+    <string name="resource_trial_end_restore">Ukončit zkoušku</string>
+    <string name="resource_trial_end_title">Zkouška vypršela</string>
+    <string name="resource_trial_time">（zkouška na %1$d minut）</string>
     <string name="resource_unable_to_access">"Promiňte 
 ale obsah který hledáte není dostupný ve Vaší zemi."</string>
     <string name="resource_unknow_error">Neznámá chyba.</string>
@@ -1129,15 +1140,15 @@ Vyberte si z následujících možností:</string>
     <string name="wipe_data">Vymazat data</string>
     <string name="yellowPageNavigationIconLabel">Adresář</string>
     <string name="yellowPageNavigationLabel">Adresář</string>
-    <string name="yellowpage_navigation_no_content">Nic nebylo nalezeno</string>
     <string name="yellowpage_navigation_menu_order">Má objednávka</string>
+    <string name="yellowpage_navigation_no_content">Nic nebylo nalezeno</string>
     <string name="yellowpage_navigation_search_city_name_hint">Město</string>
     <string name="yellowpage_navigation_search_hint">Vyhledat</string>
     <string name="yellowpage_navigation_search_offline_hint">Žádné připojení</string>
-    <string name="yellowpage_navigation_search_select_city">Zvolte město</string>
-    <string name="yellowpage_navigation_search_result_no_more">Nic více</string>
     <string name="yellowpage_navigation_search_result_network_error">"Nelze se připojit k síti"</string>
+    <string name="yellowpage_navigation_search_result_no_more">Nic více</string>
     <string name="yellowpage_navigation_search_result_service_error">Služba není dostupná</string>
     <string name="yellowpage_navigation_search_result_unknown_error">Neznámá chyba</string>
+    <string name="yellowpage_navigation_search_select_city">Zvolte město</string>
     <string name="zero_items_selected">Nic není vybráno</string>
 </resources>

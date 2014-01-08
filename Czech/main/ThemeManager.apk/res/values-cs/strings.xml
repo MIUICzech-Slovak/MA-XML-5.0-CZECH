@@ -116,7 +116,7 @@
     <string name="resource_detail_comment_title">Komentáře</string>	
     <string name="resource_detail_jump_to_online_title">Online</string>	
     <string name="resource_detail_jump_to_same_author_title">Stejný autor</string>
-    <string name="resource_detail_recommend_desiner_other_themes">Ostatní témata od %1$s</string>
+    <string name="resource_detail_recommend_desiner_other_themes">Další témata od %1$s</string>
     <string name="resource_detail_recommend_desiner_themes">%1$s témata</string>
     <string name="resource_detail_recommend_other_themes">Uživatelům se také líbí</string>
     <string name="resource_detail_update_log_title">Aktualizace</string>
@@ -191,14 +191,16 @@
     <string name="resource_tip_select_ringtone">Nic nebylo vybráno</string>
     <string name="resource_title">Podrobnosti</string>
     <string name="resource_title_select_ringtone">Zvolit zvonění</string>
-    <string name="resource_unable_to_access">"Promiňte, ale obsah který hledáte, není dostupný ve Vaší zemi."</string>
+    <string name="resource_unable_to_access">"Promiňte, 
+ale obsah který hledáte, není dostupný ve Vaší zemi."</string>
     <string name="resource_unknow_error">Neznámá chyba.</string>
     <string name="resource_update">Aktualizovat</string>
     <string name="resource_user_know">OK</string>
     <string name="resource_waiting_download">Čeká na stáhnutí...</string>
     <string name="restore_default_theme_alert">Stali jste se obětí neoprávněného kopírování téma. Stáhněte si téma znovu z online obchodu nebo si ho zakupte.</string>
     <string name="ringtone_volume_mute">Vaše zvonění je momentálně ztišené.</string>
-    <string name="sdcard_not_mounted_dialog_message">"Vložte SD kartu."</string>
+    <string name="sdcard_not_mounted_dialog_message">"Vložte SD kartu.
+"</string>
     <string name="sdcard_not_mounted_dialog_title">Žádná SD karta</string>
     <string name="sdcard_status_changed_dialog_message">"Ukončuji.\nProsím, otevřete tuto aplikaci znovu pro aktualizaci zdrojů."</string>  
     <string name="sdcard_status_changed_dialog_title">Stav SD karty se změnil</string>
@@ -283,4 +285,15 @@
     <string name="wallpaper_set_as_destop">Tapeta plochy</string>
     <string name="wallpaper_set_as_lockscreen">Nastavit jako zámek obrazovky</string>
     <string name="wallpaper_settings">Nastavení tapety</string>
+    <string name="resource_import_failed">Import selhal</string>
+    <string name="resource_ringtone_playing_error">chyba přehrávání</string>
+    <string name="resource_download_trial">Na zkoušku</string>
+    <string name="resource_apply_trial">Vyzkoušet</string>
+    <string name="resource_on_trial">Zkoušíte: %1$s</string>
+    <string name="resource_trial_time">（zkouška na %1$d minut）</string>
+    <string name="resource_trial_end_title">Zkouška vypršela</string>
+    <string name="resource_trial_end_message">Zkušební verze %1$s vypršela. Pokud se Vám líbí, můžete si ji zakoupit.</string>
+    <string name="resource_trial_end_restore">Ukončit zkoušku</string>
+    <string name="resource_trial_end_purchase">Zakoupit</string>
+    <string name="purchased_list">Zakoupeno</string>
 </resources>

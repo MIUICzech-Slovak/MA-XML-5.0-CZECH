@@ -179,7 +179,8 @@ prvně a nemohou být použité po vypršení platnosti"</string>
     <string name="onemore_click_exit">Stiskněte ještě jednou pro ukončení</string>
     <string name="order_price">%1$s MiKreditů</string>
     <string name="password_error">Zadejte heslo</string>
-    <string name="password_hint">Zadejte heslo Xiaomi účtu:</string>
+    <string name="password_forget">Zapomněli jste?</string>
+    <string name="password_hint">Heslo Xiaomi účtu:</string>
 	  <string name="pay_record_empty">Žádné platby</string>
     <string name="pay_record_typeall">Vše</string>
     <string name="paytool_alipay">Alipay</string>	

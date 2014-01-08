@@ -19,4 +19,9 @@
         <item quantity="other">Zpřístupnit alba offline.</item>
         <item quantity="one">Zpřístupnit album offline.</item>
     </plurals>
+    <plurals name="number_of_cloudimages">
+        <item quantity="other">Obrázků: %1$d</item>
+        <item quantity="zero">Obrázků: %1$d</item>
+        <item quantity="one">Obrázků: %1$d</item>
+    </plurals>
 </resources>

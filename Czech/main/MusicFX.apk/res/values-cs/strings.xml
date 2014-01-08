@@ -13,5 +13,5 @@
     <string name="pr_title">Dozvuk:</string>
     <string name="setup">Konfigurace</string>
     <string name="user">Uživatel</string>
-    <string name="virtualizer_strength">3D efekt</string>
+    <string name="virtualizer_strength">Prostorový zvuk</string>
 </resources>
