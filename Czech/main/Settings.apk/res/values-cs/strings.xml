@@ -248,7 +248,7 @@ Poznámka: Zvětšení trojitým klepnutím funguje ve všech částech obrazovk
     <string name="auto_startup_count">%d aplikací se spustí při startu</string>
     <string name="auto_startup_dialog_msg">"MIUI povolí aplikaci se spustit automaticky bez zeptání. Toto může vést ke zvýšené spotřebě energie a dat.\nPovolit automatické spouštění při startu telefonu?"</string>
     <string name="automatic_brightness">Automatický jas</string>
-    <string name="available_size">%s volných</string>
+    <string name="available_size">Volných %s</string>
     <string name="awake">Doba provozu zařízení</string>
     <string name="back_key">Tlačítko Zpět</string>
     <string name="background_data">Data na pozadí</string>
@@ -524,7 +524,7 @@ Poznámka: Zvětšení trojitým klepnutím funguje ve všech částech obrazovk
     <string name="breathing_light_color_summary">Barva LED při nové notifikaci</string>
     <string name="breathing_light_color_title">" LED"</string>
     <string name="breathing_light_freq_summary">Pauza LED před blikáním</string>
-    <string name="breathing_light_freq_title">Frekvence blikání LED</string>
+    <string name="breathing_light_freq_title">" frekvence blikání LED"</string>
     <string name="brightness">Jas</string>
     <string name="brightness_auto_adjust_off">Manuální jas můžete nastavit posouváním. Jas se nebude měnit v závislosti na okolním osvětlení.</string>
     <string name="brightness_auto_adjust_on">Automatický jas můžete nastavit posouváním. Jas se bude měnit v závislosti na okolním osvětlení a Vašem nastavení.</string>
@@ -556,7 +556,7 @@ Poznámka: Zvětšení trojitým klepnutím funguje ve všech částech obrazovk
     <string name="cache_garbage">Cache souborů</string>
     <string name="cache_header_label">Mezipaměť</string>
     <string name="cache_list_empty_hints">Žádné cache souborů.</string>
-    <string name="cache_manage_title">Vyčistit cahce: %1$d, uvolnit %2$s paměti</string>
+    <string name="cache_manage_title">Vyčistit cache: %1$d, uvolnit %2$s paměti</string>
     <string name="cache_manager_actionbar_title">Systémová cache</string>
     <string name="cache_size_label">Mezipaměť</string>
     <string name="cached">Proces na pozadí v mezipaměti</string>
@@ -2581,7 +2581,7 @@ Toto nastavení ovlivní všechny uživatele tohoto telefonu."</string>
     <string name="title_virus_update_yes">Auto-aktualizace virové databáze zapnuta</string>
     <string name="title_virus_yes">Žádný Virus nenalezen</string>
     <string name="toast_qucik_scan_list_empty">Vše je v pořádku, čištění není nutné!</string>
-    <string name="total_size">%s Celkem</string>
+    <string name="total_size">Celkem %s</string>
     <string name="total_size_label">Celkem</string>
     <string name="touch_sensitive_summary">Nastavit citlivost na dotyky pro ovládání telefonu v rukavicích</string>
     <string name="touch_sensitive_title">Režim rukavic</string>
