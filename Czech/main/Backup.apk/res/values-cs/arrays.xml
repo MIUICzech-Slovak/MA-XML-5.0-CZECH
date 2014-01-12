@@ -35,7 +35,7 @@
         <item>Kontakty</item>
         <item>Seznam hovorů</item>
         <item>Zprávy</item>
-        <item>Nastavení Wifi</item>
+        <item>Nastavení Wi-Fi</item>
         <item>Poznámky</item>
     </string-array>
     <string-array name="cloud_account_data">

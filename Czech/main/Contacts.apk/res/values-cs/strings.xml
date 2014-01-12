@@ -442,10 +442,10 @@ Chyba: \"%s\""</string>
     <string name="import_vcard_description">Importovat kontakty z SD karty</string>
     <string name="import_weibo_dialog_title">Import kontaktu z sina weibo</string>
     <string name="import_weibo_error_no_matched_contacts">Kontakty byly aktualizovány: žádné odpovídající kontakty</string>
-    <string name="import_weibo_error_no_network">Kontakty byly aktualizovány: chyba sítěerror</string>
-    <string name="import_weibo_error_no_xiaomi_phone">Kontakty byly aktualizovány: v účtu XiaoMi nebyly nalezeny žádná čísla</string>
+    <string name="import_weibo_error_no_network">Kontakty byly aktualizovány: chyba sítě</string>
+    <string name="import_weibo_error_no_xiaomi_phone">Kontakty byly aktualizovány: v účtu Xiaomi nebyla nalezena žádná čísla</string>
     <string name="import_weibo_error_unknown">Kontakty byly aktualizovány: neznámá chyba</string>
-    <string name="import_weibo_error_user_cancel">Kontakty byly aktualizovány: userzrušeno uživatelem</string>
+    <string name="import_weibo_error_user_cancel">Kontakty byly aktualizovány: zrušeno uživatelem</string>
     <string name="import_weibo_fetch_followers">Získávání Sina Weibo přátel...</string>
     <string name="import_weibo_notification_title_done">Import kompletní</string>
     <string name="import_weibo_progress_name">%1$s</string>
@@ -1071,8 +1071,8 @@ Prosím otevřete tuto aplikaci ještě jednou pro aktualizaci zdrojů."</string
     <string name="success_message_import_from_account">Import byl úspěšný</string>
     <string name="summary_kind_title">Souhrn</string>
     <string name="t9_search_guide">Inteligentní vyhledávání jmen a čísel</string>
-    <string name="t9_search_guide_pinyin">Stiskněte 7 a 8 pro vyhledání Tchýně</string>
-    <string name="t9_search_guide_zhuyin">Stiskněte 7 a 8 pro vyhledání Tchýně</string>
+    <string name="t9_search_guide_pinyin">Stiskněte 8 a 2 pro vyhledání Tchýně</string>
+    <string name="t9_search_guide_zhuyin">Stiskněte 8 a 2 pro vyhledání Tchýně</string>
     <string name="take_new_photo">Pořídit novou fotku</string>
     <string name="take_photo">Pořídit fotku</string>
     <string name="titleJoinContactDataWith">Spojit kontakty</string>

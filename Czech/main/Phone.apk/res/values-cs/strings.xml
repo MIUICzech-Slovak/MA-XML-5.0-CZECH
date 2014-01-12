@@ -69,7 +69,7 @@
     <string name="auto_answer_pref_title_miui">Automaticky přijmout</string>
     <string name="auto_answer_scenario_enteries_always_miui">Vždy</string>
     <string name="auto_answer_scenario_enteries_bluetooth_only_miui">Pokud je Bluetooth</string>
-    <string name="auto_answer_scenario_enteries_headset_bluetooth_miui">Sluchátka nebo bluetooth</string>
+    <string name="auto_answer_scenario_enteries_headset_bluetooth_miui">Sluchátka nebo Bluetooth</string>
     <string name="auto_answer_scenario_enteries_headset_only_miui">Pokud jsou sluchátka</string>
     <string name="auto_answer_scenario_title_miui">Scénář pro automatické přijetí</string>
     <string name="auto_answer_setting_title_miui">Nastavení automatického přijetí</string>
@@ -867,8 +867,8 @@
     <string name="puk_unlock_success">Odblokování PUK úspěšné.</string>
     <string name="puk_unlocked">Karta SIM byla odblokována</string>
     <string name="radio_off_error">Před zobrazením nastavení zapněte rádio.</string>
-    <string name="rc_unlock_failed">Požadavek na odblokování firmení RUIM nebyl úspěšný.</string>
-    <string name="rc_unlock_success">Požadavek na odblokování firmení RUIM byl úspěšný.</string>
+    <string name="rc_unlock_failed">Požadavek na odblokování firemní RUIM nebyl úspěšný.</string>
+    <string name="rc_unlock_success">Požadavek na odblokování firemní RUIM byl úspěšný.</string>
     <string name="readingSimContacts">Načítání kontaktů ze SIM karty...</string>
     <string name="reading_settings">Načítání nastavení...</string>
     <string name="regional_disable">Regionální zprávy zakázány</string>
@@ -890,8 +890,8 @@
     <string name="registration_status_server_unreachable">Registrace účtu neúspěšná: prosím zkontrolujte název serveru</string>
     <string name="registration_status_still_trying">Stále probíhá...</string>
     <string name="reject_via_sms_miui">Odmítnout pomocí SMS</string>
-    <string name="reject_via_sms_summary_miui">Nastavte odesílanou sms při odmítnutí hovoru</string>
-    <string name="reject_via_sms_title_miui">Nastavení odpovědní sms</string>
+    <string name="reject_via_sms_summary_miui">Nastavte odesílanou SMS při odmítnutí hovoru</string>
+    <string name="reject_via_sms_title_miui">Nastavení odpovědní SMS</string>
     <string name="remember_my_choice">Vždy používejte toto místo pro volání přes Internet</string>
     <string name="remove_ims_account">Odebrat účet</string>
     <string name="remove_miui">Smazat</string>
@@ -905,7 +905,7 @@
     <string name="requesting_rhrpd_unlock">Vyžadování odemknutí UIM HRPD...</string>
     <string name="requesting_rnw1_unlock">Vyžadování odemknutí UIM sítě 1...</string>
     <string name="requesting_rnw2_unlock">Vyžadování odemknutí UIM sítě 2...</string>
-    <string name="requesting_rsp_unlock">Vyžadování odemknutí poskytovale sítě UIM...</string>
+    <string name="requesting_rsp_unlock">Vyžadování odemknutí poskytovatele sítě UIM...</string>
     <string name="requesting_ruim_unlock">Vyžadování odemknutí UIM...</string>
     <string name="requesting_sim_unlock">Vyžadování odemknutí SIM...</string>
     <string name="requesting_sp_unlock">Vyžadování odemknutí poskytovatele sítě SIM...</string>
@@ -1186,8 +1186,8 @@
     <string name="xdivert_enternumber_error">Zadejte telefonní číslo pro obě předplatné</string>
     <string name="xdivert_imsi_not_read">Probíhá inicializace SIM. Zkuste to znovu za chvíli.</string>
     <string name="xdivert_not_active">Neaktivní</string>
-    <string name="xdivert_not_supported">X-Divert není podporováno pro CDMA</string>
-    <string name="xdivert_partial_set">XDivert byl nastaven jen pro první předplatné</string>
+    <string name="xdivert_not_supported">X-Divert není podporován pro CDMA</string>
+    <string name="xdivert_partial_set">X-Divert byl nastaven jen pro první předplatné</string>
     <string name="xdivert_setting">Nastavení X-Divert</string>
     <string name="xdivert_status">Stav X-Divert</string>
     <string name="xdivert_sub_absent">Obě předplatné by měly být pro zpracování X-Divert aktivovány</string>

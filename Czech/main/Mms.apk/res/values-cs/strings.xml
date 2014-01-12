@@ -229,7 +229,7 @@
     <string name="mx_btn_enable_now">Povolit</string>
     <string name="mx_count_dspt">Od aktivace, MIUI poslalo %1$d cloud zpráv (%2$s)</string>
     <string name="mx_current_status">Stav: Online</string>
-    <string name="mx_dspt">Poslat sms přes internet pomocí MIUI, pokud odeslání přes operátora selže</string>
+    <string name="mx_dspt">Poslat SMS přes internet pomocí MIUI, pokud odeslání přes operátora selže</string>
     <string name="mx_enable">Zapnout cloudové zprávy</string>	
     <string name="mx_enable_int_popup_msg">Cloud zprávy Vám umožní posílat SMS zprávy zdarma mezi uživateli MIUI. Pro aktivaci se odešle mezinárodní SMS zpráva, která bude zpoplatněna dle ceníku Vašeho operátora.</string>
     <string name="mx_enable_popup_msg">Cloud zprávy Vám umožňují odesílat SMS přes MIUI. Vyžaduje se odeslání běžné SMS pro jejich aktivaci. Chcete pokračovat?</string>

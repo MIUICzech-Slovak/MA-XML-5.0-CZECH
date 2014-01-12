@@ -33,7 +33,7 @@
     <string name="batch_correct_id3_completed">Dávková oprava ID3 je dokončena!</string>
     <string name="billboard">Hitparáda</string>
     <string name="bind_baidu_account_setting">Propojit s Baidu účtem</string>
-    <string name="bind_baidu_account_summary">Stáhněte si svůj seznam skladeb z Vašeho Baidu účtu pokud ho máte</string>    
+    <string name="bind_baidu_account_summary">Stáhněte si svůj seznam skladeb z Vašeho Baidu účtu, pokud ho máte</string>    
     <string name="buffering">Načítání...</string>
     <string name="cancel">Zrušit</string>
     <string name="cancel_sleep_mode">Zastavit časovač</string>
@@ -59,7 +59,7 @@
     <string name="create_equalzier_create_text_prompt">Název ekvalizéru</string>
     <string name="create_playlist_create_text_prompt">Název playlistu</string>
     <string name="custom">Přizpůsobit</string>
-    <string name="data_usage_warning">Upozonění využití dat!</string>
+    <string name="data_usage_warning">Upozornění využití dat!</string>
     <string name="data_usage_warning_summary">Používání mobilních dat pro poslech hudby ve vysoké kvalitě může zvýšit Vaše měsíční poplatky.</string>
     <string name="default_interval">30</string>
     <string name="delete_file_from_sdcard">Současně odstranit soubory z SD karty</string>
@@ -75,7 +75,7 @@
     <string name="disconnect">Odpojit</string>
     <string name="download">Stáhnout</string>
     <string name="download_album_settings">Stahovat obrázky alb</string>
-    <string name="download_album_summary">Může stahovat větší množství dat, zvažte použití WiFi</string>
+    <string name="download_album_summary">Může stahovat větší množství dat, zvažte použití Wi-Fi</string>
     <string name="download_all_album">Stáhnout obrázky alb</string>
     <string name="download_all_avatar">Stáhnout obrázky autorů</string>
     <string name="download_all_track">Stáhnout všechny skladby</string>
@@ -324,11 +324,11 @@
     <string name="tracks_title">Vše</string>
     <string name="ultra_high_quality">Nejvyšší kvalita</string>
     <string name="unknown_album_name">Neznámé album</string>
-    <string name="unknown_artist_name">Neznámy umělec</string>
+    <string name="unknown_artist_name">Neznámý umělec</string>
     <string name="use_local_album">Použít uložený obrázek alba</string>
     <string name="use_local_lyric">Použít uložené texty</string>
     <string name="valid_period">"Platné od: "</string>
-    <string name="vip_bought">"Už máte zakúpen přístup k vysoké kvalitě hudby"</string>
+    <string name="vip_bought">"Už máte zakoupený přístup k vysoké kvalitě hudby"</string>
     <string name="vip_expired">Váš přístup k vysoké kvalitě hudby vypršel</string>
     <string name="vip_rebuy">Obnovit</string>
     <string name="vip_recommend_buy">Zakoupit (5 RMB na 1 měsíc)</string>
@@ -337,7 +337,7 @@
     <string name="vip_recommend_rebuy">Obnovení VIP přístupu na 30 dní stojí 5 MiKreditů</string>
     <string name="vip_recommend_sub_title">Pouze 5 RMB měsíčně</string>
     <string name="vip_recommend_summary">Streamujte nebo stahujte všechny Vaše oblíbené skladby z Baidu Music ve kvalitě 320 kbps.</string>
-    <string name="vip_recommend_title">Ziskat hudbu ve vyšší kvalitě</string>
+    <string name="vip_recommend_title">Získat hudbu ve vyšší kvalitě</string>
     <string name="where_is_barcode">"Kde je QR kód?"</string>
     <string name="xiaomi_account_setting">Xiaomi účet</string>
 </resources>

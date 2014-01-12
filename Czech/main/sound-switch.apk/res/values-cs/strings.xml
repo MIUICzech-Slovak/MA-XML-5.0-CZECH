@@ -73,7 +73,7 @@ http://weibo.com/geno"</string>
     <string name="videorecord_sound_summary">Povolit/Zakázat zvuk nahrávání videa</string>
     <string name="camera_focus_sound">Zvuk ostření fotoaparátu</string>
     <string name="camera_focus_sound_summary">Povolit/Zakázat zvuk ostření fotoaparátu</string>
-    <string name="key_light">POdsvícení tlačítek</string>
+    <string name="key_light">Podsvícení tlačítek</string>
     <string name="key_light_summary">Povolí/Zakáže podsvícení tlačítek</string>
     <string name="dts_mode">Režim DTS</string>
     <string name="dts_mode_summary">Povolí/Zakáže režimy zvuku DTS</string>
@@ -105,7 +105,7 @@ http://weibo.com/geno"</string>
     <string name="lite_summary">Systémové služby Lite</string>
     <string name="huawei">Služby MIUI</string>
     <string name="huawei_summary">Systémové služby Lite MIUI</string>
-    <string name="google">Služby Goolge</string>
+    <string name="google">Služby Google</string>
     <string name="google_summary">Systémové služby Lite Google</string>
     <string name="other">Ostatní</string>
     <string name="other_summary">Ostatní služby Lite</string>
