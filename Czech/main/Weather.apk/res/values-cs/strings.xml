@@ -18,7 +18,7 @@
   <string name="act_weather_aqi_title">Index kvality ovzduší</string>
   <string name="act_weather_cycle_link_china">WeatherChina</string>
   <string name="act_weather_cycle_low_temp">Nízká</string>
-  <string name="act_weather_cycle_update">Aktalizování...</string>
+  <string name="act_weather_cycle_update">Aktualizování...</string>
   <string name="act_weather_find_city_connect_net">Zkontrolujte připojení k internetu a zkuste to znovu.</string>
   <string name="act_weather_find_city_search_online">Najít města</string>
   <string name="act_weather_find_city_searching">Hledání...</string>
@@ -117,7 +117,7 @@ Dnes v %1$s je  počasí %2$s, %3$s, %4$s. %5$s.</string>
   <string name="tip_weather_info_title_2">%1$s dnešní teplota je odhadována na %2$s</string>
   <string name="trend_weather_today">Dnes</string>
   <string name="trend_weather_tomorrow">Zítra</string>
-  <string name="weather_notification">Upozornení na počasí</string>
+  <string name="weather_notification">Upozornění na počasí</string>
   <string name="weather_unit">°</string>
   <string name="weather_unit_middle">~</string>
   <string name="weather_unit_with_c">°C</string>

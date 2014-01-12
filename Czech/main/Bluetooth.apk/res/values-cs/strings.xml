@@ -117,7 +117,7 @@ Přijmout soubor?"</string>
     <string name="permdesc_bluetoothWhitelist">Povolit aplikaci přístup k Bluetooth bez potřeby povolení.</string>
     <string name="permdesc_handoverStatus">Povolit přístup k informacím o stavu přes Bluetooth.</string>
     <string name="permlab_bluetoothShareManager">Získat přístup ke správci stahování.</string>
-    <string name="permlab_bluetoothWhitelist">Povolené bluetooth zařízení.</string>
+    <string name="permlab_bluetoothWhitelist">Povolené Bluetooth zařízení.</string>
     <string name="permlab_handoverStatus">Přijmout BT handover transfer broadcasts.</string>
     <string name="process" />
     <string name="share_prepare">Příprava sdílení přes Bluetooth</string>
@@ -126,19 +126,19 @@ Přijmout soubor?"</string>
     <string name="status_bpp_aborted_by_printer">Tisk byl zrušen tiskárnou</string>
     <string name="status_bpp_canceled_by_user">Tisk byl zrušen uživatelem</string>
     <string name="status_bpp_cancelled_by_printer">Tisk byl zrušen tiskárnou</string>
-    <string name="status_bpp_disconnected">Připojení bluetooth se přerušilo. Tisk selhal.</string>
+    <string name="status_bpp_disconnected">Připojení Bluetooth se přerušilo. Tisk selhal.</string>
     <string name="status_bpp_door_open">Tisk selhal kvůli otevřenému krytu tiskárny</string>
     <string name="status_bpp_marker_failure">Tisk selhal kvůli selhání náplně</string>
     <string name="status_bpp_marker_supply_empty">Tisk selhal kvůli prázdné náplni</string>
     <string name="status_bpp_marker_supply_low">Tisk selhal kvůli nedostatečné náplni</string>
     <string name="status_bpp_media_empty">Tisk selhal protože došel papír</string>
-    <string name="status_bpp_media_jam">Tisk selhal protože se zasekl papír</string>
-    <string name="status_bpp_media_low">Tisk selhal protože není dost papíru</string>
-    <string name="status_bpp_output_area_almost_full">Tisk selhal protože výstupní zásobník je skoro plný</string>
-    <string name="status_bpp_output_area_full">Tisk selhal protože výstupní zásobník je plný</string>
-    <string name="status_bpp_paused">Tisk selhal protože byl zastaven</string>
-    <string name="status_bpp_refused_by_printer">Tisk selhal protože byl odmítnutý tiskárnou</string>
-    <string name="status_bpp_stopped_by_printer">Tisk selhal protože byl zastavený tiskárnou</string>
+    <string name="status_bpp_media_jam">Tisk selhal, protože se zasekl papír</string>
+    <string name="status_bpp_media_low">Tisk selhal, protože není dost papíru</string>
+    <string name="status_bpp_output_area_almost_full">Tisk selhal, protože výstupní zásobník je skoro plný</string>
+    <string name="status_bpp_output_area_full">Tisk selhal, protože výstupní zásobník je plný</string>
+    <string name="status_bpp_paused">Tisk selhal, protože byl zastaven</string>
+    <string name="status_bpp_refused_by_printer">Tisk selhal, protože byl odmítnutý tiskárnou</string>
+    <string name="status_bpp_stopped_by_printer">Tisk selhal, protože byl zastavený tiskárnou</string>
     <string name="status_bpp_sucess">Tisk byl úspěšně dokončen</string>
     <string name="status_bpp_unknown_error_by_printer">Tisk selhal z neznámého důvodu na tiskárně</string>
     <string name="status_canceled">Odesílání zrušeno</string>
@@ -161,8 +161,7 @@ Přijmout soubor?"</string>
     <string name="unknownNumber">Neznámé</string>
     <string name="unknown_device">Neznámé zařízení</string>
     <string name="unknown_file">Neznámý soubor</string>
-    <string name="unknown_file_desc">"Žádná aplikace nedokáže otevřít tento soubor
-"</string>
+    <string name="unknown_file_desc">"Žádná aplikace nedokáže otevřít tento soubor"</string>
     <string name="update_record">Potvrdit záznam</string>
     <string name="upload_fail_cancel">Zavřít</string>
     <string name="upload_fail_line1">Soubor nebyl odeslán uživateli \"%1$s\".</string>

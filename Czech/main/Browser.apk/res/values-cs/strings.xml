@@ -199,7 +199,7 @@
     <string name="error_console_eval_button_text">Vyhodnotit</string>
     <string name="error_console_eval_text_hint">Vyhodnotit JavaScript</string>
     <string name="error_console_header_text_maximized">JavaScriptová konzole</string>
-    <string name="error_console_header_text_minimized">Ukázat konzoli JavaScripovout</string>
+    <string name="error_console_header_text_minimized">Ukázat JavaScriptovou konzoli</string>
     <string name="exit_browser_warning">Ukončit prohlížeč?</string>
     <string name="export_bookmark">Exportovat záložky</string>
     <string name="export_bookmark_failure">Záložky nebyly uloženy na SD kartu!</string>
@@ -209,7 +209,7 @@
     <string name="file_name">Název</string>
     <string name="file_picker">Zvolte cestu</string>
     <string name="file_picker_new_folder">Nová složka</string>
-    <string name="file_picker_sdcard_not_found">SD karta nenalezena, zkontrolujte jestli je telefon připojený k PC.</string>
+    <string name="file_picker_sdcard_not_found">SD karta nenalezena, zkontrolujte, jestli je telefon připojený k PC.</string>
     <string name="filename_empty_alert_message">"Název souboru nesmí být prázdný"</string>
     <string name="filename_illegal_alert_message">Název souboru obsahuje nepovolené znaky, které byly odstraněny.</string>
     <string name="find_on_page">Najít na stránce</string>

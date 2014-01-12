@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_description">Profil balíků bluetooth</string>
+    <string name="app_description">Profil balíků Bluetooth</string>
     <string name="app_label">Bluetooth</string>
     <string name="bluetooth_pan_GN_authorize_confirm">Akceptovat požadavek autorizace Group Ad-hoc Network z %1$s?</string>
     <string name="bluetooth_pan_GN_authorize_confirm_title">Povolit požadavek autorizace Group Ad-hoc Network</string>
@@ -38,12 +38,12 @@
     <string name="bluetooth_pan_nap_enable_summary">Vybrat pro zapnutí nebo vypnutí služby NAP</string>
     <string name="bluetooth_pan_nap_enable_title">Síťové přístupové body</string>
     <string name="bluetooth_pan_no">Zakázat</string>
-    <string name="bluetooth_pan_server_settings">Vybrat službu bluetooth PAN</string>
+    <string name="bluetooth_pan_server_settings">Vybrat službu Bluetooth PAN</string>
     <string name="bluetooth_pan_yes">Povolit</string>
     <string name="bluetooth_pbap_server">Přístup k seznamu PBAP</string>
     <string name="bluetooth_pbap_server_auth_cancel">Storno</string>
     <string name="bluetooth_pbap_server_auth_chall_message">Požadavek PBAP autentikace z %1$s?</string>
-    <string name="bluetooth_pbap_server_auth_chall_notify_ticker">Požadavek autentikace bluetooth PBAP</string>
+    <string name="bluetooth_pbap_server_auth_chall_notify_ticker">Požadavek autentikace Bluetooth PBAP</string>
     <string name="bluetooth_pbap_server_auth_chall_notify_title">Požadavek Bluetooth PBAP autorizace</string>
     <string name="bluetooth_pbap_server_auth_ok">OK</string>
     <string name="bluetooth_pbap_server_auth_passcode">Přístupový kód</string>
@@ -52,12 +52,12 @@
     <string name="bluetooth_pbap_server_authorize_decline">Zamítnout</string>
     <string name="bluetooth_pbap_server_authorize_message">Povolit požadavek PBAP připojení z %1$s?</string>
     <string name="bluetooth_pbap_server_authorize_notify_message">Vybrat pro povolení PBAP připojení</string>
-    <string name="bluetooth_pbap_server_authorize_notify_ticker">Požadavek autorizace bluetooth PBAP</string>
+    <string name="bluetooth_pbap_server_authorize_notify_ticker">Požadavek autorizace Bluetooth PBAP</string>
     <string name="bluetooth_pbap_server_authorize_notify_title">Požadavek Bluetooth PBAP autorizace</string>
     <string name="bluetooth_pbap_server_authorize_title">Bluetooth PBAP autorizace</string>
     <string name="bt_base_activity_busy_message">Načítám. Prosím čekejte...</string>
     <string name="bt_base_activity_service_disconnected">Služba odpojena!</string>
-    <string name="bt_base_profile_feature_disabled">Nemohu použít vlastnost vypnutého bluetooth.</string>
+    <string name="bt_base_profile_feature_disabled">Nemohu použít vlastnost vypnutého Bluetooth.</string>
     <string name="bt_opp_cancel_task_message">Zrušit tento přenos?</string>
     <string name="bt_opp_cancel_task_no">Ne</string>
     <string name="bt_opp_cancel_task_title">Přenos souboru</string>
@@ -100,7 +100,7 @@
     <string name="bt_share_openfile_message_unsupported_type">Nepodporovaný typ souboru: %1$s</string>
     <string name="bt_share_openfile_title">Otevřít soubor</string>
     <string name="permdesc_bluetoothWhitelist">Povolit aplikací dát Bluetooth zařízení na bílou listinu, umožnit zařízení posílat soubory do zařízení bez potvrzování.</string>
-    <string name="permdesc_handoverStatus">Vždy přijímat stav přenosu handover z bluetooth.</string>
-    <string name="permlab_bluetoothWhitelist">Bílá listina přístupu bluetooth zařízení.</string>
+    <string name="permdesc_handoverStatus">Vždy přijímat stav přenosu handover z Bluetooth.</string>
+    <string name="permlab_bluetoothWhitelist">Bílá listina přístupu Bluetooth zařízení.</string>
     <string name="permlab_handoverStatus">Přijímat vysílání přenosu BT handover</string>
 </resources>

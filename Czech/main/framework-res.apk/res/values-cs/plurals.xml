@@ -68,12 +68,12 @@
         <item quantity="one">zítra</item>
     </plurals>
     <plurals name="wifi_available">
-        <item quantity="other">Jsou k dispozici sítě WiFi.</item>
-        <item quantity="one">K dispozici je síť WiFi.</item>
+        <item quantity="other">Jsou k dispozici sítě Wi-Fi.</item>
+        <item quantity="one">K dispozici je síť Wi-Fi.</item>
     </plurals>
     <plurals name="wifi_available_detailed">
-        <item quantity="other">Jsou k dispozici veřejné sítě WiFi</item>
-        <item quantity="one">K dispozici je veřejná síť WiFi</item>
+        <item quantity="other">Jsou k dispozici veřejné sítě Wi-Fi</item>
+        <item quantity="one">K dispozici je veřejná síť Wi-Fi</item>
     </plurals>
     <plurals name="matches_found">
         <item quantity="other">%1$d z %2$d</item>

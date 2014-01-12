@@ -31,7 +31,7 @@
     <string name="comment_sending">Odesílání...</string>
     <string name="comment_upload_failed">Odeslání selhalo</string>
     <string name="comment_upload_hint">Děkujeme!</string>
-    <string name="comment_upload_not_logined">Nejprve se přilaste</string>
+    <string name="comment_upload_not_logined">Nejprve se přihlaste</string>
     <string name="comment_upload_success">Odesláno!</string>
     <string name="confirm_download_cancelation_dialog_message">Zrušit stahování aktualizace?</string>
     <string name="copy_install_log">Kopírovat instalační log</string>

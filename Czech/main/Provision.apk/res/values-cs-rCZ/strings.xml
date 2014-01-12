@@ -13,7 +13,7 @@
     <string name="other_service_label">Ostatní služby</string>
     <string name="other_service_location">Zjišťování polohy</string>
     <string name="other_service_location_summary">Zjišťování polohy umožňuje mapám a ostatním aplikacím získat Vaši přesnou polohu pomocí GPS</string>
-    <string name="other_service_permission_manager">Správa práv aplikácí</string>
+    <string name="other_service_permission_manager">Správa práv aplikací</string>
     <string name="other_service_permission_manager_summary">Sledování aplikací kvůli bezpečnosti a soukromí</string>
     <string name="other_service_user_experience">Zasílat zpětnou vazbu</string>
     <string name="other_service_user_experience_summary0">"Jsme rádi, že využíváte náš produkt a doufáme, že nám ho pomůžete zlepšovat zasláním zpětné vazby. Vaše zpětná vazba bude zabezpečená prostřednictvím našich "</string>

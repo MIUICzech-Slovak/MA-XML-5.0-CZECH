@@ -305,7 +305,7 @@ Využito %s | Zbývá %s"</string>
     <string name="micloud_warn_full_title">MiCloud úložiště je plné!</string>	
     <string name="micloud_warn_low_sum">Je využito 90% úložiště.</string>
     <string name="micloud_warn_low_title">Dochází volné místo v úložišti!</string>
-    <string name="micloud_web_discription_01">Přihlaste sa na http://i.xiaomi.com</string>
+    <string name="micloud_web_discription_01">Přihlaste se na http://i.xiaomi.com</string>
     <string name="micloud_web_discription_02">pro ukládání a přístup k Vašim souborům</string>
     <string name="micloud_welcome_skip_login"><u>Přeskočit tento krok</u></string>
     <string name="mili_center">MiKredity</string>
@@ -429,7 +429,7 @@ Zkontrolujeme to do dvou pracovních dnů"</string>
     <string name="removing_account">Odhlašování z účtu...</string>
     <string name="restoreSync">Obnovit</string>
     <string name="send_int_sms_for_sync_notice">Pro aktivaci Vašeho tel. čísla se odešle SMS zpráva. Opravdu chcete pokračovat?</string>
-    <string name="send_sms_for_sync_notice">Je zapotřebí zaslat aktivační sms, pokračovat?</string>
+    <string name="send_sms_for_sync_notice">Je zapotřebí zaslat aktivační SMS, pokračovat?</string>
     <string name="send_sms_for_sync_title">Synchronizace není aktivní</string>
     <string name="service_error">Chyba služby</string>
     <string name="show_password">Zobrazit heslo</string>
