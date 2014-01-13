@@ -161,7 +161,8 @@ Přijmout soubor?"</string>
     <string name="unknownNumber">Neznámé</string>
     <string name="unknown_device">Neznámé zařízení</string>
     <string name="unknown_file">Neznámý soubor</string>
-    <string name="unknown_file_desc">"Žádná aplikace nedokáže otevřít tento soubor"</string>
+    <string name="unknown_file_desc">"Žádná aplikace nedokáže otevřít tento soubor
+"</string>
     <string name="update_record">Potvrdit záznam</string>
     <string name="upload_fail_cancel">Zavřít</string>
     <string name="upload_fail_line1">Soubor nebyl odeslán uživateli \"%1$s\".</string>
