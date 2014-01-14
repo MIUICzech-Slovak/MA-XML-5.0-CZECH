@@ -978,6 +978,7 @@ Toto nastavení ovlivní všechny uživatele tohoto telefonu."</string>
     <string name="enable_drive_mode">Povolit režim AUTO</string>
     <string name="enable_firewall">Blokovat nežádoucí hovory</string>
     <string name="enable_opengl_traces_title">Povolit trasování OpenGL</string>
+    <string name="enable_service_title">Použít %1$s?</string>
     <string name="enable_snapshot_screenlock">Rychlé pořízení fotografie</string>
     <string name="enable_text">Povolit</string>
     <string name="enable_traces_dialog_title">Zvolte zapnuté stopy</string>
@@ -2808,6 +2809,7 @@ Každý uživatel může přijmout aktualizovaná oprávnění aplikací jménem
     <string name="user_summary_restricted_not_set_up">Není nastaven – omezený profil</string>
     <string name="user_summary_restricted_profile">Omezený profil</string>
     <string name="user_system_apps_heading">Aplikace v systému</string>
+    <string name="user_you">Vy (%s)</string>
     <string name="user_you_section">Vy</string>
     <string name="valuation">Doporučuje se čištění</string>
     <string name="verify_applications">Ověřovat aplikace</string>

@@ -958,6 +958,7 @@ ale obsah který hledáte není dostupný ve Vaší zemi."</string>
     <string name="savingContact">Ukládání kontaktu...</string>
     <string name="savingDisplayGroups">Ukládám nastavení zobrazení …</string>
     <string name="scan">Prohledat zařízení</string>
+    <string name="scanning">Kontrola...</string>
     <string name="scan_duplicate_message">Počet duplicitních kontaktů: %1$d</string>
     <string name="scan_merge">Hledání možných duplicitních kontaktů, prosím čekejte...</string>
     <string name="scanning_sdcard_failed_message">"Vyhledávání na kartě SD se nepodařilo. (Důvod: \"%s\")</string>
