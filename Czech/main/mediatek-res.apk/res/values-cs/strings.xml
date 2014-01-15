@@ -186,7 +186,7 @@ Zkuste to znovu za %d sekund."</string>
     <string name="sim_missing_detail">Zkontrolujte SIM kartu</string>
     <string name="sim_missing_slot1">Slot 1: Žádná SIM karta</string>
     <string name="sim_missing_slot2">Slot 2: Žádná SIM karta</string>
-    <string name="sim_permanently_locked">Zadali jste 10 krát nesprávný PUK kód. SIM byla trvale zablokována.</string>
+    <string name="sim_permanently_locked">Zadali jste 10krát nesprávný PUK kód. SIM byla trvale zablokována.</string>
     <string name="storage_sd">SD karta nemá dostatek volného místa. Vymažte nepotřebné soubory.</string>
     <string name="storage_withoutsd">Úložiště v telefonu nemá dostatek volného místa. Vymažte nepotřebné soubory nebo vložte SD kartu.</string>
     <string name="storage_withsd">Úložiště v telefonu nemá dostatek volného místa. Vymažte nepotřebné soubory.</string>
