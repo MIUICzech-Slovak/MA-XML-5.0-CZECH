@@ -37,7 +37,7 @@
     <string name="answer_features_setting_category_miui">Nastavení přijmutí</string>
     <string name="answer_miui">Odpovědět</string>
     <string name="answer_state_setting_summary">Nastavení ztišení otočením, senzor přiblížení, atd.</string>
-    <string name="answer_state_setting_title">Nastavení chování při příchozím hovoru</string>
+    <string name="answer_state_setting_title">Chování při příchozím hovoru</string>
     <string name="answer_state_setting_title_miui">Nastavení chování při příchozím hovoru</string>
     <string name="answer_widget_dialog_title_miui">Vyberte odpovědní gesto</string>
     <string name="answer_widget_sliding_horizontal_miui">Horizontální posunutí</string>

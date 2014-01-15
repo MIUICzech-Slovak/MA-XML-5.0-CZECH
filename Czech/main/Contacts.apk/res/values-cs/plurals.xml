@@ -51,8 +51,8 @@
         <item quantity="one">Vybraných: %1$d</item>
     </plurals>
     <plurals name="group_add_success_toast">
-        <item quantity="other">Úspěšně přidaných %1$d lidí</item>
-        <item quantity="one">Úspěšně přidaný %1$d člověk</item>
+        <item quantity="other">%1$d přidaných kontaktů</item>
+        <item quantity="one">%1$d přidaný kontakt</item>
     </plurals>
     <plurals name="smart_group_member_count">
         <item quantity="other">%d lidí</item>

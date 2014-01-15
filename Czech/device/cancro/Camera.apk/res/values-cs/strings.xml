@@ -98,6 +98,7 @@
   <string name="exposure_time">Čas expozice</string>
   <string name="face_analyze_info">%1$s %2$s roků</string>
   <string name="face_analyze_info_female">Žena</string>
+  <string name="face_analyze_info_gender">Pohlaví:</string>
   <string name="face_analyze_info_male">Muž</string>
   <string name="face_beauty_age_alias_female_0_7">Žena 0-7</string>
   <string name="face_beauty_age_alias_female_18_30">Žena 18-30</string>
@@ -307,6 +308,7 @@
   <string name="pref_camera_picturesize_professional_entry_3264X2448">8M(3264X2448)</string>
   <string name="pref_camera_picturesize_professional_entry_3264x1836">6MP (3264×1836)</string>
   <string name="pref_camera_picturesize_professional_entry_3264x1840">6M(3264x1840)</string>
+  <string name="pref_camera_picturesize_professional_entry_3264x2448">8MP（3264x2448）</string>
   <string name="pref_camera_picturesize_professional_entry_4208x2368">10MP (4208×2368)</string>
   <string name="pref_camera_picturesize_professional_entry_4208x3120">13MP (4208×3120)</string>
   <string name="pref_camera_picturesize_title">Velikost fotografie</string>

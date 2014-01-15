@@ -70,7 +70,7 @@
     <string name="dismiss_all_label">Zavřít vše</string>
     <string name="do_not_check">Nekontrolovat -></string>
     <string name="does_not_repeat">Jednorázová událost</string>
-    <string name="done">Zpět</string>
+    <string name="done">Další</string>
     <string name="edit_event_all_day_label">Celý den</string>
     <string name="edit_event_calendar_label">Kalendář</string>
     <string name="edit_event_from_label">Od</string>
@@ -134,6 +134,18 @@
     <string name="modify_all">Změnit všechny události v sérii</string>
     <string name="modify_all_following">Změnit tuto událost a všechny budoucí</string>
     <string name="modify_event">Změnit pouze tuto událost</string>
+    <string name="month_medium_january">Led</string>
+    <string name="month_medium_february">Úno</string>
+    <string name="month_medium_march">Bře</string>
+    <string name="month_medium_april">Dub</string>
+    <string name="month_medium_may">Kvě</string>
+    <string name="month_medium_june">Čvn</string>
+    <string name="month_medium_july">Čvc</string>
+    <string name="month_medium_august">Srp</string>
+    <string name="month_medium_september">Zář</string>
+    <string name="month_medium_october">Říj</string>
+    <string name="month_medium_november">Lis</string>
+    <string name="month_medium_december">Pro</string>
     <string name="month_view">Měsíc</string>
     <string name="monthly">Měsíčně</string>
     <string name="monthly_on_day">Měsíčně (%s. den)</string>
