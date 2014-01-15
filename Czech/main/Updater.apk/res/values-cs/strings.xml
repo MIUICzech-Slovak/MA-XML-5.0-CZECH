@@ -167,7 +167,7 @@
     <string name="view_install_log">Zobrazit záznam</string>
     <string name="view_upgrade_tutorial">Prohlédnout návod</string>
     <string name="weekly_build">Týdenní verze</string>
-    <string name="wifi_not_available_body">Doporučuje se použít Wi-Fi připojení pro stáhnutí aktualizace kvůli její velikosti. Momentálně nemáte připojenou Wi-Fi, chcete i tak pokračovat?.</string>
+    <string name="wifi_not_available_body">Doporučuje se použít Wi-Fi připojení pro stáhnutí aktualizace kvůli její velikosti. Momentálně nemáte připojenou Wi-Fi, chcete i tak pokračovat?</string>
     <string name="wifi_not_available_title">Wi-Fi nepřipojeno</string>
     <string name="worst_update">Nejhorší aktualizace</string>
 </resources>

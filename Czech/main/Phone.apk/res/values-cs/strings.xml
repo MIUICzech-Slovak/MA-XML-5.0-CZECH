@@ -300,10 +300,10 @@
     <string name="countrycode_alert_title_miui">Upozornění</string>
     <string name="crystaltalk_summary_miui">Nastavení optimalizace zvuku hovoru</string>
     <string name="crystaltalk_title_miui">Nastavení NICAM</string>
-    <string name="current_areacode_miui">Předvolba krajiny</string>
-    <string name="current_areacode_sum_miui">Aktuální předvolba krajiny. Například: 420</string>
-    <string name="current_areacode_sum_set_miui">Aktuální předvolba krajiny: %s</string>
-    <string name="cursorError">Kurzor nemá správné data!</string>
+    <string name="current_areacode_miui">Předvolba země</string>
+    <string name="current_areacode_sum_miui">Aktuální předvolba země. Například: 420</string>
+    <string name="current_areacode_sum_set_miui">Aktuální předvolba země: %s</string>
+    <string name="cursorError">Kurzor nemá správná data!</string>
     <string name="custom_location_location_hint_miui">Jméno</string>
     <string name="custom_location_location_no_item_miui">"Stiskněte 'Přidat' pro zadání vlastní předvolby"</string>
     <string name="custom_location_number_hint_miui">Předvolba země (např. 420), číslo skupiny (např. 68#####)</string>
@@ -467,8 +467,8 @@
     <string name="fdn">Fixní telefonní čísla</string>
     <string name="fdnListLabel">Seznam PTČ</string>
     <string name="fdn_activation">FDN aktivace</string>
-    <string name="fdn_change_pin_sum_miui">Změnit PIN při přístup k  FDN</string>
-    <string name="fdn_check_failure">"Váš telefon má nastavené pevné telefonní čísla. V důsledku toho jsou některé funkce nedostupné."</string>
+    <string name="fdn_change_pin_sum_miui">Změnit PIN při přístupu k FDN</string>
+    <string name="fdn_check_failure">"Váš telefon má nastavená fixní telefonní čísla. V důsledku toho jsou některé funkce nedostupné."</string>
     <string name="fdn_contact_added">Povolené telefonní číslo bylo přidáno.</string>
     <string name="fdn_contact_deleted">Povolené telefonní číslo bylo smazáno.</string>
     <string name="fdn_contact_updated">Povolené telefonní číslo bylo aktualizováno.</string>
@@ -1128,7 +1128,7 @@
     <string name="turn_off_auto_select_title_miui">Vypnout automatický výběr sítě</string>
     <string name="turn_off_auto_select_warning_message_miui">Po vypnutí této volby se bude používat síť, kterou jste vybrali ručně, a nebude probíhat registrovat do jiné sítě.</string>
     <string name="turn_off_miui">Vypínání</string>
-    <string name="turnover_mute_summary_miui">Otočením displeje směrem dolů ztiší vyzvánění</string>
+    <string name="turnover_mute_summary_miui">Otočení displeje směrem dolů ztiší vyzvánění</string>
     <string name="turnover_mute_title_miui">Otočením ztišit</string>
     <string name="undefined_miui">Nedefinované</string>
     <string name="unknown">Neznámé</string>

@@ -67,7 +67,7 @@
     <string name="edit_frame_warning_title">"Varovná hodnota "</string>
     <string name="empty"/>
     <string name="finish_traffic_settings_hint">Nastavení balíčku dokončeno</string>
-    <string name="finish_traffic_settings_message">"Využité data jsou %s. Souhlasí data?
+    <string name="finish_traffic_settings_message">"Využitá data jsou %s. Souhlasí data?
 Můžete je upravit."</string>
     <string name="finish_traffic_settings_title">Upravit data</string>
     <string name="fire_rule_program_list">Seznam aplikací</string>

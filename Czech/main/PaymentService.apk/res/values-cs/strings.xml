@@ -51,7 +51,7 @@
     <string name="btn_wait_call">Čekání...</string>
     <string name="btn_wait_call_count">Čekání (%1$s)</string>
     <string name="btn_wait_confirm">Čekání</string>	
-    <string name="btn_wait_confirm_count">Čekání (%1$s)</string>
+    <string name="btn_wait_confirm_count">Čekání (%1$s)</string>	
     <string name="button_call">Volat</string>
     <string name="button_cancel">Zrušit</string>
     <string name="button_confirm">Potvrdit</string>
@@ -111,7 +111,7 @@ Vyčkejte prosím 5 minut a zkuste to znovu"</string>
     <string name="fee">%1$s MiKreditů</string>
     <string name="forget_password"><u>Zapomněl jsem heslo</u></string>
     <string name="frozen">(Zmrazeno)</string>
-    <string name="giftcard_acitivity_and_denomination">%2$s MKreditů z poukázky %1$s</string>
+    <string name="giftcard_acitivity_and_denomination">%2$s MiKreditů z poukázky %1$s</string>
     <string name="giftcard_denom">MiKreditů</string>
     <string name="giftcard_denom_available">MiKreditů dostupných</string>
     <string name="giftcard_denom_frozen">MiKreditů zmrazených</string>
