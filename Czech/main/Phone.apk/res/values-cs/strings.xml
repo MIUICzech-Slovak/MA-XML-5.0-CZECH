@@ -78,7 +78,7 @@
     <string name="auto_country_code_miui">Automaticky přidat kód země</string>
     <string name="auto_country_code_sum_miui">Automaticky přidat kód země před telefonní číslo známých kontaktů.</string>
     <string name="auto_ip_add_exception_numbers_miui">Přidány čísla</string>
-    <string name="auto_ip_exception_miui">"Čísla která nepotřebují IP předčíslí"</string>
+    <string name="auto_ip_exception_miui">"Čísla, která nepotřebují IP předčíslí"</string>
     <string name="auto_ip_exception_summary_miui">%d celkem</string>
     <string name="auto_ip_exception_summary_more_miui">,... %d celkem</string>
     <string name="auto_ip_no_exceptions_miui">"Zadejte čísla, která nepotřebují IP předčíslí"</string>
@@ -237,9 +237,9 @@
     <string name="cell_bc_sms_disable">SMS Cell Broadcast zakázány</string>
     <string name="cell_bc_sms_enable">SMS Cell Broadcast povoleny</string>
     <string name="cell_broadcast_sms">SMS Cell Broadcast</string>
-    <string name="cfb_title_miui">Přesměrovat pokud je obsazeno</string>
-    <string name="cfnrc_title_miui">Přesměrovat pokud jsem nedostupný</string>
-    <string name="cfnry_title_miui">Přesměrovat pokud neodpovídám</string>
+    <string name="cfb_title_miui">Přesměrovat, pokud je obsazeno</string>
+    <string name="cfnrc_title_miui">Přesměrovat, pokud jsem nedostupný</string>
+    <string name="cfnry_title_miui">Přesměrovat, pokud neodpovídám</string>
     <string name="cfu_title_miui">Vždy přesměrovat</string>
     <string name="change_num">Aktualizovat</string>
     <string name="change_password">Změnit heslo blokování hovorů</string>
@@ -252,7 +252,7 @@
     <string name="clir_choices_show_number_miui">Zobrazit číslo</string>
     <string name="close_dialog">OK</string>
     <string name="close_profile">Zavřít</string>
-    <string name="command_error_fdn_failure_miui">Tato operace nemůže být povolena pokud je FDN zapnuto. Prosím vypněte FDN a zkuste to znovu.</string>
+    <string name="command_error_fdn_failure_miui">Tato operace nemůže být povolena, pokud je FDN zapnuto. Prosím vypněte FDN a zkuste to znovu.</string>
     <string name="command_error_generic_failure_miui">Operace nemůže být dokončena, prosím zkuste to později.</string>
     <string name="command_error_illegal_sim_or_me_miui">Volba sítě selhala v důsledku chybné SIM/ME.</string>
     <string name="command_error_invalid_response_miui">Síť neodpovídá, prosím zkuste to později.</string>
@@ -537,9 +537,9 @@
     <string name="international_disable">Mezinárodní zprávy zakázány</string>
     <string name="international_enable">Mezinárodní zprávy povoleny</string>
     <string name="internet_phone">Internetový hovor</string>
-    <string name="invalidPin">Vložte PIN který má 4 až 8 číslic.</string>
-    <string name="invalidPin2">Vložte PIN2 který má 4 až 8 číslic.</string>
-    <string name="invalidPuk2">Vložte PUK2 Který má 8 číslic.</string>
+    <string name="invalidPin">Vložte PIN, který má 4 až 8 číslic.</string>
+    <string name="invalidPin2">Vložte PIN2, který má 4 až 8 číslic.</string>
+    <string name="invalidPuk2">Vložte PUK2, Který má 8 číslic.</string>
     <string name="invalid_new_pin2_miui">Nesprávný nový PIN2, prosím zadejte PIN2, který má od 4 do 8 čísel.</string>
     <string name="invalid_new_pin_miui">Nesprávný nový PIN, prosím zadejte PIN, který má od 4 do 8 čísel.</string>
     <string name="invalid_password">Zadejte heslo (4 čísla).</string>
@@ -610,7 +610,7 @@
     <string name="menu_edit">Upravit kontakt</string>
     <string name="menu_select_all">Vybrat vše</string>
     <string name="menu_select_title">%d vybraných</string>
-    <string name="messageCFB">Číslo je-li obsazeno</string>
+    <string name="messageCFB">Číslo, je-li obsazeno</string>
     <string name="messageCFNRc">Číslo při nedostupnosti</string>
     <string name="messageCFNRy">Číslo při neodpovídání</string>
     <string name="messageCFU">Vždy použít toto číslo</string>
@@ -1126,7 +1126,7 @@
     <string name="tty_mode_option_title_miui">TTY režim</string>
     <string name="turn_off_auto_select_confirm_message_miui">Signál a síť nemusí být dostupná. Jste si jisti, že tuto možnost chcete vypnout?</string>
     <string name="turn_off_auto_select_title_miui">Vypnout automatický výběr sítě</string>
-    <string name="turn_off_auto_select_warning_message_miui">Po vypnutí této volby se bude používat síť, kterou jste vybrali ručně a nebude probíhat registrovat do jiné sítě.</string>
+    <string name="turn_off_auto_select_warning_message_miui">Po vypnutí této volby se bude používat síť, kterou jste vybrali ručně, a nebude probíhat registrovat do jiné sítě.</string>
     <string name="turn_off_miui">Vypínání</string>
     <string name="turnover_mute_summary_miui">Otočením displeje směrem dolů ztiší vyzvánění</string>
     <string name="turnover_mute_title_miui">Otočením ztišit</string>

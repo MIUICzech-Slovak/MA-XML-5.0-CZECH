@@ -44,7 +44,7 @@
   
   Pokud používáte synchronizaci kontaktů s cloudem, budou vymazány i odtud."</string>
     <string name="bluetooth_connection_failed_toast">Bluetooth spojení se přerušilo</string>
-    <string name="blurbJoinContactDataWith">Vyberte kontakt se kterým chcete sloučit %s.</string>
+    <string name="blurbJoinContactDataWith">Vyberte kontakt, se kterým chcete sloučit %s.</string>
     <string name="btn_delete_multi_contacts">Vymazat %d kontaktů</string>
     <string name="btn_delete_one_contact">Vymazat kontakt</string>
     <string name="btn_rotation">Rotace</string>
@@ -927,7 +927,7 @@ Synchronizujte je nyní."</string>
     <string name="resource_selected">Nejlepší</string>
     <string name="resource_send">Odeslat</string>
     <string name="resource_server_alert_dialog_title">Server je momentálně nedostupný</string>
-    <string name="resource_server_out_of_service">Promiňte ale náš server je momentálně nedostupný. Zkuste to později.</string>
+    <string name="resource_server_out_of_service">Promiňte, ale náš server je momentálně nedostupný. Zkuste to později.</string>
     <string name="resource_share_subject">Sdílím téma: %1$s</string>
     <string name="resource_share_text">Zde je téma pro MIUI, které se Ti může líbit: %1$s! Adresa: %2$s</string>
     <string name="resource_share_title">Sdílet</string>
@@ -941,8 +941,8 @@ Synchronizujte je nyní."</string>
     <string name="resource_trial_end_restore">Ukončit zkoušku</string>
     <string name="resource_trial_end_title">Zkouška vypršela</string>
     <string name="resource_trial_time">（zkouška na %1$d minut）</string>
-    <string name="resource_unable_to_access">"Promiňte 
-ale obsah který hledáte není dostupný ve Vaší zemi."</string>
+    <string name="resource_unable_to_access">"Promiňte,
+ale obsah, který hledáte, není dostupný ve Vaší zemi."</string>
     <string name="resource_unknow_error">Neznámá chyba.</string>
     <string name="resource_update">Aktualizovat</string>
     <string name="resource_user_know">OK</string>

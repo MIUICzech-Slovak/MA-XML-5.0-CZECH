@@ -178,7 +178,7 @@ Server je momentálně nedostupný, zkuste to znovu později
     <string name="no_wifi_hint">Nebylo nalezeno Wi-Fi připojení</string>
     <string name="notif_server_starting">Spouští se služba FTP server</string>
     <string name="notif_title">Služba FTP server běží</string>
-    <string name="open_changed_file_message">"Soubory které chcete otevřít se změnily, možnosti jsou:
+    <string name="open_changed_file_message">"Soubory, které chcete otevřít, se změnily, možnosti jsou:
 1. Stáhnout (aktualizovat lokální soubor)
 2. Nahrát (aktualizovat soubor v Cloudu)"</string>
     <string name="open_changed_file_title">Soubor je změněný</string>

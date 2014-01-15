@@ -159,7 +159,7 @@ Zkuste to znovu za %d sekund."</string>
     <string name="nq_sms_filter_title">SMS filtr</string>
     <string name="nq_sms_filter_yes">Ano</string>
     <string name="one_retry_left">Zbývá 1 pokus</string>
-    <string name="permdesc_receiveCbSms">Umožňuje aplikaci přijímat a zpracovávat CB zprávy SMS. Škodlivé aplikace mohou sledovat vaše zprávy nebo je odstranit aniž by vám byly zobrazeny.</string>
+    <string name="permdesc_receiveCbSms">Umožňuje aplikaci přijímat a zpracovávat CB zprávy SMS. Škodlivé aplikace mohou sledovat vaše zprávy nebo je odstranit, aniž by vám byly zobrazeny.</string>
     <string name="permdesc_receiveDmRegisterSms">Umožňuje aplikaci přijímat a zpracovávat DM SMS zprávy. Žádná aplikace kromě DM APP by je neměla používat</string>
     <string name="permlab_receiveCbSms">Přijmout CB SMS</string>
     <string name="permlab_receiveDmRegisterSms">Přijmout DM Register SMS</string>

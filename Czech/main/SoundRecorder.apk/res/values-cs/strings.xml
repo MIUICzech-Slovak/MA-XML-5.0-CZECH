@@ -31,7 +31,7 @@
     <string name="fm_record">Nahrávání FM rádia (%d)</string>
     <string name="hour">%d hod.</string>
     <string name="insert_sd_card">Vložte SD kartu</string>
-    <string name="low_battery_error">Baterie má méně než 5%. Nahrávání bylo zastaveno a uloženo aby nedošlo ke ztrátě nahrávky. Pro pokračování nahrávání připojte nabíječku.</string>
+    <string name="low_battery_error">Baterie má méně než 5%. Nahrávání bylo zastaveno a uloženo, aby nedošlo ke ztrátě nahrávky. Pro pokračování nahrávání připojte nabíječku.</string>
     <string name="low_battery_message_title">Baterie je skoro vybitá</string>
     <string name="low_battery_warning">Neočekávané vypnutí může způsobit ztrátu nahrávky, připojte nabíječku.</string>
     <string name="mark_now">(Stávající)</string>

@@ -2238,7 +2238,7 @@ Toto nastavení ovlivní všechny uživatele tohoto telefonu."</string>
     <string name="screen_key_long_press_action">Funkce tlačítek</string>    
     <string name="screen_key_long_press_timeout">Délka stisku</string>
     <string name="screen_never_timeout_title">Nikdy</string>
-    <string name="screen_on_proximity_sensor_summary">Zabránit náhodnému použití telefonu když je v kapse (podle senzoru přiblížení).</string>
+    <string name="screen_on_proximity_sensor_summary">Zabránit náhodnému použití telefonu, když je v kapse (podle senzoru přiblížení).</string>
     <string name="screen_on_proximity_sensor_title">Zabránit náhodnému použití</string>    
     <string name="screen_saturation">Sytost barev</string>	
     <string name="screen_timeout">Vypnutí displeje</string>

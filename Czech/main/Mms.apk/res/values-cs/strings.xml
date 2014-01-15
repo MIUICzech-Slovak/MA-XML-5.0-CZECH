@@ -222,9 +222,9 @@
     <string name="mx_activate_popup_msg">Cloud zprávy umožňují uživatelům MIUI odesílat zprávy mezi sebou bez použití mobilních dat.</string>
     <string name="mx_activation_done">Cloud zprávy jsou povoleny</string>
     <string name="mx_auto_resend_mms">Auto. odeslání MMS</string>
-    <string name="mx_auto_resend_mms_summary">Odeslat jako MMS pokud Cloud zprávy nejsou dostupné. Bude zpoplatněno Vaším operátorem.</string>
+    <string name="mx_auto_resend_mms_summary">Odeslat jako MMS, pokud Cloud zprávy nejsou dostupné. Bude zpoplatněno Vaším operátorem.</string>
     <string name="mx_auto_resend_sms">Poslat jako SMS</string>
-    <string name="mx_auto_resend_sms_summary">Poslat jako SMS pokud cloudové zprávy nejsou k dispozici. Zprávy mohou být zpoplatněny</string>
+    <string name="mx_auto_resend_sms_summary">Poslat jako SMS, pokud cloudové zprávy nejsou k dispozici. Zprávy mohou být zpoplatněny</string>
     <string name="mx_btn_enable">Zapnout</string>
     <string name="mx_btn_enable_now">Povolit</string>
     <string name="mx_count_dspt">Od aktivace, MIUI poslalo %1$d cloud zpráv (%2$s)</string>

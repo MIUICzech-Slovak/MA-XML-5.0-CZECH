@@ -130,7 +130,7 @@
     <string name="account_setup_incoming_security_tls_trust_certificates_label">STARTTLS (Přijímat všechny certifikáty)</string>
     <string name="account_setup_incoming_title">Nastavení účtu</string>
     <string name="account_setup_incoming_username_label">Uživatelské jméno</string>
-    <string name="account_setup_index_label">Zvolte e-mailový účet který chcete přidat:</string>
+    <string name="account_setup_index_label">Zvolte e-mailový účet, který chcete přidat:</string>
     <string name="account_setup_index_other_mails">Jiný e-mail</string>
     <string name="account_setup_index_title">Nastavení účtu</string>
     <string name="account_setup_names_account_name_label">Pojmenovat tento účet (nepovinné)</string>
@@ -485,7 +485,7 @@ Kopie: %4$s
     <string name="preference_plus_upload_status">Stav odesílání</string>
     <string name="preference_summary_header_format">%1$s: %2$s</string>
     <string name="preference_summary_need_power">Odesílat pouze při nabíjení telefonu</string>
-    <string name="preference_summary_need_wifi">Odesílat pouze pokud je k dispozici síť Wi-Fi</string>
+    <string name="preference_summary_need_wifi">Odesílat pouze, pokud je k dispozici síť Wi-Fi</string>
     <string name="preference_summary_uploading_format">: %1$d z %2$d</string>
     <string name="preference_summary_uploading_paused">Pozastaveno. Odesílání obnovíte dotykem.</string>
     <string name="preference_summary_uploading_percent">Odesílání (%1$d%%)</string>
