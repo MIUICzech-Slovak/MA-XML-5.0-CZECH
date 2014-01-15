@@ -2002,7 +2002,7 @@ zkuste následující:"
     <string name="power_used_prefix">Spotřebovaná energie</string>
     <string name="power_wifi">Wi-Fi</string>
     <string name="pref_button_light">Osvětlení tlačítek</string>
-    <string name="pref_button_light_summary">Menu, Home a Zpět tlačítko</string>
+    <string name="pref_button_light_summary">Menu, Domů a Zpět tlačítko</string>
     <string name="pref_operational_key">Ovládací tlačítko</string>
     <string name="pref_volume_wake_summary">Stiskem tlačítka zesílit/ztlumit probudíte zařízení. Určeno pro zařízení s těžko dostupným zapínacím tlačítkem.</string>
     <string name="pref_volume_wake_title">Probudit tlačítkem hlasitosti</string>
