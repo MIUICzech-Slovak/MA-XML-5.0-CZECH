@@ -9,11 +9,11 @@
     <string name="PukMmi">Odblokovat PIN</string>
     <string name="RejectCauseTitle">Chyba odmítnutí v síti</string>
     <string name="RestrictedChangedTitle_SIM1">Změna omezení SIM1</string>
-    <string name="RestrictedChangedTitle_SIM2">změna omezení SIM2</string>
+    <string name="RestrictedChangedTitle_SIM2">Změna omezení SIM2</string>
     <string name="VideoView_error_text_bad_file">Chyba souboru, video nelze přehrát.</string>
     <string name="VideoView_error_text_cannot_connect_to_server">Nelze se připojit k serveru.</string>
     <string name="VideoView_error_text_drm_not_supported">Ochrana DRM, video nelze přehrát.</string>
-    <string name="VideoView_error_text_invalid_connection">Chyba spojení. (403 Forbidden)</string>
+    <string name="VideoView_error_text_invalid_connection">Chyba spojení (403 Forbidden).</string>
     <string name="VideoView_error_text_type_not_supported">Tento typ souboru není podporován.</string>
     <string name="aerr_application_lowmem">Úložiště telefonu je plné, aplikace se ukončila. Vymažte nepotřebné soubory.</string>
     <string name="aerr_process_lowmem">Úložiště telefonu je plné, proces se ukončil. Vymažte nepotřebné soubory.</string>
@@ -21,11 +21,11 @@
     <string name="alarm_alert_snooze_text">Odložit</string>
     <string name="badPin2">Starý PIN2 není správný.</string>
     <string name="badPuk2">PUK2 není správný.</string>
-    <string name="calibration_data">Není kalibrované. Stáhněte potřebné data pro kalibraci! [MTK Internal User]</string>
+    <string name="calibration_data">Není kalibrované. Stáhněte potřebná data pro kalibraci! [MTK Internal User]</string>
     <string name="callBarringFailMmi">Chyba blokování hovorů</string>
     <string name="cfServiceNotForwarded">Nepřesměrováno</string>
     <string name="change_setting_for_onenewsim">"Nalezena nová SIM. Je označená jako"</string>
-    <string name="change_setting_for_twonewsim">Nalezena nová SIM. Jsou označené jako</string>
+    <string name="change_setting_for_twonewsim">Nalezeny nové SIM. Jsou označené jako</string>
     <string name="change_settings">Změnit</string>
     <string name="checkPwdLen">Heslo musí obsahovat 4 až 8 znaků.</string>
     <string name="choose_bootup_mode">Zvolte SIM</string>
@@ -159,7 +159,7 @@ Zkuste to znovu za %d sekund."</string>
     <string name="nq_sms_filter_title">SMS filtr</string>
     <string name="nq_sms_filter_yes">Ano</string>
     <string name="one_retry_left">Zbývá 1 pokus</string>
-    <string name="permdesc_receiveCbSms">Umožňuje aplikaci přijímat a zpracovávat CB zprávy SMS. Škodlivé aplikace mohou sledovat vaše zprávy nebo je odstranit aniž by vám byly zobrazeny.</string>
+    <string name="permdesc_receiveCbSms">Umožňuje aplikaci přijímat a zpracovávat CB zprávy SMS. Škodlivé aplikace mohou sledovat vaše zprávy nebo je odstranit, aniž by vám byly zobrazeny.</string>
     <string name="permdesc_receiveDmRegisterSms">Umožňuje aplikaci přijímat a zpracovávat DM SMS zprávy. Žádná aplikace kromě DM APP by je neměla používat</string>
     <string name="permlab_receiveCbSms">Přijmout CB SMS</string>
     <string name="permlab_receiveDmRegisterSms">Přijmout DM Register SMS</string>
@@ -186,7 +186,7 @@ Zkuste to znovu za %d sekund."</string>
     <string name="sim_missing_detail">Zkontrolujte SIM kartu</string>
     <string name="sim_missing_slot1">Slot 1: Žádná SIM karta</string>
     <string name="sim_missing_slot2">Slot 2: Žádná SIM karta</string>
-    <string name="sim_permanently_locked">Zadali jste 10 krát nesprávný PUK kód. SIM byla trvale zablokována.</string>
+    <string name="sim_permanently_locked">Zadali jste 10krát nesprávný PUK kód. SIM byla trvale zablokována.</string>
     <string name="storage_sd">SD karta nemá dostatek volného místa. Vymažte nepotřebné soubory.</string>
     <string name="storage_withoutsd">Úložiště v telefonu nemá dostatek volného místa. Vymažte nepotřebné soubory nebo vložte SD kartu.</string>
     <string name="storage_withsd">Úložiště v telefonu nemá dostatek volného místa. Vymažte nepotřebné soubory.</string>

@@ -52,7 +52,7 @@
   <string name="auto">Auto</string>
   <string name="auto_create_recent_album">Auto. tvorba alb</string>
   <string name="auto_create_recent_album_confirm">Po vypnutí této funkce, vymaže galerie údaje oblíbených alb. Oblíbená alba nastavené uživatelem to neovlivní. Alternativně to můžete nastavit dlouhým stiskem na album.</string>
-  <string name="auto_create_recent_album_over_ten_times">Automatické vytvoření oblíbeného alba, pokud je album otevřeno více jak 10 krát</string>
+  <string name="auto_create_recent_album_over_ten_times">Automatické vytvoření oblíbeného alba, pokud je album otevřeno více jak 10krát</string>
   <string name="autofix">Auto-fix</string>
   <string name="autohomemain">Autohomemain</string>
   <string name="baidu_bdmobile_downloads">Baidu Mobile</string>

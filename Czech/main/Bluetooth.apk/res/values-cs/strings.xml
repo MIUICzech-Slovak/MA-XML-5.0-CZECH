@@ -131,7 +131,7 @@ Přijmout soubor?"</string>
     <string name="status_bpp_marker_failure">Tisk selhal kvůli selhání náplně</string>
     <string name="status_bpp_marker_supply_empty">Tisk selhal kvůli prázdné náplni</string>
     <string name="status_bpp_marker_supply_low">Tisk selhal kvůli nedostatečné náplni</string>
-    <string name="status_bpp_media_empty">Tisk selhal protože došel papír</string>
+    <string name="status_bpp_media_empty">Tisk selhal, protože došel papír</string>
     <string name="status_bpp_media_jam">Tisk selhal, protože se zasekl papír</string>
     <string name="status_bpp_media_low">Tisk selhal, protože není dost papíru</string>
     <string name="status_bpp_output_area_almost_full">Tisk selhal, protože výstupní zásobník je skoro plný</string>

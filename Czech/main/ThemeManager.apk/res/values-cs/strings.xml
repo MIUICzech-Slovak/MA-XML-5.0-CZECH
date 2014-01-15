@@ -192,7 +192,7 @@
     <string name="resource_title">Podrobnosti</string>
     <string name="resource_title_select_ringtone">Zvolit zvonění</string>
     <string name="resource_unable_to_access">"Promiňte, 
-ale obsah který hledáte, není dostupný ve Vaší zemi."</string>
+ale obsah, který hledáte, není dostupný ve Vaší zemi."</string>
     <string name="resource_unknow_error">Neznámá chyba.</string>
     <string name="resource_update">Aktualizovat</string>
     <string name="resource_user_know">OK</string>

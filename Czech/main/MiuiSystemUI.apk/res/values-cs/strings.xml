@@ -152,7 +152,7 @@
     <string name="recent_apps_key_show">Zobrazit Naposledy spuštěné</string>
     <string name="return_to_incall_screen">Stiskněte pro návrat k hovoru</string>	
     <string name="screen_button_custom">Přizpůsobit pozici tlačítka</string>
-    <string name="screen_button_disabled_message">Tlačítka pod displejem jsou vypnuta. Můžete je zapnout stiskem tlačítek \"Home\" a \"Power\"</string>
+    <string name="screen_button_disabled_message">Tlačítka pod displejem jsou vypnuta. Můžete je zapnout stiskem tlačítek \"Domů\" a \"Zapnutí\"</string>
     <string name="screen_button_enabled_message">Tlačítka pod displejem jsou zapnuta</string>	
     <string name="screen_key_back">Zpět tlačítko</string>	
     <string name="screen_key_home">Domů tlačítko</string>	
@@ -259,15 +259,15 @@ d.MMMM yyyy"</string>
     <string name="tab_toggles_lable">Přepínače</string>
     <string name="title_usb_accessory">USB příslušenství</string>
     <string name="toast_rotation_locked">Displej je uzamknutý v režimu na šířku</string>
-    <string name="torch_activity_hint">Svítilnu můžete také zapnout podržením tlačítka Home v zamykací obrazovce</string>
+    <string name="torch_activity_hint">Svítilnu můžete také zapnout podržením tlačítka Domů v zamykací obrazovce</string>
     <string name="torch_activity_name">Svítilna</string>
-    <string name="usb_accessory_confirm_prompt">Otevřít %1$s když je připojeno USB příslušenství?</string>
+    <string name="usb_accessory_confirm_prompt">Otevřít %1$s, když je připojeno USB příslušenství?</string>
     <string name="usb_accessory_permission_prompt">Povolit aplikaci %1$s přístup k USB zařízení?</string>
     <string name="usb_accessory_uri_prompt">Žádná nainstalovaná aplikace nepracuje s tímto USB příslušenstvím. Více o tomto příslušenství se dozvíte na %1$s</string>
     <string name="usb_debugging_always">Vždy povolit z tohoto PC</string>	
     <string name="usb_debugging_message">"RSA klíč: %1$s"</string>	
     <string name="usb_debugging_title">Povolit ladění přes USB?</string>
-    <string name="usb_device_confirm_prompt">Otevřít %1$s pokud je připojeno USB zařízení?</string>
+    <string name="usb_device_confirm_prompt">Otevřít %1$s, pokud je připojeno USB zařízení?</string>
     <string name="usb_device_permission_prompt">Povolit aplikaci %1$s přístup k USB zařízení?</string>
     <string name="usb_mode_dont_ask">"Příště se neptat"</string>
     <string name="usb_mode_mount_storage_title">Otevřít USB úložiště?</string>

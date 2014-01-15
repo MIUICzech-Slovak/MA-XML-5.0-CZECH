@@ -152,7 +152,7 @@ Ok pro zrušení obnovy"</string>
     <string name="guarded_mode_dialog_message">V režimu Návštěvník nelze vytvářet nebo obnovovat zálohy</string>
     <string name="guarded_mode_dialog_title">Režim Návštěvník</string>
     <string name="import_from_xiaomi_account_hint1">1.Nainstalujte MiTalk a přihlaste se.\n http://www.miliao.com\n\n3. Přejděte na nastavení MiTalk a a zvolte "Zálohovat na účet Xiaomi"</string>
-    <string name="import_from_xiaomi_account_hint2">Poznámka: Přejděte k dalšímu kroku pokud již existuje záloha</string>
+    <string name="import_from_xiaomi_account_hint2">Poznámka: Přejděte k dalšímu kroku, pokud již existuje záloha</string>
     <string name="import_from_xiaomi_account_hint_title">Pro zálohování kontaktů používejte MiTalk</string>
     <string name="just_support_op_with_wifi_connected">Dostupné jen při připojení k Wi-Fi</string>
     <string name="local_app_name">Záloha</string>

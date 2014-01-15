@@ -50,7 +50,7 @@
     <string name="custom_adjust_receiver_hint">číslo operátora pro zjištění spotřeby.</string>
     <string name="custom_adjust_recevier_same_with_sender">většinou jsou tato čísla shodná</string>
     <string name="custom_adjust_sender">Číslo odesílatele</string>
-    <string name="custom_adjust_sender_hint">číslo které slouží na sdílení informací o spotřebě uživatele</string>
+    <string name="custom_adjust_sender_hint">číslo, které slouží na sdílení informací o spotřebě uživatele</string>
     <string name="custom_adjust_summary">%1$s, %2$s, %3$s</string>
     <string name="custom_adjust_title">Vlastní nastavení</string>	
     <string name="daily_limit_dialog_disconnect_hint">Odpojit internet při překročení limitu</string>
@@ -67,7 +67,7 @@
     <string name="edit_frame_warning_title">"Varovná hodnota "</string>
     <string name="empty"/>
     <string name="finish_traffic_settings_hint">Nastavení balíčku dokončeno</string>
-    <string name="finish_traffic_settings_message">"Využité data jsou %s. Souhlasí data?
+    <string name="finish_traffic_settings_message">"Využitá data jsou %s. Souhlasí data?
 Můžete je upravit."</string>
     <string name="finish_traffic_settings_title">Upravit data</string>
     <string name="fire_rule_program_list">Seznam aplikací</string>

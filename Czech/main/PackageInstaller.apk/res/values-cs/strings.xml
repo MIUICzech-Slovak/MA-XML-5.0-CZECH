@@ -7,7 +7,7 @@
     <string name="app_name">Nástroj k instalaci balíčků</string>
     <string name="app_not_found_dlg_text">Aplikace nebyla nalezena na seznamu nainstalovaných aplikací.</string>
     <string name="app_not_found_dlg_title">Aplikace nebyla nalezena</string>
-    <string name="auto_startup_dialog_msg">"MIUI dovolí aplikaci spustit se automaticky. To může zvýšit nejen spotřebu energie ale i dat.\nPovolit automatické spuštění?"</string>
+    <string name="auto_startup_dialog_msg">"MIUI dovolí aplikaci spustit se automaticky. To může zvýšit nejen spotřebu energie, ale i dat.\nPovolit automatické spuštění?"</string>
     <string name="caller_app">Vyvolané aplikací: %1$s</string>
     <string name="cancel">Zrušit</string>
     <string name="dlg_app_replacement_statement">"Aplikace, kterou instalujete, nahradí jinou aplikaci.\nVšechna dříve zadaná data uživatelů budou uložena."</string>

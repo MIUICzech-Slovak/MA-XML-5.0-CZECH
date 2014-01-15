@@ -55,7 +55,7 @@
     <string name="file_not_found_error_message">Soubor nebyl na serveru nalezen</string>
     <string name="finish">Dokončit</string>
     <string name="finish_download">Stahování dokončeno</string>
-    <string name="fourgrid_hint_text">Děkujeme za používání MIUI ROM. Dejte nám prosím vědět co si o ní myslíte a pomozte nám ji ještě více vylepšit.</string>
+    <string name="fourgrid_hint_text">Děkujeme za používání MIUI ROM. Dejte nám prosím vědět, co si o ní myslíte, a pomozte nám ji ještě více vylepšit.</string>
     <string name="fourgrid_no_notificaiont">"Nezobrazovat v notif. liště"</string>
     <string name="fourgrid_notificaiont">Zobrazit v notif. liště</string>
     <string name="get_update_error">Nelze získat informace o aktualizaci</string>
@@ -121,7 +121,7 @@
     <string name="share_update_content_sign">MIUI byla aktualizována na %1$s! Mé umístění v žebříčku aktualizaci je %2$s. Pro detailní seznam změn, prosím navštivte %3$s.</string>
     <string name="share_update_content_unsign">MIUI byla aktualizována na %1$s! Pro detailní seznam změn prosím navštivte %2$s</string>
     <string name="sign_in_add_account">Aktivujte Xiaomi účet</string>
-    <string name="sign_in_add_account_helper">Váš telefon nemá žádný aktivní MIUI účet, přidejte účet abyste dostávali uživatelské body.</string>
+    <string name="sign_in_add_account_helper">Váš telefon nemá žádný aktivní MIUI účet, přidejte účet, abyste dostávali uživatelské body.</string>
     <string name="sign_in_info"/>
     <string name="sign_in_info_rank_more"/>  
     <string name="sign_in_info_total_more"/>  
@@ -167,7 +167,7 @@
     <string name="view_install_log">Zobrazit záznam</string>
     <string name="view_upgrade_tutorial">Prohlédnout návod</string>
     <string name="weekly_build">Týdenní verze</string>
-    <string name="wifi_not_available_body">Doporučuje se použít Wi-Fi připojení pro stáhnutí aktualizace kvůli její velikosti. Momentálně nemáte připojenou Wi-Fi, chcete i tak pokračovat?.</string>
+    <string name="wifi_not_available_body">Doporučuje se použít Wi-Fi připojení pro stáhnutí aktualizace kvůli její velikosti. Momentálně nemáte připojenou Wi-Fi, chcete i tak pokračovat?</string>
     <string name="wifi_not_available_title">Wi-Fi nepřipojeno</string>
     <string name="worst_update">Nejhorší aktualizace</string>
 </resources>

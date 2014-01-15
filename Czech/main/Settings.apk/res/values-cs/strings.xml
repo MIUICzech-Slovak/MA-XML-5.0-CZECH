@@ -57,7 +57,7 @@ Poznámka: Zvětšení trojitým klepnutím funguje ve všech částech obrazovk
     <string name="accessibility_service_default_description">K dispozici není žádný popis.</string>
     <string name="accessibility_service_disable_warning_summary">Klepnutím na tlačítko OK službu %1$s ukončíte.</string>
     <string name="accessibility_service_disable_warning_title">Ukončit službu %1$s?</string>
-    <string name="accessibility_service_no_apps_message">TalkBack poskytuje mluvenou navigaci nevidomým a slabozrakým uživatelům. Chcete tuto aplikaci stáhnout zdarma ze služby \nGoogle play?</string>
+    <string name="accessibility_service_no_apps_message">TalkBack poskytuje mluvenou navigaci nevidomým a slabozrakým uživatelům. Chcete tuto aplikaci stáhnout zdarma ze služby \nGoogle Play?</string>
     <string name="accessibility_service_no_apps_title">Potřebujete čtečku obrazovky?</string>
     <string name="accessibility_service_security_warning_summary">Služba %1$s zaznamenává veškerý text, který napíšete, kromě hesel.\nTo zahrnuje osobní údaje, jako jsou čísla platebních karet. Zaznamenává také údaje o interakci s telefonem.</string>
     <string name="accessibility_service_security_warning_title">Použít službu %1$s?</string>
@@ -2002,7 +2002,7 @@ zkuste následující:"
     <string name="power_used_prefix">Spotřebovaná energie</string>
     <string name="power_wifi">Wi-Fi</string>
     <string name="pref_button_light">Osvětlení tlačítek</string>
-    <string name="pref_button_light_summary">Menu, Home a Zpět tlačítko</string>
+    <string name="pref_button_light_summary">Menu, Domů a Zpět tlačítko</string>
     <string name="pref_operational_key">Ovládací tlačítko</string>
     <string name="pref_volume_wake_summary">Stiskem tlačítka zesílit/ztlumit probudíte zařízení. Určeno pro zařízení s těžko dostupným zapínacím tlačítkem.</string>
     <string name="pref_volume_wake_title">Probudit tlačítkem hlasitosti</string>
@@ -2238,7 +2238,7 @@ Toto nastavení ovlivní všechny uživatele tohoto telefonu."</string>
     <string name="screen_key_long_press_action">Funkce tlačítek</string>    
     <string name="screen_key_long_press_timeout">Délka stisku</string>
     <string name="screen_never_timeout_title">Nikdy</string>
-    <string name="screen_on_proximity_sensor_summary">Zabránit náhodnému použití telefonu když je v kapse (podle senzoru přiblížení).</string>
+    <string name="screen_on_proximity_sensor_summary">Zabránit náhodnému použití telefonu, když je v kapse (podle senzoru přiblížení).</string>
     <string name="screen_on_proximity_sensor_title">Zabránit náhodnému použití</string>    
     <string name="screen_saturation">Sytost barev</string>	
     <string name="screen_timeout">Vypnutí displeje</string>
@@ -2687,7 +2687,7 @@ Toto nastavení ovlivní všechny uživatele tohoto telefonu."</string>
     <string name="unlock_set_unlock_summary">Povolte prosím heslo displeje pro nastavení ochrany heslem</string>
     <string name="unmount_inform_text">SD karta bude odpojena.</string>
     <string name="untitled_apn">Bez názvu</string>
-    <string name="upload_debug_log_summary">Odešlete záznam debug a pomozte vývojářům stvořit stabilnější a lepší MIUI ROM.Děkujeme!</string>
+    <string name="upload_debug_log_summary">Odešlete záznam debug a pomozte vývojářům stvořit stabilnější a lepší MIUI ROM. Děkujeme!</string>
     <string name="upload_debug_log_title">Odeslat záznam debug</string>
     <string name="usage_log">Statistika využití aplikací</string>
     <string name="usage_name_percent">"%1$s – %2$s%%"</string>
@@ -2821,13 +2821,13 @@ Každý uživatel může přijmout aktualizovaná oprávnění aplikací jménem
     <string name="vibrate_in_normal_title">Vždy vibrovat</string>
     <string name="vibrate_in_silent_title">Vibrovat v tichém režimu</string>
     <string name="vibrate_input_devices">Vibrace</string>
-    <string name="vibrate_input_devices_summary">Přesměrovat vibrace do herního ovladače pokud je připojený.</string>
+    <string name="vibrate_input_devices_summary">Přesměrovat vibrace do herního ovladače, pokud je připojený.</string>
     <string name="vibrate_when_ringing_title">Vibrovat při vyzvánění</string>
     <string name="virus_activity_title">Virus</string>
     <string name="virus_button_clear">Vyčistit</string>
     <string name="virus_scan">Antivirus</string>
     <string name="virus_scan_app_continue">Pokračovat ve skenování</string>
-    <string name="virus_scan_app_find_risk">Podezřelé: %d, doporučuje se je okamžitě odinstalovat!.</string>
+    <string name="virus_scan_app_find_risk">Podezřelé: %d, doporučuje se je okamžitě odinstalovat!</string>
     <string name="virus_scan_app_finish">Zavřít</string>
     <string name="virus_scan_app_force_stop">Skenování zastaveno.</string>
     <string name="virus_scan_app_is_stop_scan">Chcete zastavit Antivirus?</string>
@@ -3302,8 +3302,8 @@ Nastavení telefonu může vyžadovat přenos nemalého množství dat."</string
     <string name="wifi_wps_failed_auth">Ověřování selhalo. Zkuste znovu.</string>
     <string name="wifi_wps_failed_generic">WPS selhalo. Zkuste prosím znovu.</string>
     <string name="wifi_wps_failed_overlap">Bylo nalezené jiné WPS. Zkuste prosím znovu.</string>
-    <string name="wifi_wps_failed_tkip">Bezpečnostní nastavení Wi-Fi routeru (TKIP) nejsou podporované</string>
-    <string name="wifi_wps_failed_wep">Bezpečnostní nastavení Wi-Fi routeru (WEP) nejsou podporované</string>
+    <string name="wifi_wps_failed_tkip">Bezpečnostní nastavení Wi-Fi routeru (TKIP) nejsou podporovaná</string>
+    <string name="wifi_wps_failed_wep">Bezpečnostní nastavení Wi-Fi routeru (WEP) nejsou podporovaná</string>
     <string name="wifi_wps_in_progress">WPS probíhá a může trvat desítky sekund.</string>
     <string name="wifi_wps_onstart_pbc">Stiskněte Wi-Fi WPS tlačítko na Vašem routeru. Může mít název \"WPS\" nebo mít tento symbol:</string>
     <string name="wifi_wps_onstart_pin">Vložte PIN %1$s na Vašem Wi-Fi routeru. Nastavení může trvat až 2min.</string>

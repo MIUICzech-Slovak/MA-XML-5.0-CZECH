@@ -110,7 +110,7 @@ Postupujte dle instrukcí pro dokončení objednávky."</string>
     <string name="btn_wait_call">Čekání</string>
     <string name="btn_wait_call_count">Čekání (%1$s)</string>
     <string name="btn_wait_confirm">Čekání</string>
-    <string name="btn_wait_confirm_count">Čekání （%1$s）</string>
+    <string name="btn_wait_confirm_count">Čekání (%1$s)</string>
     <string name="button_cancel">Zrušit</string>
     <string name="button_pay">Zaplatit</string>
     <string name="button_recharge">Navýšit</string> 
@@ -353,7 +353,7 @@ Využito %s | Zbývá %s"</string>
     <string name="prepaid_error_card_length">Vložte správné číslo předplacené karty nebo heslo</string>
     <string name="prepaid_error_card_number">Zadejte správnou sumu navýšení</string>
     <string name="prepaid_error_carrier">Zvolte svého operátora (pouze Čína)</string>
-    <string name="prepaid_error_denomination">Zvolte o kolik navýšit kredit</string>
+    <string name="prepaid_error_denomination">Zvolte, o kolik navýšit kredit</string>
     <string name="prepaid_error_password">Zadejte správné číslo a heslo Vaší karty</string>
     <string name="prepaid_number_edit_hint">Číslo: </string>
     <string name="prepaid_password_edit_hint">Heslo: </string>
@@ -478,7 +478,7 @@ s "</string>
     <string name="voucher_edit_limit"/>
     <string name="voucher_error_code">Nastala chyba při kontrole čísla kupónu</string>
     <string name="voucher_input_password_prompt">Vložte heslo</string>
-    <string name="wipe_data_dialog_msg">%s nebylo synchronizováno (tato data se ztratí pokud budete pokračovat).</string>
+    <string name="wipe_data_dialog_msg">%s nebylo synchronizováno (tato data se ztratí, pokud budete pokračovat).</string>
     <string name="wipe_data_dialog_msg_separator">, </string>
     <string name="wipe_data_dialog_title">Některé položky nebyly synchronizovány.</string>
     <string name="wrong_captcha">Nesprávný captcha kód</string>
