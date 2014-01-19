@@ -3243,7 +3243,7 @@ můžete použít jinou síť"</string>
     <string name="wifi_share_upload_finish">Sdílené</string>
     <string name="wifi_share_uploading">Sdílení Wi-Fi sítě</string>
     <string name="wifi_show_advanced">Zobrazit pokročilé možnosti</string>
-    <string name="wifi_show_password">Zobrazovat heslo</string>
+    <string name="wifi_show_password">Zobrazit heslo</string>
     <string name="wifi_signal">Síla signálu</string>
     <string name="wifi_signal_found_msg">Nalezeno Wi-Fi AP, Připojit？</string>
     <string name="wifi_skip_anyway">Přesto přeskočit</string>

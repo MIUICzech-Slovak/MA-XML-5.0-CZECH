@@ -32,6 +32,7 @@ Váš účet bude dočasně zablokovaný,
     <string name="category_document">Dokum.</string>
     <string name="category_favorite">Oblíbené</string>
     <string name="category_log">Záznamy</string>
+    <string name="category_mirouter">MiRouter</string>
     <string name="category_music">Hudba</string>
     <string name="category_other">Ostatní</string>
     <string name="category_picture">Obrázky</string>
