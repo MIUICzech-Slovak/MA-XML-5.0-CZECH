@@ -1224,7 +1224,7 @@ Toto nastavení ovlivní všechny uživatele tohoto telefonu."</string>
     <string name="input_methods_settings_label_format">Nastavení modulu %1$s</string>
     <string name="input_methods_settings_title">Zadávání textu</string>
     <string name="input_settings">Nastavení vstupu</string>
-    <string name="install_all_warning">Váš telefon a osobní údaje jsou zranitelnější vůči útoku aplikací z neznámých zdrojů. Souhlasíte s tím, že nesete osobní odpovědnost za\njakékoli škody způsobené na Vašem telefonu nebo za ztrátu dat v důsledku používání těchto aplikací.</string>
+    <string name="install_all_warning">Váš telefon a osobní údaje jsou zranitelnější vůči útoku aplikací z neznámých zdrojů. Souhlasíte s tím, že nesete osobní odpovědnost za jakékoli škody způsobené na Vašem telefonu nebo za ztrátu dat v důsledku používání těchto aplikací.</string>
     <string name="install_applications">Neznámé zdroje</string>
     <string name="install_text">Instalovat</string>
     <string name="install_unknown_applications">Povolit instalaci aplikací, které nepocházejí ze služby Google Play</string>
