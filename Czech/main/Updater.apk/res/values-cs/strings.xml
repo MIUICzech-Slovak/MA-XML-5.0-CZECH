@@ -22,7 +22,7 @@
     <string name="best_update">Nejlepší aktualizace</string>
     <string name="boot_recovery">Restartovat do recovery</string>
     <string name="cancel_download_buton_text">Zrušit</string>
-    <string name="check_update">Zkontrolovat aktualizace</string>
+    <string name="check_update">Vyhledat aktualizace</string>
     <string name="check_update_policy">Nastavení kontroly aktualizací</string>
     <string name="check_update_when_wifi_available">Kontrolovat aktualizace pouze při Wi-Fi připojení</string>
     <string name="checking_for_updates">Kontrola aktualizací...</string>
