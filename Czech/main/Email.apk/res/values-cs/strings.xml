@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
 <resources>
     <string name="account">Účet</string>
     <string name="account_delete_dlg_instructions_fmt">Účet \"%s\" bude z aplikace E-mail odebrán. Pokračovat?</string>
@@ -256,7 +257,7 @@
     <string name="dialog_sync_all_server_error">Při komunikaci se serverem došlo k potížím. Zkuste to prosím znovu později.</string>
     <string name="disable_admin_warning">UPOZORNĚNÍ: Deaktivujete-li oprávnění aplikace E-mail spravovat toto zařízení, budou smazány všechny účty aplikace E-mail, které toto oprávnění vyžadují. Společně s těmito účty budou smazány i všechny jejich e-maily, kontakty, události v kalendářích a další údaje.</string>
     <string name="discard_action">Zrušit</string>
-    <string name="done">Návrat</string>    
+    <string name="done">Další</string>    
     <string name="done_action">Hotovo</string>
     <string name="edit_quick_response_dialog">Upravit rychlou odpověď</string>
     <string name="eml_view_title">Zobraz. souboru %s</string>

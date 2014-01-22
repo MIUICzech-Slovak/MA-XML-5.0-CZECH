@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
 <resources>
     <string name="access_phone_fail_no_product">Nelze získat přístup k USB úložišti</string>
     <string name="access_sd_fail">Není možný přístup na SD kartu</string>

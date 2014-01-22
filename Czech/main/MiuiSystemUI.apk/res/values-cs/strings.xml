@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
 <resources>
     <string name="accessibility_airplane_mode">Letadlo</string>
     <string name="accessibility_back">Zpět</string>
@@ -194,7 +195,7 @@
     <string name="settings_toggle_position_reset">Obnovit výchozí nastavení</string>
     <string name="share">Sdílet</string>
     <string name="status_bar_date_format">"EEEE
-d.MMMM yyyy"</string>
+d. MMMM yyyy"</string>
     <string name="status_bar_date_formatter">%2$s</string>
     <string name="status_bar_input_method_settings_configure_input_methods">Nastavení vstupu</string>	
     <string name="status_bar_network_flow">"Dnes: %1$s | Zbývá: %2$s | Balíček: %3$s"</string>

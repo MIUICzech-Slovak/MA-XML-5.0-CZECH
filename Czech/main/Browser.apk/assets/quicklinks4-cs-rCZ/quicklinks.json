@@ -61,13 +61,13 @@
 	    "position": 4
         },
         {
-            "title":"MIUIAndroid.com",
-            "url":"http://miuiandroid.com/",
-            "thumbnail":"miui-android.png",
+            "title":"HarekTrade",
+            "url":"http://harektrade.cz/",
+            "thumbnail":"harek.png",
             "logobg":"bg01.9.png",
             "nightModeMask": "night.9.png",
             "favicon":"",
-	    "displayName": "MIUIAndroid.com",
+	    "displayName": "HarekTrade.cz",
 	    "isDelete": true,
 	    "movable": true,
 	    "position": 5
