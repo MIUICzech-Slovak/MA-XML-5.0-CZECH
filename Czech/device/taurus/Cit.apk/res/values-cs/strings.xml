@@ -39,7 +39,7 @@ Turn the phone so that the headphone input is facing downward. Speak into the re
     <string name="cit_audio_loopback_dualmic_earpiece_title">Test zvuku při hovoru</string>
     <string name="cit_audio_loopback_next">Další</string>
     <string name="cit_audio_loopback_previous">Předchozí</string>
-    <string name="cit_audio_loopback_summary_dualmic_earpiece">Test hovoru. Řeč do telefonu bude přesměrována z hlavního mikrofonu přímo do reproduktoru telefonu.</string>
+    <string name="cit_audio_loopback_summary_dualmic_earpiece">"Ambient noise reduction test
 
 Hold the phone as if you're answering a call, speak in to the microphone. You should hear your voice with reduced noise in the background played through the receiver."</string>
     <string name="cit_battery_temp_fail">Test baterie selhal s (hodnota=%d)</string>
