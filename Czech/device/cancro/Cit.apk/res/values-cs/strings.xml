@@ -9,16 +9,39 @@
     <string name="cit_OTG_waiting_out">Odpojte OTG zařízení.</string>
     <string name="cit_ac_charger_in">Síťová nabíječka je připojena</string>
     <string name="cit_ac_charger_out">Síťová nabíječka je odpojena</string>
-    <string name="cit_accelermeter_sensor_check_summary">Zobrazí se X, Y, Z osy zrychlení (Poznámka: Když se telefon naklání, hodnoty se budou měnit podle orientace displeje)</string>
+    <string name="cit_accelermeter_sensor_check_summary">Zobrazí se X, Y, Z osy zrychlení 
+(Poznámka: Když se telefon naklání, hodnoty se budou měnit podle orientace displeje)</string>
     <string name="cit_accelermeter_sensor_check_title">Test akcelerometru</string>
+    <string name="cit_audio_lb_backmic_to_speaker_title">Back mic speaker feedback test</string>
+    <string name="cit_audio_lb_mainmic_to_earpiece_title">Main mic speaker feedback test</string>
+    <string name="cit_audio_lb_phonecall_title">Simulace hovoru</string>
+    <string name="cit_audio_lb_summary_backmic_to_speaker">"Back microphone to speaker feedback test. 
+
+Turn the phone, Speak to back microphone , you should hear voice in speaker"</string>
+    <string name="cit_audio_lb_summary_mainmic_to_earpiece">"Main microphone to receiver feedback test.
+
+Hold the phone as if you are making a call, speak to main microphone, you should hear voice from reveiver"</string>
+    <string name="cit_audio_lb_summary_phonecall">"Simulation call test.
+
+Hold the phone as if you are making a call, Speak to main microphone, you should hear voice in the receiver. do the test in silent environment"</string>
+    <string name="cit_audio_lb_summary_topmic_to_speaker">"Top microphone to speaker feedback test.
+
+ Turn the phone, Speak to top microphone , you should hear voice in speaker"</string>
+    <string name="cit_audio_lb_topmic_to_speaker_title">Top mic speaker feedback test</string>
     <string name="cit_audio_loopback_check_one_title">Test mikrofonu přijmout zvuk</string>
     <string name="cit_audio_loopback_check_summary_first">Test zkontroluje loopback mikrofonu</string>
+
+Hold the phone as if you are making a call, speak into the microphone and should hear your voice in the receiver."</string>
     <string name="cit_audio_loopback_check_summary_second">Turn the phone over and test the other microphones loopback</string>
-    <string name="cit_audio_loopback_check_two_title">Test mikrofonu přenášet zvuk do reproduktoru</string>
+
+Turn the phone so that the headphone input is facing downward. Speak into the receiver. You should hear your voice played through the external speaker."</string>
+    <string name="cit_audio_loopback_check_two_title">Secondary microphone speaker feedback test</string>
     <string name="cit_audio_loopback_dualmic_earpiece_title">Test zvuku při hovoru</string>
     <string name="cit_audio_loopback_next">Další</string>
     <string name="cit_audio_loopback_previous">Předchozí</string>
     <string name="cit_audio_loopback_summary_dualmic_earpiece">Test hovoru. Řeč do telefonu bude přesměrována z hlavního mikrofonu přímo do reproduktoru telefonu.</string>
+
+Hold the phone as if you're answering a call, speak in to the microphone. You should hear your voice with reduced noise in the background played through the receiver."</string>
     <string name="cit_battery_temp_fail">Test baterie selhal s (hodnota=%d)</string>
     <string name="cit_battery_temp_pass">Test baterie úspěšný</string>
     <string name="cit_batterylight_blue">Modrá</string>
@@ -65,6 +88,7 @@
     <string name="cit_fm_open_bluetooth">Zapínání Bluetooth...</string>
     <string name="cit_fm_start_service">Zapnout rádio</string>
     <string name="cit_front_camera_check_summary">"Kroky testování:
+    
 1. Stiskněte tlačítko fotoaparátu pro otevření aplikace
 2. Stiskněte spoušť
 3. Stiskněte OK, systém automaticky uloží fotografii
@@ -72,7 +96,9 @@
     <string name="cit_front_camera_check_title">Test přední kamery</string>
     <string name="cit_gps_check_summary">Tento test zobrazí informace o GPS</string>
     <string name="cit_gps_check_title">Test GPS</string>
-    <string name="cit_gps_disabled">GPS není povoleno, zapněte GPS z roletky</string>
+    <string name="cit_gps_disabled">GPS není povoleno, 
+    
+zapněte GPS z roletky</string>
     <string name="cit_gps_satellite_count">GPS satelity: %d</string>
     <string name="cit_gps_satellite_prn">PRN: %s</string>
     <string name="cit_gps_satellite_snr">SNR: %s</string>
@@ -141,7 +167,8 @@
     <string name="cit_power_check_title">Test zapínání</string>
     <string name="cit_pressure_sensor_check_summary">Zkontrolovat hodnoty tlakového senzoru</string>
     <string name="cit_pressure_sensor_check_title">Test tlakového senzoru</string>
-    <string name="cit_proximity_sensor_check_summary">Zakryjte senzor přiblížení Vaším prstem, zobrazená informace je od 0.0 (zakrytý) a zvyšuje se při odkrytí senzoru</string>
+    <string name="cit_proximity_sensor_check_summary">Zakryjte senzor přiblížení Vaším prstem, zobrazená informace je od 0.0 (zakrytý) 
+a zvyšuje se při odkrytí senzoru</string>
     <string name="cit_proximity_sensor_check_title">Test senzoru přiblížení</string>
     <string name="cit_reset_check_summary">Tento test restartuje systém</string>
     <string name="cit_reset_check_title">Test resetu</string>
@@ -149,7 +176,8 @@
     <string name="cit_sd_fail">Načítání SD karty selhalo</string>
     <string name="cit_sd_mount">Připojit SD kartu</string>
     <string name="cit_sd_mount_sucess">SD karta byla úspěšně připojena</string>
-    <string name="cit_sd_mp3_not_existed">Soubor music.mp3 není možné nalézt na Vaší SD kartě. Zkopírujte soubor na SD kartu a spusťte test znovu.</string>
+    <string name="cit_sd_mp3_not_existed">Soubor music.mp3 není možné nalézt na Vaší SD kartě. 
+Zkopírujte soubor na SD kartu a spusťte test znovu.</string>
     <string name="cit_sd_plugged_in">SD karta připojena, odpojte SD kartu</string>
     <string name="cit_sd_plugged_out">SD karta odpojena, připojte SD kartu</string>
     <string name="cit_sd_plugin_check_summary">Tento test zjistí připojení SD karty</string>
@@ -178,9 +206,15 @@
     <string name="cit_stop_calibration">Zastavit kalibraci</string>
     <string name="cit_tool">Nástroje</string>
     <string name="cit_tool_bluetooth">Nástroje Bluetooth</string>
+    <string name="cit_tool_bluetooth_dut">Bluetooth test</string>
+    <string name="cit_tool_bluetooth_le_tx_h">Bluetooth test (2.480GHz)</string>
+    <string name="cit_tool_bluetooth_le_tx_l">Bluetooth test (2.402GHz)</string>
     <string name="cit_tool_bluetooth_mode">Testování Bluetooth</string>
+    <string name="cit_tool_bluetooth_not_on">Bluetooth není zapnutý!</string>
     <string name="cit_tool_bluetooth_off">Vypnout Bluetooth</string>
     <string name="cit_tool_bluetooth_on">Zapnout Bluetooth</string>
+    <string name="cit_tool_bluetooth_tx_h">Bluetooth test（2.480GHz)</string>
+    <string name="cit_tool_bluetooth_tx_l">Bluetooth test（2.402GHz)</string>
     <string name="cit_tool_log">Záznamy</string>
     <string name="cit_tool_log_bugreport">Záznam o chybě</string>
     <string name="cit_tool_log_dmesg">DMESG</string>
@@ -195,10 +229,13 @@
     <string name="cit_tool_log_toast_generate_bugreport">Vytvoření záznamu o chybě může trvat i více jak 1 minutu.</string>
     <string name="cit_tool_modem">Test modemu</string>
     <string name="cit_tool_modem_bugreport">MODEM Coredump</string>
-    <string name="cit_tool_modem_cta_test">Otevřít/Zavřít test shody s protokolem</string>
+    <string name="cit_tool_modem_exit_ftm">Ukončit</string>
     <string name="cit_tool_modem_offline_log">Otevřít/Zavřít offline log</string>
-    <string name="cit_tool_modem_pcap_switch">Otevřít/Zavřít export dat</string>
-    <string name="cit_tool_modem_pcm_switch">Otevřít/Zavřít export PCM</string>
+    <string name="cit_tool_nfc">NFC Test</string>
+    <string name="cit_tool_nfc_st">NFC ST:</string>
+    <string name="cit_tool_nfc_st_confreq">Frek:</string>
+    <string name="cit_tool_nfc_st_run">Spustit</string>
+    <string name="cit_tool_nfc_st_stop">Zastavit</string>
     <string name="cit_tool_wifi">Testovat Wi-Fi</string>
     <string name="cit_tool_wifi_5g_100a">Tx:100/6M/13dBm</string>
     <string name="cit_tool_wifi_5g_100b">Tx:100/54M/13dBm</string>
@@ -241,6 +278,7 @@
     <string name="cit_tool_wifi_rx_ap_type_error">Chyba připojení, znovu vložte nastavení bss / adhoc</string>
     <string name="cit_tool_wifi_rx_chan">Rx: Kanál</string>
     <string name="cit_tool_wifi_rx_count_error">Výstupní data nejsou čísla</string>
+    <string name="cit_tool_wifi_rx_dut_ip">192.168.1.12</string>
     <string name="cit_tool_wifi_rx_error">Nastala chyba</string>
     <string name="cit_tool_wifi_rx_exit">Rx: exit</string>
     <string name="cit_tool_wifi_rx_run">Spustit</string>
@@ -261,6 +299,8 @@
     <string name="cit_tool_wifi_tx_n_chan">Kanál:</string>
     <string name="cit_tool_wifi_tx_n_txpr">TX Power:</string>
     <string name="cit_tool_wifi_tx_n_txrt">Přenosová rychlost: MCS</string>
+    <string name="cit_tool_wifi_tx_st">Tx: ST</string>
+    <string name="cit_tool_wifi_tx_st_chan">Kanál:</string>
     <string name="cit_torch_off">Vypnout světlo</string>
     <string name="cit_torch_on">Zapnout světlo</string>
     <string name="cit_touch_calib_fail">Kalibrace selhala</string>
