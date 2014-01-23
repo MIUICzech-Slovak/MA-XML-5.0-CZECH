@@ -29,10 +29,10 @@ Hold the phone as if you are making a call, Speak to main microphone, you should
  Turn the phone, Speak to top microphone , you should hear voice in speaker"</string>
     <string name="cit_audio_lb_topmic_to_speaker_title">Top mic speaker feedback test</string>
     <string name="cit_audio_loopback_check_one_title">Test mikrofonu přijmout zvuk</string>
-    <string name="cit_audio_loopback_check_summary_first">Test zkontroluje loopback mikrofonu</string>
+    <string name="cit_audio_loopback_check_summary_first">"Main microphone receiver feedback test
 
 Hold the phone as if you are making a call, speak into the microphone and should hear your voice in the receiver."</string>
-    <string name="cit_audio_loopback_check_summary_second">Turn the phone over and test the other microphones loopback</string>
+    <string name="cit_audio_loopback_check_summary_second">"Secondary microphone speaker feedback test.
 
 Turn the phone so that the headphone input is facing downward. Speak into the receiver. You should hear your voice played through the external speaker."</string>
     <string name="cit_audio_loopback_check_two_title">Secondary microphone speaker feedback test</string>
