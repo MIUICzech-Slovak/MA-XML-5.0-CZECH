@@ -32,7 +32,7 @@
     <string name="permlab_seeAllExternal">Zobrazit stahování – USB</string>
     <string name="wifi_recommended_body" formatted="false">"Stahování přes mobilní data：
 
-%s（%s）
+%s (%s)
 
 Stáhnutí tohoto souboru může výrazně zvýšit poplatky za mobilní internet"</string>
     <string name="wifi_recommended_title">Zařadit do fronty pro pozdější stažení?</string>
