@@ -18,7 +18,8 @@
     <string name="holiday_data_update_failed">Aktualizace selhala, zkuste to později.</string>  
     <string name="holiday_data_update_succeed">Aktualizace dokončena</string>  
     <string name="holiday_data_updating">Aktualizování...</string>  
-    <string name="holiday_update_summary">Zkontrolovat aktualizace</string> 
+    <string name="holiday_update_summary">Zkontrolovat aktualizace</string>
+    <string name="holiday_update_title">Je nutné aktualizovat seznam pracovních dní</string> 
     <string name="provider_label">Kalendář</string>
     <string name="upgrade_msg">Probíhá aktualizace databáze kalendáře.</string>
 </resources>
