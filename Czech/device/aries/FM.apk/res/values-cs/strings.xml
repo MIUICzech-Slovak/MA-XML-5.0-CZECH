@@ -140,6 +140,7 @@
     <string name="toast_delete_station">%s MHz smazáno</string>
     <string name="toast_edit_station">Úspěšně uloženo</string>
     <string name="toast_fm_not_stated">FM není nastaveno</string>
+    <string name="toast_fm_error_startfailed">Chyba nahrávání. Nějaká aplikace právě využívá funkci nahrávání. Zkuste to později.</string>
     <string name="toast_fm_recorder_internal_error">Chyba nahrávání FM.</string>
     <string name="toast_fm_recorder_storage_full">Úložiště je plné, nelze nahrávat</string>
     <string name="toast_fm_seeking">Vyhledávání stanic...</string>

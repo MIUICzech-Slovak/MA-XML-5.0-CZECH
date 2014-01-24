@@ -112,6 +112,7 @@ Ok pro zrušení obnovy"</string>
     <string name="cloud_app_restore_wifi_prompt">Pro obnovení Aplikací a uživatelských dat je nutné se připojit k Wi-Fi síti.</string>
     <string name="cloud_app_total_size">Celková záloha: %1$s</string>
     <string name="cloud_app_version_size">Verze: %1$s, Velikost:%2$s</string>
+    <string name="cloud_app_wait_wifi">Čekání na Wi-Fi připojení</string>
     <string name="cloud_backup_hint">Přihlaste se do bezpečné zóny a obnovte zálohu</string>
     <string name="cloud_backup_login">Přihlaste se pomocí účtu XIAOMI</string>
     <string name="cloud_backup_window_title">Online zálohování dat</string>
