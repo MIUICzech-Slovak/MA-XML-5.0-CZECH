@@ -291,7 +291,7 @@ ale obsah, který hledáte, není dostupný ve Vaší zemi."</string>
     <string name="resource_download_trial">Na zkoušku</string>
     <string name="resource_apply_trial">Vyzkoušet</string>
     <string name="resource_on_trial">Zkoušíte: %1$s</string>
-    <string name="resource_trial_time">（zkouška na %1$d minut）</string>
+    <string name="resource_trial_time">(zkouška na %1$d minut)</string>
     <string name="resource_trial_end_title">Zkouška vypršela</string>
     <string name="resource_trial_end_message">Zkušební verze %1$s vypršela. Pokud se Vám líbí, můžete si ji zakoupit.</string>
     <string name="resource_trial_end_restore">Ukončit zkoušku</string>

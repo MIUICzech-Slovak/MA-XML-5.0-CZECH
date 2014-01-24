@@ -943,7 +943,7 @@ Synchronizujte je nyní."</string>
     <string name="resource_trial_end_purchase">Zakoupit</string>
     <string name="resource_trial_end_restore">Ukončit zkoušku</string>
     <string name="resource_trial_end_title">Zkouška vypršela</string>
-    <string name="resource_trial_time">（zkouška na %1$d minut）</string>
+    <string name="resource_trial_time">(zkouška na %1$d minut)</string>
     <string name="resource_unable_to_access">"Promiňte,
 ale obsah, který hledáte, není dostupný ve Vaší zemi."</string>
     <string name="resource_unknow_error">Neznámá chyba.</string>

@@ -321,7 +321,7 @@ Využito %s | Zbývá %s"</string>
     <string name="msg_send_no_net_error">Failed to send message: cannot connect to your network provider.</string>	
     <string name="msg_send_no_sim_error">Failed to send message: try reinserting your network provider card.</string>	
     <string name="msg_send_send_fail_error">Failed to send message</string>	
-    <string name="msg_telecom_order_denom">%1syuan（does not include mobile network data fees）</string>	
+    <string name="msg_telecom_order_denom">%1syuan (does not include mobile network data fees)</string>	
     <string name="msg_telecom_order_denom_label">Amout due:</string>
     <string name="msg_telecom_order_goods">%1sMiCredit(s)</string>
     <string name="msg_telecom_order_goods_label">Product description:</string>
