@@ -908,8 +908,8 @@ Synchronizujte je nyní."</string>
     <string name="resource_on_trial">Zkoušíte: %1$s</string>
     <string name="resource_online">Online</string>
     <string name="resource_pack_confirm">Už jste zakoupili %1$d položek, ale současná cena je stále výhodnější, než jejich zakoupení jednotlivě. Pokračovat?</string>
-    <string name="resource_pack_discount_info">%1$s Uloženo!</string>
-    <string name="resource_pack_price_info">%1$s Originál</string>
+    <string name="resource_pack_discount_info">O %1$s méně!</string>
+    <string name="resource_pack_price_info">Sleva z %1$s</string>
     <string name="resource_pack_warning">Upozornění! Už jste zakoupili %1$d položek, ale současná cena je stále výhodnější, než jejich zakoupení jednotlivě.</string>
     <string name="resource_present">Dárek</string>
     <string name="resource_price_format">(%1$s)</string>
