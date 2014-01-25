@@ -41,7 +41,7 @@
     <string name="carrier_query_number_location">Attribution</string>
     <string name="carrier_query_number_title">Nastavení operátorů</string>
     <string name="carrier_settings_button">Nastavení operátora</string>
-    <string name="close_txt">Zavřít</string>
+    <string name="close_txt">Ano</string>
     <string name="control_app_internet">Využití sítě</string>
     <string name="current_warning_value">Varovná hodnota:\u0020%s</string>
     <string name="custom_adjust_command">Obsah zprávy</string>
@@ -61,7 +61,7 @@
     <string name="daily_limit_result_no_limit">Upozornit mě, když denní provoz překročí limit. Vypnuto</string>
     <string name="detail_app_button">Detaily aplikace</string>
     <string name="dialog_button_adjust">Upravit</string>
-    <string name="disable_background_connect_warning">Pokud zakážete připojování k internetu na pozadí, některé aplikace, nebo služby nebudou moct použít 2G/3G internet. Opravdu chcete pokračovat?</string>
+    <string name="disable_background_connect_warning">Pokud zakážete připojování k internetu na pozadí, některé aplikace nebo služby nebudou moct použít 2G/3G internet. Opravdu chcete pokračovat?</string>
     <string name="disable_background_mobile_connect">Připojení na pozadí zakázáno</string>
     <string name="edit_frame_free_traffic_title">Velikost datového balíčku</string>
     <string name="edit_frame_month_start_title">Monitorovat ode dne:</string>
