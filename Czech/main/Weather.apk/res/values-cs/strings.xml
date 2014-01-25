@@ -60,10 +60,10 @@
   <string name="enable_notification_city">Je otevřená notifikace na počasí %s, systémová notifikace bude odeslána při nenadálém počasí (déšť, sníh, změna teploty).</string>
   <string name="enable_notification_summary">Upozornit při změně předpovědi</string>
   <string name="first_start_network_toast_text">pro získání informací o počasí se připojte k síti.</string>
-  <string name="format_date_md">M.d kk:mm</string>
-  <string name="format_date_trend_md">M.d</string>
+  <string name="format_date_md">d.M. kk:mm</string>
+  <string name="format_date_trend_md">d.M.</string>
   <string name="format_date_week">EEE</string>
-  <string name="format_date_wmd">M.d EEE</string>
+  <string name="format_date_wmd">d.M. EEE</string>
   <string name="loading_weather">Načítání počasí...</string>
   <string name="local_city">Místní města</string>
   <string name="location_allow_err">Hledání města selhalo.</string>
