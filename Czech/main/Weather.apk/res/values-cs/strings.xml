@@ -64,7 +64,6 @@
   <string name="format_date_trend_md">M.d</string>
   <string name="format_date_week">EEE</string>
   <string name="format_date_wmd">M.d EEE</string>
-  <string name="install_tencent">Nainstalovat Weibo</string>
   <string name="loading_weather">Načítání počasí...</string>
   <string name="local_city">Místní města</string>
   <string name="location_allow_err">Hledání města selhalo.</string>
@@ -98,13 +97,13 @@
   <string name="settings_weather_pre_title">Počasí</string>
   <string name="settings_weather_preview">Zobrazit ukázku</string>
   <string name="settings_weather_title">Nastavení</string>
-  <string name="share_aqi_content">\#MIUI počasí#
-Dnes v %1$s je kvalita ovzduší: %2$s, %3$s. %4$s %5$s.</string>
+  <string name="share_aqi_content">"\#MIUI počasí#
+Dnes v %1$s je kvalita ovzduší: %2$s, %3$s. %4$s %5$s."</string>
+  <string name="share_button_text">Sdílet</string>
+  <string name="share_choice_titile">Sdílet</string>
   <string name="share_content">\#MIUI počasí#</string>
-  <string name="share_qq">Sdílet přes QQ Weibo</string>
-  <string name="share_sina">Sdílet přes Sina Weibo</string>
-  <string name="share_weather_content">\#MIUI počasí#
-Dnes v %1$s je  počasí %2$s, %3$s, %4$s. %5$s.</string>
+  <string name="share_weather_content">"\#MIUI počasí#
+Dnes v %1$s je  počasí %2$s, %3$s, %4$s. %5$s."</string>
   <string name="share_weather_title">Sdílet stav počasí</string>
   <string name="sina_share_fail">Odeslání selhalo!</string>
   <string name="sina_share_pendding">Odesílání...</string>
