@@ -3347,13 +3347,13 @@ Vaše zařízení se přepne po obnově baterie do tohoto režimu. Před vymazá
     <string name="power_dialog_delete_dialog_cannot_delete_on_out_time">Nelze vymazat. Vaše zařízení se přepne po skončení doby do tohoto režimu. Před vymazáním je nutné změnit nastavení baterie.</string>
     <string name="power_mode_chooser_button_text">Použít</string>
     <string name="menu_item_about_summary">Verze：%s</string>
-    <string name="menu_item_shortcut">Vytvořit odkaz</string>
-    <string name="menu_item_shortcut_uninstall">Odstranit odkazy</string>
-    <string name="menu_item_shortcut_title">Přidat odkaz</string>
-    <string name="menu_item_shortcut_summary">Přidejte často používané funkce na plochu</string>
+    <string name="menu_item_shortcut">Vytvořit zástupce</string>
+    <string name="menu_item_shortcut_uninstall">Odstranit zástupce</string>
+    <string name="menu_item_shortcut_title">Přidat zástupce</string>
+    <string name="menu_item_shortcut_summary">Přidejte často používané aplikace na plochu</string>
     <string name="menu_item_settings_title">Nastavení</string>
-    <string name="activity_title_create_shortcut">Odkaz</string>
+    <string name="activity_title_create_shortcut">Zástupce</string>
     <string name="activity_title_settings">Nastavení</string>
-    <string name="toast_shortcut_install">Odkaz je vytvořen</string>
-    <string name="toast_shortcut_uninstall">Odkaz je odstraněn</string>
+    <string name="toast_shortcut_install">Zástupce je vytvořen</string>
+    <string name="toast_shortcut_uninstall">Zástupce je odstraněn</string>
 </resources>
