@@ -7,11 +7,11 @@
     <string name="button_sort_by_date">Seřadit podle data</string>
     <string name="button_sort_by_size">Seřadit podle velikosti</string>
     <string name="cancel_running_download">Zrušit</string>
-    <string name="confirm_delete_downloads_message">Vybrané soubory budou smazány</string>
-    <string name="confirm_delete_the_download_item_message">Potvrďte odstranění</string>
+    <string name="confirm_delete_downloads_message">Vybrané soubory budou vymazány</string>
+    <string name="confirm_delete_the_download_item_message">Opravdu chcete vymazat?</string>
     <string name="delete_download">Vymazat</string>
-    <string name="delete_downloads_records">Smazat historii</string>
-    <string name="delete_the_downloaded_file">Smazat stažené soubory</string>
+    <string name="delete_downloads_records">Vymazat historii</string>
+    <string name="delete_the_downloaded_file">Vymazat stažené soubory</string>
     <string name="deselect_all">Zrušit výběr</string>
     <string name="dialog_cannot_resume">Stahování přerušeno. Nemůže být obnoveno.</string>
     <string name="dialog_failed_body">Chcete opakovat stahování souboru později nebo odstranit z fronty?</string>
@@ -42,7 +42,7 @@
     <string name="download_title_sorted_by_size">Stažené - podle velikosti</string>
     <string name="download_when_network_connected">Wi-Fi + Mobilní data</string>
     <string name="downloads_operating">Pracuji...</string>
-    <string name="editmode_menu_delete">Smazat</string>
+    <string name="editmode_menu_delete">Vymazat</string>
     <string name="editmode_menu_share">Sdílet</string>
     <string name="keep_queued_download">Udržet</string>
     <string name="menu_enter_edit_mode">Editor</string>
