@@ -228,7 +228,7 @@
     <string name="mx_auto_resend_sms_summary">Poslat jako SMS, pokud cloudové zprávy nejsou k dispozici. Zprávy mohou být zpoplatněny</string>
     <string name="mx_btn_enable">Zapnout</string>
     <string name="mx_btn_enable_now">Povolit</string>
-    <string name="mx_count_dspt">Od aktivace, MIUI poslalo %1$d cloud zpráv (%2$s)</string>
+    <string name="mx_count_dspt">Odeslali jste %1$d SMS a %2$d MMS přes cloud</string>
     <string name="mx_current_status">Stav: Online</string>
     <string name="mx_dspt">Poslat SMS přes internet pomocí MIUI, pokud odeslání přes operátora selže</string>
     <string name="mx_enable">Zapnout cloudové zprávy</string>	
