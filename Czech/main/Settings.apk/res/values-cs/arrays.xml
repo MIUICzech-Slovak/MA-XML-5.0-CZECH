@@ -431,11 +431,6 @@ Nyní můžete kopírovat soubory."</item>
         <item>Vytváření relace vypršelo. Opakování...</item>
         <item>Zařízení připojeno</item>
     </string-array>
-    <string-array name="wifi_ap_security">
-        <item>Nezabezpečená</item>
-        <item>WPA PSK</item>
-        <item>WPA2 PSK</item>
-    </string-array>
     <string-array name="wifi_connect_type_entries">
         <item>Automaticky připojit</item>
         <item>Manuálně připojit</item>
