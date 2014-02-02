@@ -458,7 +458,6 @@ Ostatní aplikace budou mít k těmto informacím přístup společně s příst
     <string name="intervalometer_num_unit">Existuje %1$d fotek</string>
     <string name="intervalometer_time_m">m</string>
     <string name="intervalometer_time_s">s</string>
-    <string name="intervalometer_tip">Zvolte časový interval</string>
     <string name="intervalometer_title">Interval</string>
     <string name="multi_exposure_alpha">Alpha</string>
     <string name="multi_exposure_alpha_info">Kombinace více fotek, zmáčkněte tlačítko</string>
