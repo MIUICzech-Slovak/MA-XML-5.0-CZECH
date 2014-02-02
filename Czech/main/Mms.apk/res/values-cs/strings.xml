@@ -256,7 +256,7 @@
     <string name="nosend_message">Nebylo odesláno</string>
     <string name="notification_failed_multiple">%s zpráv nelze odeslat.</string>
     <string name="notification_failed_multiple_title">Zprávy neodeslané</string>
-    <string name="notification_multiple">%s nepřečtených zprávy.</string>
+    <string name="notification_multiple">%s nepřečtených zpráv.</string>
     <string name="notification_multiple_title">Nové zprávy</string>
     <string name="number_add_hint">Zadejte číslo pro zařazení do soukromých kontaktů</string>
     <string name="overwrite_edited_content">Upravený obsah bude přepsán. Pokračovat?</string>

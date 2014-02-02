@@ -246,7 +246,7 @@ Zkontrolujeme to do dvou pracovních dnů"</string>
     <string name="recharge_grid_picker_hint">Zvolte hodnotu</string>
     <string name="recharge_group_favorite">Naposledy použitý způsob</string>
     <string name="recharge_group_others">Ostatní způsoby navýšení</string>
-    <string name="recharge_message_title">SMS (Jen Čína)</string>
+    <string name="recharge_message_title">SMS (jen Čína)</string>
     <string name="recharge_notification">Navýšení o %1$s MiKreditů</string>
     <string name="recharge_novalid_method">Žádný možný způsob navýšení.</string>
     <string name="recharge_other">Ostatní způsoby</string>
