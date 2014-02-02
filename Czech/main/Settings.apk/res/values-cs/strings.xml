@@ -544,14 +544,14 @@ Poznámka: Zvětšení trojitým klepnutím funguje ve všech částech obrazovk
     <string name="builtin_keyboard_settings_title">Fyzická klávesnice</string>
     <string name="button_disconnect_network">Odpojit od sítě</string>
     <string name="button_light_timeout">Doba podsvícení tlačítek</string>
-    <string name="button_start_optimize">"Kontrola "</string>
+    <string name="button_start_optimize">Kontrola</string>
     <string name="button_text_a_key_clean_up">Vyčistit</string>
     <string name="button_text_a_key_optimize">Optimalizovat</string>
     <string name="button_text_cancel">Zrušit</string>
     <string name="button_text_delete">Vymazat</string>
     <string name="button_text_done">Hotovo</string>
     <string name="button_text_fix">Opravit</string>
-    <string name="button_text_quick_scan">"Kontrola "</string>
+    <string name="button_text_quick_scan">Kontrola</string>
     <string name="button_text_security">Zabezpečení</string>
     <string name="button_text_view">Zobrazit</string>
     <string name="cache_garbage">Cache souborů</string>
