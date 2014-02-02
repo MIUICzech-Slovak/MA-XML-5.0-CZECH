@@ -54,7 +54,7 @@
     <string name="download_success">%1$s přijato</string>
     <string name="download_title">Přenos souborů</string>
     <string name="empty_file_notification_sent">Sdílení přes Bluetooth: Prázdný soubor %1$s byl odmítnutý</string>
-    <string name="enabling_progress_content">Zapínání Bluetooth…</string>
+    <string name="enabling_progress_content">Zapínání Bluetooth...</string>
     <string name="enabling_progress_title">Prosím čekejte</string>
     <string name="ftp_acceptance_dialog_header">Přístup ke složkám v telefonu</string>
     <string name="ftp_acceptance_dialog_title">%1$s chce získat přístup ke složkám ve Vašem telefonu. Chcete povolit přístup %2$s?</string>
@@ -69,7 +69,7 @@
     <string name="inbound_history_title">Příchozí přenosy</string>
     <string name="inbound_noti_title">Bluetooth: přijaté soubory</string>
     <string name="incoming_file_confirm_Notification_caption">Potvrďte přijmutí souboru</string>
-    <string name="incoming_file_confirm_Notification_title">Přijímám soubor…</string>
+    <string name="incoming_file_confirm_Notification_title">Přijímám soubor...</string>
     <string name="incoming_file_confirm_cancel">Odmítnout</string>
     <string name="incoming_file_confirm_content" formatted="false">"\"%1$s\" se Vám pokouší odeslat soubor %2$s (%3$s).
     

@@ -66,7 +66,7 @@
     <string name="delete_recurring_event_title">Ztlumit %s?</string>   
     <string name="delete_this_event_title">Smazat tuto událost?</string>
     <string name="description_label">Popis</string>
-    <string name="directory_searching_fmt">Vyhledávání na webu %s…</string>
+    <string name="directory_searching_fmt">Vyhledávání na webu %s...</string>
     <string name="discard_label">Zrušit</string>
     <string name="dismiss_all_label">Zavřít vše</string>
     <string name="do_not_check">Nekontrolovat -></string>

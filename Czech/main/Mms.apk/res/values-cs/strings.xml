@@ -22,7 +22,7 @@
     <string name="add_video">Přidat video</string>
     <string name="adding_attachments">Čekejte prosím, než budou položky přidány do prezentace.</string>
     <string name="adding_attachments_title">Přidávání příloh</string>
-    <string name="adding_recipients">Přidání příjemce…</string>
+    <string name="adding_recipients">Přidání příjemce...</string>
     <string name="app_label">Zprávy</string>
     <string name="attach_image">Obrázky</string>
     <string name="attach_record_sound">Nahrát zvuk</string>
@@ -98,7 +98,7 @@
     <string name="delete">Smazat</string>
     <string name="delete_bookmark">Odstranit z oblíbených</string>
     <string name="delete_message">Smazat</string>
-    <string name="delete_phrase">Odstranit fráze</string>
+    <string name="delete_phrase">Odstranit frázi</string>
     <string name="delete_unlocked">Smazat i zamknuté</string>
     <string name="delivery_report_activity">Potvrzení o doručení</string>
     <string name="delivery_toast_body">Zpráva pro %s doručena</string>
@@ -256,11 +256,11 @@
     <string name="nosend_message">Nebylo odesláno</string>
     <string name="notification_failed_multiple">%s zpráv nelze odeslat.</string>
     <string name="notification_failed_multiple_title">Zprávy neodeslané</string>
-    <string name="notification_multiple">%s nepřečtených zprávy.</string>
+    <string name="notification_multiple">%s nepřečtených zpráv.</string>
     <string name="notification_multiple_title">Nové zprávy</string>
     <string name="number_add_hint">Zadejte číslo pro zařazení do soukromých kontaktů</string>
     <string name="overwrite_edited_content">Upravený obsah bude přepsán. Pokračovat?</string>
-    <string name="phrase_confirm_delete_message">Vybrané fráze budou smazány</string>
+    <string name="phrase_confirm_delete_message">Vybraná fráze bude vymazána</string>
     <string name="phrase_empty">Žádná fráze</string>
     <string name="phrase_from">Od %1s</string>
     <string name="phrase_list_title">Fráze</string>

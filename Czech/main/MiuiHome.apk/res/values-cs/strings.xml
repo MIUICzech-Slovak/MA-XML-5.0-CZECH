@@ -156,7 +156,7 @@
     <string name="resource_download">Stáhnout</string>
     <string name="resource_downloaded_title">Stáhnout zdroje</string>
     <string name="resource_downloading">Stahování...</string>
-    <string name="resource_get_auth_checking">Kontrola autorizace…</string>
+    <string name="resource_get_auth_checking">Kontrola autorizace...</string>
     <string name="resource_get_auth_exceed_max_limit_tips">Zvolený vzhled nemůže být aplikovaný na tomto telefonu s Vaším Xiaomi účtem. Na jeden účet lze přihlásit maximálně 10 zařízení za rok. Vložte jiný Xiaomi účet.</string>
     <string name="resource_get_auth_exceed_max_limit_title">Autorizace přesáhla limit</string>
     <string name="resource_get_auth_missing">Toto téma nepochází z oficiálního obchodu.</string>
@@ -227,7 +227,7 @@ Prosím otevřete tuto aplikaci znovu pro obnovení zdrojů."</string>
     <string name="status_bar_toggle_sync_auto">Auto Synchr.</string>
     <string name="status_bar_toggle_sync_manual">Manuální synchr.</string>
     <string name="status_bar_toggle_syncing">Synchronizuji...</string>
-    <string name="status_bar_toggle_torch">Svítidlo</string>	
+    <string name="status_bar_toggle_torch">Svítilna</string>	
     <string name="status_bar_toggle_vibrate">Vibrace</string>	
     <string name="status_bar_toggle_wifi">Wi-Fi</string>
     <string name="status_bar_toggle_wifi_ap">Hotspot</string>

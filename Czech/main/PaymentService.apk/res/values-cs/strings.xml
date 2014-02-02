@@ -241,12 +241,12 @@ Zkontrolujeme to do dvou pracovních dnů"</string>
     <string name="recharge_denomination">%1$s RMB</string>
     <string name="recharge_grid_edit_hint">Suma (RMB)</string>
     <string name="recharge_grid_edit_limit">%1$s~%2$s RMB</string>
-    <string name="recharge_grid_edit_upper_limit">"Ne více jak %1$s RMB"</string>
+    <string name="recharge_grid_edit_upper_limit">"Ne více než %1$s RMB"</string>
     <string name="recharge_grid_error_denomination">Vložte správnou sumu</string>
     <string name="recharge_grid_picker_hint">Zvolte hodnotu</string>
     <string name="recharge_group_favorite">Naposledy použitý způsob</string>
     <string name="recharge_group_others">Ostatní způsoby navýšení</string>
-    <string name="recharge_message_title">SMS (Jen Čína)</string>
+    <string name="recharge_message_title">SMS (jen Čína)</string>
     <string name="recharge_notification">Navýšení o %1$s MiKreditů</string>
     <string name="recharge_novalid_method">Žádný možný způsob navýšení.</string>
     <string name="recharge_other">Ostatní způsoby</string>
@@ -280,7 +280,7 @@ Zkontrolujeme to do dvou pracovních dnů"</string>
     <string name="title_transaction">Transakce</string>
     <string name="title_visible_pattern">Zobrazit vzor</string>
     <string name="voucher_edit_hint">Kód</string>
-    <string name="voucher_edit_limit">čísla</string>
+    <string name="voucher_edit_limit">číslice</string>
     <string name="voucher_error_password_empty">Prázdné</string>
     <string name="voucher_input_password_prompt">Vložte heslo</string>
 </resources>

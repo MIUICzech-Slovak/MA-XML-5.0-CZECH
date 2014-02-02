@@ -847,8 +847,8 @@ Chcete-li pokračovat, dotkněte se možnosti OK. Chcete-li zůstat na aktuáln�
     <string name="autofill_emirate">Emirát</string>
     <string name="permlab_readHistoryBookmarks">čtení webových záložek a historie</string>
     <string name="permdesc_readHistoryBookmarks">Umožňuje aplikaci číst historii všech adres URL navštívených v Prohlížeči a všechny záložky v Prohlížeči. Poznámka: Pro prohlížeče třetí strany a jiné aplikace umožňující procházení webu toto oprávnění platit nemusí.</string>
-    <string name="permlab_writeHistoryBookmarks">psaní webových záložek a historie</string>
-    <string name="permdesc_writeHistoryBookmarks">Umožňuje aplikaci upravit historii prohlížeče nebo záložky uložené v telefonu. Aplikace s tímto oprávněním může vymazat či pozměnit data prohlížeče .Poznámka: Pro prohlížeče třetí strany a jiné aplikace umožňující procházení webu toto oprávnění platit nemusí.</string>
+    <string name="permlab_writeHistoryBookmarks">zápis webových záložek a historie</string>
+    <string name="permdesc_writeHistoryBookmarks">Umožňuje aplikaci upravit historii prohlížeče nebo záložky uložené v telefonu. Aplikace s tímto oprávněním může vymazat či pozměnit data prohlížeče. Poznámka: Pro prohlížeče třetí strany a jiné aplikace umožňující procházení webu toto oprávnění platit nemusí.</string>
     <string name="permlab_setAlarm">nastavení budíku</string>
     <string name="permdesc_setAlarm">Umožňuje aplikaci nastavit budík v nainstalované aplikaci budík. Některé aplikace budík tuto funkci nemusí obsahovat.</string>
     <string name="permlab_addVoicemail">přidat hlasovou zprávu</string>
