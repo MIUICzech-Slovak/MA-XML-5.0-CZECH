@@ -472,9 +472,6 @@ Ostatní aplikace budou mít k těmto informacím přístup společně s příst
     <string name="multi_exposure_combination_text">Poměr:</string>
     <string name="multi_exposure_darkness">Tma</string>
     <string name="multi_exposure_darkness_info">Zanechává tmavou část na druhé fotografii</string>
-    <string name="multi_exposure_intervalometer_long_time">30s</string>
-    <string name="multi_exposure_intervalometer_moderate_time">10s</string>
-    <string name="multi_exposure_intervalometer_short_time">5s</string>
     <string name="multi_exposure_manual_operation">Manual</string>
     <string name="multi_exposure_num_text">Potřebujete %1$d fotografie</string>
     <string name="multi_exposure_num_text_more">Potřebujete ještě %1$d fotografii</string>
@@ -516,14 +513,12 @@ Ostatní aplikace budou mít k těmto informacím přístup společně s příst
     <string name="effects_warm">Teplý</string>
     <string name="video_editor_title">Editor krátkého videa</string>
     <string name="video">Video</string>
-    <string name="video_camera_label">Videokamera</string>
     <string name="video_cannot_get_details">Žádné detaily.</string>
     <string name="video_cutframe">Vyjmout rámeček</string>
     <string name="video_details">Detaily</string>
     <string name="video_duration">Trvání:</string>
     <string name="video_edit">Upravit</string>
     <string name="video_encrypt">Šifrování</string>
-    <string name="video_err">"Nelze přehrát video."</string>
     <string name="video_frame_save_as">Uložit:</string>
     <string name="video_help">Nápověda</string>
     <string name="original_sound">původní zvuk</string>
@@ -532,8 +527,6 @@ Ostatní aplikace budou mít k těmto informacím přístup společně s příst
 	<string name="select_music">vyberte hudbu</string>
 	<string name="music_sound">Hudba</string>
     <string name="pref_video_af_lock_title">Uzamknout ostření při nahrávání</string>
-    <string name="pref_video_denoise_entry_off">Vypnuto</string>
-    <string name="pref_video_denoise_entry_on">Zapnuto</string>
     <string name="pref_video_zoom_entry_off">Vypnuto</string>
     <string name="pref_video_zoom_entry_on">Zapnuto</string>
     <string name="pref_video_zoom_title">Použít zoom při nahrávání</string>
