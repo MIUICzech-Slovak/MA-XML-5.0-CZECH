@@ -1080,7 +1080,7 @@
     <string name="sum_fdn_manage_list">Správa PTČ</string>
     <string name="sum_gsm_call_settings">Další "Pouze GSM" nastavení</string>
     <string name="sum_hide_caller_id">Číslo je v odchozích hovorech skryto</string>
-    <string name="sum_loading_settings">Načítání nastavení…</string>
+    <string name="sum_loading_settings">Načítání nastavení...</string>
     <string name="sum_search_networks">Vyhledá všechny dostupné sítě</string>
     <string name="sum_select_automatically">Automaticky vybere vhodnou síť</string>
     <string name="sum_select_automatically_option_miui">Automaticky zvolit preferovanou síť, %s</string>

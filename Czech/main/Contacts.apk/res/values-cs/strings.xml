@@ -959,7 +959,7 @@ ale obsah, který hledáte, není dostupný ve Vaší zemi."</string>
     <string name="save">Uložit</string>
     <string name="save_photo_progress">Ukládám fotku...</string>
     <string name="savingContact">Ukládání kontaktu...</string>
-    <string name="savingDisplayGroups">Ukládám nastavení zobrazení …</string>
+    <string name="savingDisplayGroups">Ukládám nastavení zobrazení...</string>
     <string name="scan">Prohledat zařízení</string>
     <string name="scan_duplicate_message">Počet duplicitních kontaktů: %1$d</string>
     <string name="scan_merge">Hledání možných duplicitních kontaktů, prosím čekejte...</string>
@@ -1126,7 +1126,7 @@ Vyberte si z následujících možností:</string>
     <string name="view_updates_from_group">Zobrazit aktualizace</string>
     <string name="voicemail">Hlasová zpráva</string>
     <string name="voicemail_buffering">Načítání...</string>
-    <string name="voicemail_fetching_content">Stahuji hlasovou zprávu…</string>
+    <string name="voicemail_fetching_content">Stahuji hlasovou zprávu...</string>
     <string name="voicemail_fetching_timout">Nemohu stáhnout hlasovou zprávu.</string>
     <string name="voicemail_playback_error">Nemohu přehrát hlasovou zprávu.</string>
     <string name="voicemail_speed_faster">vysoká rychlost</string>

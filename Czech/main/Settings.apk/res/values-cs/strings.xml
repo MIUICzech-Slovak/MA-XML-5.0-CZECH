@@ -514,7 +514,7 @@ Poznámka: Zvětšení trojitým klepnutím funguje ve všech částech obrazovk
     <string name="bluetooth_tethering_errored_subtext">Není sdíleno</string>
     <string name="bluetooth_tethering_off_subtext">Internetové připojení tohoto telefonu není sdíleno.</string>
     <string name="bluetooth_tethering_overflow_error">Maximální počet zařízení pro tethering: %1$d.</string>
-    <string name="bluetooth_turning_off">Vypínání rozhraní Bluetooth…</string>
+    <string name="bluetooth_turning_off">Vypínání rozhraní Bluetooth...</string>
     <string name="bluetooth_turning_on">Zapnout Bluetooth?</string>
     <string name="bluetooth_unknown"/>
     <string name="bluetooth_untether_blank">U zařízení %1$s bude ukončeno sdílené připojení.</string>
@@ -2745,7 +2745,7 @@ Každý uživatel může přijmout aktualizovaná oprávnění aplikací jménem
     <string name="user_add_user_message_short">"Když vytvoříte nového uživatele, bude muset provést nastavení.
 
 Každý uživatel může přijmout aktualizovaná oprávnění aplikací jménem všech ostatních uživatelů."</string>
-    <string name="user_adding_new_user">Přidávání nového uživatele…</string>
+    <string name="user_adding_new_user">Přidávání nového uživatele...</string>
     <string name="user_cannot_manage_message">Uživatele smí spravovat pouze vlastník telefonu.</string>
     <string name="user_confirm_remove_message">Opravdu chcete odebrat uživatele a všechna jeho data v tomto zařízení?</string>
     <string name="user_confirm_remove_self_message">Přijdete o místo a data v tomto telefonu. Tuto akci nelze vrátit zpět.</string>
@@ -3040,7 +3040,7 @@ Každý uživatel může přijmout aktualizovaná oprávnění aplikací jménem
     <string name="wifi_display_options_title">Možnosti bezdrátového displeje</string>
     <string name="wifi_display_paired_devices">Spárované displeje</string>
     <string name="wifi_display_search_for_devices">Hledat displeje</string>
-    <string name="wifi_display_searching_for_devices">Vyhledávání…</string>
+    <string name="wifi_display_searching_for_devices">Vyhledávání...</string>
     <string name="wifi_display_settings_empty_list_wifi_display_disabled">Bezdrátový displej je zakázaný, protože síť Wi-Fi je vypnutá.</string>
     <string name="wifi_display_settings_empty_list_wifi_display_off">Chcete-li zobrazit zařízení, zapněte bezdrátový displej.</string>
     <string name="wifi_display_settings_title">Bezdrátový displej</string>
@@ -3271,8 +3271,8 @@ Nastavení telefonu může vyžadovat přenos nemalého množství dat."</string
     <string name="wifi_tether_enabled_subtext">Přenosný hotspot %1$s je aktivní</string>
     <string name="wifi_tether_failed_subtext">Chyba přenosného hotspotu Wi-Fi</string>
     <string name="wifi_tether_setting_title">Základní nastavení</string>
-    <string name="wifi_tether_starting">Zapínání hotspotu…</string>
-    <string name="wifi_tether_stopping">Vypínání hotspotu…</string>
+    <string name="wifi_tether_starting">Zapínání hotspotu...</string>
+    <string name="wifi_tether_stopping">Vypínání hotspotu...</string>
     <string name="wifi_unchanged">(nezměněno)</string>
     <string name="wifi_unspecified">(neurčeno)</string>
     <string name="wifi_update">Obnovit statistiku</string>

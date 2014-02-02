@@ -46,7 +46,7 @@
     <string name="live_wallpaper">Živá tapeta</string>
     <string name="loading">Načítání...</string>
     <string name="loading_resource_detail_fail">Načítání podrobností selhalo!</string>
-    <string name="loading_resource_detail_info">Načítání…</string>
+    <string name="loading_resource_detail_info">Načítání...</string>
     <string name="lockscreen_wallpaper">Tapeta zámku</string>
     <string name="lockstyle_personal_settings">Přizpůsobit</string>
     <string name="long_ringtone_resource">Dlouhé</string>

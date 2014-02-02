@@ -156,7 +156,7 @@
     <string name="resource_download">Stáhnout</string>
     <string name="resource_downloaded_title">Stáhnout zdroje</string>
     <string name="resource_downloading">Stahování...</string>
-    <string name="resource_get_auth_checking">Kontrola autorizace…</string>
+    <string name="resource_get_auth_checking">Kontrola autorizace...</string>
     <string name="resource_get_auth_exceed_max_limit_tips">Zvolený vzhled nemůže být aplikovaný na tomto telefonu s Vaším Xiaomi účtem. Na jeden účet lze přihlásit maximálně 10 zařízení za rok. Vložte jiný Xiaomi účet.</string>
     <string name="resource_get_auth_exceed_max_limit_title">Autorizace přesáhla limit</string>
     <string name="resource_get_auth_missing">Toto téma nepochází z oficiálního obchodu.</string>
