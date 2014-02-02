@@ -544,14 +544,14 @@ Poznámka: Zvětšení trojitým klepnutím funguje ve všech částech obrazovk
     <string name="builtin_keyboard_settings_title">Fyzická klávesnice</string>
     <string name="button_disconnect_network">Odpojit od sítě</string>
     <string name="button_light_timeout">Doba podsvícení tlačítek</string>
-    <string name="button_start_optimize">Kontrola</string>
+    <string name="button_start_optimize">"Kontrola "</string>
     <string name="button_text_a_key_clean_up">Vyčistit</string>
     <string name="button_text_a_key_optimize">Optimalizovat</string>
     <string name="button_text_cancel">Zrušit</string>
     <string name="button_text_delete">Vymazat</string>
     <string name="button_text_done">Hotovo</string>
     <string name="button_text_fix">Opravit</string>
-    <string name="button_text_quick_scan">Kontrola</string>
+    <string name="button_text_quick_scan">"Kontrola "</string>
     <string name="button_text_security">Zabezpečení</string>
     <string name="button_text_view">Zobrazit</string>
     <string name="cache_garbage">Cache souborů</string>
@@ -598,7 +598,7 @@ Poznámka: Zvětšení trojitým klepnutím funguje ve všech částech obrazovk
     <string name="check_all">Vybrat vše</string>
     <string name="check_nothing">Odznačit vše</string>	
     <string name="checkbox_notification_same_as_incoming_call">Použít hlasitost zvonění i pro notifikace</string>
-    <string name="checking">Kontrola</string>
+    <string name="checking">"Kontrola "</string>
     <string name="choose_timezone">Zvolit časovou zónu</string>
     <string name="clean_confirm_title">Vymazat tyto soubory?</string>
     <string name="cleaner">Čistič</string>
@@ -1447,7 +1447,7 @@ Toto nastavení ovlivní všechny uživatele tohoto telefonu."</string>
     <string name="menu_cancel">Zrušit</string>
     <string name="menu_delete">Smazat název přístupového bodu</string>
     <string name="menu_edit">Upravit</string>
-    <string name="menu_item_about_content">Bezpečnost: %s</string>
+    <string name="menu_item_about_content">Optimalizace: %s</string>
     <string name="menu_item_about_title">Co to je</string>
     <string name="menu_key">Tlačítko Menu</string>
     <string name="menu_new">Nový název AP</string>
@@ -1595,7 +1595,7 @@ zkuste následující:"
     <string name="opt_item_app_perm">Kontrola práv</string>
     <string name="opt_item_autorun">Auto start</string>
     <string name="opt_item_cache_clean">Žádné staré soubory</string>
-    <string name="opt_item_file_scan">Kontrola</string>
+    <string name="opt_item_file_scan">"Kontrola "</string>
     <string name="opt_item_procs_clean">Spravovat procesy</string>
     <string name="opt_killed_process">Ukončeno %d procesů</string>
     <string name="opt_progress_done">Dokončit</string>
