@@ -3346,7 +3346,7 @@ Nastavení telefonu může vyžadovat přenos nemalého množství dat."</string
 Vaše zařízení se přepne po obnově baterie do tohoto režimu. Před vymazáním je nutné změnit nastavení baterie."</string>
     <string name="power_dialog_delete_dialog_cannot_delete_on_out_time">Nelze vymazat. Vaše zařízení se přepne po skončení doby do tohoto režimu. Před vymazáním je nutné změnit nastavení baterie.</string>
     <string name="power_mode_chooser_button_text">Použít</string>
-    <string name="menu_item_about_summary">Verze：%s</string>
+    <string name="menu_item_about_summary">Verze: %s</string>
     <string name="menu_item_shortcut">Vytvořit zástupce</string>
     <string name="menu_item_shortcut_uninstall">Odstranit zástupce</string>
     <string name="menu_item_shortcut_title">Přidat zástupce</string>
