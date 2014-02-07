@@ -296,7 +296,7 @@ d. MMMM yyyy"</string>
     <string name="user_guide_for_toggle_list">Klepněte zde pro přizpůsobení seznamu přepínačů</string>
     <string name="settings_advanced">Rozšířené nastavení</string>
     <string name="settings_basic_settings">Nastavení</string>
-    <string name="settings_custom_carrier">Vlastí název operátora</string>
+    <string name="settings_custom_carrier">Vlastní název operátora</string>
     <string name="settings_no_carrier">Bez názvu</string>
     <string name="settings_show_carrier">Zobrazit název operátora</string>
     <string name="settings_show_carrier_summary">Jen na zamknuté obrazovce</string>
