@@ -98,7 +98,7 @@
     <string name="ext_media_badremoval_notification_title">USB úložiště neočekávaně odebráno</string>
     <string name="ext_media_checking_notification_message">Kontroluji chyby.</string>
     <string name="ext_media_checking_notification_title">Připravuji USB úložiště</string>
-    <string name="ext_media_mountable_notification_message">USB úložiště připojeno. Soubory zobrazíte ve Správci souborů.</string>
+    <string name="ext_media_mountable_notification_message">Soubory zobrazíte ve Správci souborů.</string>
 	  <string name="ext_media_mountable_notification_title">USB úložiště připojeno</string>
     <string name="ext_media_nofs_notification_message">USB úložiště je prázdné, nebo má nepodporovaný souborový systém.</string>
     <string name="ext_media_nofs_notification_title">Prázdné USB úložiště</string>

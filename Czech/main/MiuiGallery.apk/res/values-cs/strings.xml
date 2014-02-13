@@ -182,6 +182,7 @@ společně!"</string>
   <string name="error_should_not_select_image">Upozornění: nevybírejte obrázek.</string>
   <string name="error_should_not_select_video">Upozornění: nevybírejte video.</string>
   <string name="error_socket_timeout">Chyba sítě. Zkuste to později.</string>
+  <string name="error_share_with_creator">Již jste členem v tomto albu</string>
   <string name="error_unknown_host">Nenalezena žádná síť</string>
   <string name="exit">Odejít</string>
   <string name="exit_share">Ukončit album</string>

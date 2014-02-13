@@ -440,7 +440,7 @@ Nahlašte chyby a odešlete Váš názor přímo do Xiaomi."</string>
     <string name="to_address_label">"Komu: "</string>
     <string name="to_count">%d lidí</string>
     <string name="to_label">"Komu "</string>
-    <string name="to_send_wrapper">Bude odesláno v(e) %s</string>
+    <string name="to_send_wrapper">Bude odesláno %s hod.</string>
     <string name="toast_description_required">"Nelze odeslat prázdnou zprávu"</string>
     <string name="toast_feedback_finish">Váš report bude automaticky odeslán po připojení na Wi-Fi</string>
     <string name="toast_feedback_max">Můžete odeslat pouze 3 hlášení za den</string>

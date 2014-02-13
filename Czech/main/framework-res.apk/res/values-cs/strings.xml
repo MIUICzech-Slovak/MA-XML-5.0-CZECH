@@ -1005,7 +1005,7 @@ Chcete ji zavřít?"</string>
     <string name="wifi_p2p_show_pin_message">PIN:</string>
     <string name="select_character">Vkládání znaků</string>
     <string name="sms_control_title">Odesílání zpráv SMS</string>
-    <string name="sms_control_message">Aplikace &lt;b>%1$s&lt;/b>odesílá velký počet SMS zpráv. Chcete aplikaci povolit, aby zprávy odesílala i nadále?</string>
+    <string name="sms_control_message">Aplikace &lt;b>%1$s&lt;/b> odesílá velký počet SMS zpráv. Chcete aplikaci povolit, aby zprávy odesílala i nadále?</string>
     <string name="sms_control_yes">Povolit</string>
     <string name="sms_control_no">Odmítnout</string>
     <string name="sim_removed_title">SIM karta odebrána</string>

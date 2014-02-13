@@ -2576,6 +2576,8 @@ Toto nastavení ovlivní všechny uživatele tohoto telefonu."</string>
     <string name="title_mms_yes">Filtr zpráv zapnut</string>
     <string name="title_permission_no">Sledování oprávnění vypnuto</string>
     <string name="title_permission_yes">Sledování oprávnění zapnuto</string>
+    <string name="title_show_notification_yes">Zobrazení v roletce zapnuto</string>
+    <string name="title_show_notification_no">Zobrazení v roletce vypnuto</string>
     <string name="title_usb_no">Ladění USB zapnuto</string>
     <string name="title_usb_yes">Ladění USB vypnuto</string>
     <string name="title_virus_no">Nalezen Virus</string>
