@@ -1194,4 +1194,7 @@
     <string name="xdivert_sub_absent">Obě předplatné by měly být pro zpracování X-Divert aktivovány</string>
     <string name="xdivert_summary">Nastavení CFNRc</string>
     <string name="xdivert_title">X-Divert</string>
+    <string name="information">Informace</string>
+    <string name="duringcall">Tato operace není povolena při hovoru</string>
+    <string name="data_connected_change">Nelze změnit síť, když jsou aktivní mobilní data. Ukončit mobilní data a vybrat jinou dostupnou síť?</string>
 </resources>

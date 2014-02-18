@@ -220,6 +220,7 @@ prvně a nemohou být použité po vypršení platnosti"</string>
     <string name="login_failed">Přihlášení se nezdařilo</string>
     <string name="login_instead_reg">Přihlásit se za pomocí telefonního čísla</string>
     <string name="login_notice">Přihlašování...</string>
+    <string name="logout_failed">Odhlášení selhalo</string>
     <string name="master_alert_notif_dspt" formatted="false">"Za tuto dobu bylo přidáno %s kontaktů, %s SMS, %s fotografií, %s poznámek a ostatních dat. 
 
  Pokud se Váš telefon ztratí nebo omylem vymaže, tato data budou nenávratně ztracena. Doporučuje se obnovit synchronizace pro zabezpečení vašich dat"</string>
