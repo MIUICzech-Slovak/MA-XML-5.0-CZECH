@@ -121,13 +121,13 @@
 	    "position": 9
         },
         {
-            "title":"Twitter @MIUISlovak",
-            "url":"https://twitter.com/MIUIslovak/",
-            "thumbnail":"thumb_twitter-sk.png",
+            "title":"SmartMania",
+            "url":"http://smartmania.cz/",
+            "thumbnail":"smart.png",
             "logobg":"bg01.9.png",
             "nightModeMask": "night.9.png",
             "favicon":"",
-	    "displayName": "Twitter @MIUISlovak",
+	    "displayName": "SmartMania",
 	    "isDelete": true,
 	    "movable": true,
 	    "position": 10
