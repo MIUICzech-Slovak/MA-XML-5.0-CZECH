@@ -65,7 +65,7 @@
   <string name="format_date_week">EEE</string>
   <string name="format_date_wmd">d.M. EEE</string>
   <string name="loading_weather">Načítání počasí...</string>
-  <string name="local_city">Místní města</string>
+  <string name="local_city" />
   <string name="location_allow_err">Hledání města selhalo.</string>
   <string name="location_management">Města</string>
   <string name="location_notification">Upozornění na počasí</string>
