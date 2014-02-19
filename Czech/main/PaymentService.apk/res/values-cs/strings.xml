@@ -172,10 +172,10 @@ prvně a nemohou být použité po vypršení platnosti"</string>
     <string name="msg_telecom_order_denom_label">Splatná částka:</string>
     <string name="msg_telecom_order_goods">%1s MiKreditů</string>
     <string name="msg_telecom_order_goods_label">Popis produktu:</string>
-    <string name="msg_telecom_picker_hint_1_1">Až potvrdíte nákup, Váš telefon se</string>
-    <string name="msg_telecom_picker_hint_1_2">automaticky spojí s Vaším poskytovatelem sítě.</string>
-    <string name="msg_telecom_picker_hint_2_1">Váš poskytovatel sítě byl kontaktován!</string>
-    <string name="msg_telecom_picker_hint_2_2">Brzy obdržíte textové potvrzení.</string>
+    <string name="msg_order_hint_1_1">Až potvrdíte nákup, Váš telefon se</string>
+    <string name="msg_order_hint_1_2">automaticky spojí s Vaším poskytovatelem sítě.</string>
+    <string name="msg_progress_hint_2_1">Váš poskytovatel sítě byl kontaktován!</string>
+    <string name="msg_progress_hint_2_2">Brzy obdržíte textové potvrzení.</string>
     <string name="msg_telecom_sending">Kontaktování Vašeho poskytovatele sítě...</string>
     <string name="onemore_click_exit">Stiskněte ještě jednou pro ukončení</string>
     <string name="order_price">%1$s MiKreditů</string>
@@ -283,4 +283,8 @@ Zkontrolujeme to do dvou pracovních dnů"</string>
     <string name="voucher_edit_limit">číslice</string>
     <string name="voucher_error_password_empty">Prázdné</string>
     <string name="voucher_input_password_prompt">Vložte heslo</string>
+    <string name="error_cert_date_title">Chyba data certifikátu</string>
+    <string name="error_cert_date_summary">"Chyba data certifikátu. 
+Zkontrolujte Vaše nastavení data a zkuste to znovu."</string>
+    <string name="scan_prompt_retry">Keep the card in the position of non-reflective, remains stable after retry</string>
 </resources>
