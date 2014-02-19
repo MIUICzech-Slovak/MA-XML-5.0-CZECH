@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="channel_tabs">
+        <item></item>
+        <item>Žebříček</item>
+        <item>Nejnovější</item>
+    </string-array>
+    <string-array name="channel_featured_tabs">
+        <item>Vybrané</item>
+        <item>Žebříček</item>
+        <item>Nejnovější</item>
+    </string-array>
+    <string-array name="home_tabs">
+        <item>Online</item>
+        <item>Lokální</item>
+    </string-array>
+    <string-array name="series_detail_tabs">
+        <item>Epizoda</item>
+        <item>Popis</item>
+    </string-array>
+</resources>
