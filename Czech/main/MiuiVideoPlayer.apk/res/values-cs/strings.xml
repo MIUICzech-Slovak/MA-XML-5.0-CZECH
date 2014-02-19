@@ -98,8 +98,8 @@
     <string name="download_is_in_tasklist">Je v seznamu načítání</string>
     <string name="download_is_success">Načteno</string>
     <string name="end_live_status">Vysílání ukončeno</string>
-    <string name="episode_prefix">epizoda</string>
-    <string name="episode_suffix">série</string>
+    <string name="episode_prefix">" Epizoda"</string>
+    <string name="episode_suffix" />
     <string name="favorite">Oblíbené</string>
     <string name="favorited_cannot_hide">"Nelze skrýt oblíbené položky"</string>
     <string name="fenghuang">iFeng</string>
@@ -128,7 +128,7 @@
     <string name="hint_can_not_get_source_info">"Nelze nalézt info o zdroji videa"</string>
     <string name="hint_without_selected_set">Nebyl zvolen zdroj, hledání zdroje automaticky...</string>
     <string name="icntv">iCNTV</string>
-    <string name="in_download">Načítání</string>
+    <string name="in_download">Načítání...</string>
     <string name="in_download_notification">%d videa se načítají</string>
     <string name="in_pause">Zastaveno</string>
     <string name="in_waiting">Čeká</string>
@@ -203,7 +203,7 @@
     <string name="no_login_xiaomi_account">Přihlaste se svým Xiaomi účtem pro odeslání komentářů.</string>
     <string name="no_media">Prázdné</string>
     <string name="no_myfavorite">Žádné oblíbené</string>
-    <string name="no_myfavorite_advice">Doporučené</string>
+    <string name="no_myfavorite_advice">Doporučuje se</string>
     <string name="no_myfavorite_advice_onlylocal">Označit lokální videa</string>
     <string name="no_playhistory">Žádná historie</string>
     <string name="no_reviews">Žádné komentáře</string>
@@ -315,7 +315,7 @@
     <string name="video_info_resolution_label">Rozlišení videa:</string>
     <string name="video_info_video_coding_label">Formát kódování videa:</string>
     <string name="video_library">Video</string>
-    <string name="view_all_reviews">%d dalších komentářů</string>
+    <string name="view_all_reviews">Dalších %d komentářů</string>
     <string name="vp_VideoView_error_button">OK</string>
     <string name="vp_VideoView_error_network_not_available">Síť je nedostupná</string>
     <string name="vp_VideoView_error_text_invalid_progressive_playback">Omlouváme se, ale vybrané video není možné streamovat do zařízení</string>
