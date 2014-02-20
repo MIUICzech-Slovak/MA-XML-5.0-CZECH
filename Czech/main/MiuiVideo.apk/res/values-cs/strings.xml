@@ -77,7 +77,7 @@
     <string name="count_ge">"Položek: %d "</string>
     <string name="count_ji_quan">Všechny %d</string>
     <string name="count_myfavorite">" oblíbené"</string>
-    <string name="day">Den</string>
+    <string name="day">" Den" </string>
     <string name="declaration">Podmínky používání</string>
     <string name="declaration_content">Souhlasíte s podmínkami používání stanovenými Sohu Video, iQiyi, a ostatními poskytovateli videa?</string>
     <string name="delete">Vymazat</string>
@@ -188,7 +188,7 @@
     <string name="menu_wh_item_using_16_9_label">Poměr 16:9</string>
     <string name="menu_wh_item_using_4_3_label">Poměr 4:3</string>
     <string name="minute">min</string>
-    <string name="month">Měsíc</string>
+    <string name="month">" Měsíc "</string>
     <string name="movie_comment">Komentáře</string>
     <string name="music">Hudba</string>
     <string name="mycamera">Moje videa</string>
@@ -328,8 +328,8 @@
     <string name="write_comment">Komentovat</string>
     <string name="xiaomi_account_type_unsupported">"Systém nepodporuje Xiaomi účet."</string>
     <string name="xiaomi_user">Xiaomi uživatel</string>
-    <string name="year">Rok</string>
-    <string name="yestorday">Včera</string>
+    <string name="year">" Rok "</string>
+    <string name="yestorday">"Včera" </string>
     <string name="yinyuetai">YinYueTai</string>
     <string name="youku">Youku</string>
 </resources>
