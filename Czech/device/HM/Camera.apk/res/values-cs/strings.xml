@@ -239,7 +239,7 @@
     <string name="pref_camera_movie_solid_title">Stabilizace videa</string>
     <string name="pref_camera_multilevel_entry_lowest">Nejnižší</string>
     <string name="pref_camera_multilevel_entry_lower">Nižší</string>
-    <string name="pref_camera_multilevel_entry_low">Nízke</string>
+    <string name="pref_camera_multilevel_entry_low">Nízké</string>
     <string name="pref_camera_multilevel_entry_normal">Normální</string>
     <string name="pref_camera_multilevel_entry_high">Vysoké</string>
     <string name="pref_camera_multilevel_entry_higher">Vyšší</string>
