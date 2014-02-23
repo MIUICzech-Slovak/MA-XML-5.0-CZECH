@@ -43,7 +43,7 @@ Má-li zařízení více uživatelů, pomocí této zkratky lze na uzamčené ob
 
 Při přiblížení můžete provádět tyto činnosti:
 "<li><ul>"Posunutí: táhněte po obrazovce minimálně dvěma prsty.
-"<li>Změna úrovně přiblížení: alespoň dva prsty stáhněte k sobě, nebo roztáhněte od sebe.</li></ul></li>"
+"<li>Změna úrovně přiblížení: alespoň dva prsty stáhněte k sobě nebo roztáhněte od sebe.</li></ul></li>"
 
 Také je možné dočasně zvětšit oblast pod prstem. Stačí na ni třikrát klepnout a podržet ji. V takto zvětšeném náhledu můžete přetáhnutím prstu prohlížet libovolné části obrazovky. Do předchozího zobrazení se vrátíte zvednutím prstu.
 
@@ -178,7 +178,7 @@ Poznámka: Zvětšení trojitým klepnutím funguje ve všech částech obrazovk
     <string name="apn_password">Heslo</string>
     <string name="apn_protocol">Protokol APN</string>
     <string name="apn_roaming_protocol">Protokol APN pro roaming</string>
-    <string name="apn_save">Uložit, nebo ne</string>
+    <string name="apn_save">Uložit nebo ne?</string>
     <string name="apn_save_msg">Tato APN byla změněna, chcete uložit?</string>
     <string name="apn_server">Server</string>
     <string name="apn_settings">Názvy APN</string>
@@ -1563,7 +1563,7 @@ zkuste následující:"
     <string name="no_applications">Žádné aplikace</string>
     <string name="no_device_admins">Není k dispozici žádný správce zařízení</string>
     <string name="no_media_button_receiver">Ne</string>
-    <string name="no_nearby_wifi">Žádná Wi-Fi nebyla nalezena, spusťte hledání znovu, nebo přidejte Wi-Fi ručně</string>
+    <string name="no_nearby_wifi">Žádná Wi-Fi nebyla nalezena, spusťte hledání znovu nebo přidejte Wi-Fi ručně</string>
     <string name="no_notification_listeners">Žádné aplikace s přístupem k notifikacím nejsou nainstalovány.</string>
     <string name="no_running_services">Nic není spuštěno.</string>
     <string name="no_services">Neaktivní</string>
@@ -1799,7 +1799,7 @@ zkuste následující:"
     <string name="perm_su_disabled_in_stable">ROOT není dostupný ve stabilní verzi MIUI</string>
     <string name="perm_su_disabled_in_stable_desc">"Povolení práv ROOT aplikacím třetích stran může způsobit nestabilitu systému, ztrátu Vašich osobních dat nebo poškození telefonu. Pro povolení ROOT přejděte na vývojářskou verzi MIUI."</string>
     <string name="perm_su_disabled_in_stable_download">Stáhnout MIUI</string>
-    <string name="perm_su_enable_content">"Povolit práva ROOT? Aplikace s těmito právy mohou způsobit nestabilitu systému, nebo ztrátu dat, případně i poškození systému a hardwaru. Buďte prosím opatrní. Skutečně je chcete povolit?"</string>
+    <string name="perm_su_enable_content">"Povolit práva ROOT? Aplikace s těmito právy mohou způsobit nestabilitu systému, ztrátu dat, případně i poškození systému a hardwaru. Buďte prosím opatrní. Skutečně je chcete povolit?"</string>
     <string name="perm_su_enable_dialog">%1$s se pokouší získat práva ROOT, což je z důvodu bezpečnosti standardně zakázáno. Pokud chcete oprávnění povolit, učiňte tak v nastavení aplikace Povolení.</string>
     <string name="perm_su_enable_summary">Aplikace mající oprávnění root</string>
     <string name="perm_su_enable_title">Práva ROOT</string>
@@ -2492,7 +2492,7 @@ Toto nastavení ovlivní všechny uživatele tohoto telefonu."</string>
     <string name="status_wimax_mac_address">Adresa MAC sítě 4G</string>
     <string name="storage_format">Formát</string>	
     <string name="storage_label">Úložiště</string>	
-    <string name="storage_low_summary">Některé funkce systému, jako synchronizace, nemusí pracovat správně. Pokuste se uvolnit místo vymazáním souborů, jako aplikace, nebo multimédia.</string>	
+    <string name="storage_low_summary">Některé funkce systému, jako synchronizace, nemusí pracovat správně. Pokuste se uvolnit místo vymazáním souborů, jako aplikace nebo multimédia.</string>	
     <string name="storage_low_title">Málo místa na úložišti</string>
     <string name="storage_menu_usb">Připojení USB k počítači</string>
     <string name="storage_other_users">Další uživatelé</string>
