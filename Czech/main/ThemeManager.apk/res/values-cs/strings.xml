@@ -205,7 +205,7 @@ ale obsah, který hledáte, není dostupný ve Vaší zemi."</string>
     <string name="sdcard_not_mounted_dialog_title">Žádná SD karta</string>
     <string name="sdcard_status_changed_dialog_message">"Ukončuji.\nProsím, otevřete tuto aplikaci znovu pro aktualizaci zdrojů."</string>  
     <string name="sdcard_status_changed_dialog_title">Stav SD karty se změnil</string>
-    <string name="selected_resource_file_invalid">Zvolený soubor je vadný.</string>
+    <string name="selected_resource_file_invalid">Zvolený soubor je poškozený</string>
     <string name="settings">Nastavení</string>
     <string name="short_ringtone_resource">Krátké</string>
     <string name="theme_another_import_running">Importování téma, prosím vyčkejte...</string>
