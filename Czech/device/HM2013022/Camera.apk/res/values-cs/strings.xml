@@ -101,7 +101,7 @@ Opusťte na chvíli náhled.</string>
     <string name="pano_dialog_panorama_failed">Není možné uložit panoramatický snímek</string>
     <string name="pano_dialog_prepare_preview">Příprava panoramatu</string>
     <string name="pano_dialog_title">Panoramat</string>
-    <string name="pano_how_to_use_prompt">Stiskněte tlačítko pro začátek snímání</string>
+    <string name="pano_how_to_use_prompt">Stiskněte tlačítko pro zahájení snímání</string>
     <string name="pano_how_to_use_prompt_go_on_moving">Pomalu pohybujte telefonem v jenom směru</string>
     <string name="pano_how_to_use_prompt_to_move">Při snímání pohybujte telefonem plynule</string>
     <string name="pano_review_saving_indication_str">Ukládání...</string>

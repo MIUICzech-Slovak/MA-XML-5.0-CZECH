@@ -246,8 +246,8 @@ Nyní můžete kopírovat soubory."</item>
         <item>Zakázat</item>
     </string-array>
     <string-array name="phone_call_noise_suppression_title">
-        <item>Deaktivované potlačení hluku</item>
-        <item>Aktivované potlačení hluku</item>
+        <item>Jedním mikrofonem</item>
+        <item>Dvěma mikrofony</item>
     </string-array>
     <string-array name="power_dialog_auto_clean_memory_items">
         <item>Po 1 minutě</item>

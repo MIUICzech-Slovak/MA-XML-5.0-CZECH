@@ -71,13 +71,13 @@
     <string name="comment_publish">Odeslat</string>
     <string name="comment_submiting">Odesílání...</string>
     <string name="connecting">Připojování...</string>
-    <string name="continue_to_play_nextset">Přehrát následující epizodu automaticky</string>
+    <string name="continue_to_play_nextset">Přehrát následující epizodu</string>
     <string name="continue_to_play_nextset_summary">"Po skončení sledované epizody se automaticky spustí následující"</string>
     <string name="count_bu">Část %d</string>
-    <string name="count_ge">"Položek: %d "</string>
+    <string name="count_ge">"Položky: %d "</string>
     <string name="count_ji_quan">Všechny %d</string>
     <string name="count_myfavorite">" oblíbené"</string>
-    <string name="day">" Den" </string>
+    <string name="day">". " </string>
     <string name="declaration">Podmínky používání</string>
     <string name="declaration_content">Souhlasíte s podmínkami používání stanovenými Sohu Video, iQiyi, a ostatními poskytovateli videa?</string>
     <string name="delete">Vymazat</string>
@@ -119,7 +119,7 @@
     <string name="fullscreen_to_play">Fullscreen</string>
     <string name="funshion">Móda</string>
     <string name="gong_count_dlna">%d DLNA</string>
-    <string name="gong_count_xiang">"Položek: %d "</string>
+    <string name="gong_count_xiang">"Položky: %d "</string>
     <string name="good">OK</string>
     <string name="have_no_cameravideo">Žádná videa</string>
     <string name="have_no_offlinemedia">Prázdné</string>
@@ -188,7 +188,7 @@
     <string name="menu_wh_item_using_16_9_label">Poměr 16:9</string>
     <string name="menu_wh_item_using_4_3_label">Poměr 4:3</string>
     <string name="minute">min</string>
-    <string name="month">" Měsíc "</string>
+    <string name="month">"."</string>
     <string name="movie_comment">Komentáře</string>
     <string name="music">Hudba</string>
     <string name="mycamera">Moje videa</string>
@@ -231,8 +231,8 @@
     <string name="offline_setting">Offline média</string>
     <string name="ok">OK</string>
     <string name="open_camera">Fotoaparát</string>
-    <string name="other_setting">Jiné</string>
-    <string name="others">Jiné</string>
+    <string name="other_setting">Ostatní</string>
+    <string name="others">Ostatní</string>
     <string name="pause_download">Načítání pozastaveno</string>
     <string name="paused">Zastaveno</string>
     <string name="pick_hide_to_show">Zvolte položky</string>
@@ -284,7 +284,7 @@
     <string name="tags_colon">"Žánr: "</string>
     <string name="temp_play_history_button_label">Zobrazit historii</string>
     <string name="tencent">Tencent</string>
-    <string name="time_colon">"Datum: "</string>
+    <string name="time_colon">"Rok: "</string>
     <string name="to_be_play_label_v5">Začíná přehrávání</string>
     <string name="to_live_status">Čekání na přenos</string>
     <string name="to_play_airekan">Obsazení</string>
@@ -294,7 +294,7 @@
     <string name="toast_message_continue_play_minute">"m. "</string>
     <string name="toast_message_continue_play_second_and_play">s</string>
     <string name="toast_message_set_misound">Nastavování...</string>
-    <string name="today">Dnes</string>
+    <string name="today">"Dnes "</string>
     <string name="top_status_local_media">Lokální média</string>
     <string name="top_status_online_media">Online média</string>
     <string name="tudou">Tudou</string>
@@ -306,7 +306,7 @@
     <string name="use_cellular_network">Použít mobilní internet</string>
     <string name="use_cellular_network_summary">Použít mobilní internet pro stahování videa.</string>
     <string name="variety">Varianta</string>
-    <string name="video">Video</string>
+    <string name="video">Videa</string>
     <string name="video_info_audio_bitrate_label">Bitrate audia:</string>
     <string name="video_info_audio_coding_label">Formát kódování zvuku:</string>
     <string name="video_info_audio_null">Nedostupný</string>
@@ -328,7 +328,7 @@
     <string name="write_comment">Komentovat</string>
     <string name="xiaomi_account_type_unsupported">"Systém nepodporuje Xiaomi účet."</string>
     <string name="xiaomi_user">Xiaomi uživatel</string>
-    <string name="year">" Rok "</string>
+    <string name="year">"."</string>
     <string name="yestorday">"Včera" </string>
     <string name="yinyuetai">YinYueTai</string>
     <string name="youku">Youku</string>
