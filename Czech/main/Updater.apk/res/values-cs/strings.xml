@@ -86,6 +86,7 @@ https://account.xiaomi.com/pass/serviceLogin""</string>
     <string name="my_rank">Hodnocení:</string>
     <string name="my_update_feel">Mé pocity</string>
     <string name="my_worst_update">Nejhorší update</string>
+    <string name="new_update_content_notification_shade" />
     <string name="network_error">Připojení nelze navázat, prosím zkuste znovu</string>
     <string name="new_update_content_title">"Verze: "</string>
     <string name="new_update_download_complete_body">Připravena nová verze: %s</string>
