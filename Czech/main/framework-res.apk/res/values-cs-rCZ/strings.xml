@@ -3,7 +3,7 @@
 <resources>
     <string name="month_long_standalone_january">leden</string>
     <string name="month_long_standalone_february">únor</string>
-    <string name="month_long_standalone_march">3</string>
+    <string name="month_long_standalone_march">březen</string>
     <string name="month_long_standalone_april">duben</string>
     <string name="month_long_standalone_may">květen</string>
     <string name="month_long_standalone_june">červen</string>
