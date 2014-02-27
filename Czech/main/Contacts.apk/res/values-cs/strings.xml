@@ -417,9 +417,9 @@ Chyba: \"%s\""</string>
     <string name="hint_distance">udržet rozestup</string>
     <string name="hint_findContacts">Najít kontakty</string>
     <string name="hint_more_contact">Pokud existují zdvojené kontakty, můžete je sloučit</string>
-    <string name="hint_search_contacts">%d kontaktů</string>
-    <string name="hint_search_emails">%d E-mailů</string>
-    <string name="hint_search_phone_numbers">%d čísel kontaktů</string>
+    <string name="hint_search_contacts">Kontaktů: %d</string>
+    <string name="hint_search_emails">E-mailů: %d</string>
+    <string name="hint_search_phone_numbers">Kontaktů %d</string>
     <string name="ic_menu_back">Zpět</string>
     <string name="ic_menu_done">Hotovo</string>
     <string name="imLabelsGroup">IM</string>

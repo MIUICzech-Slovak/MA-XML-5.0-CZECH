@@ -3388,16 +3388,16 @@ Vaše zařízení se přepne po obnově baterie do tohoto režimu. Před vymazá
     <string name="button_text_a_key_uninstall">Odinstalovat</string>
     <string name="optimize_installed_apps_header_left">Stáhnout apl.:%d</string>
     <string name="deep_clean_title_uninstall_apps">Aplikace</string>
-    <string name="deep_clean_summary_install_apps_today">%1$s|dnes použité</string>
-    <string name="deep_clean_summary_install_apps_interval">%1$s|před %2$d dny</string>
-    <string name="deep_clean_summary_install_apps_new">%s|nepoužité</string>
-    <string name="deep_clean_summary_install_apps_virus">%s|virus</string>
-    <string name="deep_clean_summary_install_apps_risk">%s|rizikové</string>
+    <string name="deep_clean_summary_install_apps_today">%1$s| dnes použité</string>
+    <string name="deep_clean_summary_install_apps_interval">%1$s| před %2$d dny</string>
+    <string name="deep_clean_summary_install_apps_new">%s| nepoužité</string>
+    <string name="deep_clean_summary_install_apps_virus">%s| virus</string>
+    <string name="deep_clean_summary_install_apps_risk">%s| rizikové</string>
     <string name="optimize_installed_apps_list_empty_content">Žádné aplikace</string>
     <string name="uninstall_confirm_title">Odinstalovat tyto aplikace</string>
     <string name="button_text_uninstall">Odinst.</string>
     <string name="list_sub_view_item_view_detail">Podrobnosti</string>
-    <string name="list_sub_view_item_view_file">Soubor</string>
+    <string name="list_sub_view_item_view_file">Soubory</string>
     <string name="list_sub_view_item_uninstall">Odinst.</string>
     <string name="list_sub_view_item_backup_uninstall">Záloha a odinst.</string>
     <string name="pref_category_title_garbage_cleanup_check">Nastavení čištění</string>
@@ -3427,6 +3427,6 @@ Vaše zařízení se přepne po obnově baterie do tohoto režimu. Před vymazá
     <string name="item_garbage_size_300m">300MB</string>
     <string name="item_garbage_size_500m">500MB</string>
     <string name="item_garbage_size_1000m">1GB</string>
-    <string name="item_title_garbage_time">Čas</string>
-    <string name="item_title_garbage_size">Velikost</string>
+    <string name="item_title_garbage_time">Upozornit</string>
+    <string name="item_title_garbage_size">Velikost nepotřebných souborů</string>
 </resources>
