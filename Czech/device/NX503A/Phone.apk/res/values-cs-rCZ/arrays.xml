@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
+<resources>
+    <string-array name="preferred_network_mode_choices">
+        <item>LTE / CDMA</item>
+        <item>Jen EvDo</item>
+        <item>CDMA bez EvDo</item>
+        <item>CDMA / EvDo auto</item>
+        <item>GSM / WCDMA auto</item>
+        <item>Jen WCDMA</item>
+        <item>Jen GSM</item>
+        <item>Preferované GSM / WCDMA</item>
+    </string-array>
+    <string-array name="call_reject_dialog_array">
+        <item>Kontakty</item>
+        <item>Seznam hovorů</item>
+    </string-array>
+    <string-array name="call_reject_mode_entries">
+        <item>Vypnuto</item>
+        <item>Všechna čísla</item>
+        <item>Seznam blokovaných</item>
+    </string-array>
+    <string-array name="umts_network_preferences_choices_cmcc">
+        <item>GSM / TD-SCDMA (auto)</item>
+        <item>Jen TD-SCDMA</item>
+    </string-array>
+    <string-array name="umts_network_preferences_choices">
+        <item>GSM / WCDMA (auto)</item>
+        <item>Jen WCDMA</item>
+    </string-array>
+    <string-array name="gsm_umts_network_preferences_choices_cmcc">
+        <item>GSM / TD-SCDMA (auto)</item>
+        <item>Jen TD-SCDMA</item>
+        <item>Jen GSM</item>
+    </string-array>
+    <string-array name="gsm_umts_network_preferences_choices">
+        <item>GSM / WCDMA (auto)</item>
+        <item>Jen WCDMA</item>
+        <item>Jen GSM</item>
+    </string-array>
+    <string-array name="plmn_prefer_network_mode_td_choices">
+        <item>GSM</item>
+        <item>TD-SCDMA</item>
+        <item>Dual</item>
+    </string-array>
+    <string-array name="plmn_prefer_network_mode_choices">
+        <item>GSM</item>
+        <item>WCDMA</item>
+        <item>Dual</item>
+    </string-array>
+    <string-array name="absent_num">
+        <item>ABSENT NUMBER</item>
+        <item>ABSENTNUMBER</item>
+    </string-array>
+</resources>

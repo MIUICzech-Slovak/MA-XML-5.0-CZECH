@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Decompiled by BART-R (BurgerZ <az.burgerz@gmail.com)>--><resources>
+    <string name="list_title">Profily</string>
+    <string name="volum_enhance">Vylepšení</string>
+    <string name="preset_movie">Film</string>
+    <string name="preset_music">Hudba</string>
+    <string name="preset_podcast">Podcast</string>
+    <string name="slide_bass">Basy</string>
+    <string name="slide_treble">Výšky</string>
+</resources>

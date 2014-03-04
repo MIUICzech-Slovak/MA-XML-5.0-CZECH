@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="profile_settings">Nastavení Nubia</string>
+    <string name="powersave_title">Úspora baterie</string>
+    <string name="restrict_cpu_title">Úsporný režim CPU</string>
+    <string name="restrict_cpu_summary">Omezení CPU</string>
+    <string name="screen_save_title">Úsporný režim obrazovky</string>
+    <string name="screen_save_summary">Snížení jasu, zkrácení doby rozsvíceného displeje, vypnutí otáčení obrazovky</string>
+    <string name="turnoff_all_connection_title">Vypnutí všech sítí</string>
+    <string name="turnoff_all_connection_summary">Datové připojení, bluetooth, Wi-Fi, Wi-Fi hotspot, GPS</string>
+    <string name="turnoff_haptic_feedback_title">Vypnutí hmatové odezvy</string>
+    <string name="lowpower_savebattery">Úspora energie při slabé baterii</string>
+    <string name="lowpower_save_title">"Nejsilnější úspora při slabé baterii"</string>
+    <string name="lowpower_save_summary">Vše zapnuto při stavu baterie pod %1$s</string>
+    <string name="powersave_actionbar_title">Úspora baterie</string>
+    <string name="text_powersave_choose">Nejsilnější úsporný režim se zapne, jakmile bude úroveň nabití baterie menší než limit</string>
+    <string name="dialog_powersave_title">Zapnutí nejsilnější úspory</string>
+    <string name="image_enhance_title">Vylepšení obrázků</string>
+    <string name="image_enhance_weak">Tlumený</string>
+    <string name="image_enhance_normal">Standartní</string>
+    <string name="image_enhance_improve">Zářivý</string>
+    <string name="summary_image_enhance_on">Zapnuto</string>
+    <string name="summary_image_enhance_off">Vypnuto</string>
+    <string name="sound_effect_srs_title">DTS zvukový efekt</string>
+    <string name="led_light_title">Notifikační dioda</string>
+    <string name="led_charge_title">Nabíjení</string>
+    <string name="led_charge_summary">Bliká při nabíjení</string>
+    <string name="led_battery_low_title">Slabá baterie</string>
+    <string name="led_battery_low_summary">Bliká při slabé baterii</string>
+    <string name="led_event_miss_title">Zmeškaná událost</string>
+    <string name="led_event_miss_summary">Bliká při zmeškaném hovoru nebo nepřečtené SMS</string>
+    <string name="led_app_msg_title">Notifikace</string>
+    <string name="led_app_msg_summary">Bliká při nepřečtené zprávě z MiCloud, SuperMarket, weibo, WeChat, QQ a emailu</string>
+    <string name="status_network_type">Typ mobilní sítě</string>
+</resources>
