@@ -230,6 +230,7 @@
     <string name="offline_select_better_source">Přepnuto na dostupné zdroje</string>
     <string name="offline_setting">Offline média</string>
     <string name="ok">OK</string>
+    <string name="online_video">Online</string>
     <string name="open_camera">Fotoaparát</string>
     <string name="other_setting">Ostatní</string>
     <string name="others">Ostatní</string>
@@ -276,6 +277,7 @@
     <string name="souhu">Souhu</string>
     <string name="special_subject">Speciály</string>
     <string name="start_download">Zahájit načítání</string>
+    <string name="start_time">Začíná</string>
     <string name="subchannel_all">Vše</string>
     <string name="success_add_myfavorite">Oblíbené</string>
     <string name="success_cancel_myfavorite">Odznačeno</string>
