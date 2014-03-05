@@ -3429,4 +3429,7 @@ Vaše zařízení se přepne po obnově baterie do tohoto režimu. Před vymazá
     <string name="item_garbage_size_1000m">1GB</string>
     <string name="item_title_garbage_time">Upozornit</string>
     <string name="item_title_garbage_size">Velikost nepotřebných souborů</string>
+    <string name="menu_item_force_stop">Ukončit</string>
+    <string name="menu_item_uninstall">Odinstalovat</string>
+    <string name="menu_item_app_details">Podrobnosti</string>
 </resources>

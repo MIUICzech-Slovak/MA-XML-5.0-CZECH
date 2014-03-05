@@ -37,7 +37,7 @@
   <string name="app_love_sms_title">Obsah zprávy</string>
   <string name="app_love_view_title">Náhled</string>
   <string name="app_name">Počasí</string>
-  <string name="app_nohave_net">Žádná síť</string>
+  <string name="network_unavailable">Žádná síť</string>
   <string name="app_unquiet_net">Slabý signál sítě</string>
   <string name="aqi_details_dangerous">Kardiaci, starší lidé a děti by se měli vyhýbat fyzické aktivitě venku. Ostatní by měli omezit pobyt venku na minimum.</string>
   <string name="aqi_details_fine">Zvlášť citliví lidé by měli omezit pobyt venku.</string>
@@ -117,6 +117,7 @@ Dnes v %1$s je  počasí %2$s, %3$s, %4$s. %5$s."</string>
   <string name="tip_weather_info_title_2">V %1$s dnes bude %2$s</string>
   <string name="trend_weather_today">Dnes</string>
   <string name="trend_weather_tomorrow">Zítra</string>
+  <string name="weather_data_unreachable">"Nelze načíst údaje o počasí. Zkuste to později."</string>
   <string name="weather_notification">Upozornění na počasí</string>
   <string name="weather_unit">°</string>
   <string name="weather_unit_middle">~</string>

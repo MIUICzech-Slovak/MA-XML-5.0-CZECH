@@ -54,6 +54,7 @@
     <string name="button_scan">Znovu</string>
     <string name="caching_vcard_message">Probíhá ukládání vizitek do dočasného úložiště, samotný import proběhne za okamžik</string>
     <string name="caching_vcard_title">Ukládání vizitek do dočasného úložiště</string>
+    <string name="call">Hovor</string>
     <string name="callAgain">Volat znovu</string>
     <string name="callBack">Zpětné volání</string>
     <string name="callDetailTitle">Detaily hovoru</string>
@@ -91,7 +92,6 @@
     <string name="calllog_menu_blacklist">Černá listina</string>
     <string name="calllog_menu_edit_before_call">Upravit před voláním</string>
     <string name="calllog_menu_send_sms">Poslat SMS</string>
-    <string name="call">Hovor</string>
     <string name="callrecordview_item_newcontact">Nový kontakt</string>
     <string name="callrecordview_item_op_time_minutes_seconds">%1$d min. %2$d sek.</string>
     <string name="callrecordview_item_op_time_missed">Nezvednuto</string>
@@ -1147,6 +1147,10 @@ Vyberte si z následujících možností:</string>
     <string name="yellowPageNavigationIconLabel">Adresář</string>
     <string name="yellowPageNavigationLabel">Adresář</string>
     <string name="yellowpage_navigation_menu_order">Má objednávka</string>
+    <string name="yellowpage_navigation_network_location_enable">Povolit</string>
+    <string name="yellowpage_navigation_network_location_enable_later">Později</string>
+    <string name="yellowpage_navigation_network_location_not_enabled_summary">Seznam čísel služeb a obchodů podle Vaší polohy, může zkvalitnit tuto funkci.</string>
+    <string name="yellowpage_navigation_network_location_not_enabled_title">Povolit polohu podle sítě</string>
     <string name="yellowpage_navigation_no_content">Nic nebylo nalezeno</string>
     <string name="yellowpage_navigation_search_city_name_hint">Město</string>
     <string name="yellowpage_navigation_search_hint">Vyhledat</string>
@@ -1158,8 +1162,4 @@ Vyberte si z následujících možností:</string>
     <string name="yellowpage_navigation_search_select_city">Zvolte město</string>
     <string name="yellowpage_navigation_send_to_desktop_succeeded">Přidáno na plochu</string>
     <string name="zero_items_selected">Nic není vybráno</string>
-    <string name="yellowpage_navigation_network_location_not_enabled_title">Povolit polohu podle sítě</string>
-    <string name="yellowpage_navigation_network_location_not_enabled_summary">Seznam čísel služeb a obchodů podle Vaší polohy, může zkvalitnit tuto funkci.</string>
-    <string name="yellowpage_navigation_network_location_enable">Povolit</string>
-    <string name="yellowpage_navigation_network_location_enable_later">Později</string>
 </resources>

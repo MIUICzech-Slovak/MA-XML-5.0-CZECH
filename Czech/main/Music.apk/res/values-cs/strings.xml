@@ -309,6 +309,7 @@
     <string name="sort_by_album">Alba</string>
     <string name="sort_by_artist">Umělci</string>
     <string name="sort_by_track">Skladby</string>
+    <string name="source_from">Zdroj od: %1$s</string>
     <string name="start_to_download_album">Stahování obrázků alb pro všechny skladby v knihovně</string>
     <string name="start_to_download_avatar">Stahování obrázku autora...</string>
     <string name="streamloadingtext">Připojování k %s</string>
