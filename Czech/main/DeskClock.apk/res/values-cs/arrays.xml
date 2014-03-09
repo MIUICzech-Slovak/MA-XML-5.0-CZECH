@@ -2,14 +2,14 @@
 <!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
 <resources>
     <string-array name="alarm_set">
-        <item>Budík je nastavený na méně než 1 min od teď.</item>
-        <item>Budík se spustí za %1$s od teď.</item>
-        <item>Budík se spustí za %2$s od teď.</item>
-        <item>Budík se spustí za %1$s a %2$s od teď.</item>
-        <item>Budík se spustí za %3$s od teď.</item>
-        <item>Budík se spustí za %1$s a %3$s od teď.</item>
-        <item>Budík se spustí za %2$s a %3$s od teď.</item>
-        <item>Budík se spustí za %1$s, %2$s, a %3$s od teď.</item>
+        <item>Budík je nastavený za méně než 1 min.</item>
+        <item>Budík se spustí za %1$s</item>
+        <item>Budík se spustí za %2$s</item>
+        <item>Budík se spustí za %1$s a %2$s</item>
+        <item>Budík se spustí za %3$s</item>
+        <item>Budík se spustí za %1$s a %3$s</item>
+        <item>Budík se spustí za %2$s a %3$s</item>
+        <item>Budík se spustí za %1$s, %2$s, a %3$s</item>
     </string-array>
     <string-array name="volume_button_setting_entries">
         <item>Žádná akce</item>
