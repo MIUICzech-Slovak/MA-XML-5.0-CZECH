@@ -3432,4 +3432,20 @@ Vaše zařízení se přepne po obnově baterie do tohoto režimu. Před vymazá
     <string name="menu_item_force_stop">Ukončit</string>
     <string name="menu_item_uninstall">Odinstalovat</string>
     <string name="menu_item_app_details">Podrobnosti</string>
+   <string name="free_wifi_summary">Veřejná Wi-Fi，poskytována %1$s</string>
+ 	<string name="free_wifi_connect_title">Dostupná Wi-Fi</string>
+ 	 <string name="free_wifi_connect_summary">Toto Wi-Fi připojení je poskytováno %1$s. Připojte se.</string>
+ 	<string name="free_wifi_connect_dialog_title">Dostupná veřejná Wi-Fi</string>
+ 	<string name="free_wifi_connect_dialog_summary">Tato veřejná Wi-Fi %1$s je poskytována %2$s.</string>
+ 	<string name="free_wifi_wiwide_provider">WiWide</string>
+ 	 <string name="free_wifi_connect">Připojit</string>
+ 	<string name="free_wifi_connecting">Připojování...</string>
+ 	<string name="free_wifi_connected">Připojit k veřejné Wi-Fi</string>
+   <string name="free_wifi_connect_fail">"Nelze se připojit k síti"</string>
+ 	<string name="free_wifi_connect_fail2">Nelze se přihlásit. Zkuste to znovu později.</string>
+ 	 <string name="free_wifi_login_again">Prihlásit znovu</string>
+ 	<string name="free_wifi_connected_count">Připojených: %1$s</string>
+ 	 <string name="free_wifi_speed_title">Pomalé připojení?</string>
+ 	<string name="free_wifi_connected_time">Doba připojení: %1$s</string>
+ 	<string name="free_wifi_confirm">Potvrdit</string>
 </resources>
