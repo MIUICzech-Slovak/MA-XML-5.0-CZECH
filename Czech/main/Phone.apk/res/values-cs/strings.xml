@@ -1178,7 +1178,7 @@
     <string name="voicemail_settings_number_hint_miui">Vložte číslo hlasové schránky</string>
     <string name="voicemail_settings_number_label">Číslo hlasové schránky</string>
     <string name="voicemail_settings_number_title_miui">Číslo hlasové schránky</string>
-<string name="vt_init_fail_str">"VT initialization failed. Downgrading call to VoLTE
+    <string name="vt_init_fail_str">"VT initialization failed. Downgrading call to VoLTE
 "</string>
     <string name="wait_prompt_str">"Odeslat následující tóny?"</string>
     <string name="wild_prompt_str">Nahradit zástupný znak znakem</string>
@@ -1195,4 +1195,12 @@
     <string name="xdivert_sub_absent">Obě předplatné by měly být pro zpracování X-Divert aktivovány</string>
     <string name="xdivert_summary">Nastavení CFNRc</string>
     <string name="xdivert_title">X-Divert</string>
+    <string name="enter_input">Musíte něco zadat, zkuste to znovu!</string>
+ 	<string name="managed_roaming_dialog_cancel_button">Zrušit</string>
+ 	<string name="managed_roaming_dialog_content">Byla zjištěna síť s omezenými službami. . Chcete vybrat síť manuálně?</string>
+ 	<string name="managed_roaming_dialog_ok_button">OK</string>
+ 	<string name="managed_roaming_title">Managed roaming</string>
+ 	<string name="managed_roaming_title_sub1">Managed roaming (SUB1)</string>
+ 	<string name="managed_roaming_title_sub2">Managed roaming (SUB2)</string>
+ 	<string name="managed_roaming_title_sub3">Managed roaming (SUB3)</string>
 </resources>
