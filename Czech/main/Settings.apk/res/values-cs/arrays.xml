@@ -533,4 +533,9 @@ Nyní můžete kopírovat soubory."</item>
         <item>Měřítko animace 5x</item>
         <item>Měřítko animace 10x</item>
     </string-array>
+    <string-array name="network_speed_slow_summary">
+ 	<item>Síť je pomalá z důvodu jejího přetížení</item>
+ 	<item>Síť je pomalá z důvodu slabého signálu</item>
+ 	<item>Přesouvání…</item>
+     </string-array>
 </resources>
