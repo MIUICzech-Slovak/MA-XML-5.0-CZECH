@@ -287,4 +287,9 @@ Zkontrolujeme to do dvou pracovních dnů"</string>
     <string name="error_cert_date_summary">"Chyba data certifikátu. 
 Zkontrolujte Vaše nastavení data a zkuste to znovu."</string>
     <string name="scan_prompt_retry">Keep the card in the position of non-reflective, remains stable after retry</string>
+    <string name="btn_agree">Souhlasím</string>
+    <string name="prepaid_grid_carrier_hint">Vybrat operátora</string>
+    <string name="prepaid_grid_denomination_hint">Vybrat hodnotu</string>
+    <string name="giftcard_expire_notification_prime_title">Váš dárkový kupón bude brzy neplatný...</string>
+    <string name="giftcard_expire_notification_sub_title">Vaše dárková poukázka platí do %1$s</string>
 </resources>
