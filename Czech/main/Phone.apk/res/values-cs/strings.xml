@@ -1196,11 +1196,11 @@
     <string name="xdivert_summary">Nastavení CFNRc</string>
     <string name="xdivert_title">X-Divert</string>
     <string name="enter_input">Musíte něco zadat, zkuste to znovu!</string>
- 	<string name="managed_roaming_dialog_cancel_button">Zrušit</string>
- 	<string name="managed_roaming_dialog_content">Byla zjištěna síť s omezenými službami. . Chcete vybrat síť manuálně?</string>
- 	<string name="managed_roaming_dialog_ok_button">OK</string>
- 	<string name="managed_roaming_title">Managed roaming</string>
- 	<string name="managed_roaming_title_sub1">Managed roaming (SUB1)</string>
- 	<string name="managed_roaming_title_sub2">Managed roaming (SUB2)</string>
- 	<string name="managed_roaming_title_sub3">Managed roaming (SUB3)</string>
+    <string name="managed_roaming_dialog_cancel_button">Zrušit</string>
+    <string name="managed_roaming_dialog_content">Byla zjištěna síť s omezenými službami. Chcete vybrat síť manuálně?</string>
+    <string name="managed_roaming_dialog_ok_button">OK</string>
+    <string name="managed_roaming_title">Managed roaming</string>
+    <string name="managed_roaming_title_sub1">Managed roaming (SUB1)</string>
+    <string name="managed_roaming_title_sub2">Managed roaming (SUB2)</string>
+    <string name="managed_roaming_title_sub3">Managed roaming (SUB3)</string>
 </resources>

@@ -224,11 +224,11 @@ Nyní můžete kopírovat soubory."</item>
         <item>Předplatné 1</item>
         <item>Předplatné 2</item>
     </string-array>
-<string-array name="multi_sim_summaries">
+    <string-array name="multi_sim_summaries">
         <item>Předplatné 1</item>
         <item>Předplatné 2</item>
     </string-array>
-<string-array name="multi_sim_summaries_voice">
+    <string-array name="multi_sim_summaries_voice">
         <item>Předplatné 1</item>
         <item>Předplatné 2</item>
         <item>Zeptat se uživatele</item>
@@ -339,7 +339,7 @@ Nyní můžete kopírovat soubory."</item>
         <item>Zakázat</item>
         <item>Vždy povolit</item>
     </string-array>  
-<string-array name="slideshow_time_entries">
+    <string-array name="slideshow_time_entries">
         <item>5 minut</item>
         <item>15 minut</item>
         <item>30 minut</item>
@@ -507,8 +507,8 @@ Nyní můžete kopírovat soubory."</item>
         <item>Odpojování...</item>
         <item>Odpojeno</item>
         <item>Neúspěšné</item>
-	<item>Blokované</item>
-	<item>Dočasně nedostupné kvůli slabému signálu</item>
+	      <item>Blokované</item>
+	      <item>Dočasně nedostupné kvůli slabému signálu</item>
     </string-array>
     <string-array name="wifi_status_with_ssid">
         <item/>
@@ -521,8 +521,8 @@ Nyní můžete kopírovat soubory."</item>
         <item>Odpojování od sítě %1$s...</item>
         <item>Odpojeno</item>
         <item>Neúspěšné</item>
-	<item>Blokované</item>
-	<item>Dočasně nedostupné kvůli slabému signálu</item>
+	      <item>Blokované</item>
+	      <item>Dočasně nedostupné kvůli slabému signálu</item>
     </string-array>
     <string-array name="window_animation_scale_entries">
         <item>Animace je vypnuta</item>
@@ -534,8 +534,8 @@ Nyní můžete kopírovat soubory."</item>
         <item>Měřítko animace 10x</item>
     </string-array>
     <string-array name="network_speed_slow_summary">
- 	<item>Síť je pomalá z důvodu jejího přetížení</item>
- 	<item>Síť je pomalá z důvodu slabého signálu</item>
- 	<item>Přesouvání…</item>
-     </string-array>
+ 	      <item>Síť je pomalá z důvodu jejího přetížení</item>
+ 	      <item>Síť je pomalá z důvodu slabého signálu</item>
+ 	      <item>Přesouvání...</item>
+    </string-array>
 </resources>

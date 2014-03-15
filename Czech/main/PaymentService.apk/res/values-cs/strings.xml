@@ -9,7 +9,8 @@
     <string name="balance_no_giftcard_payment">%1$s MiKreditů (nelze použít dárkovou poukázku)</string>
     <string name="balance_payment">%1$s MiKreditů</string>
     <string name="bankcall_bank_account">Kreditní karta:</string>
-    <string name="bankcall_call_hint">"Budete mít hovor z banky Unionpay (020-96585). Postupujte dle instrukcí pro dokončení objednávky."</string>
+    <string name="bankcall_call_hint">"Budete mít hovor z banky Unionpay (020-96585). 
+Postupujte dle instrukcí pro dokončení objednávky."</string>
     <string name="bankcall_card">Kreditní karta</string>
     <string name="bankcall_card_hint">Vložte Vaše číslo účtu</string>
     <string name="bankcall_card_type">%1$s-%2$s</string>
@@ -127,8 +128,6 @@ prvně a nemohou být použité po vypršení platnosti"</string>
     <string name="label_balance">Stav:</string>	
     <string name="label_order_name">Produkt:</string>	
     <string name="label_order_price">Cena:</string>	
-    <string name="linkpay_china_unicom_english">China Unicom</string>	
-    <string name="linkpay_id">ID:</string>	
     <string name="lockpassword_choose_your_pattern_header">Zvolte Váš vzor</string>	
     <string name="lockpassword_confirm_your_pattern_header">Potvrďte Váš vzor</string>
     <string name="lockpassword_input_your_pattern_header">Potvrďte Váš vzor</string>
