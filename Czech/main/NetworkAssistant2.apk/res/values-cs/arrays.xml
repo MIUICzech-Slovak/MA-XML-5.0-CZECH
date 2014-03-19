@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
+<resources>
+    <string-array name="date_of_traffic">
+        <item>Včera\u0020</item>
+        <item>Dnes\u0020</item>
+        <item>Měsíc\u0020</item>
+    </string-array>
+    <string-array name="date_of_app_all">
+        <item>Včera 2G/3G\u0020</item>
+        <item>Dnes 2G/3G\u0020</item>
+        <item>Tento měsíc 2G/3G\u0020</item>
+        <item>Včera Wi-Fi\u0020</item>
+        <item>Dnes Wi-Fi\u0020</item>
+        <item>Tento měsíc Wi-Fi\u0020</item>
+    </string-array>
+    <string-array name="date_of_app">
+        <item>Včera 2G/3G</item>
+        <item>Dnes 2G/3G</item>
+        <item>Tento měsíc 2G/3G</item>
+    </string-array>
+    <string-array name="network_speed_update_internals">
+        <item>3 sekundy</item>
+        <item>4 sekundy</item>
+        <item>5 sekund</item>
+        <item>6 sekund</item>
+        <item>7 sekund</item>
+        <item>8 sekund</item>
+        <item>9 sekund</item>
+    </string-array>
+    <string-array name="traffic_sort_type">
+        <item>Využití 2G/3G</item>
+        <item>Využití Wi-Fi</item>
+        <item>Celková spotřeba dat</item>
+    </string-array>
+    <string-array name="traffic_setting_sms_template">
+        <item>Nastavit vzorovou zprávu automaticky</item>
+        <item>Nastavit vzorovou zprávu manuálně</item>
+    </string-array>
+</resources>

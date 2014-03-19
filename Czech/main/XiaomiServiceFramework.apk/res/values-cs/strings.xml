@@ -487,4 +487,5 @@ s "</string>
     <string name="wrong_vcode">Nesprávný kód</string>
     <string name="xiaomi_cloud_service">MiCloud</string>
     <string name="xmpp_server_addr"/>
+    <string name="micloud_upgrade_space">Navýšit kapacitu</string>
 </resources>
