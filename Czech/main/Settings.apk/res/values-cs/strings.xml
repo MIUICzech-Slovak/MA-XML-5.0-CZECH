@@ -3402,7 +3402,7 @@ Vaše zařízení se přepne po obnově baterie do tohoto režimu. Před vymazá
     <string name="list_sub_view_item_backup_uninstall">Záloha a odinst.</string>
     <string name="pref_category_title_garbage_cleanup_check">Nastavení čištění</string>
     <string name="pref_title_garbage_cleanup_check_time">Upozornit na odpad</string>
-    <string name="pref_summary_garbage_cleanup_check_time">Upozornit mě, pokud nepotřebné soubory a aplikace dosáhnou maximální velikost</string>
+    <string name="pref_summary_garbage_cleanup_check_size">Upozornit mě, pokud nepotřebné soubory a aplikace dosáhnou maximální velikost</string>
     <string name="pref_title_garbage_cleanup_check_size">Nastavení velikosti</string>
     <string name="toast_application_no_residual_on_sdcard">"Aplikace nemá žádné soubory uložené na Vašem úložiště"</string>
     <string name="applications_sort_type_title">Seřadit</string>

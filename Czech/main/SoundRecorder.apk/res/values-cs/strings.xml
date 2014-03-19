@@ -113,4 +113,11 @@
     <string name="sync_only_in_wifi">Synchr. jen přes Wi-Fi</string>
     <string name="sync_only_in_wifi_summary">Záznamník bude používat vaše mobilní data pro synchronizaci nahrávek, pokud je tato možnost deaktivována</string>
     <string name="sync_only_in_wifi_alert">Změna tohoto nastavení může zvýšit spotřebu mobilních dat.</string>
+    <string name="wifi_recommended_title">Upozornění na spotřebu dat</string>
+    <string name="wifi_recommended_body">"Bude se stahovat přes mobilní data:
+Stahování souboru přes mobilní data může navýšit vaše poplatky."</string>
+    <string name="button_queue_for_wifi">Přes Wi-Fi</string>
+    <string name="button_start_now">Stáhnout</string>
+    <string name="notification_title_all_paused">Stahování pozastaveno</string>
+    <string name="notification_message_all_paused">Může zvýšit spotřebu mobilních dat.</string>
 </resources>
