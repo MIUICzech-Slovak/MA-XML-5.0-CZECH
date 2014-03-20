@@ -288,10 +288,10 @@ Poznámka: Zvětšení trojitým klepnutím funguje ve všech částech obrazovk
     <string name="battery_desc_users">Baterie spotřebovaná uživatelem</string>
     <string name="battery_desc_voice">Využití baterie hlasovými hovory</string>
     <string name="battery_desc_wifi">Využití baterie sítí Wi-Fi</string>
-    <string name="battery_history_days">%1$d dní, %2$d hod., %3$d min., %4$d sek.</string>
-    <string name="battery_history_hours">%1$d hod., %2$d min. %3$d sek.</string>
-    <string name="battery_history_minutes">%1$d min., %2$d sek.</string>
-    <string name="battery_history_seconds">%1$d sek.</string>	
+    <string name="battery_history_days">%1$d dní %2$d hod %3$d min %4$d sek</string>
+    <string name="battery_history_hours">%1$d hod %2$d min %3$d sek</string>
+    <string name="battery_history_minutes">%1$d min %2$d sek</string>
+    <string name="battery_history_seconds">%1$d sek</string>	
     <string name="battery_indicator_style">Styl ikony baterie</string>
     <string name="battery_info_awake_battery">Doba provozu z baterie:</string>
     <string name="battery_info_awake_plugged">Doba provozu při nabíjení:</string>
