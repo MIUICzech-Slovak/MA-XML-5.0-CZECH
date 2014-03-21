@@ -3389,7 +3389,7 @@ Vaše zařízení se přepne po obnově baterie do tohoto režimu. Před vymazá
     <string name="optimize_installed_apps_header_left">Stáhnout apl.:%d</string>
     <string name="deep_clean_title_uninstall_apps">Aplikace</string>
     <string name="deep_clean_summary_install_apps_today">dnes použité</string>
-    <string name="deep_clean_summary_install_apps_interval">%1$s| před %2$d dny</string>
+    <string name="deep_clean_summary_install_apps_interval">před %d dny</string>
     <string name="deep_clean_summary_install_apps_new">nepoužité</string>
     <string name="deep_clean_summary_install_apps_virus">virus</string>
     <string name="deep_clean_summary_install_apps_risk">rizikové</string>
