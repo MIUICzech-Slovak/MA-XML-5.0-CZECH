@@ -20,8 +20,8 @@
     <string name="access_control_recording_intro_header">Nakreslete odemykací kombinaci</string>
     <string name="access_control_reset_by_account">Pro odblokování se přihlaste na Váš Xiaomi účet</string>
     <string name="accessibility_enable">Povolit přístup</string>
-    <string name="accessibility_feature_state_off">VYP.</string>
-    <string name="accessibility_feature_state_on">ZAP.</string>
+    <string name="accessibility_feature_state_off">Vypnuta</string>
+    <string name="accessibility_feature_state_on">Zapnuta</string>
     <string name="accessibility_global_gesture_preference_description">"Je-li tato funkce zapnutá, můžete rychle ve dvou krocích aktivovat funkce usnadnění přístupu:
 
 Krok 1: Stiskněte tlačítko napájení a držte jej, dokud neuslyšíte zvuk nebo neucítíte vibraci.
@@ -29,8 +29,8 @@ Krok 1: Stiskněte tlačítko napájení a držte jej, dokud neuslyšíte zvuk n
 Krok 2: Dotkněte se obrazovky dvěma prsty a držte ji, dokud neuslyšíte potvrzovací zvuk.
 
 Má-li zařízení více uživatelů, pomocí této zkratky lze na uzamčené obrazovce dočasně aktivovat usnadnění přístupu, dokud zařízení nebude odemknuto."</string>
-    <string name="accessibility_global_gesture_preference_summary_off">VYP.</string>
-    <string name="accessibility_global_gesture_preference_summary_on">ZAP.</string>
+    <string name="accessibility_global_gesture_preference_summary_off">Vypnuta</string>
+    <string name="accessibility_global_gesture_preference_summary_on">Zapnuta</string>
     <string name="accessibility_global_gesture_preference_title">Zkratka usnadnění</string>
     <string name="accessibility_long_press_timeout_preference_title">Prodleva dotyku a podržení</string>
     <string name="accessibility_long_press_timeout_title">Prodleva dotyku a podržení</string>
@@ -2523,9 +2523,9 @@ Toto nastavení ovlivní všechny uživatele tohoto telefonu."</string>
     <string name="sync_automatically">Automaticky synch. data aplikací</string>
     <string name="sync_calendar">Kalendář</string>
     <string name="sync_contacts">Kontakty</string>
-    <string name="sync_disabled">Synchronizace VYP.</string>
+    <string name="sync_disabled">Synchronizace vypnuta</string>
     <string name="sync_enable">Povolit auto. synchronizaci</string>
-    <string name="sync_enabled">Synchronizace ZAP.</string>
+    <string name="sync_enabled">Synchronizace zapnuta</string>
     <string name="sync_error">Chyba synchronizace</string>
     <string name="sync_failed">Synchronizace selhala</string>
     <string name="sync_gmail">Gmail</string>
