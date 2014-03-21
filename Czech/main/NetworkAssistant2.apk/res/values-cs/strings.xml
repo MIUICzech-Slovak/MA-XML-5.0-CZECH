@@ -72,7 +72,8 @@ Používání mobilního připojení nad rámec předplacených dat, může výr
     <string name="main_toolbar_firewall">Zakázat</string>
     <string name="main_toolbar_purchase">Navýšit</string>
     <string name="main_toolbar_statistic">Statistiky</string>
-    <string name="main_traffic_overlimit_text">%s nad</string>
+    <string name="main_traffic_overlimit_text">"%s
+Nad limit"</string>
     <string name="main_traffic_remian_text">"%s
 Zbývá"</string>
     <string name="main_traffic_used_only">Využito: %s</string>

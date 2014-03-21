@@ -24,7 +24,7 @@
     <string name="all_tracks">Veškerá hudba</string>
     <string name="android_album_settings">Použít integrovaný obrázek alba</string>    
     <string name="android_album_summary">Automaticky použije obrázek ze skladby. Může způsobit chyby.</string>
-    <string name="artist_albums">Všechny alba</string>
+    <string name="artist_albums">Všechna alba</string>
     <string name="artist_details_format">%1$s, %2$s</string>
     <string name="artist_edit">Umělec</string>
     <string name="artist_hot_audios">Hity</string>
@@ -278,13 +278,13 @@
     <string name="save">Uložit</string>
     <string name="scan_barcode_to_connect">"Zaměřte QR kód z KTV konzole"</string>
     <string name="scanning">Prohledávám úložiště...</string>
-    <string name="scanning_nosdcard">Prohledávám SD kartu...</string>
+    <string name="scanning_nosdcard">Prohledávám úložiště...</string>
     <string name="screen_bright_wake">Nevypínat displej</string>
     <string name="screen_bright_wake_summary">Display zůstane vždy zapnutý</string>
-    <string name="sdcard_busy_message">Promiňte, vaše karta je nedostupná.</string>
-    <string name="sdcard_busy_message_nosdcard">Promiňte, vaše USB úložiště je nedostupné.</string>
-    <string name="sdcard_error_message">Došlo k chybě na SD kartě.</string>
-    <string name="sdcard_error_message_nosdcard">Došlo k chybě na USB úložišti.</string>
+    <string name="sdcard_busy_message">Promiňte, vaše úložiště je nedostupné.</string>
+    <string name="sdcard_busy_message_nosdcard">Promiňte, vaše úložiště je nedostupné.</string>
+    <string name="sdcard_error_message">Došlo k chybě úložiště.</string>
+    <string name="sdcard_error_message_nosdcard">Došlo k chybě na úložišti.</string>
     <string name="sdcard_missing_message">Váš telefon nemá vloženou SD kartu.</string>
     <string name="sdcard_missing_message_nosdcard">Váš telefon nemá USB úložiště.</string>
     <string name="search_hint">Hledat hudbu</string>
