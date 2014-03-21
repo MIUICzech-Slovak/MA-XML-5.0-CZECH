@@ -175,4 +175,6 @@ Využito"</string>
     <string name="usage_sorted_activity_lable">Spotřeba dat</string>
     <string name="usage_sorted_empty_text">Prázdné</string>
     <string name="usage_sorted_loading_text">Načítání...</string>
+    <string name="network_assistant_upgraded_title">Aktualizace dokončena</string>
+    <string name="network_assistant_upgraded_body">Dotykem omezíte používání dat.</string>
 </resources>
