@@ -26,6 +26,103 @@
         <item>Vyjímatelná SD karta</item>
         <item>Automaticky vybere systém</item>
     </string-array>
+    <string-array name="app_ops_categories">
+        <item>Poloha</item>
+        <item>Soukromé</item>
+        <item>Zprávy</item>
+        <item>Média</item>
+        <item>Zařízení</item>
+    </string-array>
+    <string-array name="app_ops_labels">
+	      <item>"Poloha"</item>
+    	  <item>"Poloha"</item>
+        <item>"Poloha"</item>
+        <item>"Vibrace"</item>
+        <item>"Čtení kontaktů"</item>
+        <item>"Úprava kontaktů"</item>
+        <item>"Čtení seznamu hovorů"</item>
+        <item>"Úprava seznamu hovorů"</item>
+        <item>"Čtení kalendáře"</item>
+        <item>"Úprava kalendáře"</item>
+        <item>"Poloha"</item>
+        <item>"Přidání oznámení"</item>
+        <item>"Poloha"</item>
+        <item>"Volání na telefon"</item>
+        <item>"Čtení SMS/MMS"</item>
+        <item>"Psaní SMS/MMS"</item>
+        <item>"Příjem SMS/MMS"</item>
+        <item>"Příjem SMS/MMS"</item>
+        <item>"Příjem SMS/MMS"</item>
+        <item>"Příjem SMS/MMS"</item>
+        <item>"Odesílání SMS/MMS"</item>
+        <item>"Čtení SMS/MMS"</item>
+        <item>"Psaní SMS/MMS"</item>
+        <item>"Úprava nastavení"</item>
+        <item>"Vykreslení navrch"</item>
+        <item>"Přístup k oznámením"</item>
+        <item>"Fotoaparát"</item>
+        <item>"Nahrávání zvuku"</item>
+        <item>"Přehrávání zvuku"</item>
+        <item>"Číst obsah schránky"</item>
+        <item>"Upravit obsah schránky"</item>
+        <item>"Tlačítka médií"</item>
+        <item>"Zaměření zvuku"</item>
+        <item>"Hlavní hlasitost"</item>
+        <item>"Hlasitost hlasu"</item>
+        <item>"Hlasitost vyzvánění"</item>
+        <item>"Hlasitost médií"</item>
+        <item>"Hlasitost budíku"</item>
+        <item>"Hlasitost oznámení"</item>
+        <item>"Hlasitost Bluetooth"</item>
+        <item>"Zakázat režim spánku"</item>
+        <item>"Poloha"</item>
+        <item>"Určování polohy"</item>
+    </string-array>
+    <string-array name="app_ops_summaries">
+        <item>"přibližná poloha"</item>
+        <item>"přesná poloha"</item>
+        <item>"GPS"</item>
+        <item>"vibrace"</item>
+        <item>"čtení kontaktů"</item>
+        <item>"úprava kontaktů"</item>
+        <item>"čtení seznamu hovorů"</item>
+        <item>"úprava seznamu hovorů"</item>
+        <item>"čtení kalendáře"</item>
+        <item>"úprava kalendáře"</item>
+        <item>"vyhledání sítí Wi-Fi"</item>
+        <item>"oznámení"</item>
+        <item>"vyhledání vysílače mobilní sítě"</item>
+        <item>"volání na telefon"</item>
+        <item>"čtení zpráv SMS"</item>
+        <item>"psaní zpráv SMS"</item>
+        <item>"příjem zpráv SMS"</item>
+        <item>"příjem nouzových SMS"</item>
+        <item>"příjem zpráv MMS"</item>
+        <item>"příjem zpráv WAP push"</item>
+        <item>"odesílání zpráv SMS"</item>
+        <item>"čtení ICC SMS"</item>
+        <item>"psaní ICC SMS"</item>
+        <item>"úprava nastavení"</item>
+        <item>"vykreslení navrch"</item>
+        <item>"přístup k oznámením"</item>
+        <item>"fotoaparát"</item>
+        <item>"nahrávání zvuku"</item>
+        <item>"přehrávání zvuku"</item>
+        <item>"číst obsah schránky"</item>
+        <item>"upravit obsah schránky"</item>
+        <item>"tlačítka médií"</item>
+        <item>"zaměření zvuku"</item>
+        <item>"hlavní hlasitost"</item>
+        <item>"hlasitost hlasu"</item>
+        <item>"hlasitost vyzvánění"</item>
+        <item>"hlasitost médií"</item>
+        <item>"hlasitost budíku"</item>
+        <item>"hlasitost oznámení"</item>
+        <item>"hlasitost Bluetooth"</item>
+        <item>"zakázat spánek"</item>
+        <item>"sledovat polohu"</item>
+        <item>"sledovat přesnou polohu"</item>
+    </string-array>
     <string-array name="app_process_limit_entries">
         <item>Standardní limit</item>
         <item>Žádné procesy na pozadí</item>
@@ -233,6 +330,11 @@ Nyní můžete kopírovat soubory."</item>
         <item>Předplatné 2</item>
         <item>Zeptat se uživatele</item>
     </string-array>
+    <string-array name="network_speed_slow_summary">
+    	<item>Síť je pomalá z důvodu jejího přetížení</item>
+    	<item>Síť je pomalá z důvodu slabého signálu</item>
+    	<item>Přesouvání...</item>
+    </string-array>
     <string-array name="overlay_display_devices_entries">
         <item>Žádné</item>
         <item>720x480 mdpi</item>
@@ -320,12 +422,12 @@ Nyní můžete kopírovat soubory."</item>
         <item>1 sekunda</item>
         <item>1.5 sekundy</item>
         <item>2 sekundy</item>
-    </string-array>
-    <string-array name="screen_saturation_title">
+    </string-array>  
+	  <string-array name="screen_saturation_title">
         <item>Brilantní</item>
         <item>Standardní</item>
-    </string-array>  
-	  <string-array name="screen_timeout_entries">
+    </string-array>
+ 	  <string-array name="screen_timeout_entries">
         <item>15 s.</item>
         <item>30 s.</item>
         <item>1 min.</item>
@@ -333,12 +435,17 @@ Nyní můžete kopírovat soubory."</item>
         <item>5 min.</item>
         <item>10 min.</item>
         <item>Nikdy</item>
-    </string-array>
- 	  <string-array name="security_settings_premium_sms_values">
+    </string-array>  
+    <string-array name="security_settings_premium_sms_values">
         <item>Zeptat se</item>
         <item>Zakázat</item>
         <item>Vždy povolit</item>
-    </string-array>  
+    </string-array>
+    <string-array name="show_non_rect_clip_entries">
+        <item>Vypnuto</item>
+        <item>Vykreslit neobdélníkový výstřižek modře</item>
+        <item>Zvýraznit test. příkazy kreslení zeleně</item>
+    </string-array>
     <string-array name="slideshow_time_entries">
         <item>5 minut</item>
         <item>15 minut</item>
@@ -354,10 +461,16 @@ Nyní můžete kopírovat soubory."</item>
         <item>Amerika</item>
         <item>Evropa</item>
         <item>Afrika</item>
-        <item>Ásie</item>
+	<item>Ásie</item>
         <item>Austrálie</item>
         <item>Pacifik</item>
         <item>Vše</item>
+    </string-array>
+    <string-array name="track_frame_time_entries">
+        <item>Vypnuto</item>
+        <item>Na obrazovce v podobě sloupců</item>
+        <item>Na obrazovce v podobě řádků</item>
+        <item>V adb shell dumpsys gfxinfo</item>
     </string-array>
     <string-array name="transition_animation_scale_entries">
         <item>Animace je vypnuta</item>
@@ -507,8 +620,8 @@ Nyní můžete kopírovat soubory."</item>
         <item>Odpojování...</item>
         <item>Odpojeno</item>
         <item>Neúspěšné</item>
-	      <item>Blokované</item>
-	      <item>Dočasně nedostupné kvůli slabému signálu</item>
+	<item>Blokované</item>
+	<item>Dočasně nedostupné kvůli slabému signálu</item>
     </string-array>
     <string-array name="wifi_status_with_ssid">
         <item/>
@@ -521,8 +634,8 @@ Nyní můžete kopírovat soubory."</item>
         <item>Odpojování od sítě %1$s...</item>
         <item>Odpojeno</item>
         <item>Neúspěšné</item>
-	      <item>Blokované</item>
-	      <item>Dočasně nedostupné kvůli slabému signálu</item>
+	<item>Blokované</item>
+	<item>Dočasně nedostupné kvůli slabému signálu</item>
     </string-array>
     <string-array name="window_animation_scale_entries">
         <item>Animace je vypnuta</item>
@@ -532,10 +645,5 @@ Nyní můžete kopírovat soubory."</item>
         <item>Měřítko animace 2x</item>
         <item>Měřítko animace 5x</item>
         <item>Měřítko animace 10x</item>
-    </string-array>
-    <string-array name="network_speed_slow_summary">
- 	      <item>Síť je pomalá z důvodu jejího přetížení</item>
- 	      <item>Síť je pomalá z důvodu slabého signálu</item>
- 	      <item>Přesouvání...</item>
     </string-array>
 </resources>
