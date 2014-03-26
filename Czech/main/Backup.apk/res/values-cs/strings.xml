@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
 <resources>
-    <string name="account_contact_backup_info">Data (Xiaomi, Gmail a Email. Účty a kontakty budou uložené spolu.)</string>
+    <string name="account_contact_backup_info">Data (Xiaomi, Gmail a Email. Účty a kontakty budou uložené společně.)</string>
     <string name="account_login">Přihlásit se</string>
     <string name="account_summary">zálohovat Gmail, Email a Xiaomi účet</string>
     <string name="already_enable_encrypt">Zapnout šifrování</string>
@@ -29,7 +29,7 @@
     <string name="backup_error">Chyba zálohy</string>
     <string name="backup_failed">Zálohování selhalo!</string>
     <string name="backup_file_error">Nastal problém se zálohou, operace není dokončena.</string>
-    <string name="backup_finished">Záloha hotova</string>
+    <string name="backup_finished">Záloha dokončena</string>
     <string name="backup_hint">Nevypínejte a nerestartujte telefon!</string>
     <string name="backup_items_app_tailer">x: data aplikací</string>
     <string name="backup_items_sysdata_tailer">x: systémová data\u0020</string>
@@ -218,8 +218,8 @@ Ok pro zrušení obnovy"</string>
     <string name="start_restore">Obnovit</string>
     <string name="succeed">Dokončeno</string>
     <string name="system_backup">Záloha</string>
-    <string name="system_backup_info">Nastavení systému a plochy.</string>
-    <string name="task_backup_cancel_progress">Probíhá rušení...</string>
+    <string name="system_backup_info">Nastavení systému a plochy</string>
+    <string name="task_backup_cancel_progress">Ukončování zálohování...</string>
     <string name="task_backup_finished_local">Zálohování dokončeno</string>
     <string name="task_canceled">Stornováno</string>
     <string name="task_canceled_all_local">zrušeno</string>
