@@ -1012,7 +1012,6 @@ Prosím otevřete tuto aplikaci ještě jednou pro aktualizaci zdrojů."</string
     <string name="sim_contact_dropdown_menu_select_all_miui">Označit vše</string>
     <string name="sim_contact_existing">Kontakt na SIM kartě již existuje.</string>
     <string name="sim_contact_invalid">Chybný kontakt SIM</string>
-    <string name="sim_contact_number_missing">Chybí číslo kontaktu na SIM kartě.</string>
     <string name="sim_contact_search_error">Došlo k chybě při hledání kontaktů na SIM kartě</string>
     <string name="sim_contacts">SIM kontakty</string>
     <string name="sim_error_anr_full">Úložiště pro čísla je plné.</string>
