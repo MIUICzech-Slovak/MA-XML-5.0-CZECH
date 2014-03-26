@@ -1162,4 +1162,14 @@ Vyberte si z následujících možností:</string>
     <string name="yellowpage_navigation_search_select_city">Zvolte město</string>
     <string name="yellowpage_navigation_send_to_desktop_succeeded">Přidáno na plochu</string>
     <string name="zero_items_selected">Nic není vybráno</string>
+    <string name="import_from_sim2">Importovat ze SIM 2</string>
+    <string name="eventTypeCustom">Vlastní</string>
+    <string name="callrecordview_menu_show_sim">Hovorů: %s</string>
+    <string name="callrecordview_menu_delete_sim">Vymazat seznam hovorů %s</string>
+    <string name="export_to_sim2">Exportovat na SIM 2</string>
+    <string name="pref_key_sim_manage2">Nastavit SIM 2</string>
+    <string name="account_sim2">SIM karta %d</string>
+    <string name="sim_contact_number_missing">Chybí číslo kontaktu na SIM.</string>
+    <string name="imei_invalid">Nesprávné IMEI</string>
+    <string name="meid_invalid">Nesprávné MEID</string>
 </resources>

@@ -3491,8 +3491,10 @@ Vaše zařízení se přepne po obnově baterie do tohoto režimu. Před vymazá
     <string name="white_list_title">Ignorované</string>
     <string name="button_text_delete_from_white_list">Odebrat</string>
     <string name="toast_add_white_list_success">Přidáno do ignorovaných, zkontrolujte nastavení</string>
-    <string name="dialog_title_check_all">Vše</string>
-    <string name="dialog_msg_check_all">Potvrďte výběr %1$s které obsahují %2$d položek</string>
+    <string name="dialog_title_check_all">Vybrat vše</string>
+    <string name="dialog_msg_check_all">%1$s obsahuje položek: %2$d</string>
+    <string name="dialog_title_load_cleanup_engine_error">Chyba</string>
+    <string name="dialog_msg_load_cleanup_engine_error">Nástroj pro čištění je poškozen, je nutné přeinstalovat ROM!</string>
     <string name="toast_removed_from_white_list">Odebráno z ignorovaných</string>
     <string name="notification_button_text_of_low_memory">Vyčistit</string>
     <string name="notification_title_of_low_memory">Systémové úložiště využito na %s</string>
