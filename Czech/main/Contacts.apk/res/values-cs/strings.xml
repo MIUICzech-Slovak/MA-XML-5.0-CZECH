@@ -520,6 +520,7 @@ Chyba: \"%s\""</string>
     <string name="menu_create_contact_shortcut">Přidat na plochu</string>
     <string name="menu_deleteContact">Smazat</string>
     <string name="menu_deleteGroup">Smazat</string>
+    <string name="menu_dial_ip_number">IP hovor</string>
     <string name="menu_dialpad_text">Číselník</string>
     <string name="menu_discard">Zrušit</string>
     <string name="menu_display_all">Zobrazit všechny</string>

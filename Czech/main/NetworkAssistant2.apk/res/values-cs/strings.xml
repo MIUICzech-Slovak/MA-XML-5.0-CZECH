@@ -37,6 +37,7 @@ Používání mobilního připojení nad rámec předplacených dat, může výr
     <string name="data_usage_warning_body">Zobrazit podrobnosti o spotřebě dat.</string>
     <string name="data_usage_warning_title">Upozornění o spotřebě dat</string>
     <string name="declaration_dialog_msg">Tato funkce Vám pomůže sledovat spotřebu mobilních dat.</string>
+    <string name="pref_new_installed_preconfig_title">Výchozí nastavení pro nové apl.</string>
     <string name="deleted_apps">Vymazané Apl.</string>
     <string name="detail_app_button">Podrobnosti</string>
     <string name="firewall_activity_lable">Zakázat data pro aplikace</string>

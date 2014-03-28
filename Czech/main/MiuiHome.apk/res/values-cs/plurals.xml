@@ -7,7 +7,7 @@
         <item quantity="two">Odinstalovat \"%s\" a 1 další aplikaci?</item>
     </plurals>
     <plurals name="uninstall_result_succeeded">
-        <item quantity="other">%d aplikací je odinstalováno</item>
+        <item quantity="other">%1$d aplikací je odinstalováno</item>
         <item quantity="one">Aplikace je odinstalována</item>
     </plurals>
     <plurals name="uninstall_result_failed">
