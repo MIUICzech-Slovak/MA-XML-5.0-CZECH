@@ -219,6 +219,7 @@
     <string name="new_playlist">Nový</string>
     <string name="new_playlist_name_template">Nový playlist %d</string>
     <string name="no_effect">Bez efektu</string>
+    <string name="no_music_to_play">Žádné skladby</string>
     <string name="no_song_downloaded">Nelze stáhnout skladbu.</string>
     <string name="normal_quality">Dobrá kvalita</string>
     <string name="not_login">Přihlásit</string>

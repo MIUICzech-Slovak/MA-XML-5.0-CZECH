@@ -120,4 +120,5 @@ Stahování souboru přes mobilní data může navýšit vaše poplatky."</strin
     <string name="button_start_now">Stáhnout</string>
     <string name="notification_title_all_paused">Stahování pozastaveno</string>
     <string name="notification_message_all_paused">Může zvýšit spotřebu mobilních dat.</string>
+    <string name="toast_file_is_downloading">Tento soubor se stahuje, čekejte prosím.</string>
 </resources>

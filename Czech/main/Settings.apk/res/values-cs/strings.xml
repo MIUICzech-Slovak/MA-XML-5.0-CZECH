@@ -2847,7 +2847,7 @@ Každý uživatel může přijmout aktualizovaná oprávnění aplikací jménem
     <string name="virus_scan_app_uninstall">Hromadná odinstalace (%d)</string>
     <string name="virus_scan_app_waiting">Čeká na skenování</string>
     <string name="virus_scan_can_use_wifi">Použít online databázi pro skenování</string>
-    <string name="virus_scan_clear">Vyčistit</string>
+    <string name="virus_scan_clear">Čisto</string>
     <string name="virus_scan_dangerous">Rizika</string>
     <string name="virus_scan_description">"Tato aplikace je hlavním rizikem pro zabezpečení telefonu."</string>
     <string name="virus_scan_file_type_risk_apk">Podezřelá aplikace (instalátor)</string>

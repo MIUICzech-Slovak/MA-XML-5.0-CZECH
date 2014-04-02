@@ -148,7 +148,7 @@
     <string name="resource_get_auth_exceed_max_limit_tips">Zvolený vzhled nemůže být aplikován na tomto telefonu s Vaším Xiaomi účtem. Na jeden účet je možné přihlásit maximálně 10 zařízení za rok. Vložte jiný Xiaomi účet.</string>
     <string name="resource_get_auth_exceed_max_limit_title">Autorizace zařízení pro tento účet přesáhla limit</string>
     <string name="resource_get_auth_missing">Toto téma není stáhnuté z oficiálního obchodu.</string>
-    <string name="resource_get_auth_retrieving">Získávání autorizace...</string>
+    <string name="resource_get_auth_retrieving">Ověření pravosti...</string>
     <string name="resource_hint">Upozornění</string>
     <string name="resource_import_successful">Stahování dokončeno</string>
     <string name="resource_importing">Importování...</string>
@@ -168,7 +168,7 @@
     <string name="resource_preview">Náhled</string>
     <string name="resource_price_format">(%1$s)</string>
     <string name="resource_price_free">Zdarma</string>
-    <string name="resource_price_unit">MiKreditů</string>
+    <string name="resource_price_unit">" MiKreditů "</string>
     <string name="resource_purchase_getting_order">Načítání info. o objednávce...</string>
     <string name="resource_purchase_verifying_payment">Ověřování info. o platbě...</string>
     <string name="resource_purchase_waiting_payment">Čekání na info. o platbě...</string>
