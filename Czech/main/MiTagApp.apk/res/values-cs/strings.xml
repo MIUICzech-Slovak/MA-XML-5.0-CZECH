@@ -39,11 +39,11 @@
     <string name="phone_to_tag">Pro úpravu štítku,</string>
     <string name="edit_tag_content">se dotkněte zadní stranou zařízení</string>
     <string name="bump_start">"Začněte tím, že
-se dotkněte štítkem telefonu"</string>
+se dotknete štítku telefonem"</string>
     <string name="bump_write">"Začněte tím, že
-se dotkněte štítkem telefonu"</string>
+se dotknete štítku telefonem"</string>
     <string name="bump_erase">"Vymažete tím, že
-se dotkněte štítkem telefonu"</string>
+se dotknete štítku telefonem"</string>
     <string name="start_configuration"/>
     <string name="detect_empty_tag">Nalezen prázdný štítek</string>
     <string name="empty_tag">Tento štítek je prázdný</string>
