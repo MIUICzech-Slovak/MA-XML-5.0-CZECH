@@ -760,8 +760,8 @@ Synchronizujte je nyní."</string>
     <string name="preference_smart_group_location_summary">Skupina podle předvolby země</string>
     <string name="preference_smart_group_location_title">Podle adresy</string>
     <string name="preference_smart_group_title">Inteligentní skupiny</string>
-    <string name="preference_telocation_summary_countrycode_off">Nepřidávat automaticky kód země</string>
-    <string name="preference_telocation_summary_countrycode_on">Automaticky přidat kód země</string>
+    <string name="preference_telocation_summary_countrycode_off">nepřidávat automaticky kód země</string>
+    <string name="preference_telocation_summary_countrycode_on">automaticky přidat kód země</string>
     <string name="preference_telocation_summary_teloc_off">Skrýt místo</string>
     <string name="preference_telocation_summary_teloc_on">Zobrazit místo</string>
     <string name="preference_telocation_title">Poloha volajícího</string>
