@@ -3418,7 +3418,7 @@ Vaše zařízení se přepne po obnově baterie do tohoto režimu. Před vymazá
     <string name="toast_backup_uninstall_failed">Záloha %d aplikací selhala. Vyčkejte chvíli a zkuste to znovu.</string>
     <string name="toast_backup_uninstall_success">Záloha a odinstalování dokončeno</string>
     <string name="notification_title_of_garbage_cleanup">Upozornění na odpad</string>
-    <string name="notification_summary_of_garbage_cleanup">Vaše nepotřebné soubory dosáhly %s. Měli byste je vyčistit.</string>
+    <string name="notification_summary_of_garbage_cleanup">Nepotřebné soubory zabírají %s. Doporučuje se vyčištění.</string>
     <string name="item_garbage_time_daily">Denně</string>
     <string name="item_garbage_time_3d">Každé 3 dny</string>
     <string name="item_garbage_time_7d">Každých 7 dní</string>
