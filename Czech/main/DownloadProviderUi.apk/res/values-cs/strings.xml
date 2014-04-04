@@ -28,8 +28,8 @@
     <string name="download_error">Neúspěšné</string>
     <string name="download_error_insufficient_space">Nedostatek místa</string>
     <string name="download_in_process">Stahování</string>
-    <string name="download_info_count_deleted_tasks">Úspěšně smazáno stahování %s</string>
-    <string name="download_info_start_deleted_tasks">Připravuji smazání stahování</string>
+    <string name="download_info_count_deleted_tasks">Úspěšně vymazáno %s stahování</string>
+    <string name="download_info_start_deleted_tasks">Připravuji vymazání stahování</string>
     <string name="download_no_application_title">Nelze otevřít soubor</string>
     <string name="download_paused">Stahování pozastaveno</string>
     <string name="download_pending">Stahování probíhá</string>
