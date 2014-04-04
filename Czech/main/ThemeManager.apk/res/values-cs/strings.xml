@@ -209,7 +209,7 @@ ale obsah, který hledáte, není dostupný ve Vaší zemi."</string>
     <string name="settings">Nastavení</string>
     <string name="short_ringtone_resource">Krátké</string>
     <string name="theme_another_import_running">Importování téma, prosím vyčkejte...</string>
-    <string name="theme_batch_has_update_text">%1$d témat dostalo aktualizaci</string>
+    <string name="theme_batch_has_update_text">Nalezeny aktualizace (%1$d)</string>
     <string name="theme_batch_update_all">Aktualizovat vše</string>
     <string name="theme_batch_update_dlg_content">Aktualizovat?</string>
     <string name="theme_batch_update_dlg_content_single">Aktualizovat?</string>
