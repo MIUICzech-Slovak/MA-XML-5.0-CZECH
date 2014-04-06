@@ -506,9 +506,6 @@
     <string name="face_beauty_intelligent_title">Automaticky</string>
     <string name="face_beauty_manual_title">Manuálně</string>
     <string name="face_beauty_simple_mode_title">Vylepšení tváře</string>
-    <string name="camera_face_beauty_default">i:0</string>
-    <string name="camera_face_beauty_simple_mode_close">i:0</string>
-    <string name="camera_face_beauty_simple_mode_open">i:2</string>
     <string name="face_beauty_intelligent_level_0">Vypnuto</string>
     <string name="face_beauty_intelligent_level_1">Nízké</string>
     <string name="face_beauty_intelligent_level_2">Mírné</string>

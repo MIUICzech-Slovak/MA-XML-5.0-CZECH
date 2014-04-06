@@ -30,9 +30,6 @@
   opusťte na chvíli náhled"</string>
   <string name="camera_disabled">Fotoaparát byl deaktivován z bezpečnostních důvodů.</string>
   <string name="camera_error_title">Chyba fotoaparátu</string>
-  <string name="camera_face_beauty_default">i:0</string>
-  <string name="camera_face_beauty_simple_mode_close">i:0</string>
-  <string name="camera_face_beauty_simple_mode_open">i:2</string>
   <string name="camera_label">Fotoaparát</string>
   <string name="camera_settings_label">Nastavení fotoaparátu</string>
   <string name="can_not_play_video">Pro přehrávání videa odblokujte obrazovku</string>
