@@ -75,6 +75,7 @@
     <string name="unknown_apps_dlg_title">Instalace byla zablokována</string>
     <string name="unknown_installer">Neznámý instalátor</string>
     <string name="virus_scan_clear">Vyčistit</string>
+    <string name="virus_scan_caller_unknown">Neznámý</string>
     <string name="virus_scan_install">" "<u>Pokračovat</u>" "</string>
     <string name="virus_scan_is_risk">Tato aplikace je podezřelá!</string>
     <string name="virus_scan_is_virus">Tato aplikace je virus!</string>

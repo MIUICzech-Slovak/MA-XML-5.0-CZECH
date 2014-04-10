@@ -271,4 +271,6 @@
     <string name="holiday_label">Volno</string>
     <string name="action_bar_today">D</string>
     <string name="pref_title_alarm_remind">Zvukové upozornění</string>
+    <string name="event_date_format">dd.MM EEEE</string>
+    <string name="event_full_date_format">dd.MM.yyyy</string>
 </resources>

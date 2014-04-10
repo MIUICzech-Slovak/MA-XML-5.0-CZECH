@@ -158,4 +158,5 @@
     <string name="type_rd"/>
     <string name="view_stations_list">Zobrazit seznam stanic</string>
     <string name="toast_fm_recorder_access_error">"Nelze nahrávat v režimu Návštěvník"</string>
+    <string name="msg_fm_starting">Spouštění...</string>
 </resources>
