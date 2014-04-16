@@ -64,6 +64,8 @@ Používání mobilního připojení nad rámec předplacených dat, může výr
     <string name="lock_screen_traffic_warn_title">Upozornění spotřeby dat</string>
     <string name="main_alert_message_no_imsi">Nebyla nalezena SIM karta</string>
     <string name="main_alert_message_no_mobile_package">Limit mobilních dat není nastaven</string>
+    <string name="main_alert_message_slot_no_data_connection">"Tento slot SIM karty nepodporuje
+mobilní internetové připojení"</string>
     <string name="main_button_idel_traffic">Limit</string>
     <string name="main_button_normal_traffic">Peak</string>
     <string name="main_button_usage_adjust">Zadejte využitá data</string>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
+<resources>
+    <plurals name="webview_matches_found">
+        <item quantity="other">%1$d z %2$d</item>
+        <item quantity="one">1 shoda</item>
+    </plurals>
+    <plurals name="webview_last_num_days">
+        <item quantity="other">Posledních %d dní</item>
+    </plurals>
+</resources>

@@ -96,7 +96,6 @@
   <string name="exposure_time">Čas expozice</string>
   <string name="face_analyze_info">%1$s %2$s roků</string>
   <string name="face_analyze_info_female">Žena</string>
-  <string name="face_analyze_info_gender">Pohlaví:</string>
   <string name="face_analyze_info_male">Muž</string>
   <string name="face_beauty_age_alias_female_0_7">Žena 0-7</string>
   <string name="face_beauty_age_alias_female_18_30">Žena 18-30</string>
@@ -363,7 +362,6 @@
   <string name="pref_camera_volumekey_function_entry_shutter">Spoušť</string>
   <string name="pref_camera_volumekey_function_entry_volume">Hlas</string>
   <string name="pref_camera_volumekey_function_entry_zooming">Zoom</string>
-  <string name="pref_camera_volumekey_function_title">Funkce tlačítek hlasitosti</string>
   <string name="pref_camera_watermark_entry_off">Vypnutý</string>
   <string name="pref_camera_watermark_entry_on">Zapnutý</string>
   <string name="pref_camera_watermark_title">Časový vodoznak</string>
@@ -511,4 +509,20 @@
   <string name="wifi_security">Zabezpečení:</string>
   <string name="wifi_ssid">SSID:</string>
   <string name="wifi_warning">Před připojením se ujistěte, že tato Wi-Fi síť je bezpečná</string>
+  <string name="face_analyze_info_gender">Pohlaví:</string>
+  <string name="pref_camera_volumekey_function_title">Funkce tlačítek hlasitosti</string>
+  <string name="pref_camera_coloreffect_entry_vivid">Živé</string>
+  <string name="pref_camera_coloreffect_entry_yesteryear">Silvestr</string>
+  <string name="pref_camera_coloreffect_entry_brannan">Svítání</string>
+  <string name="pref_camera_coloreffect_entry_sketch">Kresba</string>
+  <string name="pref_camera_coloreffect_entry_seventy">1970</string>
+  <string name="pref_camera_coloreffect_entry_fisheye">Rybí oko</string>
+  <string name="pref_camera_coloreffect_entry_jstyle">Japanese</string>
+  <string name="pref_camera_coloreffect_entry_xproii">XProII</string>
+  <string name="pref_camera_coloreffect_entry_mosaic">Mozaika</string>
+  <string name="pref_camera_coloreffect_entry_earlybird">Podzim</string>
+  <string name="pref_camera_coloreffect_entry_nashvile">Indigo</string>
+  <string name="pref_camera_coloreffect_entry_planet">Malý svět</string>
+  <string name="pref_camera_coloreffect_entry_mirror">Zrcadlo</string>
+  <string name="pref_camera_coloreffect_entry_gaussianblur">Rozmazání</string>
 </resources>

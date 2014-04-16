@@ -57,6 +57,7 @@
     <string name="failed">Selhalo</string>
     <string name="file_download">Přijmout soubor</string>
     <string name="file_downloading">Soubor se stahuje</string>
+    <string name="file_not_exist">Soubor neexistuje</string>
     <string name="file_restore">Obnovit soubory</string>
     <string name="file_share_download_complete">Sdílený soubor stažen</string>
     <string name="file_share_upload_complete">Sdílený soubor odeslán</string>
