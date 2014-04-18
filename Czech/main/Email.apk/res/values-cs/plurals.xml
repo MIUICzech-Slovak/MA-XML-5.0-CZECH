@@ -21,36 +21,36 @@
         <item quantity="one">Zahodit z této konverzace koncepty?</item>
     </plurals>
     <plurals name="conversation_archived">
-        <item quantity="other">Archivované konverzace: &amp;lt;b>%1$d&amp;lt;/b></item>
-        <item quantity="one">Archivované konverzace: &amp;lt;b>%1$d&amp;lt;/b></item>
+        <item quantity="other">Archivované konverzace: (%1$d)</item>
+        <item quantity="one">Archivované konverzace: (%1$d)</item>
     </plurals>
     <plurals name="conversation_deleted">
-        <item quantity="other">Smazané konverzace: &amp;lt;b>%1$d&amp;lt;/b></item>
-        <item quantity="one">Smazané konverzace: &amp;lt;b>%1$d&amp;lt;/b></item>
+        <item quantity="other">Smazané konverzace: (%1$d)</item>
+        <item quantity="one">Smazané konverzace: (%1$d)</item>
     </plurals>
     <plurals name="conversation_folder_changed">
         <item quantity="other">Složky změněny.</item>
         <item quantity="one">Složka změněna.</item>
     </plurals>
     <plurals name="conversation_muted">
-        <item quantity="other">Ignorované konverzace: &amp;lt;b>%1$d&amp;lt;/b></item>
-        <item quantity="one">Ignorované konverzace: &amp;lt;b>%1$d&amp;lt;/b></item>
+        <item quantity="other">Ignorované konverzace: (%1$d)</item>
+        <item quantity="one">Ignorované konverzace: (%1$d)</item>
     </plurals>
     <plurals name="conversation_not_important">
-        <item quantity="other">Počet konverzací označených jako nedůležité: &amp;lt;b>%1$d&amp;lt;/b></item>
-        <item quantity="one">Počet konverzací označených jako nedůležité: &amp;lt;b>%1$d&amp;lt;/b></item>
+        <item quantity="other">Počet konverzací označených jako nedůležité: (%1$d)</item>
+        <item quantity="one">Počet konverzací označených jako nedůležité: (%1$d)</item>
     </plurals>
     <plurals name="conversation_not_spam">
-        <item quantity="other">Konverzace, které nebyly nahlášeny jako spam: &amp;lt;b>%1$d&amp;lt;/b></item>
-        <item quantity="one">Konverzace, které nebyly nahlášeny jako spam: &amp;lt;b>%1$d&amp;lt;/b></item>
+        <item quantity="other">Konverzace, které nebyly nahlášeny jako spam: (%1$d)b></item>
+        <item quantity="one">Konverzace, které nebyly nahlášeny jako spam: (%1$d)</item>
     </plurals>
     <plurals name="conversation_phished">
-        <item quantity="other">Konverzace nahlášené jako phishing: &amp;lt;b>%1$d&amp;lt;/b></item>
-        <item quantity="one">Konverzace nahlášené jako phishing: &amp;lt;b>%1$d&amp;lt;/b></item>
+        <item quantity="other">Konverzace nahlášené jako phishing: (%1$d)</item>
+        <item quantity="one">Konverzace nahlášené jako phishing: (%1$d)</item>
     </plurals>
     <plurals name="conversation_spammed">
-        <item quantity="other">Konverzace nahlášené jako spam: &amp;lt;b>%1$d&amp;lt;/b></item>
-        <item quantity="one">Konverzace nahlášené jako spam: &amp;lt;b>%1$d&amp;lt;/b></item>
+        <item quantity="other">Konverzace nahlášené jako spam: (%1$d)</item>
+        <item quantity="one">Konverzace nahlášené jako spam: (%1$d)</item>
     </plurals>
     <plurals name="conversation_unstarred">
         <item quantity="other">Ruší se označení %1$d konverzací hvězdičkou.</item>

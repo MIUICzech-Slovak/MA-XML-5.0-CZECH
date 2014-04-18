@@ -334,7 +334,7 @@
   <string name="folder_shortcut_widget_label">Složka aplikace E-mail</string>
   <string name="forward">Přeposlat</string>
   <string name="forward_attachment">Přeposlat</string>
-  <string name="forward_attribution">---------- Přeposlaná zpráva ----------&lt;br&gt;Od: %1$s&lt;br&gt;Datum: %2$s&lt;br&gt;Předmět: %3$s&lt;br&gt;Komu: %4$s&lt;br&gt;</string>
+  <string name="forward_attribution">---------- Přeposlaná zpráva ----------, Od: %1$s, Datum: %2$s, Předmět: %3$s, Komu: %4$s,</string>
   <string name="forward_attribution_no_headers">---------- Přeposlaná zpráva ----------</string>
   <string name="forward_download_failed_ticker">Nepodařilo se přeposlat jednu nebo více příloh.</string>
   <string name="forward_download_failed_title">Příloha nebyla přeposlána</string>
@@ -452,7 +452,7 @@ Kopie: %4$s
   <string name="more_string">+%1$s</string>
   <string name="more_than_999">999+</string>
   <string name="move_to_selection_dialog_title">Přesunout</string>
-  <string name="multiple_new_message_notification_item">&lt;b&gt;%1$s&lt;/b&gt; %2$s</string>
+  <string name="multiple_new_message_notification_item">%1$s %2$s</string>
   <string name="mute">Ignorovat</string>
   <string name="name_or_number_is_error">Nesprávné jméno nebo heslo</string>
   <string name="net_check_title">Chyba sítě, zkontrolujte nastavení。</string>
@@ -667,7 +667,7 @@ Kopie: %4$s
   <string name="via_domain">prostř. %1$s</string>
   <string name="view_more_conversations">Zobrazit další konverzace</string>
   <string name="wait_for_manual_sync_body">"Tento účet není nastaven na automatickou synchronizaci.
-Chcete-li poštu jednou synchronizovat, dotkněte se položky "&lt;b&gt;Synchronizovat&lt;/b&gt;. Chcete-li v &amp;#250;&amp;#269;tu nastavit automatickou synchronizaci po&amp;#353;ty, dotkn&amp;#283;te se polo&amp;#382;ky &lt;b&gt;Zm&amp;#283;nit nastaven&amp;#237; synchronizace&lt;/b&gt;.</string>
+Chcete-li poštu jednou synchronizovat, dotkněte se položky "Synchronizovat". Chcete-li v účtu nastavit automatickou synchronizaci pošty, dotkněte se položky - Změnit nastavení synchronizace.</string>
   <string name="wait_for_sync_body">Vaše e-maily se zobrazí za chvíli.</string>
   <string name="wait_for_sync_body_2">Exchange Server vás v průběhu 1-30 sekund spojí. Potvrďte bezpečnostní nastavení a aktivujte jej.</string>
   <string name="wait_for_sync_title">Čekání na synchronizaci</string>
