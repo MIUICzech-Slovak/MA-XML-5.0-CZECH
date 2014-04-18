@@ -14,8 +14,8 @@
         <item quantity="one">záznam</item>
     </plurals>
     <plurals name="select_n_item">
-        <item quantity="other">Vybraných: %d</item>
+        <item quantity="other">Vybráno: %d</item>
         <item quantity="zero">Zvolte položky</item>
-        <item quantity="one">Vybraných: %d</item>
+        <item quantity="one">Vybráno: %d</item>
     </plurals>
 </resources>
