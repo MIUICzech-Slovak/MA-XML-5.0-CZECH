@@ -37,7 +37,7 @@
     <string name="autofill_profile_editor_company_name">Jméno společnosti:</string>
     <string name="autofill_profile_editor_country">Krajina:</string>
     <string name="autofill_profile_editor_delete_profile">Smazat</string>
-    <string name="autofill_profile_editor_email_address">Email:</string>
+    <string name="autofill_profile_editor_email_address">E-mail:</string>
     <string name="autofill_profile_editor_heading">Zadejte text, který chcete předvyplnit do webových formulářů.</string>
     <string name="autofill_profile_editor_name">Celé jméno:</string>
     <string name="autofill_profile_editor_phone_number">Telefon:</string>
@@ -132,7 +132,7 @@
     <string name="contextmenu_openlink_newwindow">Otevřít v nové kartě</string>
     <string name="contextmenu_openlink_newwindow_background">Otevřít v nové kartě na pozadí</string>
     <string name="contextmenu_savelink">Uložit odkaz</string>
-    <string name="contextmenu_send_mail">Poslat email</string>
+    <string name="contextmenu_send_mail">Poslat e-mail</string>
     <string name="contextmenu_set_wallpaper">Nastavit jako pozadí</string>
     <string name="contextmenu_sharelink">Sdílet odkaz</string>
     <string name="contextmenu_view_image">Zobrazit obrázek</string>

@@ -139,7 +139,7 @@ přiložte další NFC štítek."</string>
     <string name="contact_card">Vizitka</string>
     <string name="contact_name">Jméno</string>
     <string name="contact_phone">Telefon</string>
-    <string name="contact_email">Email</string>
+    <string name="contact_email">E-mail</string>
     <string name="contact_address">Adresa</string>
     <string name="contact_company">Firma</string>
     <string name="contact_title">Titul</string>
@@ -160,7 +160,7 @@ přiložte další NFC štítek."</string>
     <string name="no_available_networks_summary">Zkuste to znovu po připojení k Wi-Fi</string>
     <string name="hint_wifi_password">Zadejte heslo k Wi-Fi</string>
     <string name="input_password_warning">"Heslo bude zapsáno na štítku, nezapomeňte jej!"</string>
-    <string name="send_email">Odeslat email</string>
+    <string name="send_email">Odeslat e-mail</string>
     <string name="email_to">Pro</string>
     <string name="email_subject">Předmět</string>
     <string name="email_body">Zpráva</string>

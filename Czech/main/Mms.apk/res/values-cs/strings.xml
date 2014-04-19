@@ -471,5 +471,5 @@ Pokus: %s."</string>
     <string name="view_message_details">Zobrazit podrobnosti zprávy</string>
     <string name="wap_push_title">"[WAP Push] "</string>
     <string name="yes">OK</string>
-    <string name="confirm_send_mms">Jeden z příjemců obsahuje emailovou adresu. Tato zpráva bude odeslána jako MMS.</string>
+    <string name="confirm_send_mms">Jeden z příjemců obsahuje e-mailovou adresu. Tato zpráva bude odeslána jako MMS.</string>
 </resources>

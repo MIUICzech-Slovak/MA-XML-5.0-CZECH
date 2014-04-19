@@ -81,8 +81,8 @@
         <item quantity="one">Čísel: %1$d</item>
     </plurals>
     <plurals name="hint_search_emails">
-        <item quantity="other">Emailů: %1$d</item>
-        <item quantity="one">1 Email</item>
+        <item quantity="other">E-mailů: %1$d</item>
+        <item quantity="one">1 e-mail</item>
     </plurals>
     <plurals name="pick_favorites_contacts_list_title">
         <item quantity="other">Oblíbených: %1$d</item>

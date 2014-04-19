@@ -192,7 +192,7 @@
     <string name="quick_response_email_failed">Není možné najít aplikaci E-mail</string>
     <string name="quick_response_settings">Rychlá odpověď</string>
     <string name="quick_response_settings_edit_title">Rychlá odpověď</string>
-    <string name="quick_response_settings_summary">Upravit vlastní odpověď při odeslání emailu</string>
+    <string name="quick_response_settings_summary">Upravit vlastní odpověď při odeslání e-mailu</string>
     <string name="quick_response_settings_title">Upravit rychlé odpovědi</string>   
     <string name="reminders_label">Přidat připomenutí</string>
     <string name="repeats_label">Opakování</string>

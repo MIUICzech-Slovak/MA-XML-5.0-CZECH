@@ -27,7 +27,7 @@
   <string name="account_security_policy_explanation_fmt">Server %s žádá o povolení, aby mohl vzdáleně ovládat některé funkce zabezpečení v zařízení Android.</string>
   <string name="account_security_title">Zabezpečení zařízení</string>
   <string name="account_set_up_change_type_note">Pokud chcete změnit nastavení účtu z POP3 a IMAP, musíte jej vymazat a znovu nastavit.</string>
-  <string name="account_set_up_notice">Během pár kroků můžete nastavit emailový účet</string>
+  <string name="account_set_up_notice">Během pár kroků můžete nastavit e-mailový účet</string>
   <string name="account_settings_action">Nastavení účtu</string>
   <string name="account_settings_background_attachments_label">Stahovat přílohy</string>
   <string name="account_settings_background_attachments_summary">Automaticky stahovat přílohy posledních zpráv pomocí sítě Wi-Fi</string>
@@ -165,14 +165,14 @@
   <string name="account_setup_outgoing_username_label">Uživatelské jméno</string>
   <string name="account_setup_security_policies_required_fmt">Server %s žádá o povolení, aby mohl vzdáleně ovládat některé funkce zabezpečení v zařízení Android. Chcete dokončit nastavení tohoto účtu?</string>
   <string name="account_setup_security_required_title">Vzdálená správa zabezpečení</string>
-  <string name="account_setup_service_not_set">Pokračujte v nastavení emailu</string>
+  <string name="account_setup_service_not_set">Pokračujte v nastavení e-mailu</string>
   <string name="account_setup_username_password_toast">Zadejte platnou e-mailovou adresu a heslo.</string>
   <string name="account_setup_username_uneditable_error">Uživatelské jméno účtu nemůžete změnit. Chcete-li přidat účet s jiným uživatelským jménem, dotkněte se možnosti Přidat účet.</string>
   <string name="account_sync_off">Synchronizace účtu je vypnuta</string>
   <string name="account_waiting_for_folders_msg">Načítání seznamu složek…</string>
   <string name="accounts_welcome">Účet můžete nakonfigurovat v několika snadných krocích.</string>
   <string name="actionbar_large_unread_count">Nepřečteno: %1$d+</string>
-  <string name="actionbar_title_mail_aggregation">Seskupení emailu:</string>
+  <string name="actionbar_title_mail_aggregation">Seskupení e-mailu:</string>
   <string name="activity_folder_selection">Výběr složky</string>
   <string name="activity_mailbox_selection">Výběr účtu</string>
   <string name="add_account">Přidat účet</string>
@@ -191,7 +191,7 @@
   <string name="always_show_images">Obr. od tohoto odesílatele vždy zobrazit</string>
   <string name="always_show_images_toast">Obrázky od tohoto odesílatele se zobrazí automaticky.</string>
   <string name="annex_size">přílohy</string>
-  <string name="app_name">Služby Exchange</string>
+  <string name="app_name">E-mail</string>
   <string name="archive">Archivovat</string>
   <string name="archived">Archivováno</string>
   <string name="att_mgr_no_attachment">Žádné přílohy!</string>
@@ -307,7 +307,7 @@
   <string name="drawer_close">Zavřít navigační složku</string>
   <string name="drawer_open">Otevřít navigační složku</string>
   <string name="edit_quick_response_dialog">Rychlá odpověď</string>
-  <string name="empty_email_tip">Nelze odeslat prázdný email</string>
+  <string name="empty_email_tip">Nelze odeslat prázdný e-mail</string>
   <string name="empty_spam">Vyprázdnit složku se spamem</string>
   <string name="empty_spam_dialog_title">Chcete vyprázdnit složku se spamem?</string>
   <string name="empty_trash">Vysypat koš</string>
@@ -480,7 +480,7 @@ Kopie: %4$s
   <string name="notification_exchange_calendar_added">Kalendář Exchange byl přidán</string>
   <string name="ok">OK</string>
   <string name="okay_action">OK</string>
-  <string name="other_mail">Jiný email</string>
+  <string name="other_mail">Jiný e-mail</string>
   <string name="password_changed_prompt">Nelze se přihlásit.</string>
   <string name="password_expire_warning_content_title">Heslo zámku obrazovky brzy vyprší</string>
   <string name="password_expire_warning_dialog_content_fmt">Je nutné, abyste si brzy změnili kód PIN nebo heslo pro uzamčení obrazovky, jinak dojde k vymazání údajů účtu %s. Chcete tuto změnu provést hned?</string>
@@ -590,7 +590,7 @@ Kopie: %4$s
   <string name="search_result">Nalezeno:</string>
   <string name="search_results_header">Výsledky</string>
   <string name="search_results_searching_header">Vyhledávání...</string>
-  <string name="search_title">Unified Email</string>
+  <string name="search_title">Unified E-mail</string>
   <string name="search_unsupported">Vyhledávání není v tomto účtu podporováno.</string>
   <string name="security_changed_ticker_fmt">Nastavení zabezpečení účtu %s byla změněna. Uživatel nemusí provádět žádnou akci.</string>
   <string name="security_needed_ticker_fmt">Účet %s požaduje aktualizaci nastavení zabezpečení.</string>
@@ -651,7 +651,7 @@ Kopie: %4$s
   <string name="too_large_to_attach_multiple">Jeden nebo více souborů nebylo připojeno. Limit je %1$s.</string>
   <string name="too_large_to_attach_single">Nelze připojit soubor větši než %1$s.</string>
   <string name="trash_folder_selection_title">Vyberte Koš serveru pro účet %s</string>
-  <string name="turn_auto_sync_on_dialog_body">Změny, které provedete ve všech aplikacích a účtech (nikoli jen v aplikaci Email), budou synchronizovány mezi webem, ostatními zařízeními a zařízením %1$s.</string>
+  <string name="turn_auto_sync_on_dialog_body">Změny, které provedete ve všech aplikacích a účtech (nikoli jen v aplikaci E-mail), budou synchronizovány mezi webem, ostatními zařízeními a zařízením %1$s.</string>
   <string name="turn_auto_sync_on_dialog_confirm_btn">Zapnout</string>
   <string name="turn_auto_sync_on_dialog_title">Zapnout automatickou synchronizaci?</string>
   <string name="undo">Vrátit zpět</string>

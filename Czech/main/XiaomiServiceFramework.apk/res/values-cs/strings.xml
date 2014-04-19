@@ -177,7 +177,7 @@ Vyčkejte prosím 5 minut a zkuste to znovu"</string>
     <string name="error_user_name">Nesprávné uživatelské jméno.</string>
     <string name="error_verify_summary">Aplikace nemá práva na tuto službu</string>
     <string name="error_verify_title">Nemáte povolení</string>
-    <string name="failed_to_send_activate_email">Chyba při zasílání aktivačního emailu.</string>
+    <string name="failed_to_send_activate_email">Chyba při zasílání aktivačního e-mailu.</string>
     <string name="fee">%1$s MiKreditů</string>
     <string name="find_device">Poloha zařízení</string>
     <string name="find_device_check_phone_error_title">Nepodařilo se zapnout zjišťování polohy zařízení</string>
@@ -241,7 +241,7 @@ prvně a nemohou být použité po vypršení platnosti"</string>
     <string name="micloud_activating_account_notify_info">Aktivujete Váš Xiaomi účet</string>
     <string name="micloud_activating_account_notify_title">Aktivace Vašeho Xiaomi účtu...</string>
     <string name="micloud_active_alert_title">Aktivovat Váš účet</string>
-    <string name="micloud_active_email_sent_1">Aktivační email zaslat na adresu:</string>
+    <string name="micloud_active_email_sent_1">Aktivační e-mail zaslat na adresu:</string>
     <string name="micloud_active_email_sent_2"/>	
     <string name="micloud_active_email_visit">Navštivte %s</string>	
     <string name="micloud_activing_account">Aktivuji váš účet</string>
@@ -421,7 +421,7 @@ Zkontrolujeme to do dvou pracovních dnů"</string>
     <string name="reg_failed">Registrace se nezdařila</string>
     <string name="reg_success">Registrace úspěšná</string>
     <string name="reg_success_summary">Vaše telefonní číslo %1$s je již propojené s MiLock. Pomocí něj se můžete přihlásit a obnovit Vaše heslo.</string>
-    <string name="reg_type_email">Registrovat přes email</string>
+    <string name="reg_type_email">Registrovat přes e-mail</string>
     <string name="reg_type_phone">Registrovat přes číslo telefonu (doporučené)</string>
     <string name="reging">Registrace, čekejte prosím...</string>
     <string name="relogin">Znovu přihlásit</string>
