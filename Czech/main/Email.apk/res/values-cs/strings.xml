@@ -15,7 +15,7 @@
   <string name="abc_searchview_description_voice">Hlasové vyhledávání</string>
   <string name="abc_shareactionprovider_share_with">Sdílet</string>
   <string name="abc_shareactionprovider_share_with_application">Sdílet s %s</string>
-  <string name="account_duplicate_dlg_message_fmt">"Toto uživatelské jméno již používáte pro účet \"%s\"."</string>
+  <string name="account_duplicate_dlg_message_fmt">"Toto uživatelské jméno již používáte pro účet „%s“</string>
   <string name="account_duplicate_dlg_title">Duplicitní účet</string>
   <string name="account_folder_list_summary_drafts">Koncepty</string>
   <string name="account_folder_list_summary_inbox">Doručená pošta</string>
@@ -77,8 +77,8 @@
   <string name="account_setup_basics_manual_setup_action">Ruční nastavení</string>
   <string name="account_setup_basics_password_label">Heslo</string>
   <string name="account_setup_basics_title">Nastavení účtu</string>
-  <string name="account_setup_check_settings_check_incoming_msg">Ověřování nastavení serveru…</string>
-  <string name="account_setup_check_settings_check_outgoing_msg">Ověřování nastavení serveru SMTP…</string>
+  <string name="account_setup_check_settings_check_incoming_msg">Ověřování nastavení serveru...</string>
+  <string name="account_setup_check_settings_check_outgoing_msg">Ověřování nastavení serveru SMTP...</string>
   <string name="account_setup_check_settings_retr_info_msg">Načítání informací o účtu...</string>
   <string name="account_setup_creating_account_msg">Vytváření účtu...</string>
   <string name="account_setup_exchange_certificate_title">Certifikát klienta</string>
@@ -169,7 +169,7 @@
   <string name="account_setup_username_password_toast">Zadejte platnou e-mailovou adresu a heslo.</string>
   <string name="account_setup_username_uneditable_error">Uživatelské jméno účtu nemůžete změnit. Chcete-li přidat účet s jiným uživatelským jménem, dotkněte se možnosti Přidat účet.</string>
   <string name="account_sync_off">Synchronizace účtu je vypnuta</string>
-  <string name="account_waiting_for_folders_msg">Načítání seznamu složek…</string>
+  <string name="account_waiting_for_folders_msg">Načítání seznamu složek...</string>
   <string name="accounts_welcome">Účet můžete nakonfigurovat v několika snadných krocích.</string>
   <string name="actionbar_large_unread_count">Nepřečteno: %1$d+</string>
   <string name="actionbar_title_mail_aggregation">Seskupení e-mailu:</string>
@@ -283,6 +283,7 @@
   <string name="date_message_received">%1$s, %2$s</string>
   <string name="date_message_received_today">Dnes v %1$s</string>
   <string name="date_message_received_yesterday">Včera v %1$s</string>
+  <string name="default_setup">VÝCHOZÍ NASTAVENÍ</string>
   <string name="delete">Smazat</string>
   <string name="deleted">Smazáno</string>
   <string name="device_admin_description">Povoluje zásady zabezpečení určené serverem</string>
@@ -367,7 +368,7 @@
   <string name="label_notification_ticker" formatted="false">%s: %s</string>
   <string name="load_more">Načíst další</string>
   <string name="loading_conversation">Načítá se...</string>
-  <string name="loading_conversations">Načítání…</string>
+  <string name="loading_conversations">Načítání...</string>
   <string name="local_search">Místní vyhledávání</string>
   <string name="login">Přihlásit</string>
   <string name="login_failed_ticker">Přihlášení k účtu %s se nezdařilo.</string>
@@ -498,8 +499,8 @@ Kopie: %4$s
   <string name="photo_load_failed">Fotografii nelze načíst</string>
   <string name="photo_view_count" formatted="false">%d z %d</string>
   <string name="please_fill_in_your_mailbox_information">Vyplňte prosím vaše %s detaily:</string>
-  <string name="please_fill_in_your_mailbox_information2">Vyplňte prosím vaše detaily:</string>
-  <string name="please_wait">Čekejte prosím…</string>
+  <string name="please_fill_in_your_mailbox_information2">Vyplňte přihlašovací údaje:</string>
+  <string name="please_wait">Čekejte prosím...</string>
   <string name="policy_app_blacklist">Blokovat zadané aplikace</string>
   <string name="policy_app_whitelist">Povolit pouze zadané aplikace</string>
   <string name="policy_bluetooth_restricted">Omezit použití připojení Bluetooth</string>
@@ -584,7 +585,7 @@ Kopie: %4$s
   <string name="save_attachment">Uložit</string>
   <string name="save_draft">Uložit koncept</string>
   <string name="saved">Uloženo, %s</string>
-  <string name="saving">Ukládání…</string>
+  <string name="saving">Ukládání...</string>
   <string name="search_attachment">Hledat</string>
   <string name="search_hint">Hledat v e-mailu</string>
   <string name="search_result">Nalezeno:</string>
@@ -605,7 +606,7 @@ Kopie: %4$s
   <string name="sender_whitelist_cleared">Obrázky se nebudou zobrazovat automaticky.</string>
   <string name="senders_split_token">, </string>
   <string name="sending">Odesílání...</string>
-  <string name="sending_message">Odesílání zprávy…</string>
+  <string name="sending_message">Odesílání zprávy...</string>
   <string name="sent_folder_selection_title">Vyberte složku odesl. položek %s</string>
   <string name="set_network">Nastavit síť</string>
   <string name="settings_activity_title">Nastavení</string>
