@@ -45,4 +45,12 @@
         <item quantity="other">%d aplikací může číst upozornění</item>
         <item quantity="one">%d aplikace může číst upozornění</item>
     </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">Zadali jste nesprávný kód PIN SIM karty. Počet zbývajících pokusů: %d.</item>
+        <item quantity="one">Zadali jste nesprávný kód PIN SIM karty. Máte ještě %d pokus, poté budete muset o odemknutí zařízení požádat svého operátora.</item>
+    </plurals>
+    <plurals name="print_search_result_count_utterance">
+        <item quantity="other">Počet nalezených tiskáren: %1$s</item>
+        <item quantity="one">Byla nalezena %1$s tiskárna</item>
+    </plurals>
 </resources>

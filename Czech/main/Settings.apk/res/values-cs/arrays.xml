@@ -646,4 +646,39 @@ Nyní můžete kopírovat soubory."</item>
         <item>Měřítko animace 5x</item>
         <item>Měřítko animace 10x</item>
     </string-array>
+    <string-array name="captioning_font_size_selector_titles">
+        <item>Velmi malé</item>
+        <item>Malé</item>
+        <item>Normální</item>
+        <item>Velké</item>
+        <item>Velmi velké</item>
+    </string-array>
+    <string-array name="captioning_edge_type_selector_titles">
+        <item>Žádné</item>
+        <item>Obrys</item>
+        <item>Stín</item>
+    </string-array>
+    <string-array name="captioning_preset_selector_titles">
+        <item>Bílé na černém</item>
+        <item>Černé na bílém</item>
+        <item>Žluté na černém</item>
+        <item>Žluté na modrém</item>
+        <item>Vlastní</item>
+    </string-array>
+    <string-array name="select_runtime_titles">
+        <item>Dalvik</item>
+        <item>ART</item>
+        <item>ART (režim ladění)</item>
+    </string-array>
+    <string-array name="select_runtime_summaries">
+        <item>Použít program Dalvik</item>
+        <item>Použít program ART</item>
+        <item>Použít ladicí sestavení programu ART</item>
+    </string-array>
+    <string-array name="debug_hw_overdraw_entries">
+        <item>Vypnuto</item>
+        <item>Zobrazit překreslované oblasti</item>
+        <item>Zobrazit oblasti pro deuteranomálii</item>
+        <item>Zobrazit počítadlo překreslení</item>
+    </string-array>
 </resources>
