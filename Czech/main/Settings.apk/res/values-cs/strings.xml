@@ -416,7 +416,6 @@ Poznámka: Zvětšení trojitým klepnutím funguje ve všech částech obrazovk
     <string name="bluetooth_dun_connection_permission_request">Požadavek pro DUN připojení</string>
     <string name="bluetooth_dun_profile_summary_connected">Připojeno k DUN serveru</string>
     <string name="bluetooth_dun_profile_summary_not_connected">Nepřipojeno k DUN serveru</string>
-    <string name="bluetooth_dun_profile_summary_use_for">Použít pro Dial-up Network Access</string>
     <string name="bluetooth_dun_remember_choice">"Příště se neptat"</string>
     <string name="bluetooth_dun_request">Požadavek DUN</string>
     <string name="bluetooth_empty_list_bluetooth_off">Chcete-li zobrazit zařízení, zapněte Bluetooth.</string>
@@ -530,8 +529,6 @@ Poznámka: Zvětšení trojitým klepnutím funguje ve všech částech obrazovk
     <string name="brightness_auto_adjust_on">Automatický jas můžete nastavit posouváním. Jas se bude měnit v závislosti na okolním osvětlení a Vašem nastavení.</string>
     <string name="brightness_summary">Nastavení jasu displeje</string>
     <string name="bssid_label">BSSID:</string>
-    <string name="bt_hci_snoop_log">Povolit sledování Bluetooth HCI</string>
-    <string name="bt_hci_snoop_log_summary">Zaznamenat všechny pakety Bluetooth HCI do souboru</string>
     <string name="bt_trace_log">Povolit Bluetooth Trace log</string>
     <string name="bt_trace_log_summary">Povolit Bluetooth Trace log</string>
     <string name="bugreport_in_power">Hlášení chyb z hlavní nabídky</string>
@@ -2930,8 +2927,6 @@ Každý uživatel může přijmout aktualizovaná oprávnění aplikací jménem
     <string name="voice_input_output_settings">Hlasový vstup a výstup</string>
     <string name="voice_input_output_settings_title">Nastavení hlasového vstupu a výstupu</string>
     <string name="voice_search_settings_title">Hlasové vyhledávání</string>
-    <string name="voice_summary">Select Subscription for Voice Call</string>
-    <string name="voice_title">Voice/USSD/MMI</string>
     <string name="volume_alarm_description">Budíky</string>
     <string name="volume_alarm_mute">Ztlumit budíky</string>
     <string name="volume_bluetooth_description">Bluetooth</string>
@@ -3638,8 +3633,6 @@ Nastavení jsou nedostupné"</string>
     <string name="print_settings_title">Tiskové služby</string>
     <string name="priority_sub_summary">Vybrat prioritu odběru</string>
     <string name="priority_sub_title">Priorita odběru</string>
-    <string name="process_provider_in_use_description">Poskytovatel %1$s se používá.</string>
-    <string name="process_service_in_use_description">Služba %1$s se používá.</string>
     <string name="process_stats_avg_ram_use">Průměrné využití paměti RAM</string>
     <string name="process_stats_max_ram_use">Minimální využití paměti RAM</string>
     <string name="process_stats_memory_status">Aktuální stav paměti zařízení: %1$s</string>
@@ -3664,14 +3657,10 @@ Nastavení jsou nedostupné"</string>
     <string name="set_priority_sub_error">Nelze nastavit prioritu předplatného. Předplatné není aktivní.</string>
     <string name="sim_enable_disable_lock_not_supported">Zámek není podporován touto kartou SIM/RUIM</string>
     <string name="sim_pin_change_failed_enable_sim_lock">Povolit zámek karty SIM/RUIM před změnou PIN</string>
-    <string name="sim_pin_disabled">Zakázaný PIN</string>
-    <string name="sim_pin_enabled">Povolený PIN</string>
     <string name="sms_application_title">Výchozí aplikace SMS</string>
     <string name="sms_change_default_dialog_text" formatted="false">Chcete pro zprávy SMS místo aplikace %s používat aplikaci %s?</string>
     <string name="sms_change_default_dialog_title">Chcete změnit aplikaci SMS?</string>
     <string name="sms_change_default_no_previous_dialog_text">Chcete pro zprávy SMS používat aplikaci %s?</string>
-    <string name="sms_summary">Vybrat odběr pro odesílání SMS</string>
-    <string name="sms_title">SMS</string>
     <string name="ssl_ca_cert_dialog_title">Monitorování sítě</string>
     <string name="ssl_ca_cert_info_message">"Toto zařízení je spravováno následující doménou:
 %s
@@ -3712,7 +3701,6 @@ Umožňují to důvěryhodné identifikační údaje nainstalované ve vašem za
     <string name="wifi_display_pause">Pozastavit</string>
     <string name="wifi_display_resume">Obnovit</string>
     <string name="wifi_display_session_info">Informace o relaci</string>
-    <string name="wifi_display_settings_empty_list_wifi_display_disabled">Bezdrátový displej je zakázán, protože je vypnuté připojení Wi-Fi.</string>
     <string name="wifi_display_status_in_use">Používá se</string>
     <string name="wifi_display_status_not_available">Není k dispozici</string>
     <string name="wifi_display_wps_config">WPS nastavení</string>
