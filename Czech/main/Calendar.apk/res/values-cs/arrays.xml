@@ -15,6 +15,7 @@
         <item>15 minut</item>
         <item>30 minut</item>
         <item>1 hodina</item>
+        <item>12 hodin</item>
         <item>1 den</item>
         <item>2 dny</item>
         <item>1 týden</item>
@@ -28,6 +29,7 @@
         <item>15</item>
         <item>30</item>
         <item>60</item>
+        <item>720</item>
         <item>1440</item>
         <item>2880</item>
         <item>10080</item>
@@ -41,6 +43,7 @@
         <item>15 minut</item>
         <item>30 minut</item>
         <item>1 hodina</item>
+        <item>12 hodin</item>
         <item>1 den</item>
         <item>2 dny</item>
         <item>1 týden</item>
@@ -54,6 +57,7 @@
         <item>15</item>
         <item>30</item>
         <item>60</item>
+        <item>720</item>
         <item>1440</item>
         <item>2880</item>
         <item>10080</item>
