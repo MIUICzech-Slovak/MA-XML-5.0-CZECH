@@ -3711,4 +3711,8 @@ Umožňují to důvěryhodné identifikační údaje nainstalované ve vašem za
     <string name="incoming_call_breathing_light_color_title">Barva LED zmeškaného hovoru</string>
     <string name="notification_breathing_light_color_title">Barva LED nového upozornění</string>
     <string name="mms_breathing_light_color_title">Barva LED nepřečtené zprávy</string>
+    <string name="preferred_sms_warning_message">Používáním aplikace \"%1$s\" se mohou zvýšit vaše poplatky, popřípadě může dojít k ohrožení vašeho soukromí.</string>
+    <string name="preferred_sms_warning_use_system">Nepoužít</string>
+    <string name="preferred_sms_settings">Tato aplikace bude nastavena jako výchozí pro příjem a odesílání SMS zpráv.</string>
+    <string name="preferred_sms_title">Výchozí aplikace SMS zpráv</string>
 </resources>
