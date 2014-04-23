@@ -179,7 +179,7 @@ Zkuste to znovu za %d sekund."</string>
     <string name="pincode_set_to_default_msg">PIN je nastavený na 1234, nastavte nový PIN.</string>
     <string name="private_num">Soukromé číslo</string>
     <string name="puk_operation_failed">PUK selhal.</string>
-    <string name="reboot_confirm">Telefon se restartuje</string>
+    <string name="reboot_confirm">Telefon bude restartován. Pokračovat?</string>
     <string name="reboot_confirm_title">Opravdu chcete restartovat Váš telefon?</string>
     <string name="reboot_progress">Restartuji...</string>
     <string name="retrocession_day"/>

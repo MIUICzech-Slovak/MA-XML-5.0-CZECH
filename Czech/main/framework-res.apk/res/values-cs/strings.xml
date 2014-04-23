@@ -276,7 +276,7 @@
     <string name="silent_mode_vibrate">Vibrační vyzvánění</string>
     <string name="silent_mode_ring">Vyzvánění zapnuto</string>
     <string name="shutdown_progress">Vypínání\u2026</string>
-    <string name="shutdown_confirm">Váš telefon bude vypnut.</string>
+    <string name="shutdown_confirm">Telefon bude vypnut. Pokračovat?</string>
     <string name="shutdown_confirm_question">Chcete zařízení vypnout?</string>
     <string name="reboot_safemode_title">Restart v nouzovém režimu</string>
     <string name="reboot_safemode_confirm">Chcete zařízení restartovat v nouzovém režimu? Deaktivujete tak veškeré nainstalované aplikace třetích stran. Po dalším restartu budou obnoveny.</string>
