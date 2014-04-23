@@ -71,7 +71,7 @@ https://account.xiaomi.com/pass/serviceLogin""</string>
     <string name="kernel_upgrade_link"/>
     <string name="kernel_upgrade_version"/>
     <string name="later">Později</string>
-    <string name="loading">Připojení na MIUI server</string>
+    <string name="loading">Připojování k MIUI serveru...</string>
     <string name="md5_check_cancelled">Ověření kontrolního součtu zrušeno</string>
     <string name="mione_update_fail_description">Prosím spusťte aktualizaci znovu</string>
     <string name="mione_update_fail_title">Aktualizace systému selhala!</string>

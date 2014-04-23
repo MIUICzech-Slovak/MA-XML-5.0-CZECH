@@ -317,7 +317,7 @@
   <string name="enumeration_comma">", "</string>
   <string name="exception_cancel">Tato událost byla zrušena pro datum: %s</string>
   <string name="exception_updated">Podrobnosti této události byly změněny pro datum: %s</string>
-  <string name="exchange_name">Firemní</string>
+  <string name="exchange_name">E-mail (Firemní)</string>
   <string name="exchange_name_alternate">Microsoft Exchange ActiveSync</string>
   <string name="expand_recipient_details">Rozbalit podrobnosti o příjemci</string>
   <string name="failed">Fotografii nelze načíst</string>
@@ -359,7 +359,7 @@
   <string name="hide_folders">Skrýt složky</string>
   <string name="hint_quick_reply_all">Odpovědět všem</string>
   <string name="ignore_spam_warning">Ignorovat, zprávě důvěřuji</string>
-  <string name="imap_name">IMAP</string>
+  <string name="imap_name">E-mail (IMAP)</string>
   <string name="inbox_folders_heading">Doručená pošta</string>
   <string name="info">Informace</string>
   <string name="input_password_prompt">Zadejte heslo:</string>
@@ -530,7 +530,7 @@ Kopie: %4$s
   <string name="policy_require_smime">Požadovat zprávy ve formátu SMIME</string>
   <string name="policy_screen_timeout">Při nečinnosti zamknout obrazovku</string>
   <string name="policy_text_truncation">Omezit velikost textových e-mailů</string>
-  <string name="pop3_name">POP3</string>
+  <string name="pop3_name">E-mail (POP3)</string>
   <string name="prefDialogTitle_conversationListIcon">Obrázek odesílatele</string>
   <string name="prefDialogTitle_removal_action">Akce archivace a smazání</string>
   <string name="preference_removal_action_title">Akce archivace a smazání</string>

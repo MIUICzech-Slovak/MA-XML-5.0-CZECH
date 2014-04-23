@@ -13,7 +13,7 @@
   <string name="act_init_dialog_finish">Byly přidány globální informace o počasí.</string>
   <string name="act_set_city_find_side">Zjišťování polohy...</string>
   <string name="act_set_city_find_side_error">Zjištění polohy selhalo.</string>
-  <string name="act_set_city_find_side_on">Otevřít polohu</string>
+  <string name="act_set_city_find_side_on">Zjistit polohu</string>
   <string name="act_set_city_re_find_side">Hledání...</string>
   <string name="act_weather_aqi_share">Sdílet</string>
   <string name="act_weather_aqi_title">Index kvality ovzduší</string>
