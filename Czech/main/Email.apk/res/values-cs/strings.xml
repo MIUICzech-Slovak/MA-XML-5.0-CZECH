@@ -467,7 +467,7 @@ Kopie: %4$s
   <string name="no_mails">Žádné zprávy</string>
   <string name="no_matched_attachment">Žádné přílohy nebyly nalezeny!</string>
   <string name="non_synced_folder_description">Chcete-li zobrazit konverzace, synchronizujte tuto složku.</string>
-  <string name="not_subject">Bez předmětu</string>
+  <string name="not_subject">(Bez předmětu)</string>
   <string name="not_synced_title">Účet není synchronizován</string>
   <string name="not_updated_yet">Neaktualizováno</string>
   <string name="notification_action_archive">Archivovat</string>
@@ -498,7 +498,7 @@ Kopie: %4$s
   <string name="phone">telefon</string>
   <string name="photo_load_failed">Fotografii nelze načíst</string>
   <string name="photo_view_count" formatted="false">%d z %d</string>
-  <string name="please_fill_in_your_mailbox_information">Vyplňte prosím vaše %s detaily:</string>
+  <string name="please_fill_in_your_mailbox_information">Vyplňte prosím vaše %s údaje:</string>
   <string name="please_fill_in_your_mailbox_information2">Vyplňte přihlašovací údaje:</string>
   <string name="please_wait">Čekejte prosím...</string>
   <string name="policy_app_blacklist">Blokovat zadané aplikace</string>
@@ -678,4 +678,13 @@ Chcete-li poštu jednou synchronizovat, dotkněte se položky "Synchronizovat". 
   <string name="wrong_password">Nesprávné heslo!</string>
   <string name="yes">Ano</string>
   <string name="zip_viewer_no_file">Žádné soubory!</string>
+  <string name="request_entity_large">Požadovaný soubor je příliš velký!</string>
+  <string name="conversation_item_mark_read">Přečteno</string>
+  <string name="conversation_item_mark_unread">Nepřečteno</string>
+  <string name="default_signature">Odesláno z MIUI</string>
+  <string name="outbox_alert_title_sent_failed">Odesílání selhalo</string>
+  <string name="outbox_alert_description_sent_failed">"Příčina: Velikost přílohy
+přesahuje limit"</string>
+  <string name="outbox_alert_button_confirm">Upravit</string>
+  <string name="blank_feedback_toast">Zpětná vazba je prázdná, napište váš názor!</string>
 </resources>

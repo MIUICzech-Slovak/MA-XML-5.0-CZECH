@@ -98,4 +98,8 @@
     <plurals name="show_messages_read">
         <item quantity="other">Starší zprávy: %1$d</item>
     </plurals>
+    <plurals name="contact_num_selected">
+        <item quantity="other">Vybraných: %d</item>
+        <item quantity="one">Vybraných: 1</item>
+    </plurals>
 </resources>

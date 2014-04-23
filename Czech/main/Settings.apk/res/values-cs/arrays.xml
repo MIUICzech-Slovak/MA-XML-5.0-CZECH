@@ -188,10 +188,6 @@
         <item>Systrace (grafika)</item>
         <item>Volat Zásobník při chybě glGetError</item>
     </string-array>
-    <string-array name="entries_color_calibration">
-        <item>sRGB</item>
-        <item>Přirozené</item>
-    </string-array>
     <string-array name="entries_font_size">
         <item>Malé</item>
         <item>Normální</item>

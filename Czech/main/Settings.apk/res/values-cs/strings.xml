@@ -1284,7 +1284,7 @@ Toto nastavení ovlivní všechny uživatele tohoto telefonu."</string>
     <string name="led_colors_summary">Barva LED při notifikaci</string>
     <string name="led_frequence_summary">Nastavit interval blikání LED</string>
     <string name="led_pulse_summary">Při nové notifikaci blikat LEDkou</string>
-    <string name="led_settings">LED</string>
+    <string name="led_settings">Oznamovací LED</string>
     <string name="legal_information">Právní informace</string>
     <string name="license_title">Licence</string>
     <string name="line_breaking_summary">Optimalizovat zalamování textu</string>
@@ -2302,7 +2302,7 @@ Toto nastavení ovlivní všechny uživatele tohoto telefonu."</string>
     <string name="search_label">Nastavení</string>
     <string name="search_language">Jazyk</string>
     <string name="search_launcher">Launcher</string>
-    <string name="search_led">LED</string>
+    <string name="search_led">Oznamovací LED</string>
     <string name="search_network">Síť</string>
     <string name="search_power_mode">running mode; performance; priority performance; performance mode; normal mode; conventional mode; default mode; balanced performance; saving mode; energy-saving mode; performance; power</string>
     <string name="search_ring_volume">Hlasitost zvonění</string>
@@ -3705,4 +3705,10 @@ Umožňují to důvěryhodné identifikační údaje nainstalované ve vašem za
     <string name="wifi_display_status_not_available">Není k dispozici</string>
     <string name="wifi_display_wps_config">WPS nastavení</string>
     <string name="wrong_pin_code_pukked">Zadali jste nesprávný kód PIN SIM karty. Nyní musíte za účelem odemknutí zařízení kontaktovat svého operátora.</string>
+    <string name="incoming_call_breathing_light_freq_title">Frekv. blikání LED při zmešk. hovoru</string>
+    <string name="notification_breathing_light_freq_title">Frekv. blikání LED při upozornění</string>
+    <string name="mms_breathing_light_freq_title">Frekv. blikání LED při zprávě</string>
+    <string name="incoming_call_breathing_light_color_title">Barva LED zmeškaného hovoru</string>
+    <string name="notification_breathing_light_color_title">Barva LED nového upozornění</string>
+    <string name="mms_breathing_light_color_title">Barva LED nepřečtené zprávy</string>
 </resources>
