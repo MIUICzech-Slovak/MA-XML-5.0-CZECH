@@ -3380,7 +3380,7 @@ Vaše zařízení se přepne po obnově baterie do tohoto režimu. Před vymazá
     <string name="notification_title_firewall_blocked">Blokováno</string>
     <string name="virus_scan_clean_dialog_message">Čištění...</string>
     <string name="button_text_a_key_uninstall">Odinstalovat</string>
-    <string name="optimize_installed_apps_header_left">Stáhnout apl.:%d</string>
+    <string name="optimize_installed_apps_header_left">Stáhnuté apl.:%d</string>
     <string name="deep_clean_title_uninstall_apps">Aplikace</string>
     <string name="deep_clean_summary_install_apps_today">dnes použité</string>
     <string name="deep_clean_summary_install_apps_interval">před %d dny</string>
@@ -3503,7 +3503,7 @@ Vaše zařízení se přepne po obnově baterie do tohoto režimu. Před vymazá
     <string name="power_mode_my_mode">Můj režim</string>
     <string name="power_mode_my_mode_summary">Automaticky uložit stav denního používání</string>
     <string name="power_apply_toast">Přepnout na %s režim a uložit současný profil</string>
-    <string name="power_customize_giveup_change">Nezměnit?</string>
+    <string name="power_customize_giveup_change">Zrušit změny?</string>
     <string name="pref_category_title_securitycenter_settings">Nastavení Optimalizace</string>
     <string name="pref_category_title_module_settings">Nastavení modulů</string>
     <string name="empty_folder_title_hints">Prázdná složka</string>
