@@ -173,6 +173,7 @@
     <string name="call_waiting_tone_title_miui">Tón čekajícího hovoru</string>
     <string name="call_waiting_tone_twice_and_vibrate_miui">Přehrát tón výzvy a 2x vibrovat</string>
     <string name="call_waiting_tone_twice_only_miui">Přehrát 2x pouze tón</string>
+    <string name="callwait_open_hint">\"Čekající hovor\" je služba poskytovaná operátorem. Když se zobrazí \"Chybný MMI kód\", obraťte se na svého operátora.</string>
     <string name="caller_id_sum_miui">Skrýt/zobrazit mé číslo u odchozích hovorů (pokud síť podporuje)</string>
     <string name="caller_id_title_miui">ID volajícího</string>
     <string name="caller_manage_header">Konferenční hovor %s</string>
@@ -743,6 +744,7 @@
     <string name="onscreen_swap_calls_text_miui">Přepnout</string>
     <string name="onscreen_tools_off_miui">Nástroje</string>
     <string name="onscreen_tools_on_miui">Nástroje</string>
+    <string name="open_miui">Otevřít</string>
     <string name="optional_summary">&lt;Volitelné></string>
     <string name="ota_activate">Aktivovat</string>
     <string name="ota_call_end">Zpět</string>
