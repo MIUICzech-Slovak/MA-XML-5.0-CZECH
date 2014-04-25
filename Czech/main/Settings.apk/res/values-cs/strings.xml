@@ -1270,14 +1270,14 @@ Toto nastavení ovlivní všechny uživatele tohoto telefonu."</string>
     <string name="language_settings">Jazyk a vstup</string>
     <string name="language_settings_category">Nastavení jazyka</string>
     <string name="large_font">Velká</string>
-    <string name="last_check_canceled">Doporučuje se kontrola: Předchozí kontrola byla zrušena před dokončením</string>	
+    <string name="last_check_canceled">Minulá kontrola byla zrušena.</string>	
     <string name="last_check_date_today">"Poslední kontrola: Dnes "</string>
     <string name="last_check_date_yesterday">Poslední kontrola: Včera</string>
     <string name="last_check_never_checked">Doporučuje se spustit kontrolu</string>
     <string name="last_checked_date">Doporučuje se kontrola: Naposledy před 30 dny</string>
     <string name="last_checked_date2">Poslední kontrola před %d dny</string>
     <string name="last_checked_date_mark">bodů</string>
-    <string name="last_checked_default">Doporučuje se kontrola: Naposledy před %s dny</string>
+    <string name="last_checked_default">Naposledy před %s dny</string>
     <string name="last_synced">Naposledy synch. %1$s</string>
     <string name="launch_count_label">Počet</string>
     <string name="launcher_settings_title">Launcher</string>

@@ -83,7 +83,7 @@
     <string name="download_batch_start">Spustit stahování všeho</string>
     <string name="download_completed">Stáhnuto</string>
     <string name="download_lyric_settings">Automaticky stahovat texty</string>
-    <string name="download_lyric_summary">"Stahování textů písní"</string>
+    <string name="download_lyric_summary">"Stahování textů skladeb."</string>
     <string name="download_processing">Stahování</string>
     <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
     <string name="durationformatshort">%2$d:%5$02d</string>
@@ -173,7 +173,7 @@
     <string name="load_artist_failed">Načítání selhalo, zkuste to prosím znovu.</string>
     <string name="load_artist_in_process">Načítání seznamu umělců</string>
     <string name="load_audio_failed">Načítání selhalo, zkuste to prosím znovu.</string>
-    <string name="load_audio_in_process">Načítání seznamu písní</string>
+    <string name="load_audio_in_process">Načítání seznamu skladeb</string>
     <string name="load_bill_failed">Načítání selhalo, zkuste to prosím znovu.</string>
     <string name="load_bill_in_process">Načítání seznamu hitů</string>
     <string name="load_channel_failed">Načítání selhalo, zkuste to prosím znovu.</string>
@@ -181,8 +181,8 @@
     <string name="loading">Načítám</string>
     <string name="login">Přihlásit se</string>
     <string name="login_first">Musíte se nejprve přihlásit ke svému Xiaomi účtu</string>
-    <string name="lrc_progress_modify">Nastavit rychlost textu písně</string>
-    <string name="lrc_progress_modify_helper">Nastavte rychlost textu písně posunutím nahoru, nebo dolů</string>
+    <string name="lrc_progress_modify">Nastavit rychlost textu skladby</string>
+    <string name="lrc_progress_modify_helper">Nastavte rychlost textu skladby posunutím nahoru, nebo dolů</string>
     <string name="lrc_search_failed">Texty nenalezeny!</string>
     <string name="lrc_searching">Hledání textů...</string>
     <string name="lrc_select">Vyberte text</string>
@@ -305,7 +305,7 @@
     <string name="shake_settings">Zatřepáním přeskočit</string>
     <string name="shake_summary">Zatřepejte s telefonem pro přeskočení skladby</string>
     <string name="shake_while_screen_on_title">Pouze při zap. displeji</string>
-    <string name="shake_while_screen_on_title_summary">Zatřepání přepne písničku jen, když je display zapnutý. Zabrání přeskakování skladeb např. při chůzi</string>
+    <string name="shake_while_screen_on_title_summary">Zatřepání přepne skladbu pouze při zapnutém displeji. Zabrání přeskakování skladeb např. při chůzi</string>
     <string name="shuffle_all">Vše náhodně</string>
     <string name="sort_by_album">Alba</string>
     <string name="sort_by_artist">Umělci</string>
