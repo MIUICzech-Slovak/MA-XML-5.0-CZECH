@@ -233,7 +233,7 @@
   <string name="cannot_move_special_mailboxes_toast">Zprávy ve složkách Koncepty, Pošta k odeslání a Odeslané nelze přesouvat.</string>
   <string name="cant_move_or_change_labels">Přesun nelze uskutečnit, protože vybrané zprávy pocházejí z různých účtů.</string>
   <string name="cc">Kopie</string>
-  <string name="cc_attribution">Kopie: %1$s<br></string>
+  <string name="cc_attribution">Kopie: %1$s</string>
   <string name="cc_heading">"Kopie: "</string>
   <string name="change_account_confirm">Účet \"%1$s\" bude odebrán</string>
   <string name="change_account_type">Změnit typ účtu</string>
