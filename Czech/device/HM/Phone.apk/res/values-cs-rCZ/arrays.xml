@@ -38,14 +38,4 @@
         <item>Jen WCDMA</item>
         <item>Jen GSM</item>
     </string-array>
-    <string-array name="plmn_prefer_network_mode_td_choices">
-        <item>GSM</item>
-        <item>TD-SCDMA</item>
-        <item>Dual</item>
-    </string-array>
-    <string-array name="plmn_prefer_network_mode_choices">
-        <item>GSM</item>
-        <item>WCDMA</item>
-        <item>Dual</item>
-    </string-array>
 </resources>

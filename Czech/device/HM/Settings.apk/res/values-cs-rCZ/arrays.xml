@@ -101,14 +101,4 @@
         <item>7 připojených</item>
         <item>8 připojených</item>
     </string-array>
-    <string-array name="led_color_entries">
-        <item>Modrá</item>
-        <item>Červená</item>
-        <item>Zelená</item>
-    </string-array>
-    <string-array name="led_color_values">
-        <item>blue</item>
-        <item>red</item>
-        <item>green</item>
-    </string-array>
 </resources>

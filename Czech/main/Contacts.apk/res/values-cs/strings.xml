@@ -46,7 +46,7 @@
   Pokud používáte synchronizaci kontaktů s cloudem, budou vymazány i odtud."</string>
     <string name="bluetooth_connection_failed_toast">Bluetooth spojení se přerušilo</string>
     <string name="blurbJoinContactDataWith">Vyberte kontakt, se kterým chcete sloučit %s.</string>
-    <string name="btn_delete_multi_contacts">Vymazat %d kontaktů</string>
+    <string name="btn_delete_multi_contacts">Vymazat kontakt (%d)</string>
     <string name="btn_delete_one_contact">Vymazat kontakt</string>
     <string name="btn_rotation">Rotace</string>
     <string name="btn_split_contact">Rozdělit kontakt</string>
@@ -534,7 +534,7 @@ Chyba: \"%s\""</string>
     <string name="menu_joinAggregate">Spojit</string>
     <string name="menu_newContact">Nový kontakt</string>
     <string name="menu_new_contact_action_bar">Nový kontakt</string>
-    <string name="menu_new_favorite_action_bar">Nový oblíbený kontakt</string>
+    <string name="menu_new_favorite_action_bar">Oblíbený kontakt</string>
     <string name="menu_new_group_action_bar">Nová skupina</string>
     <string name="menu_not_redirect_calls_to_vm">Hlasová schránka se nepoužívá</string>
     <string name="menu_redirect_calls_to_vm">Přesměrovat do hlasové schránky</string>

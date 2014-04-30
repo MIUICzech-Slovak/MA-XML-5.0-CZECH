@@ -31,7 +31,7 @@
     <string name="dlg_remove_blacklist_ok">Odstranit</string>
     <string name="dlg_retore">Obnovit tyto SMS zprávy?</string>
     <string name="dlg_retore_ok">Obnovit</string>
-    <string name="fw_blocked">Blokované:</string>
+    <string name="fw_blocked">Blokované</string>
     <string name="fw_blocked_count" formatted="false">"Blokované: "</string>
     <string name="log_count">(%d)</string>
     <string name="marked_by_others">%d lidí označilo jako</string>
@@ -172,8 +172,8 @@
     <string name="note_preference_delete">Tento režim blokování se nyní používá a nemůže být vymazán.</string>
     <string name="block_message_number">Blokované SMS: %d</string>
     <string name="block_phone_number">Blokované Hovory: %d</string>
-    <string name="fw_blocked_count_call">%d hovory a</string>
-    <string name="fw_blocked_count_sms">%d SMS</string>
+    <string name="fw_blocked_count_call">Hovory (%d)</string>
+    <string name="fw_blocked_count_sms">SMS (%d)</string>
     <string name="wl_no_whitelist">Žádná čísla</string>
     <string name="user_define_title">Vlastní režim</string>
     <string name="blacklist_prefix_add_hint">Přidat všechny čísla s předvolbou do Černé listiny</string>

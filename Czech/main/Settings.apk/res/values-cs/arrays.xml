@@ -16,11 +16,6 @@
         <item>CHAP</item>
         <item>PAP nebo CHAP</item>
     </string-array>
-    <string-array name="apn_protocol_entries">
-        <item>IPv4</item>
-        <item>IPv6</item>
-        <item>IPv4/IPv6</item>
-    </string-array>
     <string-array name="app_install_location_entries">
         <item>Interní úložiště zařízení</item>
         <item>Vyjímatelná SD karta</item>
@@ -516,14 +511,6 @@ Nyní můžete kopírovat soubory."</item>
         <item>Časový limit vypršel</item>
         <item>Neúspěšné</item>
     </string-array>
-    <string-array name="vpn_types">
-        <item>PPTP</item>
-        <item>L2TP/IPSec PSK</item>
-        <item>L2TP/IPSec RSA</item>
-        <item>IPSec Xauth PSK</item>
-        <item>IPSec Xauth RSA</item>
-        <item>IPSec Hybrid RSA</item>
-    </string-array>
     <string-array name="vpn_types_long">
         <item>VPN s protokolem PPTP</item>
         <item>L2TP/IPSec VPN s předsdílenými klíči</item>
@@ -544,18 +531,6 @@ Nyní můžete kopírovat soubory."</item>
         <item>Automaticky připojit</item>
         <item>Manuálně připojit</item>
         <item>Vždy se zeptat</item>
-    </string-array>
-    <string-array name="wifi_eap_entries">
-        <item>PEAP</item>
-        <item>TLS</item>
-        <item>TTLS</item>
-        <item>PWD</item>
-    </string-array>
-    <string-array name="wifi_eap_method">
-        <item>PEAP</item>
-        <item>TLS</item>
-        <item>TTLS</item>
-        <item>PWD</item>
     </string-array>
     <string-array name="wifi_frequency_band_entries">
         <item>Automaticky</item>
