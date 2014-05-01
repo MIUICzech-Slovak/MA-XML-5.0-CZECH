@@ -96,4 +96,5 @@
     <string name="setting_instant_photo_text">Zaostřit před vyfocením</string>
     <string name="setting_vibrate_text">Vibrační odezva</string>
     <string name="setting_instant_photo_desc">"Před zhotovením fotografie, fotoaparát zaostří"</string>
+	<string name="setting_vibrate_desc">Pro oznámení vykonání funkce telefon zavibruje.</string>
 </resources>
