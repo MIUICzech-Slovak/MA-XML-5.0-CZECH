@@ -326,13 +326,6 @@ Nyní můžete kopírovat soubory."</item>
     	<item>Síť je pomalá z důvodu slabého signálu</item>
     	<item>Přesouvání...</item>
     </string-array>
-    <string-array name="overlay_display_devices_entries">
-        <item>Žádné</item>
-        <item>720x480 mdpi</item>
-        <item>1280x720 tvdpi</item>
-        <item>1920x1080 xhdpi</item>
-        <item>1280x720 tvdpi a 1920x1080 xhdpi</item>
-    </string-array>
     <string-array name="perm_hips_action">
         <item>Povolit</item>
         <item>Zeptat se</item>

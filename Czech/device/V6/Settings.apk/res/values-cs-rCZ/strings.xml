@@ -451,7 +451,6 @@ Chcete použit čas z GPS?"</string>
     <string name="roaming_warning_multiuser">"Pokud povolíte data v roamingu, mohou se zvýšit Vaše měsíční poplatky!
 
 Toto nastavení ovlivni všechny uživatele na tomto zařízení."</string>
-    <string name="rssi_label">RSSI:</string>
     <string name="running_process_item_removed_user_label">Odstraněný uživatel</string>
     <string name="running_process_item_user_label">Uživatel: %1$s</string>
     <string name="schedule_power_on_off_settings_title">Naplánované zapnutí a vypnutí</string>
