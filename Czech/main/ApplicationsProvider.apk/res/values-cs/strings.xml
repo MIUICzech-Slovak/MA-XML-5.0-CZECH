@@ -1,8 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="app_label">Vyhledávací aplikace</string>
-    <string name="application_desc">Aplikace</string>
-    <string name="search_label">Aplikace</string>
-    <string name="settings_description">Názvy instalovaných aplikací</string>
+  <string name="app_label">Vyhledávací aplikace</string>
+  <string name="application_desc">Aplikace</string>
+  <string name="search_label">Aplikace</string>
+  <string name="settings_description">Názvy instalovaných aplikací</string>
 </resources>

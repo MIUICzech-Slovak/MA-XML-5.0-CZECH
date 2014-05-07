@@ -1,8 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="app_name">Security Guard</string>
-    <string name="hello_world">Ahoj světe!</string>
-    <string name="menu_settings">Nastavení</string>
-    <string name="title_activity_main">MainActivity</string>
+  <string name="app_name">Security Guard</string>
+  <string name="hello_world">Ahoj světe!</string>
+  <string name="menu_settings">Nastavení</string>
+  <string name="title_activity_main">MainActivity</string>
 </resources>

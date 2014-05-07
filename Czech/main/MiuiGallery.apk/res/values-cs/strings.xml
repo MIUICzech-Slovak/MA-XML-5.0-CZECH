@@ -1,5 +1,4 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
 <resources>
   <string name="Import">Import</string>
   <string name="accept">Přijmout</string>
@@ -83,7 +82,7 @@
   <string name="cleaning_cache">Odstraňování cache...</string>
   <string name="clear_thumbnail_cache">Vymazat cache náhledů</string>
   <string name="clear_thumbnail_cache_confirm">Cache náhledů bude vymazána. Galérie prohledá mediální soubory a vytvoří nové náhledy.</string>
-  <string name="clear_thumbnail_cache_summary">Prohlížení galerie vytvoří náhledy. Vymazání mezipaměti uvolní místo na úložišti.</string> 
+  <string name="clear_thumbnail_cache_summary">Prohlížení galerie vytvoří náhledy. Vymazání mezipaměti uvolní místo na úložišti.</string>
   <string name="click_to_enter_camera">Otevřít fotoaparát</string>
   <string name="click_top_right">Stiskněte ikonu vpravo nahoře</string>
   <string name="close">Zavřít</string>
@@ -116,7 +115,7 @@ společně!"</string>
   <string name="comfirm_delete_current_album">Vymazat toto album?</string>
   <string name="confirm">OK</string>
   <string name="confirm_delete">Opravdu chcete položky (%s) vymazat?</string>
-  <string formatted="false" name="confirm_delete_album">Opravdu chcete vymazat alba (%s) včetně obsažených položek(%s)?</string>
+  <string name="confirm_delete_album" formatted="false">Opravdu chcete vymazat alba (%s) včetně obsažených položek(%s)?</string>
   <string name="confirm_delete_cloud_all_item_page" formatted="false">Obrázky: %s, alba: %s. Opravdu chcete vymazat?</string>
   <string name="confirm_delete_pictures">obrázky (%s)</string>
   <string name="confirm_delete_system_album">%s je systémové album, opravdu vymazat?</string>
@@ -142,9 +141,9 @@ společně!"</string>
   <string name="crossprocess">Překrytí</string>
   <string name="cut">Ořezání</string>
   <string name="damaged_file">Soubor je poškozený</string>
-  <string name="dcim_100media">Taobao TMall</string>  
-  <string name="dcim_opaipic">Opaipic</string>  
-  <string name="dcim_viva_pics">VIVA</string> 
+  <string name="dcim_100media">Taobao TMall</string>
+  <string name="dcim_opaipic">Opaipic</string>
+  <string name="dcim_viva_pics">VIVA</string>
   <string name="defalt_local_mobile">Mobile</string>
   <string name="delete"> Vymazat</string>
   <string name="delete_fail_too_many_items">Nepodařilo se vymazat, je vybráno příliš mnoho položek</string>
@@ -179,10 +178,10 @@ společně!"</string>
   <string name="error_cloud_not_active">Cloud album se nepoužívá</string>
   <string name="error_invalid_link">Tento odkaz je neplatný. Požádejte vlastníka o vytvoření nového odkazu.</string>
   <string name="error_repeat_apply">Toto album je již sdílené</string>
+  <string name="error_share_with_creator">Již jste členem v tomto albu</string>
   <string name="error_should_not_select_image">Upozornění: nevybírejte obrázek.</string>
   <string name="error_should_not_select_video">Upozornění: nevybírejte video.</string>
   <string name="error_socket_timeout">Chyba sítě. Zkuste to později.</string>
-  <string name="error_share_with_creator">Již jste členem v tomto albu</string>
   <string name="error_unknown_host">Nenalezena žádná síť</string>
   <string name="exit">Odejít</string>
   <string name="exit_share">Ukončit album</string>
@@ -307,7 +306,7 @@ společně!"</string>
   <string name="netease_newsreader_netease_down_pic">Netease Newsreader</string>
   <string name="new_device_tips">Nalezeno nové zařízení. Stiskněte pro jeho zobrazení.</string>
   <string name="no">Ne</string>
-  <string name="no_albums_alert">Žádná dostupná alba.</string>  
+  <string name="no_albums_alert">Žádná dostupná alba.</string>
   <string name="no_connectivity">"Některé polohy není možno identifikovat kvůli problémům se sítí."</string>
   <string name="no_location">Žádná poloha</string>
   <string name="no_map_app">Žádná aplikace pro mapy</string>
@@ -454,7 +453,7 @@ společně!"</string>
   <string name="sina_weibo_save">Weibo</string>
   <string name="size_above">%1$s anebo větší</string>
   <string name="size_below">%1$s anebo menší</string>
-  <string name="size_between">%1$s do %2$s</string> 
+  <string name="size_between">%1$s do %2$s</string>
   <string name="slideshow">Prohlídka</string>
   <string name="slideshow_category">Prezentace</string>
   <string name="slideshow_dream_name">Prezentace</string>

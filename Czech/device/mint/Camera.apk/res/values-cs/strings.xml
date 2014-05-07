@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
 <resources>
+  <string name="Import">Import</string>
   <string name="access_sd_fail">Není možný přístup na SD kartu</string>
   <string name="accessibility_camera_picker">Výběr zvolené kamery</string>
   <string name="accessibility_review_thumbnail">Nejnovější fotografie</string>
@@ -78,7 +78,6 @@
   <string name="hdr_exit_button_text">Ukončit HDR</string>
   <string name="height">Výška</string>
   <string name="image_file_name_format">"'IMG'_yyyyMMdd_HHmmss"</string>
-  <string name="Import">Import</string>
   <string name="import_complete">Import dokončený</string>
   <string name="import_fail">Import selhal!</string>
   <string name="iso">ISO</string>
@@ -210,6 +209,7 @@
   <string name="pref_camera_picturesize_entry_1920x1080">2MP</string>
   <string name="pref_camera_picturesize_entry_3200x1800">6MP</string>
   <string name="pref_camera_picturesize_entry_3200x2400">8MP</string>
+  <string name="pref_camera_picturesize_entry_4208x2368">Širokoúhlý 16:9</string>
   <string name="pref_camera_picturesize_entry_4208x3120">13MP</string>
   <string name="pref_camera_picturesize_professional_entry_1024x768">0.8MP (1024x768)</string>
   <string name="pref_camera_picturesize_professional_entry_1280x720">0.9MP (1280x720)</string>
@@ -221,7 +221,6 @@
   <string name="pref_camera_picturesize_professional_entry_3200x2400">8MP (3264X2448)</string>
   <string name="pref_camera_picturesize_professional_entry_3264x1836">6MP (3264x1836)</string>
   <string name="pref_camera_picturesize_professional_entry_4208x2368">10MP (4208x2368)</string>
-  <string name="pref_camera_picturesize_entry_4208x2368">Širokoúhlý 16:9</string>
   <string name="pref_camera_picturesize_title">Velikost fotografie</string>
   <string name="pref_camera_picturesize_title_simple_mode">Velikost fotografie</string>
   <string name="pref_camera_preview_entry_1000">1 sekunda</string>
@@ -372,13 +371,13 @@
   <string name="show_images_only">Zobrazit fotografie</string>
   <string name="show_on_map">Zobrazit na mapě</string>
   <string name="show_videos_only">Zobrazit videa</string>
-  <string name="simple_mode_title">Základní režim</string>
   <string name="simple_mode_button_text_audio_capture">Ukončit záznam zvuku</string>
   <string name="simple_mode_button_text_color_effect">Ukončit filtry</string>
   <string name="simple_mode_button_text_hand_night">Ukončit noční režim</string>
   <string name="simple_mode_button_text_hdr">Ukončit HDR</string>
   <string name="simple_mode_button_text_panorama">Ukončit panorama</string>
   <string name="simple_mode_button_text_slow_video">Ukončit zpomalenou kameru</string>
+  <string name="simple_mode_title">Základní režim</string>
   <string name="skip">Přeskočit</string>
   <string name="slideshow">Prezentace</string>
   <string name="snapshot_lower_than_video">Video snapshot size is lower than video size. Capping the video size. Please select a resolution higher or equal to the current video size.</string>

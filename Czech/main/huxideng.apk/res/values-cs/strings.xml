@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="app_name">LED zmeškané služby</string>
-    <string name="pref_name">Nastavení notifikační diody</string>
-    <string name="pref_serv">Povolit notifikace diodou</string>
-    <string name="pref_serv_sum">Automaticky zap./vyp. LED služby po restartu telefonu</string>
-    <string name="pref_sms">Kontrola SMS/MMS</string>
-    <string name="pref_sms_sum">Upozorní na příchod SMS/MMS</string>
-    <string name="pref_call">Kontrola volání</string>
-    <string name="pref_call_sum">Upozorní na zmeškané hovory</string>
-    <string name="pref_style">Styl svícení</string>
-    <string name="pref_style_sum">Nastavte styl svícení LEDky</string>
+  <string name="app_name">LED zmeškané služby</string>
+  <string name="pref_call">Kontrola volání</string>
+  <string name="pref_call_sum">Upozorní na zmeškané hovory</string>
+  <string name="pref_name">Nastavení notifikační diody</string>
+  <string name="pref_serv">Povolit notifikace diodou</string>
+  <string name="pref_serv_sum">Automaticky zap./vyp. LED služby po restartu telefonu</string>
+  <string name="pref_sms">Kontrola SMS/MMS</string>
+  <string name="pref_sms_sum">Upozorní na příchod SMS/MMS</string>
+  <string name="pref_style">Styl svícení</string>
+  <string name="pref_style_sum">Nastavte styl svícení LEDky</string>
 </resources>

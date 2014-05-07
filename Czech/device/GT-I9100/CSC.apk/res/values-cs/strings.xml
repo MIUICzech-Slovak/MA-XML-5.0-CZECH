@@ -1,8 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="simServiceTitle">Služby karty SIM</string>
-    <string name="app_name">CSC</string>
-    <string name="start_service">Start service</string>
-    <string name="e_manual_bookmark_name">Uživatelská příručka</string>
+  <string name="app_name">CSC</string>
+  <string name="e_manual_bookmark_name">Uživatelská příručka</string>
+  <string name="simServiceTitle">Služby karty SIM</string>
+  <string name="start_service">Start service</string>
 </resources>

@@ -1,26 +1,25 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="app_name">Aplikace MTP</string>
-    <string name="error_title">Pozor</string>
-    <string name="bluetooth_running">Aktivací USB dojde k deaktivaci Bluetooth. Chcete pokračovat?</string>
-    <string name="alert_dialog_yes">Ano</string>
-    <string name="alert_dialog_no">Ne</string>
-    <string name="animation_initializing">Probíhá inicializace…</string>
-    <string name="animation_connected">Připojeno</string>
-    <string name="animation_synchronizing">Probíhá synchronizace…</string>
-    <string name="animation_downloading">Stahování…</string>
-    <string name="animation_sending">Odesíl…</string>
-    <string name="notification_mtp_connected">MTP byla připojena</string>
-    <string name="notification_usb_connected">USB připojeno</string>
-    <string name="notification_mtp_initialization">Inicializace MTP</string>
-    <string name="alert_dialog_ok">OK</string>
-    <string name="alert_dialog_cancel">Zrušit</string>
-    <string name="non_idle_toast">Připojení k počítači je k dispozici pouze v pohotovostním stavu. Ukončete spuštěné aplikace</string>
-    <string name="media_scanner_running">Je spuštěn vyhledávač médií…</string>
-    <string name="media_scanner_finished">Vyhledávání médií bylo dokončeno</string>
-    <string name="kies_software_check">Probíhá kontrola programu Samsung Kies (software pro připojení k počítači)…</string>
-    <string name="security_policy_restriction">Zásady zabezpečení omezují použití připojení k počítači</string>
-    <string name="resume_to_call">Pokr. v hovoru</string>
-    <string name="store_add_popup">Aplikace MTP bude restartována, aby se připravila SD karta. Chcete pokračovat?</string>
+  <string name="alert_dialog_cancel">Zrušit</string>
+  <string name="alert_dialog_no">Ne</string>
+  <string name="alert_dialog_ok">OK</string>
+  <string name="alert_dialog_yes">Ano</string>
+  <string name="animation_connected">Připojeno</string>
+  <string name="animation_downloading">Stahování…</string>
+  <string name="animation_initializing">Probíhá inicializace…</string>
+  <string name="animation_sending">Odesíl…</string>
+  <string name="animation_synchronizing">Probíhá synchronizace…</string>
+  <string name="app_name">Aplikace MTP</string>
+  <string name="bluetooth_running">Aktivací USB dojde k deaktivaci Bluetooth. Chcete pokračovat?</string>
+  <string name="error_title">Pozor</string>
+  <string name="kies_software_check">Probíhá kontrola programu Samsung Kies (software pro připojení k počítači)…</string>
+  <string name="media_scanner_finished">Vyhledávání médií bylo dokončeno</string>
+  <string name="media_scanner_running">Je spuštěn vyhledávač médií…</string>
+  <string name="non_idle_toast">Připojení k počítači je k dispozici pouze v pohotovostním stavu. Ukončete spuštěné aplikace</string>
+  <string name="notification_mtp_connected">MTP byla připojena</string>
+  <string name="notification_mtp_initialization">Inicializace MTP</string>
+  <string name="notification_usb_connected">USB připojeno</string>
+  <string name="resume_to_call">Pokr. v hovoru</string>
+  <string name="security_policy_restriction">Zásady zabezpečení omezují použití připojení k počítači</string>
+  <string name="store_add_popup">Aplikace MTP bude restartována, aby se připravila SD karta. Chcete pokračovat?</string>
 </resources>

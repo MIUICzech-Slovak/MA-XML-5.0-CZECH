@@ -1,15 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="prompt">Aplikace %s se pokouší vytvořit VPN připojení.</string>
-    <string name="warning">Pokračováním souhlasíte s tím, že aplikace může sledovat veškerý Váš síťový provoz. <b>Pokud aplikaci nedůvěřujete, nepokračujte.</b> V opačném případě riskujete vystavení Vašich dat škodlivému softwaru.</string>
-    <string name="accept">Důvěřuji této aplikaci.</string>
-    <string name="legacy_title">VPN síť je připojená.</string>
-    <string name="configure">Nastavit</string>
-    <string name="disconnect">Odpojit</string>
-    <string name="session">Relace:</string>
-    <string name="duration">Doba trvání:</string>
-    <string name="data_transmitted">Odeslané:</string>
-    <string name="data_received">Přijaté:</string>
-    <string name="data_value_format">%1$s bajtů / %2$s packetů</string>
+  <string name="accept">Důvěřuji této aplikaci.</string>
+  <string name="configure">Nastavit</string>
+  <string name="data_received">Přijaté:</string>
+  <string name="data_transmitted">Odeslané:</string>
+  <string name="data_value_format">%1$s bajtů / %2$s packetů</string>
+  <string name="disconnect">Odpojit</string>
+  <string name="duration">Doba trvání:</string>
+  <string name="legacy_title">VPN síť je připojená.</string>
+  <string name="prompt">Aplikace %s se pokouší vytvořit VPN připojení.</string>
+  <string name="session">Relace:</string>
+  <string name="warning">Pokračováním souhlasíte s tím, že aplikace může sledovat veškerý Váš síťový provoz. &lt;b&gt;Pokud aplikaci ned&amp;#367;v&amp;#283;&amp;#345;ujete, nepokra&amp;#269;ujte.&lt;/b&gt; V opa&amp;#269;n&amp;#233;m p&amp;#345;&amp;#237;pad&amp;#283; riskujete vystaven&amp;#237; Va&amp;#353;ich dat &amp;#353;kodliv&amp;#233;mu softwaru.</string>
 </resources>

@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="access_sd_fail">Nelze získat přístup ke kartě SD.</string>
+  <string name="access_sd_fail">Nelze získat přístup ke kartě SD.</string>
   <string name="accessibility_check_box">Zaškrtávací políčko %1$s</string>
   <string name="accessibility_menu_button">Tlačítko Menu</string>
   <string name="accessibility_mode_picker">Přepínač mezi panoramatickým režimem a režimy fotoaparátu a videokamery</string>
@@ -156,9 +156,9 @@
   <string name="pref_exposure_label">EXPOZICE</string>
   <string name="pref_exposure_title">Expozice</string>
   <string name="pref_video_effect_title">Efekty</string>
-    <string name="pref_video_quality_entry_1080p">HD 1080p</string>
-    <string name="pref_video_quality_entry_480p">SD 480p</string>
-    <string name="pref_video_quality_entry_720p">HD 720p</string>
+  <string name="pref_video_quality_entry_1080p">HD 1080p</string>
+  <string name="pref_video_quality_entry_480p">SD 480p</string>
+  <string name="pref_video_quality_entry_720p">HD 720p</string>
   <string name="pref_video_quality_entry_high">Vysoká</string>
   <string name="pref_video_quality_entry_low">Nízká</string>
   <string name="pref_video_quality_title">Kvalita videa</string>

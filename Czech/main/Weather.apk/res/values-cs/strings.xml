@@ -1,5 +1,4 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
 <resources>
   <string name="act_aqi_no2_title">NO2</string>
   <string name="act_aqi_pm10_title">PM10</string>
@@ -37,7 +36,6 @@
   <string name="app_love_sms_title">Obsah zprávy</string>
   <string name="app_love_view_title">Náhled</string>
   <string name="app_name">Počasí</string>
-  <string name="network_unavailable">Žádná síť</string>
   <string name="app_unquiet_net">Slabý signál sítě</string>
   <string name="aqi_details_dangerous">Kardiaci, starší lidé a děti by se měli vyhýbat fyzické aktivitě venku. Ostatní by měli omezit pobyt venku na minimum.</string>
   <string name="aqi_details_fine">Zvlášť citliví lidé by měli omezit pobyt venku.</string>
@@ -65,7 +63,7 @@
   <string name="format_date_week">EEE</string>
   <string name="format_date_wmd">d.M. EEE</string>
   <string name="loading_weather">Načítání počasí...</string>
-  <string name="local_city" />
+  <string name="local_city"/>
   <string name="location_allow_err">Hledání města selhalo.</string>
   <string name="location_management">Města</string>
   <string name="location_notification">Upozornění na počasí</string>
@@ -83,6 +81,7 @@
   <string name="menu_settings">Nastavení</string>
   <string name="menu_share">Sdílet</string>
   <string name="menu_trend">Vývoj</string>
+  <string name="network_unavailable">Žádná síť</string>
   <string name="save_screen_shot_failed">Uložení screenshotu selhalo.</string>
   <string name="selected_format">Vybraných položek: %d</string>
   <string name="send_sms_notification">Odeslat upozornění na počasí</string>
