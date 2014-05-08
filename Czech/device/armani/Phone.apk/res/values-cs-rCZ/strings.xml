@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="sim_manage_call_via">Volat přes</string>
+  <string name="sim_picker_settings">Vyberte SIM kartu pro nastavení</string>
+  <string name="sim_slot_alert_message_3g">Vložte %s SIM kartu do prvního slotu, který podporuje 3G sítě.</string>
+  <string name="sim_slot_alert_message_disable">%s SIM karta je vložea do nesprávného slotu a nemusí správně fungovat.</string>
+</resources>
