@@ -1,4 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
+<!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
 <resources>
   <string name="AF_Threshold">Set AF Threshold (int)</string>
   <string name="AF_Valid_Threshold">Set AF Valid Threshold (int)</string>
