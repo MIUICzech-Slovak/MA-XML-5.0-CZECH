@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
+<resources>
+    <resources>
+    <plurals name="move_messages">
+        <item quantity="other">Přesunout zprávy</item>
+        <item quantity="one">Přesunout zprávu</item>
+    </plurals>
+   <plurals name="notification_new_one_account_fmt">
+        <item quantity="other">Nepřečtené zprávy: %1$d (%2$s)</item>
+        <item quantity="one">Nepřečtené zprávy: %1$d (%2$s)</item>
+        <item quantity="few">Nepřečtené zprávy: %1$d (%2$s)</item>
+    </plurals>
+    <plurals name="notification_new_multi_account_fmt">
+        <item quantity="other">v %d účtech</item>
+        <item quantity="few">v %d účtech</item>
+    </plurals>
+    <plurals name="number_of_accounts">
+        <item quantity="other">Počet účtů: %1$d</item>
+        <item quantity="one">Účet %1$d</item>
+    </plurals>
+    <plurals name="picker_combined_view_account_count">
+        <item quantity="other">Počet účtů: %d</item>
+        <item quantity="one">%d účet</item>
+    </plurals>
+    <plurals name="message_view_selected_message_count">
+        <item quantity="other">Počet vybraných položek: %d</item>
+        <item quantity="one">Počet vybraných položek: %d</item>
+    </plurals>
+    <plurals name="message_view_show_attachments_action">
+        <item quantity="other">Přílohy (%1$d)</item>
+        <item quantity="one">Příloha (%1$d)</item>
+    </plurals>
+    <plurals name="message_delete_confirm">
+        <item quantity="other">Smazat tyto zprávy?</item>
+        <item quantity="one">Smazat tuto zprávu?</item>
+    </plurals>
+    <plurals name="message_deleted_toast">
+        <item quantity="other">Zprávy byly smazány.</item>
+        <item quantity="one">Zpráva byla smazána.</item>
+    </plurals>
+    <plurals name="message_moved_toast">
+        <item quantity="other">Zprávy (%1$d) byly přesunuty do schránky %2$s</item>
+        <item quantity="one">%1$d zpráva byla přesunuta do schránky %2$s</item>
+    </plurals>
+    <plurals name="message_view_attachment_bytes">
+        <item quantity="other">%d bajtů</item>
+        <item quantity="one">%d bajtů</item>
+    </plurals>
+    <plurals name="message_view_attachment_kilobytes">
+        <item quantity="other">%d kB</item>
+        <item quantity="one">%d kB</item>
+    </plurals>
+    <plurals name="message_view_attachment_megabytes">
+        <item quantity="other">%d MB</item>
+        <item quantity="one">%d MB</item>
+    </plurals>
+    <plurals name="message_view_attachment_gigabytes">
+        <item quantity="other">%d GB</item>
+        <item quantity="one">%d GB</item>
+    </plurals>
+    <plurals name="gal_completed_fmt">
+        <item quantity="other">%1$d výsledků z %2$s</item>
+        <item quantity="one">%1$d výsledek z %2$s</item>
+    </plurals>
+</resources>
