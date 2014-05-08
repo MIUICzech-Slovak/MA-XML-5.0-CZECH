@@ -73,9 +73,13 @@
   <string name="deselect_all">Odznačit vše</string>
   <string name="dirac_mode_earbuds">Xi. sluchátka</string>
   <string name="dirac_mode_general">Obyčejné</string>
+  <string name="dirac_mode_general_earbuds">Běžná sluchátka</string>
+  <string name="dirac_mode_general_inear">Běžné špunty</string>
   <string name="dirac_mode_in_ear">Xi. špunty</string>
   <string name="dirac_mode_off">Dirac vypnut</string>
   <string name="dirac_mode_piston_100">Xi. Piston</string>
+  <string name="dirac_mode_piston_2">Xiaomi Piston-2</string>
+  <string name="dirac_mode_piston_youth">Xiaomi Piston-1</string>
   <string name="disconnect">Odpojit</string>
   <string name="download">Stáhnout</string>
   <string name="download_album_settings">Stahovat obrázky alb</string>
@@ -185,6 +189,7 @@
   <string name="load_recommend_in_process">Načítání...</string>
   <string name="loading">Načítám</string>
   <string name="login">Přihlásit se</string>
+  <string name="login_and_enable">Přihlásit se a synchr.</string>
   <string name="login_first">Musíte se nejprve přihlásit ke svému Xiaomi účtu</string>
   <string name="lrc_progress_modify">Nastavit rychlost textu skladby</string>
   <string name="lrc_progress_modify_helper">Nastavte rychlost textu skladby posunutím nahoru, nebo dolů</string>
@@ -228,6 +233,7 @@
   <string name="no_song_downloaded">Nelze stáhnout skladbu.</string>
   <string name="normal_quality">Dobrá kvalita</string>
   <string name="not_login">Přihlásit</string>
+  <string name="not_now">Nyní ne</string>
   <string name="not_selected">Vyberte skladbu</string>
   <string name="notification_artist_album">"%2$s 
 %1$s"</string>
@@ -319,6 +325,10 @@
   <string name="start_to_download_album">Stahování obrázků alb pro všechny skladby v knihovně</string>
   <string name="start_to_download_avatar">Stahování obrázku autora...</string>
   <string name="streamloadingtext">Připojování k %s</string>
+  <string name="sync_alert_message">Synchr. oblíbené skladby mezi vícero zařízeními s vaším Xiaomi účtem.</string>
+  <string name="sync_alert_title">Synchr. hudbu</string>
+  <string name="sync_disable_toast">Můžete povolit synchr. v Nastavení &gt; Účty &gt; MiCloud</string>
+  <string name="sync_enable_toast">Můžete změnit synchr. v Nastavení &gt; Účty &gt; MiCloud</string>
   <string name="synchronize_guide_toast">Synchronizaci povolíte v Nastavení &gt; Synchr. playlisty</string>
   <string name="synchronize_playlist_setting">Synchronizovat seznam skladeb</string>
   <string name="synchronize_playlist_summary">Synchronizovat seznam skladeb do cloudu.</string>

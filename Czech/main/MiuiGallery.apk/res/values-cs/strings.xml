@@ -61,6 +61,7 @@
   <string name="big_screen_alertdialog_title">Zařízení</string>
   <string name="bigscreen_slide_exit">Ukončit prezentaci</string>
   <string name="bigscreen_slide_fail_cause_loading">Zkuste to znovu po načtení obrázku.</string>
+  <string name="bigscreen_video_quit">Dotykem zrušíte přehrávání videa</string>
   <string name="browse_category">Prohlížení fotografií</string>
   <string name="by_email">E-mail</string>
   <string name="by_others">Ostatní</string>
@@ -117,6 +118,7 @@ společně!"</string>
   <string name="confirm_delete">Opravdu chcete položky (%s) vymazat?</string>
   <string name="confirm_delete_album" formatted="false">Opravdu chcete vymazat alba (%s) včetně obsažených položek(%s)?</string>
   <string name="confirm_delete_cloud_all_item_page" formatted="false">Obrázky: %s, alba: %s. Opravdu chcete vymazat?</string>
+  <string name="confirm_delete_home_merge_item">Vymazat obrázky (%s) v zařízení a cloudu?</string>
   <string name="confirm_delete_pictures">obrázky (%s)</string>
   <string name="confirm_delete_system_album">%s je systémové album, opravdu vymazat?</string>
   <string name="confirm_delete_this_picture">Vymazat tento obrázek?</string>
@@ -155,9 +157,11 @@ společně!"</string>
   <string name="demo_video_folder_display_name">Demo Video</string>
   <string name="deny">Odmítnout</string>
   <string name="description">Popis</string>
+  <string name="deselect_all">Odznačit</string>
   <string name="details">Detaily</string>
   <string name="details_sharer">Sdílené od</string>
   <string name="details_title">%1$d z %2$d:</string>
+  <string name="device_model">Zařízení</string>
   <string name="directory_info_divider">"  |  "</string>
   <string name="documentary">Dokument</string>
   <string name="done">Hotovo</string>
@@ -176,12 +180,16 @@ společně!"</string>
   <string name="enter_email_hint">"Zadejte e-mail "</string>
   <string name="error_album_not_exist">"Album neexistuje."</string>
   <string name="error_cloud_not_active">Cloud album se nepoužívá</string>
+  <string name="error_forbidden">Vyskytly se problémy s vaším účtem: synchr. deaktivována.</string>
   <string name="error_invalid_link">Tento odkaz je neplatný. Požádejte vlastníka o vytvoření nového odkazu.</string>
+  <string name="error_not_acceptable">Chyba serveru: synchr. deaktivována.</string>
   <string name="error_repeat_apply">Toto album je již sdílené</string>
   <string name="error_share_with_creator">Již jste členem v tomto albu</string>
   <string name="error_should_not_select_image">Upozornění: nevybírejte obrázek.</string>
   <string name="error_should_not_select_video">Upozornění: nevybírejte video.</string>
   <string name="error_socket_timeout">Chyba sítě. Zkuste to později.</string>
+  <string name="error_title">Chyba synchr.</string>
+  <string name="error_unauthorized">Příliš mnoho pokusů o přihlášení: synchr. deaktivována.</string>
   <string name="error_unknown_host">Nenalezena žádná síť</string>
   <string name="exit">Odejít</string>
   <string name="exit_share">Ukončit album</string>
@@ -197,6 +205,7 @@ společně!"</string>
   <string name="fail_hint">Operace selhala.</string>
   <string name="fail_init_gallery_db_helper">Aplikace je zamknutá, není možno otevřít databázi galerie, paměť je plná.</string>
   <string name="fail_to_apply">Připojení k albu selhalo.</string>
+  <string name="fail_to_download_n_items">Stahování (%s) selhalo</string>
   <string name="fail_to_pick_email">Není zvolený žádný E-mail</string>
   <string name="fail_to_sync_album">Nastala chyba při synchronizaci se serverem. Zkontrolujte nastavení sítě.</string>
   <string name="file_not_exist_message">Soubor neexistuje</string>
@@ -232,6 +241,9 @@ společně!"</string>
   <string name="height">Výška</string>
   <string name="highlight">Jas</string>
   <string name="home_my_captured_items">" snímků"</string>
+  <string name="home_page_tab_cloud">Cloud</string>
+  <string name="home_page_tab_local">Lokální</string>
+  <string name="home_page_tab_photo">Fotografie</string>
   <string name="how_many_pics">%d\u0020obrázků</string>
   <string name="how_many_sub_folders">%d\u0020složek</string>
   <string name="how_many_videos">%d\u0020videí</string>
@@ -293,6 +305,7 @@ společně!"</string>
   <string name="mishop_saved_folder_display_name">MiShop</string>
   <string name="miui_capture_screen_folder_display_name">Screenshoty</string>
   <string name="model">Model</string>
+  <string name="modified_time">Upravené</string>
   <string name="modify_allow_hint">Je povoleno přidávání nových fotografií</string>
   <string name="modify_disallow_hint">Není povoleno přidávání nových fotografií</string>
   <string name="more">Více</string>
@@ -345,6 +358,7 @@ společně!"</string>
   <string name="photo_page_save_uri_image_fail">Ukládání snímku selhalo.</string>
   <string name="photo_page_save_uri_image_ok">Snímek byl uložen do složky fotoaparátu.</string>
   <string name="photo_saved">Snímek uložen v %s albu</string>
+  <string name="photo_size">Velikost</string>
   <string name="photoeditor_name">Foto studio</string>
   <string name="photos">"Snímků"</string>
   <string name="pick_too_many_recipients">Příliš mnoho příjemců</string>
@@ -481,6 +495,7 @@ společně!"</string>
   <string name="tab_lockscreen_text">Tapeta zámku</string>
   <string name="tab_wallpaper_text">Tapeta plochy</string>
   <string name="tags">Tagy</string>
+  <string name="taken_time">Čas zhotovení</string>
   <string name="temperature">Teplota</string>
   <string name="tencent_mobile_qq_img_save">QQ2012</string>
   <string name="tencent_qq_hd_pic">QQ HD</string>
@@ -520,5 +535,6 @@ společně!"</string>
   <string name="widget_type_photo">Obrázek</string>
   <string name="widget_type_shuffle">Náhodně všechny obrázky</string>
   <string name="width">Šířka</string>
+  <string name="yellow_page">Složka</string>
   <string name="yes">Ano</string>
 </resources>

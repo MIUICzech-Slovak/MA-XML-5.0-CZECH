@@ -54,7 +54,6 @@
   <string name="button_scan">Znovu</string>
   <string name="caching_vcard_message">Probíhá ukládání vizitek do dočasného úložiště, samotný import proběhne za okamžik</string>
   <string name="caching_vcard_title">Ukládání vizitek do dočasného úložiště</string>
-  <string name="call">Hovor</string>
   <string name="callAgain">Volat znovu</string>
   <string name="callBack">Zpětné volání</string>
   <string name="callDetailTitle">Detaily hovoru</string>
@@ -862,6 +861,7 @@ Synchronizujte je nyní."</string>
   <string name="resource_comment_upload_success">Komentář je odeslaný! Zobrazí se až po jeho schválení.</string>
   <string name="resource_default">Výchozí zvonění</string>
   <string name="resource_default_name">Zdroj</string>
+  <string name="resource_delete">Vymazat</string>
   <string name="resource_delete_all">Vymazat (%1$d)?</string>
   <string name="resource_delete_confirm">Vymazat tyto zdroje?</string>
   <string name="resource_delta_update_failed">Aktualizování rozdílů selhalo, stáhne se celý balík</string>

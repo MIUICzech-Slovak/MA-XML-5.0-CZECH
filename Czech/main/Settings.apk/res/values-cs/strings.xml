@@ -1,4 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
+<!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
 <resources>
   <string name="Settings_title_anti_spam">Nastavení Antispamu</string>
   <string name="Settings_title_anti_virus">Nastavení Antiviru</string>
@@ -641,7 +642,7 @@ Pozn&amp;#225;mka: Zv&amp;#283;t&amp;#353;en&amp;#237; trojit&amp;#253;m klepnut
   <string name="choose_timezone">Zvolit časovou zónu</string>
   <string name="clean_confirm_title">Vymazat tyto soubory?</string>
   <string name="cleaner">Čistič</string>
-  <string name="cleaner_support_hints">Poskytuje Clean Master</string>
+  <string name="cleaner_support_hints"/>
   <string name="cleanning_prefix">Čištění: %s</string>
   <string name="clear_activities">Vymazat výchozí nastavení</string>
   <string name="clear_activities_summary">Povolit tuto aplikaci jako výchozí</string>
@@ -673,9 +674,6 @@ Pozn&amp;#225;mka: Zv&amp;#283;t&amp;#353;en&amp;#237; trojit&amp;#253;m klepnut
   <string name="common_settings">Časté nastavení</string>
   <string name="complete_settings">Kompletní nast.</string>
   <string name="computing_size">Probíhá výpočet...</string>
-  <string name="config_mass_storage_function_name">mass_storage</string>
-  <string name="config_mtp_function_name">mtp</string>
-  <string name="config_ptp_function_name">ptp</string>
   <string name="configure_input_method">Nastavit metody vstupu</string>
   <string name="confirm">OK</string>
   <string name="confirm_clear_blacklist">Vymazat seznam blokovaných?</string>
@@ -917,9 +915,14 @@ Toto nastavení ovlivní všechny uživatele tohoto telefonu."</string>
   <string name="dirac_control">Dirac ovládání</string>
   <string name="dirac_mode_earbuds">Špunty</string>
   <string name="dirac_mode_general">Běžná</string>
+  <string name="dirac_mode_general_earbuds">Běžná sluchátka</string>
+  <string name="dirac_mode_general_inear">Běžné špunty</string>
   <string name="dirac_mode_in_ear">Sluchátka</string>
   <string name="dirac_mode_off">Dirac vypnutý</string>
+  <string name="dirac_mode_piston_1">Xiaomi Piston-1</string>
   <string name="dirac_mode_piston_100">Xiaomi sluchátka</string>
+  <string name="dirac_mode_piston_2">Xiaomi Piston-2</string>
+  <string name="dirac_mode_piston_youth">Xiaomi Piston-youth</string>
   <string name="dirac_switch_summary">Vždy použít MiSound při přehrávání zvuku z reproduktoru</string>
   <string name="dirac_switch_title">MiSound</string>
   <string name="disable_adb_debug_summary">Ladění USB deaktivováno</string>
@@ -928,6 +931,8 @@ Toto nastavení ovlivní všechny uživatele tohoto telefonu."</string>
   <string name="disable_overlays">Vypnout HW překrývání</string>
   <string name="disable_overlays_summary">Vždy použít GPU pro zobrazování</string>
   <string name="disable_power_key_long_press_under_keyguard">Deaktivovat tlačítko Napájení</string>
+  <string name="disable_service_message">Stisknutím OK zastavíte %1$s.</string>
+  <string name="disable_service_title">Zastavit %1$s?</string>
   <string name="disable_text">Vypnout</string>
   <string name="disabled">Deaktivováno</string>
   <string name="display_font_size_label">Velikost písma:</string>
@@ -1275,7 +1280,6 @@ Toto nastavení ovlivní všechny uživatele tohoto telefonu."</string>
   <string name="headset_no_contected">Nejsou připojena sluchátka</string>
   <string name="headset_settings">Sluchátka</string>
   <string name="heavy_weight_stop_description">Tuto aplikaci nemůžete bezpečně ukončit. Mohlo by dojít ke ztrátě části Vaší aktuální práce.</string>
-  <string name="hello_world">Ahoj světe!</string>
   <string name="help_label">Pomoc</string>
   <string name="history_details_title">Podrobnosti historie</string>
   <string name="home_app_uninstall_button">Odinstalovat aplikaci</string>
@@ -1703,6 +1707,14 @@ zkuste následující:"
   <string name="msd_install_status_undo">Instalovat ovladač</string>
   <string name="msd_install_succeed">Ovladač nainstalovaný</string>
   <string name="msd_install_windows_xp_step_2_1">"1.Pokud se zobrazí průvodce instalace, následujte všechny kroky pro správné nainstalování ovladačů"</string>
+  <string name="msd_pc_system_install_finish_summary_vista">"Pro Windows Vista a novější verze Windows,
+%1$s přehrávač hudby se zobrazí automaticky po připojení k PC"</string>
+  <string name="msd_pc_system_install_finish_summary_xp">"Po instalaci tohoto ovladače
+%1$s se zobrazí jako USB úložiště při připojení k PC."</string>
+  <string name="msd_pc_system_install_start_summary_vista">"Pro Windows Vista a novější verze Windows, 
+%1$s se zobrazí automaticky jako USB úložiště"</string>
+  <string name="msd_pc_system_install_step_2_summary_xp">"2. %1$s se zobrazí jako USB úložiště
+při připojení k PC."</string>
   <string name="msg_cleanup_db_update_checking">Kontrola...</string>
   <string name="msg_cleanup_db_update_time_unknown">Aktualizováno: neznámo</string>
   <string name="msg_system_cache_hints">"Vymazání dat v cache nemá vliv na vaše aplikace, soubory, nastavení, účty, atd.</string>
@@ -1863,7 +1875,7 @@ Nastavení jsou nedostupné"</string>
   <string name="perm_check">Zkontrolovat</string>
   <string name="perm_clean">Vyčistit</string>
   <string name="perm_configuration">Nastavení</string>
-  <string name="perm_copyright">Poskytuje Team LBE</string>
+  <string name="perm_copyright"/>
   <string name="perm_disable">Zakázat</string>
   <string name="perm_enable">Povolit sledování práv</string>
   <string name="perm_good">Dobré</string>
@@ -2001,6 +2013,7 @@ Nastavení jsou nedostupné"</string>
   <string name="perm_su_switch">Práva ROOT</string>
   <string name="perm_summary_disabled">Vypnuto</string>
   <string name="perm_summary_enabled">Zapnuto</string>
+  <string name="perm_support_hints"/>
   <string name="perm_sysopt_boost_auto_start">Povolení Autom. spuštění</string>
   <string name="perm_sysopt_boost_auto_start_group">Automatické spuštění</string>
   <string name="perm_sysopt_boost_auto_start_summary">Povolit aplikaci automatické spuštění</string>
@@ -2640,12 +2653,9 @@ Toto nastavení ovlivní všechny uživatele tohoto telefonu."</string>
   <string name="service_stop_description">Tato služba byla spuštěna svou aplikací. Pokud ji zastavíte, může dojít k selhání aplikace.</string>
   <string name="services_subtitle">Služby</string>
   <string name="set_data_subscription_progress">Probíhá nastavení datového předplatného</string>
-  <string name="set_dds_error">Chyba při nastavení datového předplatného.</string>
   <string name="set_dds_failed">Chyba při nastavení datového předplatného. Uvolněte jakékoli existující datové připojení a zkuste to znovu.</string>
   <string name="set_dds_success">Nastavení datového předplatného bylo úspěšné</string>
   <string name="set_priority_sub_error">Nelze nastavit prioritu předplatného. Předplatné není aktivní.</string>
-  <string name="set_sms_error">Chyba při nastavení SMS předplatného. Předplatné není aktivní.</string>
-  <string name="set_voice_error">Chyba při nastavení hlasového předplatného. Předplatné není aktivní.</string>
   <string name="settings_backup">Nastavení zálohování</string>
   <string name="settings_backup_summary">Zálohovat moje nastavení</string>
   <string name="settings_button">Nastavení</string>
@@ -2676,6 +2686,7 @@ Toto nastavení ovlivní všechny uživatele tohoto telefonu."</string>
   <string name="show_hw_screen_updates">Zobrazit změny obrazu GPU</string>
   <string name="show_hw_screen_updates_summary">Blikat v okně zobrazeném GPU</string>
   <string name="show_magnifier_when_input">Ukázat lupu</string>
+  <string name="show_non_rect_clip">Ladit operace neobdélníkových klipů</string>
   <string name="show_notification">Zobrazit notifikace</string>
   <string name="show_owner_info_on_lockscreen_label">Zobrazovat vlastníka na zamknuté obrazovce</string>
   <string name="show_password">Zobrazit hesla</string>
@@ -2703,6 +2714,8 @@ Toto nastavení ovlivní všechny uživatele tohoto telefonu."</string>
   <string name="sim_enter_ok">OK</string>
   <string name="sim_enter_old">Starý kód PIN karty SIM</string>
   <string name="sim_enter_pin">Kód PIN karty SIM</string>
+  <string name="sim_enter_pin_hints">(Zadejte 4-8 čísel)</string>
+  <string name="sim_lock">Zablokována</string>
   <string name="sim_lock_change_not_supported">"Nelze změnit SIM Lock. Nepodporovaná SIM."</string>
   <string name="sim_lock_failed">"Stav zámku karty SIM nelze změnit. Zřejmě jste zadali nesprávný kód PIN."</string>
   <string name="sim_lock_off">K použití telefonu je vyžadován PIN</string>
@@ -2845,6 +2858,7 @@ Umožňují to důvěryhodné identifikační údaje nainstalované ve vašem za
   <string name="system">Systém</string>
   <string name="system_cache_title">Systémová cache</string>
   <string name="system_package">Aktualizace systému nelze nainstalovat na SD kartu.</string>
+  <string name="system_storage">Systémové úložiště</string>
   <string name="system_update_settings_list_item_summary"/>
   <string name="system_update_settings_list_item_title">Aktualizace systému</string>
   <string name="tab_title_external_storage">Externí úložiště</string>
@@ -2943,6 +2957,7 @@ Umožňují to důvěryhodné identifikační údaje nainstalované ve vašem za
   <string name="tts_engine_name_is_disabled_summary">Možnost %s je deaktivována</string>
   <string name="tts_engine_name_is_enabled_summary">Položka %s je aktivována</string>
   <string name="tts_engine_name_settings">Nastavení modulu %s</string>
+  <string name="tts_engine_network_required">V případě tohoto jazyka je pro převod textu na řeč zapotřebí připojení k síti.</string>
   <string name="tts_engine_preference_section_title">Preferovaný modul</string>
   <string name="tts_engine_security_warning">Modul pro syntézu řeči může shromažďovat veškerý mluvený text, včetně osobních dat jako jsou hesla nebo čísla kreditních karet. Je založen na modulu %s.\nChcete modul pro syntézu řeči aktivovat?</string>
   <string name="tts_engine_settings_button">Spustit vyhledávač</string>
@@ -3065,6 +3080,7 @@ Umožňují to důvěryhodné identifikační údaje nainstalované ve vašem za
   <string name="user_add_profile_item_title">Omezený profil</string>
   <string name="user_add_user_item_summary">Uživatelé mají své vlastní aplikace a obsah</string>
   <string name="user_add_user_item_title">Uživatel</string>
+  <string name="user_add_user_menu">Přidat uživatele nebo profil</string>
   <string name="user_add_user_message_long">"Vytvořením dalších uživatelů můžete toto zařízení sdílet s jinými lidmi. Každý uživatel má své prostředí, které může personalizovat, nainstalovat své aplikace, tapetu atd. Uživatelé také mohou upravit nastavení tabletu (např. Wi-Fi), která ovlivní všechny ostatní uživatele.
 
 Když vytvoříte nového uživatele, bude muset provést nastavení.
@@ -3076,6 +3092,7 @@ Každý uživatel může přijmout aktualizovaná oprávnění aplikací jménem
   <string name="user_add_user_title">Přidat nového uživatele</string>
   <string name="user_add_user_type_title">Přidat</string>
   <string name="user_adding_new_user">Přidávání nového uživatele...</string>
+  <string name="user_cannot_add_accounts_message">Profily s omezením nemohou přidávat účty</string>
   <string name="user_cannot_manage_message">Uživatele smí spravovat pouze vlastník telefonu.</string>
   <string name="user_confirm_remove_message">Opravdu chcete odebrat uživatele a všechna jeho data v tomto zařízení?</string>
   <string name="user_confirm_remove_self_message">Přijdete o místo a data v tomto telefonu. Tuto akci nelze vrátit zpět.</string>
@@ -3092,6 +3109,7 @@ Každý uživatel může přijmout aktualizovaná oprávnění aplikací jménem
   <string name="user_dict_settings_add_locale_option_name">Jazyk:</string>
   <string name="user_dict_settings_add_menu_title">Přidat</string>
   <string name="user_dict_settings_add_screen_title">Fráze</string>
+  <string name="user_dict_settings_add_shortcut_hint">Volitelná zkratka</string>
   <string name="user_dict_settings_add_shortcut_option_name">Odkaz:</string>
   <string name="user_dict_settings_add_word_hint">Napište slovo</string>
   <string name="user_dict_settings_add_word_option_name">Slovo:</string>
@@ -3392,8 +3410,6 @@ Každý uživatel může přijmout aktualizovaná oprávnění aplikací jménem
   <string name="wifi_display_summary_disabled">Zakázané</string>
   <string name="wifi_display_summary_off">Vypnuté</string>
   <string name="wifi_display_summary_on">Zapnuté</string>
-  <string name="wifi_dns1">Server DNS 1</string>
-  <string name="wifi_dns2">Server DNS 2</string>
   <string name="wifi_dont_skip">Nepřeskakovat</string>
   <string name="wifi_eap_anonymous">Anonymní identita</string>
   <string name="wifi_eap_ca_cert">Certifikát CA</string>
@@ -3487,12 +3503,7 @@ Chcete tuto možnost povolit všem aplikacím, které chtějí vyhledávat sít�
   <string name="wifi_secured_first_item">Zabezpečení: %1$s</string>
   <string name="wifi_secured_second_item">, zabezpečení %1$s</string>
   <string name="wifi_security">Zabezpečení</string>
-  <string name="wifi_security_WAPI_CERT">WAPI CERT</string>
-  <string name="wifi_security_WAPI_PSK">WAPI PSK</string>
-  <string name="wifi_security_eap">802.1x EAP</string>
   <string name="wifi_security_none">Žádné</string>
-  <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
-  <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
   <string name="wifi_setting_frequency_band_error">Při nastavení frekvenčního pásma došlo k problému.</string>
   <string name="wifi_setting_frequency_band_summary">Uveďte provozní frekvenční rozsah</string>
   <string name="wifi_setting_frequency_band_title">Frekvenční pásmo Wi-Fi</string>

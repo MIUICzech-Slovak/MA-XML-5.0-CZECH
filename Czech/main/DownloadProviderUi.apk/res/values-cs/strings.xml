@@ -75,6 +75,6 @@
   <string name="selected_count">Vybráno %1$d z %2$d</string>
   <string name="turn_off_xunlei_message">Může způsobit pomalejší stahování dat.</string>
   <string name="turn_off_xunlei_title">Deaktivovat Xunlei stahování</string>
-  <string name="xunlei_brand">Poskytuje Xunlei</string>
+  <string name="xunlei_brand"/>
   <string name="xunlei_switch">Xunlei stahování</string>
 </resources>

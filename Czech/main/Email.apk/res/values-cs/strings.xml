@@ -260,6 +260,7 @@
   <string name="contact_list_add_btn">Přidat</string>
   <string name="contact_list_search_hint">Vyhledat kontakty</string>
   <string name="contact_list_title">Seznam kontaktů</string>
+  <string name="contact_select">Vybrat kontakty</string>
   <string name="content_description">%1$s – %2$s, %3$s, dne %4$s, %5$s</string>
   <string name="content_description_today">%1$s – %2$s, %3$s v %4$s, %5$s</string>
   <string name="contextmenu_add_contact">Přidat kontakt</string>
@@ -679,6 +680,12 @@ přesahuje limit"</string>
 Chcete-li poštu jednou synchronizovat, dotkněte se položky "Synchronizovat". Chcete-li v účtu nastavit automatickou synchronizaci pošty, dotkněte se položky - Změnit nastavení synchronizace.</string>
   <string name="wait_for_sync_body">Vaše e-maily se zobrazí za chvíli.</string>
   <string name="wait_for_sync_body_2">Exchange Server vás v průběhu 1-30 sekund spojí. Potvrďte bezpečnostní nastavení a aktivujte jej.</string>
+  <string name="wait_for_sync_body_txt_array_1">Exchange Server vás vyzve za</string>
+  <string name="wait_for_sync_body_txt_array_2">1–30</string>
+  <string name="wait_for_sync_body_txt_array_3">sekund. Potvrďte bezpečnostní nastavení a aktivujte je. Věnujte pozornost</string>
+  <string name="wait_for_sync_body_txt_array_4">upozorněním</string>
+  <string name="wait_for_sync_body_txt_array_5">.</string>
+  <string name="wait_for_sync_note">Potáhněte dolů pro upozornění. Stiskněte pro dokončení bezpečnostních nastavení.</string>
   <string name="wait_for_sync_title">Čekání na synchronizaci</string>
   <string name="widget_all_mail">Všechny zprávy</string>
   <string name="widget_large_unread_count">&gt;%d</string>

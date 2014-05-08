@@ -6,6 +6,7 @@
   <string name="all_resources">Vše</string>
   <string name="all_ringtone_resource">Vše</string>
   <string name="app_name">Témata</string>
+  <string name="apply_default_font_tip">Ponechat současné písmo?</string>
   <string name="apply_font_btn_exclude">Neměnit písmo</string>
   <string name="apply_font_btn_reboot">Restartovat</string>
   <string name="apply_font_tip">Téma obsahuje nové písmo. Pro aplikování je nutné restartovat telefon.</string>
@@ -109,6 +110,7 @@
   <string name="resource_comment_version_name">(Verze %1$s)</string>
   <string name="resource_default">Výchozí zvonění</string>
   <string name="resource_default_name">Zdroj</string>
+  <string name="resource_delete">Vymazat</string>
   <string name="resource_delete_all">Vymazat (%1$d)?</string>
   <string name="resource_delete_confirm">Vymazat toto téma?</string>
   <string name="resource_delta_update_failed">Aktualizování rozdílů selhalo, stáhne se celý balík</string>
@@ -253,6 +255,7 @@ ale obsah, který hledáte, není dostupný ve Vaší zemi."</string>
   <string name="theme_current_using_has_update">Současné téma bylo aktualizováno, dotkněte se zde pro aplikování změn</string>
   <string name="theme_description_title_customized">Vlastní</string>
   <string name="theme_description_title_default">Výchozí</string>
+  <string name="theme_fresh_man_notifaction">Zkuste nějaká nová témata.</string>
   <string name="theme_immediately_apply_tip">Téma bylo aktualizováno, chcete jej nyní aplikovat?</string>
   <string name="theme_import_activity_label">Aktualizovat téma</string>
   <string name="theme_import_data">Importování téma</string>
@@ -277,12 +280,14 @@ ale obsah, který hledáte, není dostupný ve Vaší zemi."</string>
   <string name="theme_import_stoping">Zastavování...</string>
   <string name="theme_importing">Nahrávání téma...</string>
   <string name="theme_is_imported">Téma je importované</string>
+  <string name="theme_no">Ne</string>
   <string name="theme_sdcard_importing">Nahrávání z SD karty...</string>
   <string name="theme_select_others">Ostatní</string>
   <string name="theme_upgrade_request_cancel">Ne</string>
   <string name="theme_upgrade_request_content">Téma musí být aktualizované, aby mohlo pracovat správně. Je nutné internetové připojení. Chcete pokračovat?</string>
   <string name="theme_upgrade_request_title">Aktualizace téma</string>
   <string name="theme_upgrade_request_yes">OK</string>
+  <string name="theme_yes">Ano</string>
   <string name="third_party_pickers_activity_title">Nastavit %1$s</string>
   <string name="title_component">Mix</string>
   <string name="title_local">Lokální</string>

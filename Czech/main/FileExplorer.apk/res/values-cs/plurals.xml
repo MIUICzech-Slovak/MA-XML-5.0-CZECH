@@ -2,23 +2,43 @@
 <!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
 <resources>
     <plurals name="directory_item_count">
-        <item quantity="other">Položek: %d</item>
-        <item quantity="one">1 položka</item>
+        <item quantity="other">%d položek</item>
+        <item quantity="zero">%d položek</item>
+        <item quantity="one">%d položka</item>
+        <item quantity="two">%d položky</item>
+        <item quantity="few">%d položek</item>
+        <item quantity="many">%d položek</item>
     </plurals>
     <plurals name="delete_files_confirm">
-        <item quantity="other">Vymazat soubory (%1$d)</item>
-        <item quantity="one">Vymazat 1 soubor</item>
+        <item quantity="other">Vymazat %1$d souborů</item>
+        <item quantity="zero">Vymazat %1$d souborů</item>
+        <item quantity="one">Vymazat %1$d soubor</item>
+        <item quantity="two">Vymazat %1$d soubory</item>
+        <item quantity="few">Vymazat %1$d souborů</item>
+        <item quantity="many">Vymazat %1$d souborů</item>
     </plurals>
     <plurals name="delete_folders_confirm">
-        <item quantity="other">" a složky (%1$d)?"</item>
-        <item quantity="one">" a 1 složku?"</item>
+        <item quantity="other">" a %1$d složek?"</item>
+        <item quantity="zero">" a %1$d složek?"</item>
+        <item quantity="one">" a %1$d složku?"</item>
+        <item quantity="two">" a %1$d složky?"</item>
+        <item quantity="few">" a %1$d složek?"</item>
+        <item quantity="many">" a %1$d složek?"</item>
     </plurals>
     <plurals name="ui_bar_txt_download_progress">
-        <item quantity="other">Zbývá stáhnout souborů: %1$d</item>
-        <item quantity="one">Zbývá stáhnout 1 soubor</item>
+        <item quantity="other">%1$d souborů zbývá stáhnout</item>
+        <item quantity="zero">%1$d souborů zbývá stáhnout</item>
+        <item quantity="one">%1$d soubor zbývá stáhnout</item>
+        <item quantity="two">%1$d soubory zbývá stáhnout</item>
+        <item quantity="few">%1$d souborů zbývá stáhnout</item>
+        <item quantity="many">%1$d souborů zbývá stáhnout</item>
     </plurals>
     <plurals name="ui_bar_txt_upload_progress">
-        <item quantity="other">Zbývá nahrát souborů: %1$d</item>
-        <item quantity="one">Zbývá nahrát 1 soubor</item>
+        <item quantity="other">%1$d souborů zbývá nahrát</item>
+        <item quantity="zero">%1$d souborů zbývá nahrát</item>
+        <item quantity="one">%1$d soubor zbývá nahrát</item>
+        <item quantity="two">%1$d soubory zbývá nahrát</item>
+        <item quantity="few">%1$d souborů zbývá nahrát</item>
+        <item quantity="many">%1$d souborů zbývá nahrát</item>
     </plurals>
 </resources>
