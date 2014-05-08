@@ -25,13 +25,13 @@
 	    "position": 1
         },
         {
-            "title":"Github MIUI CZECH&SLOVAK",
-            "url":"https://github.com/MIUICzech-Slovak/",
+            "title":"Seznam změn v MIUI",
+            "url":"http://www.miui.cz/miui-changelog",
             "thumbnail":"change-cz-sk.png",
             "logobg":"bg01.9.png",
             "nightModeMask": "night.9.png",
             "favicon":"",
-	    "displayName": "Github MIUI CZECH&SLOVAK",
+	    "displayName": "Seznam změn v MIUI",
 	    "isDelete": true,
 	    "movable": true,
 	    "position": 2
@@ -165,13 +165,13 @@
 	    "displayName": "LevneSmartphony.cz"
         },
         {
-            "title":"Github MIUI CZECH&SLOVAK",
-            "url":"https://github.com/MIUICzech-Slovak/",
+            "title":"Seznam změn v MIUI",
+            "url":"http://www.miui.cz/miui-changelog",
             "thumbnail":"change-cz-sk.png",
             "logobg":"bg01.9.png",
             "nightModeMask": "night.9.png",
             "favicon":"",
-	    "displayName": "Github MIUI CZECH&SLOVAK"
+	    "displayName": "Seznam změn v MIUI"
         },
         {
             "title":"AndroidNEWS.sk",
