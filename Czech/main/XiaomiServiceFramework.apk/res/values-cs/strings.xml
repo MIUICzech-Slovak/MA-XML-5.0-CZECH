@@ -8,7 +8,7 @@
   <string name="account_detail">"Xiaomi účet:
     %1$s"</string>
   <string name="account_dspt">"Účet Xiaomi může synchronizovat a zálohovat Vaše zprávy, 
-kontakty, fotky, atd"</string>
+kontakty, fotky, atd."</string>
   <string name="account_hint_text">E-mail nebo telefonní číslo</string>
   <string name="account_name">Účet: %1$s</string>
   <string name="activate_phone_failed_notif_title">Nastavení MiCloud selhalo</string>
@@ -192,7 +192,7 @@ Vyčkejte prosím 5 minut a zkuste to znovu"</string>
   <string name="find_device_notice_p3">pro zjištění polohy, zablokování nebo vymazání všech dat</string>
   <string name="find_device_success_title">Zjišťování polohy je zapnuté</string>
   <string name="find_password_on_web_msg">Navštivte account.xiaomi.com pro obnovu hesla</string>
-  <string name="forget_password">&lt;u&gt;Zapomenut&amp;#233; heslo&lt;/u&gt;</string>
+  <string name="forget_password">Zapomenuté heslo</string>
   <string name="frozen">(Zmrazeno)</string>
   <string name="get_back_pwd">Obnovit heslo</string>
   <string name="giftcard_acitivity_and_denomination">%2$s MiKreditů z poukázky %1$s</string>
@@ -439,7 +439,7 @@ Zkontrolujeme to do dvou pracovních dnů"</string>
   <string name="sim_changed_notification_content">SIM není aktivovaná.</string>
   <string name="sina_weibo">Sina Weibo</string>
   <string name="skip_login">Přeskočit přihlášení</string>
-  <string name="skip_login_u">&lt;u&gt;P&amp;#345;esko&amp;#269;it&lt;/u&gt;</string>
+  <string name="skip_login_u">Přeskočit</string>
   <string name="skip_setup_account_msg">Svůj účet můžete nastavit i později v nastavení telefonu.</string>
   <string name="skip_setup_account_title">Přeskočit nastavení účtu</string>
   <string name="start_micloud">Start</string>
