@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
 <resources>
-    <resources>
     <plurals name="move_messages">
         <item quantity="other">Přesunout zprávy</item>
         <item quantity="one">Přesunout zprávu</item>
