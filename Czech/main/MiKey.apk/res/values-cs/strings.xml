@@ -65,7 +65,7 @@
   <string name="no_usage">...</string>
   <string name="notification_control_play">Přehrát</string>
   <string name="notification_control_stop">Zastavit</string>
-  <string name="notification_recorder_file_location">Uloženo:</string>
+  <string name="notification_recorder_file_location">Uloženo do:</string>
   <string name="notification_recorder_start">Nahrávání...</string>
   <string name="rank_prefix">"Hodnocení: "</string>
   <string name="rank_suffix">" bodů"</string>
@@ -77,7 +77,7 @@
   <string name="setting_feedback">Zpětná vazba</string>
   <string name="setting_instant_photo_desc">"Před zhotovením fotografie, fotoaparát zaostří"</string>
   <string name="setting_instant_photo_text">Zaostřit před vyfocením</string>
-  <string name="setting_keeplive_desc">Tato možnost umožní aplikaci běžet na pozadí a rychle reagovat na vaše příkazy. To však může zvýšit spotřebu baterie</string>
+  <string name="setting_keeplive_desc">Tato možnost povolí aplikaci běžet na pozadí a rychle reagovat na vaše příkazy. To však může zvýšit spotřebu baterie</string>
   <string name="setting_keeplive_text">Běžet na pozadí</string>
   <string name="setting_silent_mode">Tichý režim</string>
   <string name="setting_speed_desc">Rychlost kliknutí tlačítkem</string>
@@ -98,8 +98,8 @@
   <string name="short_click_8">8x</string>
   <string name="short_click_9">9x</string>
   <string name="showSlip">Zobrazit v roletce</string>
-  <string name="silent_mode_tip_main">Tlačítko pro ztišení je deaktivováno</string>
-  <string name="silent_mode_tip_sub">Povolte v nastaveních</string>
+  <string name="silent_mode_tip_main">Tichý režim aktivován</string>
+  <string name="silent_mode_tip_sub"/>
   <string name="sms_sent_done">SMS odeslána</string>
   <string name="sms_template">Text zprávy</string>
   <string name="sms_to">SMS</string>
