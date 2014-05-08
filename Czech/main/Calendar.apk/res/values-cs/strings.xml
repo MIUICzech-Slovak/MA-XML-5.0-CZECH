@@ -251,7 +251,7 @@
   <string name="timezone_label">Časové pásmo</string>
   <string name="today">Dnes</string>
   <string name="today_at_time_fmt">Dnes v %s</string>
-  <string name="today_no_events">Žádné události na dnes</string>
+  <string name="today_no_events">Žádné události</string>
   <string name="today_weather_unavailable">Nelze získat údaje o počasí</string>
   <string name="tomorrow">Zítra</string>
   <string name="tomorrow_at_time_fmt">Zítra v %s</string>
