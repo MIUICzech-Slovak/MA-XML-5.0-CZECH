@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
-<!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
 <resources>
   <string name="Settings_title_anti_spam">Nastavení Antispamu</string>
   <string name="Settings_title_anti_virus">Nastavení Antiviru</string>
@@ -575,6 +574,7 @@ Pozn&amp;#225;mka: Zv&amp;#283;t&amp;#353;en&amp;#237; trojit&amp;#253;m klepnut
   <string name="button_text_delete_from_white_list">Odebrat</string>
   <string name="button_text_done">Hotovo</string>
   <string name="button_text_fix">Opravit</string>
+  <string name="button_text_known">OK</string>
   <string name="button_text_quick_scan">Kontrola</string>
   <string name="button_text_security">OK</string>
   <string name="button_text_uninstall">Odinst.</string>
@@ -896,6 +896,7 @@ Toto nastavení ovlivní všechny uživatele tohoto telefonu."</string>
   <string name="device_status">Stav</string>
   <string name="device_status_activity_title">Stav</string>
   <string name="device_status_summary">Stav baterie, úroveň nabití atd.</string>
+  <string name="dialog_message_auto_start_tips">Některé bezpečnostní aplikace se mohou jevit jako nesprávné, takže jim MIUI brání se automaticky spustit. Chcete-li zkontrolovat oprávnění, která byla udělena na jednotlivé aplikace, přejděte do Nastavení &gt; Aplikace.</string>
   <string name="dialog_msg_backup_and_cleanup_apps">Po dokončení zálohy budou všechna data aplikací vymazána. Zahrnuty jsou všechny soubory, nastavení, účty, atd.</string>
   <string name="dialog_msg_backup_and_uninstall_apps">Potvrďte zálohování a odinstalování aplikací</string>
   <string name="dialog_msg_check_all">%1$s obsahuje položek: %2$d</string>
@@ -903,6 +904,7 @@ Toto nastavení ovlivní všechny uživatele tohoto telefonu."</string>
   <string name="dialog_msg_cleanup_system_cache">Vymaže se cache pro všechny aplikace.</string>
   <string name="dialog_msg_load_cleanup_engine_error">Nástroj pro čištění je poškozen, je nutné přeinstalovat ROM!</string>
   <string name="dialog_msg_uninstall_apps">Odinstalovat tyto aplikace?</string>
+  <string name="dialog_title_auto_start_tips">O auto startu</string>
   <string name="dialog_title_backup_and_cleanup_apps">Zálohovat a vymazat data aplikace?</string>
   <string name="dialog_title_backup_and_uninstall_apps">Zálohovat a odinstalovat</string>
   <string name="dialog_title_check_all">Vybrat vše</string>
