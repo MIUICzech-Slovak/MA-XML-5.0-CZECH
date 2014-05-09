@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
-<!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
 <resources>
+    <plurals name="pinpuk_attempts">
+        <item quantity="other">Počet zbývajících pokusů, po jejichž vyčerpání bude SIM karta uzamčena: %d.</item>
+        <item quantity="one">Máte ještě %d pokus. Poté bude SIM karta uzamčena.</item>
+    </plurals>
     <plurals name="num_seconds_ago">
         <item quantity="other">před %d s</item>
         <item quantity="one">před 1 sekundou</item>
@@ -92,5 +95,9 @@
     <plurals name="matches_found">
         <item quantity="other">%1$d z %2$d</item>
         <item quantity="one">1 shoda</item>
+    </plurals>
+    <plurals name="restr_pin_countdown">
+        <item quantity="other">Zkuste to znovu za %d s</item>
+        <item quantity="one">Zkuste to znovu za 1 s</item>
     </plurals>
 </resources>

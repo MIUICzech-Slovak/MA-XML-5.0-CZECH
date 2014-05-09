@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
+<resources>
+    <string name="app_name">Skener</string>
+    <string name="copy">Kopírovat</string>
+    <string name="name">Jméno:</string>
+    <string name="nickname">Přezdívka:</string>
+    <string name="company">Firma:</string>
+    <string name="title">Titul:</string>
+    <string name="phone">Telefon:</string>
+    <string name="email">E-mail:</string>
+    <string name="web">Web:</string>
+    <string name="address">Adresa:</string>
+    <string name="birthday">Narozeniny:</string>
+    <string name="note">Poznámka:</string>
+    <string name="add_to_contacts">Přidat do kontaktů</string>
+    <string name="recognize">Rozpoznat</string>
+    <string name="place_barcode_into_rectangle">Zaměřte QR kód nebo čárový kód do středu</string>
+    <string name="open_flash_error">Zapínání blesku selhalo</string>
+    <string name="close_flash_error">Vypínání blesku selhalo</string>
+    <string name="scan_fail">Rozpoznávání kódu selhalo</string>
+    <string name="vcard_prompt">Nelze přidat do kontaktů s chybějícím jménem</string>
+    <string name="copy_succeed">Zkopírováno</string>
+    <string name="fail_generate_barcode">Generování kódu selhalo</string>
+    <string name="scan_result">Výsledek</string>
+    <string name="flash_lable">Blesk</string>
+    <string name="picker_lable">Galerie</string>
+</resources>
