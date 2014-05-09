@@ -646,4 +646,8 @@ Nyní můžete kopírovat soubory."</item>
         <item>Zobrazit oblasti pro deuteranomálii</item>
         <item>Zobrazit počítadlo překreslení</item>
     </string-array>
+    <string-array name="perm_disable_keyguard_action">
+        <item>Povolit</item>
+        <item>Zakázat</item>
+    </string-array>
 </resources>

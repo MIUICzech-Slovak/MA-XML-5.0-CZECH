@@ -319,7 +319,7 @@
   <string name="default_contacts_countrycode_sum_miui">Nastavit výchozí kód země pro Vaše kontakty: %s</string>
   <string name="default_ims_call_type">Hlas</string>
   <string name="default_notification_description">Výchozí vyzvánění (%1$s)</string>
-  <string name="default_preference_summary">&lt;Nenastaveno&gt;</string>
+  <string name="default_preference_summary">Nenastaveno</string>
   <string name="delete">Vymazat</string>
   <string name="deleteAllSimEntries">Vymazat všechny kontakty na SIM</string>
   <string name="deleteSimContacts">Mazání kontaktů na SIM</string>
@@ -382,7 +382,7 @@
   <string name="disable_pin_ok">Kód PIN karty SIM je ZAKÁZÁN.</string>
   <string name="disable_sim_pin">Zakázat kód PIN karty SIM</string>
   <string name="disable_sim_pin_miui">Vypnout SIM PIN</string>
-  <string name="display_name_summary">&lt;Stejné jako jméno&gt;</string>
+  <string name="display_name_summary">Stejné jako jméno</string>
   <string name="display_name_title">Zobrazované jméno</string>
   <string name="domain_address_title">Server</string>
   <string name="doneButton">Hotovo</string>
@@ -751,7 +751,7 @@
   <string name="onscreen_tools_off_miui">Nástroje</string>
   <string name="onscreen_tools_on_miui">Nástroje</string>
   <string name="open_miui">Otevřít</string>
-  <string name="optional_summary">&lt;Volitelné&gt;</string>
+  <string name="optional_summary">Volitelné</string>
   <string name="ota_activate">Aktivovat</string>
   <string name="ota_call_end">Zpět</string>
   <string name="ota_failure">Aktivace neúspěšná</string>

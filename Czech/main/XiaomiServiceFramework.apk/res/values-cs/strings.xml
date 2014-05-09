@@ -134,7 +134,7 @@ Postupujte dle instrukcí pro dokončení objednávky."</string>
   <string name="dirty_mms_count">zpráv: %d</string>
   <string name="dirty_note_count">poznámek: %d</string>
   <string name="disable_find_device_error">Chyba: %1$s</string>
-  <string name="disable_micloud">&lt;u&gt;Zak&amp;#225;zat MiCloud&lt;/u&gt;</string>
+  <string name="disable_micloud">Zakázat MiCloud</string>
   <string name="email_already_be_used">E-mailová adresa je již použita s jiným účtem</string>
   <string name="enableAll">Povolit vše</string>
   <string name="enable_find_device_error">Chyba: %1$s</string>
@@ -192,6 +192,7 @@ Vyčkejte prosím 5 minut a zkuste to znovu"</string>
   <string name="find_device_notice_p3">pro zjištění polohy, zablokování nebo vymazání všech dat</string>
   <string name="find_device_success_title">Zjišťování polohy je zapnuté</string>
   <string name="find_password_on_web_msg">Navštivte account.xiaomi.com pro obnovu hesla</string>
+  <string name="foreign_login">Země/kód země</string>
   <string name="forget_password">Zapomenuté heslo</string>
   <string name="frozen">(Zmrazeno)</string>
   <string name="get_back_pwd">Obnovit heslo</string>
@@ -310,7 +311,7 @@ Využito %s | Zbývá %s"</string>
   <string name="micloud_warn_low_title">Dochází volné místo v úložišti!</string>
   <string name="micloud_web_discription_01">Přihlaste se na http://i.xiaomi.com</string>
   <string name="micloud_web_discription_02">pro ukládání a přístup k Vašim souborům</string>
-  <string name="micloud_welcome_skip_login">&lt;u&gt;P&amp;#345;esko&amp;#269;it tento krok&lt;/u&gt;</string>
+  <string name="micloud_welcome_skip_login">Přeskočit</string>
   <string name="mili_center">MiKredity</string>
   <string name="msg_denomination_type">MiKredity</string>
   <string name="msg_error">Navýšení přes SMS selhalo</string>

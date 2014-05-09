@@ -129,7 +129,7 @@ Ok pro zrušení obnovy"</string>
   <string name="contact_title">Kontakty</string>
   <string name="current_account">Současný účet:%s</string>
   <string name="current_sim">Současná SIM</string>
-  <string name="customization">&lt;u&gt;Upravit&lt;/u&gt;</string>
+  <string name="customization">Upravit</string>
   <string name="customization_under_wifi_prompt">Dostupné jen při připojení k Wi-Fi</string>
   <string name="data_no_enough_space">Nedostatek místa, uvolněte místo a zkuste to znovu</string>
   <string name="data_no_enough_space_message">Záloha se nemusí provést, uvolněte místo a zkuste to znovu</string>

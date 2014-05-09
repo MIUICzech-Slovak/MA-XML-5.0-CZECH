@@ -76,7 +76,7 @@
   <string name="unknown_installer">Neznámý instalátor</string>
   <string name="virus_scan_caller_unknown">Neznámý</string>
   <string name="virus_scan_clear">Vyčistit</string>
-  <string name="virus_scan_install">" "&lt;u&gt;Pokra&amp;#269;ovat&lt;/u&gt;" "</string>
+  <string name="virus_scan_install">" "Pokračovat" "</string>
   <string name="virus_scan_is_risk">Tato aplikace je podezřelá!</string>
   <string name="virus_scan_is_virus">Tato aplikace je virus!</string>
 </resources>

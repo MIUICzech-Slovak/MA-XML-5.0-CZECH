@@ -100,6 +100,9 @@
   <string name="HIPS_Perm_Contact_Access">Přístup ke kontaktům</string>
   <string name="HIPS_Perm_Contact_Desc">Přístup ke kontaktům</string>
   <string name="HIPS_Perm_Contact_Hint">%1$s aplikace mají povolení pro přístup ke kontaktům</string>
+  <string name="HIPS_Perm_DisableKeyguard">Odemknout displej</string>
+  <string name="HIPS_Perm_DisableKeyguard_Desc">Odemknout displej</string>
+  <string name="HIPS_Perm_DisableKeyguard_Hint">%1$s aplikací může odemknout displej</string>
   <string name="HIPS_Perm_EndCall">Zavěsit probíhající hovor</string>
   <string name="HIPS_Perm_GetCallState">Zjistit stav hovoru</string>
   <string name="HIPS_Perm_ListenCallState">Sledovat stav hovoru</string>
