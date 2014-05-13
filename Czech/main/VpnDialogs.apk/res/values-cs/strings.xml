@@ -11,5 +11,5 @@
   <string name="legacy_title">VPN síť je připojená.</string>
   <string name="prompt">Aplikace %s se pokouší vytvořit VPN připojení.</string>
   <string name="session">Relace:</string>
-  <string name="warning">Pokračováním souhlasíte s tím, že aplikace může sledovat veškerý Váš síťový provoz. &lt;b&gt;Pokud aplikaci ned&amp;#367;v&amp;#283;&amp;#345;ujete, nepokra&amp;#269;ujte.&lt;/b&gt; V opa&amp;#269;n&amp;#233;m p&amp;#345;&amp;#237;pad&amp;#283; riskujete vystaven&amp;#237; Va&amp;#353;ich dat &amp;#353;kodliv&amp;#233;mu softwaru.</string>
+  <string name="warning">Pokračováním souhlasíte s tím, že aplikace může sledovat veškerý váš síťový provoz. Pokud aplikaci nedůvěřujete, nepokračujte. V opačném případě riskujete vystavení vašich dat škodlivému softwaru.</string>
 </resources>

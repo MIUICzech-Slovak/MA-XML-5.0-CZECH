@@ -591,65 +591,47 @@ Chyba: \"%s\""</string>
   <string name="noContacts">Žádné kontakty</string>
   <string name="noContactsHelpText">"Nemáte žádné kontakty k zobrazení.
 
-Pro přidání kontaktů stiskněte "&lt;font fgcolor="#ffffffff"&gt;&lt;b&gt;Menu&lt;/b&gt;&lt;/font&gt;", vyberte:
+Pro přidání kontaktů stiskněte "Menu", vyberte:
  
-"&lt;li&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;b&gt;"P&amp;#345;idat &amp;#250;&amp;#269;ty nebo nastavit &amp;#250;&amp;#269;et s kontakty, kter&amp;#233; m&amp;#367;&amp;#382;ete synchronizovat s telefonem
-"&lt;/b&gt;&lt;/font&gt;&lt;/li&gt;" 
-"&lt;li&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;b&gt;"Nov&amp;#253; kontakt - pro vytvo&amp;#345;en&amp;#237; kontaktu 
-"&lt;/b&gt;&lt;/font&gt;&lt;/li&gt;" 
-"&lt;li&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;b&gt;"Import/Export pro importov&amp;#225;n&amp;#237; kontakt&amp;#367; ze SIM anebo SD karty
-"&lt;/b&gt;&lt;/font&gt;&lt;/li&gt;"
-"</string>
-  <string name="noContactsHelpTextForCreateShortcut">"Žádný kontakt pro zobrazení."</string>
-  <string name="noContactsHelpTextWithSync">"Nemáte žádné kontakty k zobrazení. (Pokud jste právě přidali svůj účet, může to chvíli trvat, než se načtou Vaše kontakty.)
+"Přidat účty nebo nastavit účet s kontakty, které můžete synchronizovat s telefonem
+"Nový kontakt - pro vytvoření kontaktu"  
+"Import/Export pro importování kontaktů ze SIM anebo SD karty
+    <string name="noContactsHelpTextForCreateShortcut">"Žádný kontakt pro zobrazení."</string>
+    <string name="noContactsHelpTextWithSync">"Nemáte žádné kontakty k zobrazení. (Pokud jste právě přidali svůj účet, může to chvíli trvat, než se načtou Vaše kontakty.)
 
-Pro přidání kontaktů stiskněte "&lt;font fgcolor="#ffffffff"&gt;&lt;b&gt;Menu&lt;/b&gt;&lt;/font&gt;", vyberte:
+Pro přidání kontaktů stiskněte "Menu", vyberte:
  
-"&lt;li&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;b&gt;"P&amp;#345;idat &amp;#250;&amp;#269;ty nebo nastavit &amp;#250;&amp;#269;et s kontakty, kter&amp;#233; m&amp;#367;&amp;#382;ete synchronizovat s telefonem
-"&lt;/b&gt;&lt;/font&gt;&lt;/li&gt;" 
-"&lt;li&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;b&gt;"Zobrazit mo&amp;#382;nosti - nastaven&amp;#237;, kter&amp;#233; kontakty jsou viditeln&amp;#233;
-"&lt;/b&gt;&lt;/font&gt;&lt;/li&gt;" 
-"&lt;li&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;b&gt;"Nov&amp;#253; kontakt - pro vytvo&amp;#345;en&amp;#237; kontaktu
-"&lt;/b&gt;&lt;/font&gt;&lt;/li&gt;" 
-"&lt;li&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;b&gt;"Import/Export pro importov&amp;#225;n&amp;#237; kontakt&amp;#367; ze SIM nebo SD karty
-"&lt;/b&gt;&lt;/font&gt;&lt;/li&gt;"
+"Přidat účty nebo nastavit účet s kontakty, které můžete synchronizovat s telefonem"
+"Zobrazit možnosti - nastavení, které kontakty jsou viditelné"
+"Nový kontakt - pro vytvoření kontaktu"
+"Import/Export pro importování kontaktů ze SIM nebo SD karty"
 "</string>
-  <string name="noContactsHelpTextWithSyncForCreateShortcut">"Žádný kontakt pro zobrazení. (Pokud jste právě přidali Váš účet, může chvíli trvat, než se vše synchronizuje.)"</string>
-  <string name="noContactsNoSimHelpText">"Nemáte žádné kontakty k zobrazení.
+    <string name="noContactsHelpTextWithSyncForCreateShortcut">"Žádný kontakt pro zobrazení. (Pokud jste právě přidali Váš účet, může chvíli trvat, než se vše synchronizuje.)"</string>
+    <string name="noContactsNoSimHelpText">"Nemáte žádné kontakty k zobrazení.
 
-Pro přidání kontaktů stiskněte "&lt;font fgcolor="#ffffffff"&gt;&lt;b&gt;Menu&lt;/b&gt;&lt;/font&gt;", vyberte:
+Pro přidání kontaktů stiskněte "Menu", vyberte:
  
-"&lt;li&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;b&gt;"P&amp;#345;idat &amp;#250;&amp;#269;ty nebo nastavit &amp;#250;&amp;#269;et s kontakty, kter&amp;#233; m&amp;#367;&amp;#382;ete synchronizovat s telefonem
-"&lt;/b&gt;&lt;/font&gt;&lt;/li&gt;" 
-"&lt;li&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;b&gt;"Nov&amp;#253; kontakt - pro vytvo&amp;#345;en&amp;#237; kontaktu
-"&lt;/b&gt;&lt;/font&gt;&lt;/li&gt;" 
-"&lt;li&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;b&gt;"Import/Export pro importov&amp;#225;n&amp;#237; kontakt&amp;#367; ze SIM nebo SD karty
-"&lt;/b&gt;&lt;/font&gt;&lt;/li&gt;"
+"Přidat účty nebo nastavit účet s kontakty, které můžete synchronizovat s telefonem"
+"Nový kontakt - pro vytvoření kontaktu"
+"Import/Export pro importování kontaktů ze SIM nebo SD karty"
 "</string>
-  <string name="noContactsNoSimHelpTextWithSync">"Nemáte žádné kontakty k zobrazení. (Pokud jste právě přidali svůj účet, může to chvíli trvat než se načtou Vaše kontakty.)
+    <string name="noContactsNoSimHelpTextWithSync">"Nemáte žádné kontakty k zobrazení. (Pokud jste právě přidali svůj účet, může to chvíli trvat než se načtou Vaše kontakty.)
 
-Pro přidání kontaktů stiskněte "&lt;font fgcolor="#ffffffff"&gt;&lt;b&gt;Menu&lt;/b&gt;&lt;/font&gt;", vyberte:
+Pro přidání kontaktů stiskněte "Menu", vyberte:
  
-"&lt;li&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;b&gt;"P&amp;#345;idat &amp;#250;&amp;#269;ty nebo nastavit &amp;#250;&amp;#269;et s kontakty, kter&amp;#233; m&amp;#367;&amp;#382;ete synchronizovat s telefonem
-"&lt;/b&gt;&lt;/font&gt;&lt;/li&gt;" 
-"&lt;li&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;b&gt;"Zobrazit mo&amp;#382;nosti - nastaven&amp;#237;, kter&amp;#233; kontakty jsou viditeln&amp;#233;
-"&lt;/b&gt;&lt;/font&gt;&lt;/li&gt;" 
-"&lt;li&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;b&gt;"Nov&amp;#253; kontakt - pro vytvo&amp;#345;en&amp;#237; kontaktu
-"&lt;/b&gt;&lt;/font&gt;&lt;/li&gt;" 
-"&lt;li&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;b&gt;"Import/Export pro importov&amp;#225;n&amp;#237; kontakt&amp;#367; ze SIM anebo SD karty
-"&lt;/b&gt;&lt;/font&gt;&lt;/li&gt;"
+"Přidat účty nebo nastavit účet s kontakty, které můžete synchronizovat s telefonem"
+"Zobrazit možnosti - nastavení, které kontakty jsou viditelné"
+"Nový kontakt - pro vytvoření kontaktu"
+"Import/Export pro importování kontaktů ze SIM anebo SD karty"
 "</string>
-  <string name="noContactsWithPhoneNumbers">Žádné kontakty s telefonním číslem.</string>
-  <string name="noFavoritesHelpText">"Nemáte žádné oblíbené kontakty. 
+    <string name="noContactsWithPhoneNumbers">Žádné kontakty s telefonním číslem.</string>
+    <string name="noFavoritesHelpText">"Nemáte žádné oblíbené kontakty. 
 
 Pro přidání kontaktu do oblíbených: 
 
-"&lt;li&gt;Stla&amp;#269;te &lt;b&gt;Kontakty&lt;/b&gt;" 
-"&lt;/li&gt;" 
-"&lt;li&gt;"Vyberte kontakt, kter&amp;#253; m&amp;#225; b&amp;#253;t p&amp;#345;idan&amp;#253; do Obl&amp;#237;ben&amp;#253;ch 
-"&lt;/li&gt;" 
-"&lt;li&gt;"Vyberte hv&amp;#283;zdi&amp;#269;ku u jm&amp;#233;na kontaktu "
-&lt;/li&gt;" 
+"Stiskněte Kontakty" 
+"Vyberte kontakt, který má být přidán do Oblíbených" 
+"Vyberte hvězdičku u jména kontaktu "
 "</string>
   <string name="noGroups">Žádné skupiny.</string>
   <string name="noMatchingContacts">Nenalezeny žádné odpovídající kontakty.</string>

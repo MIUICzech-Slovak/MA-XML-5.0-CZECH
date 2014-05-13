@@ -48,12 +48,12 @@ Má-li zařízení více uživatelů, pomocí této zkratky lze na uzamčené ob
   <string name="accessibility_screen_magnification_summary">"Je-li tato funkce zapnutá, můžete zobrazení přibližovat a oddalovat tak, že třikrát klepnete na obrazovku.
 
 Při přiblížení můžete provádět tyto činnosti:
-"&lt;li&gt;&lt;ul&gt;"Posunut&amp;#237;: t&amp;#225;hn&amp;#283;te po obrazovce minim&amp;#225;ln&amp;#283; dv&amp;#283;ma prsty.
-"&lt;li&gt;Zm&amp;#283;na &amp;#250;rovn&amp;#283; p&amp;#345;ibl&amp;#237;&amp;#382;en&amp;#237;: alespo&amp;#328; dva prsty st&amp;#225;hn&amp;#283;te k sob&amp;#283; nebo rozt&amp;#225;hn&amp;#283;te od sebe.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;"
+"Posunutí: táhněte po obrazovce minimálně dvěma prsty.
+"Změna úrovně přiblížení: alespoň dva prsty stáhněte k sobě nebo roztáhněte od sebe."
 
-Tak&amp;#233; je mo&amp;#382;n&amp;#233; do&amp;#269;asn&amp;#283; zv&amp;#283;t&amp;#353;it oblast pod prstem. Sta&amp;#269;&amp;#237; na ni t&amp;#345;ikr&amp;#225;t klepnout a podr&amp;#382;et ji. V takto zv&amp;#283;t&amp;#353;en&amp;#233;m n&amp;#225;hledu m&amp;#367;&amp;#382;ete p&amp;#345;et&amp;#225;hnut&amp;#237;m prstu prohl&amp;#237;&amp;#382;et libovoln&amp;#233; &amp;#269;&amp;#225;sti obrazovky. Do p&amp;#345;edchoz&amp;#237;ho zobrazen&amp;#237; se vr&amp;#225;t&amp;#237;te zvednut&amp;#237;m prstu.
+Také je možné dočasně zvětšit oblast pod prstem. Stačí na ni třikrát klepnout a podržet ji. V takto zvětšeném náhledu můžete přetáhnutím prstu prohlížet libovolné části obrazovky. Do předchozího zobrazení se vrátíte zvednutím prstu.
 
-Pozn&amp;#225;mka: Zv&amp;#283;t&amp;#353;en&amp;#237; trojit&amp;#253;m klepnut&amp;#237;m funguje ve v&amp;#353;ech &amp;#269;&amp;#225;stech obrazovky s v&amp;#253;jimkou kl&amp;#225;vesnice a notifika&amp;#269;n&amp;#237; li&amp;#353;ty."</string>
+Poznámka: Zvětšení trojitým klepnutím funguje ve všech částech obrazovky s výjimkou klávesnice a notifikační lišty."</string>
   <string name="accessibility_screen_magnification_title">Gesta přiblížení</string>
   <string name="accessibility_script_injection_allowed">Povoleno</string>
   <string name="accessibility_script_injection_button_allow">Povolit</string>
@@ -380,7 +380,7 @@ Pozn&amp;#225;mka: Zv&amp;#283;t&amp;#353;en&amp;#237; trojit&amp;#253;m klepnut
   <string name="bluetooth_ask_enablement_and_lasting_discovery">Aplikace v telefonu chce zapnout připojení Bluetooth a nastavit telefon do viditelného režimu. Povolit?</string>
   <string name="bluetooth_ask_lasting_discovery">Aplikace v telefonu chce trvale nastavit telefon do viditelného režimu pro ostatní zařízení Bluetooth. Povolit?</string>
   <string name="bluetooth_auto_connect">Automatické připojení</string>
-  <string name="bluetooth_confirm_passkey_msg">Párování se zařízením:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Zkontrolujte, zda zařízení zobrazuje tento přístupový\nklíč:&lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt;</string>
+  <string name="bluetooth_confirm_passkey_msg">Párování se zařízením:Zkontrolujte, zda zařízení zobrazuje tento přístupový\nklíč: %2$s</string>
   <string name="bluetooth_connect_specific_profiles_title">Připojit k síti...</string>
   <string name="bluetooth_connected">Připojeno</string>
   <string name="bluetooth_connected_no_a2dp">Připojeno (žádná média)</string>
@@ -409,10 +409,10 @@ Pozn&amp;#225;mka: Zv&amp;#283;t&amp;#353;en&amp;#237; trojit&amp;#253;m klepnut
   <string name="bluetooth_device_name">Název zařízení</string>
   <string name="bluetooth_device_searchable">Viditelné zařízení</string>
   <string name="bluetooth_devices">Zařízení Bluetooth</string>
-  <string name="bluetooth_disable_profile_message">Toto nastavení vypne profil:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Zařízení:&lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt;</string>
+  <string name="bluetooth_disable_profile_message">Toto nastavení vypne profil: %1$s Zařízení:%2$s</string>
   <string name="bluetooth_disable_profile_title">Deaktivovat profil?</string>
   <string name="bluetooth_disconnect_a2dp_profile">Zařízení %1$s bude odpojeno od zvuku médií.</string>
-  <string name="bluetooth_disconnect_all_profiles">Tímto způsobem ukončíte připojení k zařízení:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;</string>
+  <string name="bluetooth_disconnect_all_profiles">Tímto způsobem ukončíte připojení k zařízení: %1$s</string>
   <string name="bluetooth_disconnect_headset_profile">Zařízení %1$s bude odpojeno od zvuku sady handsfree.</string>
   <string name="bluetooth_disconnect_hid_profile">Zařízení %1$s bude odpojeno od vstupního zařízení.</string>
   <string name="bluetooth_disconnect_pan_nap_profile">Zařízení %1$s bude odpojeno od sdíleného internetového připojení telefonu.</string>
@@ -420,7 +420,7 @@ Pozn&amp;#225;mka: Zv&amp;#283;t&amp;#353;en&amp;#237; trojit&amp;#253;m klepnut
   <string name="bluetooth_disconnect_title">Odpojit?</string>
   <string name="bluetooth_disconnected">Odpojeno</string>
   <string name="bluetooth_disconnecting">Odpojování...</string>
-  <string name="bluetooth_display_passkey_pin_msg">Párování se zařízením:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Zadejte:&lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt; a poté \nstiskněte klávesu Return nebo Enter.</string>
+  <string name="bluetooth_display_passkey_pin_msg">Párování se zařízením: %1$s Zadejte: %2$s a poté \nstiskněte klávesu Return nebo Enter.</string>
   <string name="bluetooth_dock_settings">Nastavení doku</string>
   <string name="bluetooth_dock_settings_a2dp">Pro hudbu a média</string>
   <string name="bluetooth_dock_settings_headset">Jako telefon pro hlasitý poslech</string>
@@ -436,9 +436,9 @@ Pozn&amp;#225;mka: Zv&amp;#283;t&amp;#353;en&amp;#237; trojit&amp;#253;m klepnut
   <string name="bluetooth_empty_list_bluetooth_off">Chcete-li zobrazit zařízení, zapněte Bluetooth.</string>
   <string name="bluetooth_enable">Povolit Bluetooth</string>
   <string name="bluetooth_enable_alphanumeric_pin">Kód PIN obsahuje písmena nebo symboly</string>
-  <string name="bluetooth_enter_passkey_msg">Párování se zařízením:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Zadejte přístupový klíč požadovaný zařízením:</string>
+  <string name="bluetooth_enter_passkey_msg">Párování se zařízením: %1$s Zadejte přístupový klíč požadovaný zařízením:</string>
   <string name="bluetooth_enter_passkey_other_device">Tento přístupový klíč bude možná nutné zadat i v dalším zařízení.</string>
-  <string name="bluetooth_enter_pin_msg">Párování se zařízením:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Zadejte kód PIN požadovaný zařízením:</string>
+  <string name="bluetooth_enter_pin_msg">Párování se zařízením: %1$s Zadejte kód PIN požadovaný zařízením:</string>
   <string name="bluetooth_enter_pin_msg_hs">"Zadejte PIN pro spárování s \"%1$s\". [Vysoké zabezpečení zapnuto: Potřeba heslo o 16 znacích]"</string>
   <string name="bluetooth_enter_pin_other_device">Tento kód PIN bude možná nutné zadat i v dalším zařízení.</string>
   <string name="bluetooth_error_title"/>
@@ -450,7 +450,7 @@ Pozn&amp;#225;mka: Zv&amp;#283;t&amp;#353;en&amp;#237; trojit&amp;#253;m klepnut
   <string name="bluetooth_headset_profile_summary_use_for">Umožňuje připojení náhlavní soupravy</string>
   <string name="bluetooth_hid_profile_summary_connected">Připojeno ke vstupnímu zařízení</string>
   <string name="bluetooth_hid_profile_summary_use_for">Použít pro vstup</string>
-  <string name="bluetooth_incoming_pairing_msg">Ze zařízení:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Spárovat s tímto zařízením?</string>
+  <string name="bluetooth_incoming_pairing_msg">Ze zařízení: %1$s Spárovat s tímto zařízením?</string>
   <string name="bluetooth_is_discoverable">Viditelné pro všechna okolní zařízení Bluetooth (%1$s)</string>
   <string name="bluetooth_is_discoverable_always">Viditelné pro všechny okolní zařízení Bluetooth</string>
   <string name="bluetooth_lock_voice_dialing">Uzamknout hlasové vytáčení</string>
@@ -1688,24 +1688,24 @@ Toto nastavení ovlivní všechny uživatele tohoto telefonu."</string>
   <string name="msd_install_next">Dále</string>
   <string name="msd_install_retry_linux">"Pokud počítač nenašel Váš telefon,
 na systému Ubuntu 12.xx pokračujte podle tohoto návodu:
-&lt;a href="http://tinyurl.com/Ubuntu-MTP"&gt;Ubuntu-MTP&lt;/a&gt;.
+<a href="http://tinyurl.com/Ubuntu-MTP">Ubuntu-MTP</a>.
 
-Pozor: Ubuntu 13.04 a nov&amp;#283;j&amp;#353;&amp;#237;
-ji&amp;#382; obsahuje MTP ovl&amp;#225;da&amp;#269;. 
+Pozor: Ubuntu 13.04 a novější
+již obsahuje MTP ovládač. 
 "</string>
-  <string name="msd_install_retry_mac">"Pokud počítač nenašel Váš telefon,
+    <string name="msd_install_retry_mac">"Pokud počítač nenašel Váš telefon,
 zkuste následující:
-"&lt;li&gt;"V po&amp;#269;&amp;#237;ta&amp;#269;i hledejte
+"<li>"V počítači hledejte
 Android File Transfer
-pro MAC"&lt;/li&gt;"
-"&lt;li&gt;Odpojit telefon z USB a znovu p&amp;#345;ipojit..&lt;/li&gt;"
-"&lt;li&gt;Znovu nainstalujte ovlada&amp;#269;e.&lt;/li&gt;</string>
-  <string name="msd_install_retry_windows_vista">"Pokud počítač nenašel Váš telefon,
+pro MAC"
+"Odpojit telefon z USB a znovu připojit.."
+"Znovu nainstalujte ovladače.</li></string>
+    <string name="msd_install_retry_windows_vista">"Pokud počítač nenašel Váš telefon,
 zkuste následující:
-"&lt;li&gt;Odpojit telefon z USB a znovu p&amp;#345;ipojit.&lt;/li&gt;</string>
-  <string name="msd_install_retry_windows_xp">"Pokud počítač nenašel Váš telefon,
+"Odpojit telefon z USB a znovu připojit.</string>
+    <string name="msd_install_retry_windows_xp">"Pokud počítač nenašel Váš telefon,
 zkuste následující:"
-"&lt;li&gt;Odpojit telefon z USB a znovu p&amp;#345;ipojit.&lt;/li&gt;</string>
+"Odpojit telefon z USB a znovu připojit.</string>
   <string name="msd_install_status_done">Ovladač už je nainstalovaný</string>
   <string name="msd_install_status_undo">Instalovat ovladač</string>
   <string name="msd_install_succeed">Ovladač nainstalovaný</string>
@@ -2461,12 +2461,12 @@ Vaše zařízení se přepne po obnově baterie do tohoto režimu. Před vymazá
   <string name="reset_app_preferences">Obnovit nastavení aplikace</string>
   <string name="reset_app_preferences_button">Obnovit aplikace</string>
   <string name="reset_app_preferences_desc">"Toto obnoví všechna nastavení pro:
- "&lt;li&gt;vypnut&amp;#233; aplikace,&lt;/li&gt;"
- "&lt;li&gt;vypnut&amp;#233; upozorn&amp;#283;n&amp;#237; aplikac&amp;#237;,&lt;/li&gt;"
- "&lt;li&gt;v&amp;#253;choz&amp;#237; aplikace pro dan&amp;#233; akce,&lt;/li&gt;"
- "&lt;li&gt;omezen&amp;#237; t&amp;#253;kaj&amp;#237;c&amp;#237; se pou&amp;#382;it&amp;#237; dat na pozad&amp;#237; v aplikac&amp;#237;ch.&lt;/li&gt;"
+ "vypnuté aplikace,"
+ "vypnuté upozornění aplikací,"
+ "výchozí aplikace pro dané akce,"
+ "omezení týkající se použití dat na pozadí v aplikacích."
 
- &amp;#381;&amp;#225;dn&amp;#233; aplikace se nesma&amp;#382;ou."</string>
+ Žádné aplikace se nesmažou."</string>
   <string name="reset_app_preferences_title">Obnovit nastavení aplikace?</string>
   <string name="residual_cancel">Zrušit</string>
   <string name="residual_clean">Vyčistit</string>
@@ -3391,7 +3391,7 @@ Každý uživatel může přijmout aktualizovaná oprávnění aplikací jménem
   <string name="wifi_display_certification">Certifikace bezdrátového displeje</string>
   <string name="wifi_display_certification_summary">Zobrazit možnosti certifikace bezdrátového displeje</string>
   <string name="wifi_display_details">Nastavení displeje</string>
-  <string name="wifi_display_disconnect_text">Tímto ukončíte připojení k zařízení:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;</string>
+  <string name="wifi_display_disconnect_text">Tímto ukončíte připojení k zařízení: %1$s</string>
   <string name="wifi_display_disconnect_title">Odpojit?</string>
   <string name="wifi_display_enable_menu_item">Povolit bezdrátový displej</string>
   <string name="wifi_display_no_devices_found">V okolí nenalezeny žádné bezdr. displeje</string>

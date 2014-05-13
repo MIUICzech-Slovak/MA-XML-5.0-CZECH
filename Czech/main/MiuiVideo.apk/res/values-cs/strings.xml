@@ -142,9 +142,9 @@
   <string name="key_back_down_toast">Pro ukončení stisknete znovu Zpět</string>
   <string name="lekan">Lekan</string>
   <string name="letv">Letv</string>
-  <string name="live_loading_symbol">&lt;CDATA&gt;Na&amp;#269;&amp;#237;t&amp;#225;n&amp;#237; &lt;/CDATA&gt;</string>
+  <string name="live_loading_symbol">&lt;CDATA&gt;Načítání &lt;/CDATA&gt;</string>
   <string name="live_loading_to_be_play">Načítání...</string>
-  <string name="live_pending_symbol">&lt;CDATA&gt;Na&amp;#269;&amp;#237;t&amp;#225;n&amp;#237; &lt;/CDATA&gt;</string>
+  <string name="live_pending_symbol">&lt;CDATA&gt;Načítání &lt;/CDATA&gt;</string>
   <string name="live_pending_to_be_play">Načítání...</string>
   <string name="live_tabs_all">Vše</string>
   <string name="live_tabs_choice">Vybrané</string>
@@ -155,11 +155,11 @@
   <string name="load_failed_to_try">Načítání selhalo</string>
   <string name="load_file_fail">Soubor nenalezen</string>
   <string name="load_offline_file_fail">Soubor nenalezen, načtěte ho znovu</string>
-  <string name="loading">" "&lt;CDATA&gt;Na&amp;#269;&amp;#237;t&amp;#225;n&amp;#237; &lt;/CDATA&gt;" "</string>
-  <string name="loading_review">&lt;CDATA&gt;Na&amp;#269;&amp;#237;t&amp;#225;n&amp;#237; &lt;/CDATA&gt;</string>
+  <string name="loading">" "&lt;CDATA&gt;Načítání &lt;/CDATA&gt;" "</string>
+  <string name="loading_review">&lt;CDATA&gt;Načítání &lt;/CDATA&gt;</string>
   <string name="loading_review_failed">Načítání komentářů selhalo</string>
-  <string name="loading_tv">" "&lt;CDATA&gt;Na&amp;#269;&amp;#237;t&amp;#225;n&amp;#237; &lt;/CDATA&gt;" "</string>
-  <string name="loading_video">" "&lt;CDATA&gt;Na&amp;#269;&amp;#237;t&amp;#225;n&amp;#237; &lt;/CDATA&gt;" "</string>
+  <string name="loading_tv">" "&lt;CDATA&gt;Načítání &lt;/CDATA&gt;" "</string>
+  <string name="loading_video">" "&lt;CDATA&gt;Načítání &lt;/CDATA&gt;" "</string>
   <string name="loading_video_netplay_label">Načítání, čekejte prosím...</string>
   <string name="loading_video_netplay_label_v5">Načítá se stream, čekejte prosím...</string>
   <string name="local_count_ji">PRC %d Ep.</string>
@@ -266,7 +266,7 @@
   <string name="search">Hledat</string>
   <string name="search_result_recommend_hint">"Nic nebylo nalezeno"</string>
   <string name="search_result_recommend_title">"Každý sleduje"</string>
-  <string name="searching">" "&lt;CDATA&gt;Vyhled&amp;#225;v&amp;#225;n&amp;#237; &lt;/CDATA&gt;" "</string>
+  <string name="searching">" "&lt;CDATA&gt;Vyhledávání &lt;/CDATA&gt;" "</string>
   <string name="seconds">s</string>
   <string name="select_all">Vybrat vše</string>
   <string name="select_media_source">Zvolte zdroj videa</string>

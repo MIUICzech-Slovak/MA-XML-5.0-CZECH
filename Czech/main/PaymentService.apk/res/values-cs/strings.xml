@@ -115,7 +115,7 @@ Vyčkejte prosím 5 minut a zkuste to znovu"</string>
   <string name="error_verify_summary">Aplikace nemá práva na tuto službu</string>
   <string name="error_verify_title">Nemáte povolení</string>
   <string name="fee">%1$s MiKreditů</string>
-  <string name="forget_password">&lt;u&gt;Zapomn&amp;#283;l jsem heslo&lt;/u&gt;</string>
+  <string name="forget_password">Zapomněl jsem heslo</string>
   <string name="frozen">(Zmrazeno)</string>
   <string name="giftcard_acitivity_and_denomination">%2$s MiKreditů z poukázky %1$s</string>
   <string name="giftcard_denom">MiKreditů</string>
@@ -142,20 +142,20 @@ prvně a nemohou být použité po vypršení platnosti"</string>
   <string name="lockpattern_need_to_confirm">Nakreslete opět pro potvrzení:</string>
   <string name="lockpattern_need_to_confirm_wrong">Není shodný s předchozím vzorem, zadejte ho znovu:</string>
   <string name="lockpattern_need_to_unlock_footer"/>
-  <string name="lockpattern_need_to_unlock_wrong">&lt;font color=red&gt;Nesprávné heslo. Můžete ho zadat ještě %d krát&lt;/font&gt;</string>
+  <string name="lockpattern_need_to_unlock_wrong">Nesprávné heslo. Můžete jej zadat ještě %d krát</string>
   <string name="lockpattern_need_to_unlock_wrong_footer"/>
   <string name="lockpattern_pattern_confirmed_header">Váš nový odemykací vzor:</string>
   <string name="lockpattern_pattern_entered_header">Vzor uložen.</string>
   <string name="lockpattern_recording_incorrect_too_short">Spojte %d body. Zkuste to znovu:</string>
   <string name="lockpattern_recording_inprogress">Oddalte prst jakmile skončíte.</string>
   <string name="lockpattern_recording_intro_header">Nakreslete odemykací vzor:</string>
-  <string name="lockpattern_retry_text">&lt;u&gt;Obnovit odemykac&amp;#237; vzor&lt;/u&gt;</string>
+  <string name="lockpattern_retry_text">Obnovit odemykací vzor</string>
   <string name="lockpattern_settings_help_how_to_record">Jak nakreslit odemykací vzor</string>
   <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Zkuste to znovu za %d sekund.</string>
-  <string name="lockpattern_too_many_failed_confirmation_attempts_header">&lt;font color=red&gt;Příliš mnoho nesprávných pokusů!&lt;/font&gt;</string>
+  <string name="lockpattern_too_many_failed_confirmation_attempts_header">Příliš mnoho nesprávných pokusů!</string>
   <string name="lockpattern_tutorial_cancel_label">Zrušit</string>
   <string name="lockpattern_tutorial_continue_label">Další</string>
-  <string name="lockscreen_forgot_pattern_button_text">&lt;u&gt;Zapomn&amp;#283;l jsem vzor&lt;/u&gt;</string>
+  <string name="lockscreen_forgot_pattern_button_text">Zapomněl jsem vzor</string>
   <string name="login">Přihlásit</string>
   <string name="memu_refresh">Obnovit</string>
   <string name="mibi_license_message">Xiaomi MiKredity. Klepnutím na OK souhlasíte s %1$s.</string>
