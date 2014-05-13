@@ -1103,6 +1103,7 @@ Toto nastavení ovlivní všechny uživatele tohoto telefonu."</string>
   <string name="factory_reset_summary">Můžete vymazat osobní data telefonu, nebo vyberte vymazat instalované aplikace a naformátujte SD kartu pro obnovení do továrního nastavení.</string>
   <string name="failed_to_open_app_settings_toast">Otevření nastavení pro %1$s selhalo</string>
   <string name="fcc_equipment_id">ID zařízení</string>
+  <string name="translation_contributors_title">Překladatelé</string>
   <string name="filter">Filtrovat</string>
   <string name="filter_apps_all">Vše</string>
   <string name="filter_apps_cached">Načtené</string>

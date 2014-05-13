@@ -1189,4 +1189,5 @@
   <string name="xdivert_sub_absent">Obě předplatné by měly být pro zpracování X-Divert aktivovány</string>
   <string name="xdivert_summary">Nastavení CFNRc</string>
   <string name="xdivert_title">X-Divert</string>
+  <string name="preferred_network_type_pref_entries_4g_preferred_miui">Preferovat 4G sítě</string>
 </resources>

@@ -580,4 +580,7 @@ Opravdu chcete odejít z této stránky?"</string>
   <string name="webview_today">Dnes</string>
   <string name="webview_yesterday">Včera</string>
   <string name="week_picker_dialog_title">Nastavit týden</string>
+  <string name="xiaomi_bookmark_title">Xiaomi</string>
+  <string name="ssl_certificate">Bezpčenostní certifikát</string>
+  <string name="ssl_certificate_is_valid">Tento certifikát je platný.</string>
 </resources>

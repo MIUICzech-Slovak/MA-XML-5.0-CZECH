@@ -420,6 +420,7 @@
   <string name="pref_video_quality_entry_wvga">WVGA</string>
   <string name="pref_video_quality_title">Kvalita videa</string>
   <string name="pref_video_slow_speed_title_simple_mode">Zrychlené video</string>
+  <string name="pref_video_fast_speed_title_simple_mode">Zpomalené video</string>
   <string name="pref_video_speed_entry_fast">Zpomalené</string>
   <string name="pref_video_speed_entry_normal">Normální</string>
   <string name="pref_video_speed_entry_slow">Zrychlené</string>
@@ -476,7 +477,8 @@
   <string name="simple_mode_button_text_hand_night">Ukončit noční režim</string>
   <string name="simple_mode_button_text_hdr">Ukončit HDR</string>
   <string name="simple_mode_button_text_panorama">Ukončit panorama</string>
-  <string name="simple_mode_button_text_slow_video">Ukončit zpomalenou kameru</string>
+  <string name="simple_mode_button_text_slow_video">Ukončit zpomalené natáčení</string>
+  <string name="simple_mode_button_text_fast_video">Ukončiť zrychlené natáčení</string>
   <string name="simple_mode_title">Základní režim</string>
   <string name="slideshow">Prezentace</string>
   <string name="snapshot_lower_than_video">Video snapshot size is lower than video size. Capping the video size. Please select a resolution higher or equal to the current video size.</string>
