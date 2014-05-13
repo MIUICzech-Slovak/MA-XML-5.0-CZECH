@@ -595,7 +595,7 @@ Pro přidání kontaktů stiskněte "Menu", vyberte:
  
 "Přidat účty nebo nastavit účet s kontakty, které můžete synchronizovat s telefonem
 "Nový kontakt - pro vytvoření kontaktu"  
-"Import/Export pro importování kontaktů ze SIM anebo SD karty
+"Import/Export pro importování kontaktů ze SIM anebo SD karty"</string>
     <string name="noContactsHelpTextForCreateShortcut">"Žádný kontakt pro zobrazení."</string>
     <string name="noContactsHelpTextWithSync">"Nemáte žádné kontakty k zobrazení. (Pokud jste právě přidali svůj účet, může to chvíli trvat, než se načtou Vaše kontakty.)
 
