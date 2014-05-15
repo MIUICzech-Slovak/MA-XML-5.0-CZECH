@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
 <resources>
-    <integer name="power_center_low_battery_percent_start">4</integer>
-    <integer name="power_center_low_battery_percent_end">7</integer>
-    <integer name="power_center_on_time_start_time_start">1</integer>
-    <integer name="power_center_on_time_start_time_end">6</integer>
-    <integer name="power_center_on_time_end_time_start">7</integer>
-    <integer name="power_center_on_time_end_time_end">12</integer>
+    <integer name="power_center_low_battery_percent_start">37</integer>
+    <integer name="power_center_low_battery_percent_end">40</integer>
+    <integer name="power_center_on_time_start_time_start">4</integer>
+    <integer name="power_center_on_time_start_time_end">9</integer>
+    <integer name="power_center_on_time_end_time_start">13</integer>
+    <integer name="power_center_on_time_end_time_end">18</integer>
 </resources>
