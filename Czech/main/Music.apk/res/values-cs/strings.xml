@@ -305,6 +305,7 @@
   <string name="search_suggestion">Doporučené vyhledávání:</string>
   <string name="search_title">Hledat</string>
   <string name="select_all">Vybrat vše</string>
+  <string name="select_device">Vyberte zařízení</string>
   <string name="select_folder">Vyberte složku(y)</string>
   <string name="select_quit_time">Nastavte čas, za jak dlouho se zastaví přehrávání (v minutách)</string>
   <string name="send_to">Odeslat přes</string>

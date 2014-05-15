@@ -302,4 +302,6 @@ d. MMMM yyyy"</string>
   <string name="user_guide_for_notification">Nová notifikace, stáhněte lištu pro detail</string>
   <string name="user_guide_for_toggle">Seznam přepínačů lze posouvat horizontálně</string>
   <string name="user_guide_for_toggle_list">Klepněte zde pro přizpůsobení seznamu přepínačů</string>
+  <string name="call_status_ringing">Vyzvání</string>
+  <string name="reject_call">Odmítnutí</string>
 </resources>
