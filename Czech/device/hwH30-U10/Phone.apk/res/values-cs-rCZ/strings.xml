@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gemini_data_connection">Datové připojení</string>
+    <string name="others">Ostatní nastavení</string>
+    <string name="minutereminder_title">Minutová připomínka</string>
+    <string name="minutereminder_turnon">Zapnout připomenutí po 50 vteřinách každou minutu</string>
+    <string name="minutereminder_turnoff">Vypnout minutovou připomínku</string>
+    <string name="dual_mic_title">Redukce šumu</string>
+    <string name="dual_mic_turnoff">Vypnout redukci šumu duálním mikrofonem</string>
+    <string name="dual_mic_turnon">Zapnout redukci šumu duálním mikrofonem</string>
+    <string name="international_dialing_title">Asistence mezinárodního vytáčení</string>
+    <string name="call_silent_title">Ztišit</string>
+    <string name="call_silent_summary">Ztišit při příchozím hovoru</string>
+    <string name="plmn_list_setting_title">Preferované sítě</string>
+</resources>
