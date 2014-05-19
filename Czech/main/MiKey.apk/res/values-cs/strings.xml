@@ -17,6 +17,7 @@
   <string name="action_open_sound_recorder">Záznamník</string>
   <string name="action_open_wechat">WeChat</string>
   <string name="action_phone">Hovor</string>
+  <string name="action_qrcode">QR kód</string>
   <string name="action_screen_shot">Screenshot</string>
   <string name="action_send_text_message">SMS</string>
   <string name="action_share_to_miliao">MiTalk</string>
@@ -24,6 +25,7 @@
   <string name="action_share_to_moment">Sdílet na WeChat</string>
   <string name="action_share_to_wechat">Sdílet na WeChat</string>
   <string name="action_share_to_weibo">Sdílet na Weibo</string>
+  <string name="action_toolbox">Nástroje</string>
   <string name="action_zero_volume">Ztlumit</string>
   <string name="add">Přidat</string>
   <string name="app_name">MiKey</string>
@@ -60,6 +62,7 @@
   <string name="earphone">Sluchátka</string>
   <string name="file_delimiter">/</string>
   <string name="front_camera">Přední fotoaparát</string>
+  <string name="goto_update">Aktualizace</string>
   <string name="input_phone">Telefonní číslo</string>
   <string name="long_click">Dlouhý stisk</string>
   <string name="message_photo_end">Fotografie uložena</string>
@@ -81,6 +84,9 @@
   <string name="setting_keeplive_desc">Tato možnost povolí aplikaci běžet na pozadí a rychle reagovat na vaše příkazy. To však může zvýšit spotřebu baterie</string>
   <string name="setting_keeplive_text">Běžet na pozadí</string>
   <string name="setting_silent_mode">Tichý režim</string>
+  <string name="setting_silent_mode_default">Režim sluchátek (vybrat MiKey)</string>
+  <string name="setting_silent_mode_desc">"Pokud chcete připojit sluchátka, zvolte režim sluchátek a odpojte MiKey. Jinak nebude správně fungovat zvukový výstup."</string>
+  <string name="setting_silent_mode_dust_cap">Režim záslepky</string>
   <string name="setting_speed_desc">Rychlost kliknutí tlačítkem</string>
   <string name="setting_speed_quick">Rychle</string>
   <string name="setting_speed_slow">Pomalu</string>
@@ -106,6 +112,9 @@
   <string name="sms_to">SMS</string>
   <string name="splash_tip">Připojte MiKey</string>
   <string name="task_title_prefix">"Akce N: "</string>
+  <string name="test_user_entry">Test</string>
   <string name="times">krát</string>
+  <string name="toolbox_outer_desc">Stiskněte plus nebo existující funkci</string>
+  <string name="update_message">Aktualizace!</string>
   <string name="write_pic_fail">Chyba ukládání fotografie!</string>
 </resources>
