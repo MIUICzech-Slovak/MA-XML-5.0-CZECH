@@ -34,7 +34,10 @@
   <string name="brief_intro">Popis</string>
   <string name="browse_devices">Prohledat zařízení</string>
   <string name="browse_folder">Prohledat</string>
+  <string name="btnplayerdefault">výchozí</string>
+  <string name="btnplayerfavorite">Oblíbené</string>
   <string name="btnplayerforecast">Program</string>
+  <string name="btnplayerfullscreen">celé</string>
   <string name="btnplayerselect">Zvolte kanál</string>
   <string name="buffering">Ukládání do vyrovnávací paměti...</string>
   <string name="buffering_video_netplay_label_v5">Ukládání do vyrovnávací paměti...</string>
@@ -49,8 +52,10 @@
   <string name="cancel_hide">Odkrýt</string>
   <string name="cancel_select_all">Odznačit vše</string>
   <string name="cancel_waitfornewset">Nesledovat</string>
+  <string name="cancelappointment">Zrušit</string>
   <string name="cant_connecting">"Nelze se připojit na server"</string>
   <string name="channel_more">Další</string>
+  <string name="check_network">Nelze se připojit k síti. Zkontrolujte nastavení.</string>
   <string name="clear_cache">Vymazat cache</string>
   <string name="clear_cache_success">Cache vymazána</string>
   <string name="clear_cache_summary">Vymazat cache náhledů videí</string>
@@ -60,6 +65,8 @@
   <string name="clear_playhistory">Vymazat historii přehrávání</string>
   <string name="clear_playhistory_tip">Historie přehrávání bude vymazána.</string>
   <string name="clearplayhistory">Vymazat historii</string>
+  <string name="click_to_list">Zobrazit podrobnosti</string>
+  <string name="cnlive">cnlive</string>
   <string name="comment">Komentáře</string>
   <string name="comment_can_input_prefix"/>
   <string name="comment_can_input_suffix"/>
@@ -91,6 +98,8 @@
   <string name="dlna_list_name">DLNA zařízení</string>
   <string name="dlna_name">Sdílené zařízení</string>
   <string name="download_add_success">Stahování přidáno</string>
+  <string name="download_add_sucess">Stahování přidáno</string>
+  <string name="download_delete">Odstranit</string>
   <string name="download_fail">Načítání selhalo</string>
   <string name="download_file_fail">Není přístup k úložišti, zřejmě není volné místo.</string>
   <string name="download_finish">Načítání dokončeno</string>
@@ -165,6 +174,7 @@
   <string name="local_count_ji">PRC %d Ep.</string>
   <string name="login_tip_content">Přihlaste se Vaším Xiaomi účtem pro aktualizace Vašich oblíbených seriálů.</string>
   <string name="login_tip_title">Přihlásit</string>
+  <string name="makeappointment">Přidat</string>
   <string name="manage">Spravovat</string>
   <string name="media_source_unavailable">Zdroj je nedostupný</string>
   <string name="mediaset">Seriály</string>
@@ -199,6 +209,7 @@
   <string name="network_setting">Síť</string>
   <string name="no_comment_tip">"Nelze odeslat prázdný komentář"</string>
   <string name="no_favorite">Žádné oblíbené</string>
+  <string name="no_favoritehistory">Žádné oblíbené</string>
   <string name="no_filter_media">"Nic nebylo nalezeno."</string>
   <string name="no_login_xiaomi_account">Přihlaste se svým Xiaomi účtem pro odeslání komentářů.</string>
   <string name="no_media">Prázdné</string>
@@ -218,10 +229,11 @@
   <string name="nowifi_alert_dialog_exit">Ukončit</string>
   <string name="nowifi_alert_dialog_message">Použít mobilní internet pro streamování videa, chcete pokračovat?</string>
   <string name="nowifi_alert_dialog_title">Upozornění spotřeby</string>
+  <string name="null_category">neznámé</string>
+  <string name="null_videoname">neznámé</string>
   <string name="offline_alert_title">Upozornění načítání</string>
   <string name="offline_alert_wifi">Používáte mobilní internet. Pro ušetření Vašich dat je načítání pozastaveno, dokud se nepřipojíte k WiFi síti.</string>
   <string name="offline_continue">Pokračovat</string>
-  <string name="offline_episode">%d</string>
   <string name="offline_max_promote">Čeká se na načítání. Je možné načítat max. 2 videa najednou.</string>
   <string name="offline_media">Dostupné offline</string>
   <string name="offline_media_more">Načítat více</string>
@@ -256,6 +268,8 @@
   <string name="quarter_bell_alert_message_cancel">"po zrušení rezervace nedostanete upozornění před začátkem programu"</string>
   <string name="quarter_bell_alert_title">upozornění</string>
   <string name="rank">Hodnocení</string>
+  <string name="receive_ad_notify">Upozornění</string>
+  <string name="receive_ad_notify_summary">Zobrazovat po otevření aplikace upozornění o nových videích</string>
   <string name="recentplay">Naposledy přehrané</string>
   <string name="recommendation">Bude se líbit</string>
   <string name="reloading_tip">"Nelze se připojit k síti"</string>
@@ -280,6 +294,7 @@
   <string name="start_time">Začíná</string>
   <string name="subchannel_all">Vše</string>
   <string name="success_add_myfavorite">Oblíbené</string>
+  <string name="success_add_waitfornewset">Sledované</string>
   <string name="success_cancel_myfavorite">Odznačeno</string>
   <string name="success_cancel_waitfornewset">Zastavit sledování</string>
   <string name="success_to_cancel_myfavorite">Zrušené</string>
@@ -297,6 +312,7 @@
   <string name="toast_message_continue_play_second_and_play">s</string>
   <string name="toast_message_set_misound">Nastavování...</string>
   <string name="today">"Dnes "</string>
+  <string name="top_null_videoname">Neznámý název</string>
   <string name="top_status_local_media">Lokální média</string>
   <string name="top_status_online_media">Online média</string>
   <string name="tudou">Tudou</string>
@@ -318,11 +334,19 @@
   <string name="video_info_video_coding_label">Formát kódování videa:</string>
   <string name="video_library">Video</string>
   <string name="view_all_reviews">Dalších %d komentářů</string>
+  <string name="visit_postfix">| nedávno navštívené</string>
   <string name="vp_VideoView_error_button">OK</string>
   <string name="vp_VideoView_error_network_not_available">Síť je nedostupná</string>
   <string name="vp_VideoView_error_text_invalid_progressive_playback">Omlouváme se, ale vybrané video není možné streamovat do zařízení</string>
   <string name="vp_VideoView_error_text_unknown">Vybraný formát nelze přehrát</string>
   <string name="vp_VideoView_error_title">Chyba přehrávání videa!</string>
+  <string name="vp_full_high_definition">1080P</string>
+  <string name="vp_high_definition">HD</string>
+  <string name="vp_next_ci">Další</string>
+  <string name="vp_offline">Offline</string>
+  <string name="vp_select_ci">Vybrat</string>
+  <string name="vp_standard_definition">SD</string>
+  <string name="vp_super_definition">Super</string>
   <string name="waitfornewset">Sledovat obsah</string>
   <string name="waitfornewset_tip_content">Budete upozorněni na dostupnost nové epizody.</string>
   <string name="wasu">Wasu</string>
