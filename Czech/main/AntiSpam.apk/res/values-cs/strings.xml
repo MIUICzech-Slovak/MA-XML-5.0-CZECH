@@ -48,8 +48,8 @@
   <string name="bl_no_block_call">Žádné blokované hovory</string>
   <string name="bl_no_block_sms">Žádné blokované SMS</string>
   <string name="blacklist_prefix_add_hint">Přidat všechny čísla s předvolbou do Černé listiny</string>
-  <string name="block_message_number">Blokované SMS: %d</string>
-  <string name="block_phone_number">Blokované Hovory: %d</string>
+  <string name="block_message_number">SMS: %d</string>
+  <string name="block_phone_number">Hovory: %d</string>
   <string name="cancle">Zrušit</string>
   <string name="close_callwait">Zakázat</string>
   <string name="customizer_mode_user_define_name">Vlastní</string>
@@ -127,11 +127,11 @@
   <string name="menu_restore">Obnovit do SMS</string>
   <string name="menu_sms">Odeslat SMS</string>
   <string name="menu_wh_remove">Odebrat</string>
-  <string name="note_call_none">Záznamy nelze upravit</string>
-  <string name="note_keyword_none">Slova nelze upravit</string>
-  <string name="note_list_none">Seznam nelze upravit</string>
+  <string name="note_call_none">Prázdné</string>
+  <string name="note_keyword_none">Prázdné</string>
+  <string name="note_list_none">Prázdné</string>
   <string name="note_preference_delete">Tento režim blokování se nyní používá a nemůže být vymazán.</string>
-  <string name="note_sms_none">Informace nelze upravit</string>
+  <string name="note_sms_none">Prázdné</string>
   <string name="one_address_choose_hint">%s 1 region</string>
   <string name="open_callwait">Povolit</string>
   <string name="qm_auto_button_title">Naplánovat</string>
@@ -171,7 +171,7 @@
   <string name="st_antispam_des_permit">Povoleno</string>
   <string name="st_antispam_des_permit_nokeyword">Povolit (beze slov)</string>
   <string name="st_antispam_des_smart_anti">Inteligentní blokování</string>
-  <string name="st_antispam_des_uesless">Žádná akce</string>
+  <string name="st_antispam_des_uesless">Deaktivováno</string>
   <string name="st_antispam_mode_add_new">Vytvořit</string>
   <string name="st_antispam_mode_blacklist">Pouze z černé listiny</string>
   <string name="st_antispam_mode_blacklist_sum">Blokovat SMS a hovory z černé listiny</string>
@@ -269,8 +269,17 @@
   <string name="toast_keyword_invalid">Neplatné slovo</string>
   <string name="twelve_hour_time_format">a h:mm</string>
   <string name="twenty_four_hour_time_format">HH:mm</string>
-  <string name="two_address_choose_hint">%1$s、%2$s 2 regiony</string>
+  <string name="two_address_choose_hint">%1$s, %2$s 2 regiony</string>
   <string name="user_define_title">Vlastní režim</string>
   <string name="whitelist_prefix_add_hint">Přidat všechny čísla s předvolbou do výjimek</string>
   <string name="wl_no_whitelist">Žádná čísla</string>
+  <string name="ACaddnumcontent">Zadejte začátek čísla, systém automaticky přidá *</string>
+  <string name="Call_DEFAULT">Inteligentní blokování</string>
+  <string name="NACaddnumcontent">Telefonní číslo</string>
+  <string name="SMS_DEFAULT">Inteligentní blokování</string>
+  <string name="backsound_set_hint">Nastavit zvuk na %s?</string>
+  <string name="call_delete_hint">Vymazat všechny blokované hovory z vybraného čísla?</string>
+  <string name="dlg_remove_blacklist_ing">Odebírání z černé listiny...</string>
+  <string name="dlg_remove_whitelist_ing">Odebírání z výjimek...</string>
+  <string name="sms_delete_hint">Vymazat všechny blokované SMS z vybraného čísla?</string>
 </resources>
