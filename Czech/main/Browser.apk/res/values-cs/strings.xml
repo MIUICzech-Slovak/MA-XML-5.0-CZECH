@@ -218,8 +218,8 @@
   <string name="is_first_tab">První záložka</string>
   <string name="is_last_history_item">Poslední záznam v historii</string>
   <string name="is_last_tab">Poslední záložka</string>
-  <string name="is_page_bottom">Ve spodní části stránky</string>
-  <string name="is_page_top">V horní části stránky</string>
+  <string name="is_page_bottom">Konec stránky</string>
+  <string name="is_page_top">Začátek stránky</string>
   <string name="js_disable_confirm_message">Deaktivování JavaScript může způsobit nesprávné zobrazení některých stránek</string>
   <string name="js_disable_confirm_title">Deaktivovat JavaScript?</string>
   <string name="js_engine_flags">Nastavit JS přepínače</string>
