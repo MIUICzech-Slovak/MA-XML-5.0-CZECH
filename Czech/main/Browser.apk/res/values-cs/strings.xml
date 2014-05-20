@@ -585,4 +585,5 @@ Opravdu chcete odejít z této stránky?"</string>
   <string name="ssl_certificate_is_valid">Tento certifikát je platný.</string>
   <string name="pref_content_cloud_speedup">Povolit cloudové zrychlení</string>
   <string name="snapshot_successed">Uloženo pro offline čtení</string>
+  <string name="title_bar_loading">Načítání...</string>
 </resources>

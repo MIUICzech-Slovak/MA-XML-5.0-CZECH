@@ -363,4 +363,5 @@
   <string name="xiaomi_account_setting">Xiaomi účet</string>
   <string name="volume_alert_playback_alert_title">Upozornění na hlasitost</string>
   <string name="volume_alert_playback_message">Chraňte svůj sluch a neposlouchejte dlouhodobě hudbu na vysokou hlasitost.</string>
+  <string name="select_device">Vyberte zařízení</string>
 </resources>
