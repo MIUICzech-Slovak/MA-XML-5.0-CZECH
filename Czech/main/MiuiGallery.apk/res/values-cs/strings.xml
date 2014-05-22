@@ -538,7 +538,4 @@ společně!"</string>
   <string name="width">Šířka</string>
   <string name="yellow_page">Složka</string>
   <string name="yes">Ano</string>
-  <string name="long_press_to_refocus">Podržte pro přeostření</string>
-  <string name="picker_tab_photo">Fotografie</string>
-  <string name="ubifocus_data_missing">Nelze přeostřit kvůli chybějícím datům</string>
 </resources>

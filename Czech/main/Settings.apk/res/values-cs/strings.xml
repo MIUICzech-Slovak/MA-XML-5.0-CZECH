@@ -3660,7 +3660,4 @@ Nastavení telefonu může vyžadovat přenos nemalého množství dat."</string
   <string name="zone_auto_summaryOn">Použít časové pásmo ze sítě</string>
   <string name="zone_list_menu_sort_alphabetically">Řadit abecedně</string>
   <string name="zone_list_menu_sort_by_timezone">Řadit podle časového pásma</string>
-  <string name="button_text_login">Přihlásit se</string>
-  <string name="dialog_content_login">Aktualizace vyžaduje Xiaomi účet, chcete se přihlásit?</string>
-  <string name="dialog_title_login">Přihlásit na Xiaomi účet</string>
 </resources>
