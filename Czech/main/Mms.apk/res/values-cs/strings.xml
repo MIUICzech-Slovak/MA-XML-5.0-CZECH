@@ -471,5 +471,6 @@ Pokus: %s."</string>
   <string name="view_bookmark">Zobrazit původní zprávu</string>
   <string name="view_message_details">Zobrazit podrobnosti zprávy</string>
   <string name="wap_push_title">"[WAP Push] "</string>
+  <string name="context_menu_add_calendar">Zobrazit v kalendáři</string>
   <string name="yes">OK</string>
 </resources>
