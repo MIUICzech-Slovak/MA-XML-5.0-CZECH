@@ -527,4 +527,5 @@
   <string name="wifi_security">Zabezpečení:</string>
   <string name="wifi_ssid">SSID:</string>
   <string name="wifi_warning">Před připojením se ujistěte, že tato Wi-Fi síť je bezpečná</string>
+    <string name="toast_cannot_preview_image_when_screen_locked">Nelze zobrazit fotografii nebo video při zapnutém displeji.</string>
 </resources>
