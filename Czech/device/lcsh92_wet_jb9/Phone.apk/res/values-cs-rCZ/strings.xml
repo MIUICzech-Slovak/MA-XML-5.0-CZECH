@@ -108,6 +108,7 @@
   <string name="gemini_3g_disable_warning_case0">Je nutné povolit data v roamingu pro tuto SIM, což může způsobit zvýšení Vašich poplatků! Chcete povolit?</string>
   <string name="gemini_3g_disable_warning_case1">Služby 3G nejsou pro tuto SIM dostupné. Data se mohou načítat pomaleji. Nastavení 3G můžete změnit v Nastavení &gt; Mobilní sítě. Chcete zvolit tuto SIM?</string>
   <string name="gemini_3g_disable_warning_case2">Je nutné povolit data v roamingu pro tuto SIM, což může zvýšit poplatky! Služby 3G nejsou pro tuto SIM dostupné. Data se mohou načítat pomaleji. Nastavení 3G můžete změnit v Nastavení &gt; Mobilní sítě. Chcete povolit data v roamingu pro tuto SIM?</string>
+  <string name="gemini_3g_disable_warning_case5">Zařízení může spotřebovávat data při zapnutém datovém spojení. Toto může zvýšit poplatky u vašeho operátora. Opravdu chcete data zapnout?</string>
   <string name="gemini_3g_indic">3G</string>
   <string name="gemini_data_connection">Datové připojení</string>
   <string name="gsm_umts_network_preferences_dialogtitle">Režim sítě</string>

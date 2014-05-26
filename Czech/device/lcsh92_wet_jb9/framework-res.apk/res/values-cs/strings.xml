@@ -255,7 +255,7 @@ pro %s."</string>
   <string name="global_action_bug_report">Hlášení chyb</string>
   <string name="global_action_lock">Zámek obrazovky</string>
   <string name="global_action_power_off">Vypnout</string>
-  <string name="global_action_reboot">Restartovat</string>
+  <string name="global_action_reboot_summary">Ukončit všechny aplikace a restartovat</string>
   <string name="global_action_silent_mode_off_status">Zvuk je ZAPNUTÝ</string>
   <string name="global_action_silent_mode_on_status">Zvuk je VYPNUTÝ</string>
   <string name="global_action_toggle_silent_mode">Tichý režim</string>
@@ -268,6 +268,8 @@ pro %s."</string>
   <string name="gpsNotifTitle">Požadavek na informace o poloze</string>
   <string name="gpsVerifNo">Ne</string>
   <string name="gpsVerifYes">Ano</string>
+  <string name="gps_assistance_enable_message">Pro zlepšení GPS pozice bylo aktivováno A-GPS, což může zvýšit Vaše měsíční poplatky.</string>
+  <string name="gps_assistance_enable_title">Upozornění</string>
   <string name="grant_credentials_permission_message_footer">Chcete tento požadavek povolit?</string>
   <string name="grant_credentials_permission_message_header">Následující aplikace požadují oprávnění k přístupu do vašeho účtu (nyní i v budoucnu).</string>
   <string name="grant_permissions_header_text">Žádost o přístup</string>
@@ -1060,6 +1062,7 @@ pro účet %s."</string>
   <string name="reboot_confirm">Váš telefon bude restartován</string>
   <string name="reboot_safemode_confirm">Chcete zařízení restartovat v nouzovém režimu? Deaktivujete tak veškeré nainstalované aplikace třetích stran. Po dalším restartu budou obnoveny.</string>
   <string name="reboot_safemode_title">Restart v nouzovém režimu</string>
+  <string name="reboot_title">Restart</string>
   <string name="recent_tasks_title">Nejnovější</string>
   <string name="relationTypeAssistant">Asistent</string>
   <string name="relationTypeBrother">Bratr</string>
@@ -1320,4 +1323,21 @@ Chcete ji zavřít?"</string>
   <string name="year">rokem</string>
   <string name="years">lety</string>
   <string name="yes">OK</string>
+  <string name="zz_keyguard_accessibility_voice_unlock">Odemknutí hlasem.</string>
+  <string name="data_service">Datové služby</string>
+  <string name="data_service_content">"Your phone's data connection is turned off, in order to get a better experience, we suggested you to open data connection.
+
+Since open data connection, you can use phone cards for Internet access, please confirm whether you want to open?
+
+"</string>
+  <string name="gemini_3g_disable_warning_case5">Zařízení může spotřebovávat data při zapnutém datovém spojení. Toto může zvýšit poplatky u vašeho operátora. Opravdu chcete data zapnout?</string>
+  <string name="global_action_reboot">Restart</string>
+  <string name="not_show_again">Příště nezobrazovat</string>
+  <string name="reboot">Restart</string>
+  <string name="shutdown_quickly">Rychlý start</string>
+  <string name="status_bar_settings_airplane_dlg_message">Zapnout režim Letadlo.</string>
+  <string name="status_bar_settings_airplane_dlg_title">Režim Letadlo</string>
+  <string name="storage_ic_usb1">Externí IC-USB úložiště 1</string>
+  <string name="storage_ic_usb2">Externí IC-USB úložiště 2</string>
+  <string name="wlan_direct_name">Redmi Note</string>
 </resources>

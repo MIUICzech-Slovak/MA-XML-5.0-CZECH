@@ -100,12 +100,12 @@
   <string name="preset_tune">Ladit</string>
   <string name="presetlist_autoselect_title">Potvrdit výběr</string>
   <string name="radio_text_string">Toto je dlouhý text z rádia který by se měl pohybovat</string>
+  <string name="record_completed">Nahrávání dokončeno</string>
   <string name="record_error_file_removed">Nahrávání bylo zastaveno. Nahrávka nebyla uložena.</string>
   <string name="record_error_unknown">Nahrávání bylo ukončeno, došlo k neznámé chybě.</string>
   <string name="record_fail">Nahrávání selhalo</string>
   <string name="record_file_format">%1$s_%2$s</string>
   <string name="record_file_location_format">Klepněte pro zobrazení souboru %s</string>
-  <string name="record_sucess">Nahrávání dokončeno</string>
   <string name="reduce_af">Snížit citlivost</string>
   <string name="regional_band">Rozsah frekvence (vymaže stanice)</string>
   <string name="search_dialog_title">Vyhledat stanice</string>
@@ -137,6 +137,7 @@
   <string name="toast_channel_searched">Nalezených %1$d stanic.</string>
   <string name="toast_delete_station">%s MHz smazáno</string>
   <string name="toast_edit_station">Úspěšně uloženo</string>
+  <string name="toast_fm_error_startfailed">Chyba nahrávání. Některá aplikace právě využívá funkci nahrávání. Zkuste to později.</string>
   <string name="toast_fm_not_stated">FM není nastaveno</string>
   <string name="toast_fm_recorder_internal_error">Chyba nahrávání FM.</string>
   <string name="toast_fm_recorder_storage_full">Úložiště je plné, nelze nahrávat</string>
