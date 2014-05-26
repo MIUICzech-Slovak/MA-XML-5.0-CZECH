@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
+<!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
+<resources>
+    <string-array name="overlay_display_devices_entries">
+        <item>Žádné</item>
+        <item>720x480 mdpi</item>
+        <item>1280x720 tvdpi</item>
+        <item>1920x1080 xhdpi</item>
+        <item>1280x720 tvdpi a 1920x1080 xhdpi</item>
+    </string-array>
+    <string-array name="enable_opengl_traces_entries">
+        <item>Žádné</item>
+        <item>Logcat</item>
+        <item>Systrace (Graphics)</item>
+        <item>Call stack on glGetError</item>
+    </string-array>
+    <string-array name="media_feedback_level_entries">
+        <item>Silné</item>
+        <item>Střední</item>
+        <item>Slabé</item>
+    </string-array>
+    <string-array name="gemini_sim_info_number_display_format_entries">
+        <item>První 4 čísla</item>
+        <item>Poslední 4 čísla</item>
+        <item>Nezobrazovat</item>
+    </string-array>
+    <string-array name="gemini_sim_roaming_reminder_entries">
+        <item>Jednou</item>
+        <item>Vždy</item>
+        <item>Nikdy</item>
+    </string-array>
+    <string-array name="gsm_umts_network_preferences_choices">
+        <item>GSM / WCDMA (auto)</item>
+        <item>Jen WCDMA</item>
+        <item>Jen GSM</item>
+    </string-array>
+    <string-array name="wifi_connect_type_entries">
+        <item>Připojit automaticky</item>
+        <item>Připojit manuálně</item>
+        <item>Vždy se zeptat</item>
+    </string-array>
+    <string-array name="network_use_entry">
+        <item>Jen Doma</item>
+        <item>Doma + Roaming</item>
+    </string-array>
+    <string-array name="auto_time_entries">
+        <item>Podle sítě</item>
+        <item>Podle GPS</item>
+        <item>Vypnuto</item>
+    </string-array>
+    <string-array name="hdmi_video_resolution_entries">
+        <item>Auto</item>
+        <item>720P</item>
+        <item>480P</item>
+    </string-array>
+    <string-array name="hdmi_video_resolution_entries_8193">
+        <item>Auto</item>
+        <item>720p 60Hz</item>
+        <item>720p 50Hz</item>
+        <item>1080p 24Hz</item>
+    </string-array>
+    <string-array name="hdmi_video_mode_entries">
+        <item>Plná obrazovka</item>
+        <item>Přizpůsobit</item>
+        <item>Původní velikost</item>
+    </string-array>
+    <string-array name="sim_slot">
+        <item>(nespecifikované)</item>
+        <item>SIM 1</item>
+        <item>SIM 2</item>
+    </string-array>
+    <string-array name="wifi_WEP_security_type">
+        <item>Auto</item>
+        <item>WEP ASCII</item>
+        <item>WEP hexadecimal</item>
+    </string-array>
+    <string-array name="wifi_hotspot_disable_policy_entries">
+        <item>Vždy</item>
+        <item>Vypnout při neaktivitě 5 min.</item>
+        <item>Vypnout při neaktivitě 10 min.</item>
+    </string-array>
+    <string-array name="tethered_ipv6_entries">
+        <item>IPv4</item>
+        <item>IPv4 &amp; IPv6</item>
+    </string-array>
+    <string-array name="usb_tether_type_entries">
+        <item>Windows(RNDIS)</item>
+        <item>Linux/Mac OS(EEM)</item>
+    </string-array>
+    <string-array name="wifi_ap_wps_mode_entries">
+        <item>WPS tlačítko</item>
+        <item>PIN</item>
+    </string-array>
+    <string-array name="wifi_ap_max_connection_entries">
+        <item>1 připojen</item>
+        <item>2 připojení</item>
+        <item>3 připojení</item>
+        <item>4 připojení</item>
+        <item>5 připojených</item>
+        <item>6 připojených</item>
+        <item>7 připojených</item>
+        <item>8 připojených</item>
+    </string-array>
+</resources>
