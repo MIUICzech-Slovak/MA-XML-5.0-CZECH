@@ -1190,4 +1190,10 @@
   <string name="xdivert_summary">Nastavení CFNRc</string>
   <string name="xdivert_title">X-Divert</string>
   <string name="preferred_network_type_pref_entries_4g_preferred_miui">Preferovat 4G sítě</string>
+  <string name="cipher_indication_notification_message">Kódování řeči je deaktivováno sítí</string>
+  <string name="cipher_indication_notification_title">Žádné kódování řeči</string>
+  <string name="confirm_save_info_saved_to">Nahrávka byla uložena do</string>  
+  <string name="dual_mic_summary">Potlačit hluk v pozadí při hovoru</string>
+  <string name="minutereminder_summary">Upozornit v 50s v každě minutě</string>
+  <string name="not_show_again">Znovu nezobrazovat.</string>
 </resources>

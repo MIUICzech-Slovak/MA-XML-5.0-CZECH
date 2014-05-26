@@ -144,7 +144,7 @@ Nastavení data a času v tomto zařízení nebylo změněno."</string>
   <string name="timesync_sync_now_time_corrected_dialog_title">Čas byl upraven</string>
   <string name="tip1_patternforgotten">Odinstalovat a znovu nainstalovat zabezpečení</string>
   <string name="tip2_patternforgotten">Stiskněte tlačítko "Obnovit"</string>
-  <string name="tip_lockpattern">Pokud chcete chránit svůj odemykací klíč, nastavte odemykací vzor</string>
+  <string name="tip_lockpattern">Pokud chcete chránit svůj odemykací klíč, nastavte odemykací vzor:</string>
   <string name="title_change_lockpattern">Nastavení vzoru odemknutí</string>
   <string name="title_createpattern">Nastavení hesla</string>
   <string name="title_forgetpattern">Zapomenuté heslo?</string>
