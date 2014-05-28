@@ -1154,4 +1154,7 @@ Vyberte si z následujících možností:</string>
   <string name="yellowpage_navigation_search_select_city">Zvolte město</string>
   <string name="yellowpage_navigation_send_to_desktop_succeeded">Přidáno na plochu</string>
   <string name="zero_items_selected">Nic není vybráno</string>
+  <string name="account_msim">SIM %d</string>
+  <string name="export_to_sim1">Export do SIM 1</string>
+  <string name="import_from_sim1">Importovat ze SIM 1</string>
 </resources>

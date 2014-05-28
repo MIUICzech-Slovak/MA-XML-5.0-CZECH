@@ -588,4 +588,6 @@ Opravdu chcete odejít z této stránky?"</string>
   <string name="dont_remind_again">Zapamatovat</string>
   <string name="use_cellular_network_alert_message">Wi-Fi je nedostupné, použít mobilní data?</string>
   <string name="use_cellular_network_alert_title">Upozornění sítě</string>
+  <string name="date_picker_dialog_other_button_label">Jiné</string>
+  <string name="copy_to_clipboard_failure_message">Kopírování do schránky selhalo</string>
 </resources>

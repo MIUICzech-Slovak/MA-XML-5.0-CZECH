@@ -291,4 +291,19 @@ Zkontrolujeme to do dvou pracovních dnů"</string>
   <string name="voucher_edit_limit">číslice</string>
   <string name="voucher_error_password_empty">Prázdné</string>
   <string name="voucher_input_password_prompt">Vložte heslo</string>
+  <string name="button_bind_phone">Přepojit</string>
+  <string name="button_count_down_reget">Získat ověřovací kód (%1$s)</string>
+  <string name="button_reget">Získat ověřovací kód</string>
+  <string name="button_sms_code">Potvrdit</string>
+  <string name="giftcard_payment">%1$s MiKreditů</string>
+  <string name="label_giftcard">Dárková poukázka:</string>
+  <string name="partner_giftcard_payment">%1$s MiKreditů (Jen pro %2$s)</string>
+  <string name="prepaid_card_order_info">%1$s poukázka: RMB %2$s</string>
+  <string name="prepaid_error_not_choose_carrier">Není vybrán operátor.</string>
+  <string name="sms_code_error">Chyba ověřovacího kódu, zkuste to znovu</string>
+  <string name="sms_code_hint">Ověřovací kód</string>
+  <string name="summary_bind_phone">Pro zabezpečení vašeho účtu, dokončete platbu až po přepojení vašeho telefonního čísla.</string>
+  <string name="summary_sms_code">Pro zabezpečení vašeho účtu, zadejte ověřovací kód, který jste získali na číslo %1$s a dokončete platbu.</string>
+  <string name="title_bind_phone">Přepojení čísla telefonu.</string>
+  <string name="title_sms_code">Zadejte ověřovací kód</string>
 </resources>

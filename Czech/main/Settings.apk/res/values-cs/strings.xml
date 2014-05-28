@@ -3673,6 +3673,24 @@ Nastavení telefonu může vyžadovat přenos nemalého množství dat."</string
   <string name="usb_tethering_select_version">Vyberte verzi OS v počítači</string>
   <string name="wfd_change_resolution_menu_title">Změnit rozlišení</string>
   <string name="wifi_hotspot_select_band_title">Vybrat provozní pásmo</string>
-  <string name="wifi_hotspot_suspend_optimizations">Optimalizace W-Fi hotspotu</string>
+  <string name="wifi_hotspot_suspend_optimizations">Optimalizace Wi-Fi hotspotu</string>
   <string name="wifi_hotspot_suspend_optimizations_summary">Minimalizovat spotřebu baterie při aktivním Wi-Fi hotspotu</string>
+  <string name="bluetooth_unlock_add_device">Přidat zařízení</string>
+  <string name="bluetooth_unlock_change_device_confirm_msg">Staré zařízení bude nahrazeno novým, chcete pokračovat?</string>
+  <string name="bluetooth_unlock_change_matched_device">Vybrat jiné zařízení</string>
+  <string name="bluetooth_unlock_confirm_device_text">Dotkněte se zařízení pro potvrzení</string>
+  <string name="bluetooth_unlock_delete_device">Vymazat toto zařízení</string>
+  <string name="bluetooth_unlock_delete_device_confirm_msg">Vymazat toto zařízení?</string>
+  <string name="bluetooth_unlock_device_matched_text">Použít toto zařízení pro odemknutí</string>
+  <string name="bluetooth_unlock_no_matched_device_yet">Žádné dostupné zařízení</string>
+  <string name="bluetooth_unlock_settings_devices_title">Zařízení</string>
+  <string name="bluetooth_unlock_settings_toggle_title">Použit na</string>
+  <string name="bluetooth_unlock_settings_unlock_device">Odemknutí</string>
+  <string name="bluetooth_unlock_title">Odemknout pomocí bluetooth zařízení</string>
+  <string name="bluetooth_unlock_turned_off">Vypnuto</string>
+  <string name="bluetooth_unlock_turned_on">Zapnuto</string>
+  <string name="security_keyguard_category_name">Zámek</string>
+  <string name="security_password_category_name">Heslo</string>
+  <string name="wifi_type_approval"/>
+  <string name="wifi_type_approval_title">Type Approval</string>
 </resources>
