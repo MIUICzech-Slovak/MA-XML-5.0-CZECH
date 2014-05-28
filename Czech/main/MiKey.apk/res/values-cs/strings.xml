@@ -1,7 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
 <resources>
-  <string name="about">O aplikaci</string>
   <string name="action_capture_video">Video</string>
   <string name="action_clear_call_list">Vymazat seznam hovorů</string>
   <string name="action_clear_memory">Vyčistit RAM</string>
@@ -12,6 +11,7 @@
   <string name="action_open_camera">Fotoaparát</string>
   <string name="action_open_camera2">Fotografie</string>
   <string name="action_open_flashlight">Svítilna</string>
+  <string name="action_open_mi_route">Seznam zařízení</string>
   <string name="action_open_or_close_motion">Otáčení displeje</string>
   <string name="action_open_other_app">Aplikace</string>
   <string name="action_open_sound_recorder">Záznamník</string>
@@ -28,8 +28,12 @@
   <string name="action_toolbox">Nástroje</string>
   <string name="action_zero_volume">Ztlumit</string>
   <string name="add">Přidat</string>
+  <string name="add_to_contacts">Přidat do kontaktů</string>
+  <string name="address">Adresa:</string>
   <string name="app_name">MiKey</string>
   <string name="back_camera">Zadní fotoaparát</string>
+  <string name="birthday">Narozeniny:</string>
+  <string name="buy">Koupit MiKey</string>
   <string name="call_to">Volat</string>
   <string name="cancel">Zrušit</string>
   <string name="category_app">Aplikace</string>
@@ -37,6 +41,7 @@
   <string name="clean_memory">Paměť vyčištěna</string>
   <string name="click_to_open">Otevřít</string>
   <string name="close_all">Zavřít</string>
+  <string name="close_flash_error">Vypnutí blesku selhalo</string>
   <string name="close_recorder">Zavřít záznamník</string>
   <string name="cn_0">0</string>
   <string name="cn_1">1</string>
@@ -53,29 +58,66 @@
   <string name="cn_7">7</string>
   <string name="cn_8">8</string>
   <string name="cn_9">9</string>
+  <string name="company">Firma:</string>
   <string name="confirm">OK</string>
+  <string name="copy">Kopírovat</string>
+  <string name="copy_succeed">Zkopírováno</string>
   <string name="default_action_title">Výchozí akce</string>
   <string name="delete">Vymazat</string>
   <string name="delete_confirm">Vymazat?</string>
   <string name="delete_gesture">Vymazat nastavení tlačítka?</string>
   <string name="device_not_recognized">Připojené zařízení nebylo rozpoznáno. Zkuste to znovu.</string>
   <string name="earphone">Sluchátka</string>
+  <string name="email">E-mail:</string>
+  <string name="fail_generate_barcode">Generování kódu selhalo</string>
+  <string name="faq_comp_text">Pro zařízení s MIUIv5 a Xiaomi telefony. Aktuální verzi MiKey aplikace najdete vždy na adrese <a href="http://www.miui.cz/mikey">miui.cz/mikey</a></string>
+  <string name="faq_comp_title">Které zařízení jsou kompatibilní?</string>
+  <string name="faq_focus_text">Blesk při fotografovaní prodlužuje čas zhotovení snímku, ale výsledná fotografie je ostřejší. Můžete jej sice vypnout, ale fotografie může být rozmazaná.</string>
+  <string name="faq_focus_title">Pomalé fotografování?</string>
+  <string name="faq_misreq_text">Pokud nereaguje ovládání hudby na zamykací obrazovce, ukončete aplikaci Hudba, vymažte ji z RAM, znovu připojte MiKey a vyberte z nabídky "MiKey". O této chybě víme a na jejím odstranění pracujeme!</string>
+  <string name="faq_misreq_title">Jak vyřešit problémy?</string>
+  <string name="faq_plug_text">Tento způsob zasouvání MiKey pomůže předejít případným problémům. Vyvarujte se stisknutí tlačítka při vkládání MiKey.</string>
+  <string name="faq_plug_title">Jak připojit MiKey?</string>
+  <string name="faq_quni_text">Tlačítko vydrží více jak 30000 stisknutí.</string>
+  <string name="faq_quni_title">Jakou má životnost?</string>
+  <string name="faq_slow_text">Nastavte frekvenci kliknutí na "0"</string>
+  <string name="faq_slow_title">Pomalé reakce?</string>
+  <string name="faq_speed_text">Rozdíly mezi zařízeními způsobují rozdílné doby reakce. Nastavte si čas mezi stlačením MiKey podle vlastních potřeb.</string>
+  <string name="faq_speed_title">Nezaznamená akce?</string>
+  <string name="faq_stat_text">Žebříček se vymaže vždy začátkem nového dne.</string>
+  <string name="faq_stat_title">Ráno mám znovu "0" kliknutí?</string>
+  <string name="faq_title">Návod k použití</string>
+  <string name="faq_voice_text">Znovu vložte MiKey a z nabídky vyberte, že jste připojili "MiKey".</string>
+  <string name="faq_voice_title">Žádný zvuk při hovoru?</string>
+  <string name="faq_vsm_text">Ujistěte se, že jste před sundáním zadního krytu odpojili MiKey!</string>
+  <string name="faq_vsm_title">Upozornění</string>
   <string name="file_delimiter">/</string>
+  <string name="flash_lable">Blesk</string>
   <string name="front_camera">Přední fotoaparát</string>
   <string name="goto_update">Aktualizace</string>
   <string name="input_phone">Telefonní číslo</string>
   <string name="long_click">Dlouhý stisk</string>
   <string name="message_photo_end">Fotografie uložena</string>
+  <string name="name">Jméno:</string>
+  <string name="nickname">Přezdívka:</string>
   <string name="no_usage">...</string>
+  <string name="note">Poznámka:</string>
   <string name="notification_control_play">Přehrát</string>
   <string name="notification_control_stop">Zastavit</string>
   <string name="notification_recorder_file_location">Uloženo do:</string>
   <string name="notification_recorder_start">Nahrávání...</string>
+  <string name="open_flash_error">Zapínání blesku selhalo</string>
+  <string name="phone">Telefon:</string>
+  <string name="picker_lable">Galerie</string>
+  <string name="place_barcode_into_rectangle">Zaměřte QR nebo čárový kód</string>
   <string name="rank_prefix">"Hodnocení: "</string>
   <string name="rank_suffix">" bodů"</string>
+  <string name="recognize">Rozpoznat</string>
   <string name="recommend">Doporučené</string>
   <string name="running_notification">Xiaomi MiKey</string>
-  <string name="sdcard">sdcard</string>
+  <string name="scan_fail">Skenování selhalo</string>
+  <string name="scan_result">Informace</string>
+  <string name="sdcard">SD karta</string>
   <string name="select_camera">Vyberte fotoaparát</string>
   <string name="select_device">Jaké zařízení je připojeno?</string>
   <string name="setting_feedback">Zpětná vazba</string>
@@ -114,7 +156,10 @@
   <string name="task_title_prefix">"Akce N: "</string>
   <string name="test_user_entry">Test</string>
   <string name="times">krát</string>
+  <string name="title">Titul:</string>
   <string name="toolbox_outer_desc">Stiskněte plus nebo existující funkci</string>
   <string name="update_message">Aktualizace!</string>
+  <string name="vcard_prompt">Nelze přidat kontakt, protože chybí jméno</string>
+  <string name="web">Web:</string>
   <string name="write_pic_fail">Chyba ukládání fotografie!</string>
 </resources>
