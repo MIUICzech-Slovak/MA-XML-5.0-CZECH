@@ -473,4 +473,5 @@ Pokus: %s."</string>
   <string name="wap_push_title">"[WAP Push] "</string>
   <string name="context_menu_add_calendar">Zobrazit v kalendáři</string>
   <string name="yes">OK</string>
+  <string name="quick_reply">Odpovědět</string>
 </resources>
