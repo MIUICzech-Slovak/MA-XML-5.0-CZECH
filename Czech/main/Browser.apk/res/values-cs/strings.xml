@@ -590,4 +590,11 @@ Opravdu chcete odejít z této stránky?"</string>
   <string name="use_cellular_network_alert_title">Upozornění sítě</string>
   <string name="date_picker_dialog_other_button_label">Jiné</string>
   <string name="copy_to_clipboard_failure_message">Kopírování do schránky selhalo</string>
+  <string name="miuichromium_error_page_mobile">Mobilní síť</string>
+  <string name="miuichromium_error_page_reason_network">Zobrazit URL</string>
+  <string name="miuichromium_error_page_reason_server">Tuto stránku nelze načíst</string>
+  <string name="miuichromium_error_page_reload">Obnovit</string>
+  <string name="miuichromium_error_page_title">Tuto stránku nelze načíst</string>
+  <string name="miuichromium_error_page_url">Zobrazit URL</string>
+  <string name="miuichromium_error_page_wlan">Nastavení Wi-Fi</string>
 </resources>

@@ -273,4 +273,6 @@
   <string name="yearly">Ročně (%s)</string>
   <string name="yearly_plain">Ročně</string>
   <string name="zhushen"/>
+  <string name="pref_error_no_ringtone_select">Žádné</string>
+  <string name="view_all_matches">Zobrazit vše</string>
 </resources>
