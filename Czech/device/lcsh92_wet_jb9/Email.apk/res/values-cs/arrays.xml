@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
+<!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
+<resources>
+    <string-array name="general_preference_text_zoom_summary_array">
+        <item>Drobný text</item>
+        <item>Malý text</item>
+        <item>Text běžné velikosti</item>
+        <item>Velký text</item>
+        <item>Obrovský text</item>
+    </string-array>
+    <string-array name="general_preference_auto_advance_summary_array">
+        <item>"Po vymazání zprávy ukázat složku nejnovějších zpráv"</item>
+        <item>"Po vymazání zprávy ukázat složku starších zpráv"</item>
+        <item>"Po vymazání zprávy ukázat složku všech zpráv"</item>
+    </string-array>
+</resources>
