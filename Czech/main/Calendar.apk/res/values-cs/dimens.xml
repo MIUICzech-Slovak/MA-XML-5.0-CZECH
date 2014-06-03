@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <dimen name="widget_month_content_height">230.0dip</dimen>
+</resources>
