@@ -198,4 +198,9 @@ Velikost: %2$s"</string>
   <string name="xiaomi_update_dialog_message_diff" formatted="false">"Nová verze %1$s
 Velikost rozdílového balíčku: %2$s"</string>
   <string name="xiaomi_update_dialog_title">%1$s aktualizace!</string>
+  <string name="err_tag_protected">Zadejte heslo štítku.</string>
+  <string name="failed_to_erase">Mazání štítku selhalo</string>
+  <string name="failed_to_write">Zapisování na štítek selhalo</string>
+  <string name="pwd_alert">Nastavit heslo</string>
+  <string name="writing">Zapisování...</string>
 </resources>
