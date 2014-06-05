@@ -3703,4 +3703,5 @@ Nastavení telefonu může vyžadovat přenos nemalého množství dat."</string
   <string name="xiaomi_router_available_notif_title">Xiaomi MiRouter je dostupný</string>
   <string name="xiaomi_router_notif_summary">Upozornit mě na dostupnost Xiaomi MiRouteru</string>
   <string name="xiaomi_router_notif_title">Upozornění Xiaomi MiRouter</string>
+  <string name="device_cpu8_info">"8 jader "</string>
 </resources>

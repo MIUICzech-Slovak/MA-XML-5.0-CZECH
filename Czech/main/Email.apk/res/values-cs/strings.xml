@@ -744,4 +744,11 @@ Velikost: %2$s"</string>
   <string name="xiaomi_update_dialog_message_diff">"Představovaná verze %1$s
 Velikost aplikace: %2$s"</string>
   <string name="xiaomi_update_dialog_title">%1$s aktualizace!</string>
+  <string name="att_download_failed_content">Stahování selhalo</string>
+  <string name="att_download_failed_title">Stahování přílohy selhalo</string>
+  <string name="dialog_auto_download_failed">Nelze dokončit stahování</string>
+  <string name="dialog_insufficient_space_for_single_account_on_internal">Není dostatek volného místa pro %s.</string>
+  <string name="dialog_insufficient_space_on_external">Není dostatek volného místa stáhnutí přílohy.</string>
+  <string name="dialog_insufficient_space_on_internal">Není dostatek volného místa</string>
+  <string name="mail">E-mail</string>
 </resources>

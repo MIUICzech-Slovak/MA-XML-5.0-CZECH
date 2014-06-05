@@ -474,4 +474,7 @@ Pokus: %s."</string>
   <string name="context_menu_add_calendar">Zobrazit v kalendáři</string>
   <string name="yes">OK</string>
   <string name="quick_reply">Odpovědět</string>
+  <string name="sp_category_all">Všechny zprávy služeb</string>
+  <string name="sp_category_bank">Zprávy banky</string>
+  <string name="sp_category_title_prefix">%s</string>
 </resources>

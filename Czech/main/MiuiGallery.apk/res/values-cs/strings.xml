@@ -538,4 +538,16 @@ společně!"</string>
   <string name="width">Šířka</string>
   <string name="yellow_page">Složka</string>
   <string name="yes">Ano</string>
+  <string name="alert_init_merged_message">Fotografie, které máte ve svém zařízení a v MiCloud, se zobrazí na jednom místě.</string>
+  <string name="alert_init_merged_title">Všechny fotografie na jednom místě</string>
+  <string name="click_to_add_picture">Dotykem přidáte fotografie</string>
+  <string name="local_time">(Lokální)</string>
+  <string name="long_press_to_refocus">Podržte pro přeostření</string>
+  <string name="photo_page_detail_show_in_the_map">Zobrazit polohu na mapě</string>
+  <string name="picker_tab_photo">Fotografie</string>
+  <string name="start_slide_show">Spustit prezentaci</string>
+  <string name="sync_in_progress_message">Probíhá synchronizace...</string>
+  <string name="ubifocus_data_missing">Nelze přeostřit kvůli chybějícím datům</string>
+  <string name="ubifocus_map_error">Chybí data</string>
+  <string name="ubifocus_refocus_fail_tip">Nelze přeostřit kvůli chybějícím datům</string>
 </resources>
