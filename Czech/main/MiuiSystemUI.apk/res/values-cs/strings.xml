@@ -28,6 +28,7 @@
   <string name="accessibility_no_wifi">Žádné Wi-Fi připojení</string>
   <string name="accessibility_no_wimax">Žádné WiMAX připojení</string>
   <string name="accessibility_notifications_button">Notifikace</string>
+  <string name="accessibility_phone_four_bars">Signál čtyři čárky.</string>
   <string name="accessibility_phone_one_bar">Signál jedna čárka.</string>
   <string name="accessibility_phone_signal_full">Signál plný.</string>
   <string name="accessibility_phone_three_bars">Signál tři čárky.</string>
