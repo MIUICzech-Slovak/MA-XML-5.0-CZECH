@@ -867,6 +867,7 @@ Toto nastavení ovlivní všechny uživatele tohoto telefonu."</string>
   <string name="dev_settings_warning_message">Tato nastavení jsou jen pro vývojářské možnosti. Mohou způsobit nestabilitu systému.</string>
   <string name="dev_settings_warning_title">Povolit vývojářské nastavení?</string>
   <string name="development_enable">Povolit vývoj</string>
+  <string name="development_settings_not_available">Pro tohoto uživatele jsou možnosti vyvojáře nedostupné</string>
   <string name="development_settings_summary">Umožňuje nastavit možnosti pro vývoj aplikací</string>
   <string name="development_settings_title">Možnosti pro vývojáře</string>
   <string name="device_additional_status">Další info o stavu</string>
@@ -1162,6 +1163,7 @@ Toto nastavení ovlivní všechny uživatele tohoto telefonu."</string>
   <string name="free_wifi_connected_time">Doba připojení: %1$s</string>
   <string name="free_wifi_connecting">Připojování...</string>
   <string name="free_wifi_login_again">Přihlásit znovu</string>
+  <string name="free_wifi_manage_summary">Dotykem zobrazíte %1$s.</string>
   <string name="free_wifi_speed_title">Pomalé připojení?</string>
   <string name="free_wifi_summary">Veřejná Wi-Fi，poskytována %1$s</string>
   <string name="free_wifi_wiwide_provider">WiWide</string>
@@ -1728,6 +1730,7 @@ při připojení k PC."</string>
   <string name="msg_update_error_code_success">Aktualizováno</string>
   <string name="msg_update_error_code_unknown_error">Neznámá chyba, zkuste to později!</string>
   <string name="msg_wlan_signal_found">Nalezeno Wi-Fi AP %s, chcete se připojit k této síti? Použití této sítě dočasně přeruší datové připojení.</string>
+  <string name="mtp_ptp_mode_summary">MTP nebo PTP je aktivní</string>
   <string name="multi_sim_settings_summary">Nastavení vícero Sim pro Hlas, Data a SMS</string>
   <string name="multi_sim_settings_title">Nastavení vícero SIM</string>
   <string name="multi_touch_points_category_title">Multi-dotykové body</string>
@@ -2378,6 +2381,7 @@ Vaše zařízení se přepne po obnově baterie do tohoto režimu. Před vymazá
   <string name="quick_scan_cleaning_title">Čištění...</string>
   <string name="quick_scan_doing_title">Skenování...</string>
   <string name="quick_scan_done_title">Dokončeno!</string>
+  <string name="scan_list_label">Nalezeno:</string>
   <string name="quick_scan_list_loading_hits">Skenování...</string>
   <string name="quick_scan_result_summary">Čistění se spustí za %d s</string>
   <string name="quick_scan_result_title">Nalezené položky: %s</string>
@@ -3124,6 +3128,7 @@ Každý uživatel může přijmout aktualizovaná oprávnění aplikací jménem
   <string name="user_dict_settings_empty_text">V uživatelském slovníku nejsou žádná slova. Slovo můžete přidat stisknutím tlačítka Přidat (+).</string>
   <string name="user_dict_settings_more_languages">Více jazyků...</string>
   <string name="user_dict_settings_summary"/>
+  <string name="user_dict_settings_title">Uživatelský slovník</string>
   <string name="user_dict_settings_titlebar">Uživatelský slovník</string>
   <string name="user_dict_single_settings_title">Osobní slovník</string>
   <string name="user_discard_user_menu">Zrušit</string>
