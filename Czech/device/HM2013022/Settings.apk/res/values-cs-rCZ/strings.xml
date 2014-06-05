@@ -50,7 +50,7 @@
   <string name="accessibility_feature_state_on">Zapnuté</string>
   <string name="accessibility_global_gesture_preference_description">"když je tato funkce povolená, můžete rychle a jednoduše povolit její funkce ve dvou krocích:
 
-Krok 1: Stlačte a podržte tlačítko zapínání dokud nezazní zvuk a vibrace.
+Krok 1: Stiskněte a podržte tlačítko zapínání dokud nezazní zvuk a vibrace.
 
 Krok 2: Dotkněte se a držte dva prsty dokud nezazní zvukové potvrzení
 
@@ -60,15 +60,15 @@ Pokud má zařízení více uživatelů, použití této zkratky na zamykací ob
   <string name="accessibility_global_gesture_preference_title">Zkratka dostupnosti</string>
   <string name="accessibility_long_press_timeout_preference_title">Opoždění dotyku a podržení</string>
   <string name="accessibility_power_button_ends_call_prerefence_title">Tlačítko zapínání ukončí hovor</string>
-  <string name="accessibility_screen_magnification_summary">"když je tato funkce povolená, je možné přiblížit a oddálit obraz trojitým poklepáním na displej.
+ <string name="accessibility_screen_magnification_summary">"Je-li tato funkce zapnutá, můžete zobrazení přibližovat a oddalovat tak, že třikrát klepnete na obrazovku.
 
-Když máte přiblížený obraz:
-"&lt;li&gt;&lt;ul&gt;"Posouv&amp;#225;n&amp;#237;: Pot&amp;#225;hn&amp;#283;te dv&amp;#283;ma prsty po displeji.
-"&lt;li&gt;Zm&amp;#283;na p&amp;#345;ibl&amp;#237;&amp;#382;en&amp;#237;: Pot&amp;#225;hn&amp;#283;te dva prsty k sob&amp;#283; nebo od sebe.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;"
+Při přiblížení můžete provádět tyto činnosti:
+"Posunutí: táhněte po obrazovce minimálně dvěma prsty.
+"Změna úrovně přiblížení: alespoň dva prsty stáhněte k sobě nebo roztáhněte od sebe."
 
-Takt&amp;#233;&amp;#382; je mo&amp;#382;n&amp;#233; do&amp;#269;asn&amp;#283; p&amp;#345;ibl&amp;#237;&amp;#382;it obraz pod prsty trojit&amp;#253;m poklep&amp;#225;n&amp;#237;m a podr&amp;#382;en&amp;#237;m prstu na displeji.
+Také je možné dočasně zvětšit oblast pod prstem. Stačí na ni třikrát klepnout a podržet ji. V takto zvětšeném náhledu můžete přetáhnutím prstu prohlížet libovolné části obrazovky. Do předchozího zobrazení se vrátíte zvednutím prstu.
 
-Pozn&amp;#225;mka: Trojit&amp;#233; poklep&amp;#225;n&amp;#237; funguje v&amp;#353;ude krom&amp;#283; kl&amp;#225;vesnice." </string>
+Poznámka: Zvětšení trojitým klepnutím funguje ve všech částech obrazovky s výjimkou klávesnice a notifikační lišty."</string>
   <string name="accessibility_screen_magnification_title">Gesta přiblížení</string>
   <string name="accessibility_toggle_large_text_preference_title">Velký text</string>
   <string name="accessibility_toggle_screen_magnification_auto_update_preference_summary">Obnovit přiblížení obrazu se změnou aplikace</string>
@@ -639,7 +639,7 @@ Any user can accept updated app permissions on behalf of all other users."</stri
   <string name="wifi_disconnect">Odpojit</string>
   <string name="wifi_display_available_devices">Dostupné zařízení</string>
   <string name="wifi_display_details">Nastavení displeje</string>
-  <string name="wifi_display_disconnect_text">Připojení s &lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt; bude ukončeno</string>
+  <string name="wifi_display_disconnect_text">Připojení s %1$s bude ukončeno</string>
   <string name="wifi_display_disconnect_title">Odpojit?</string>
   <string name="wifi_display_no_devices_found">Nenašel se žádný wireless displej.</string>
   <string name="wifi_display_options_done">Hotovo</string>
