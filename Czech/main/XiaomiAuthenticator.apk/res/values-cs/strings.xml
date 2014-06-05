@@ -167,4 +167,5 @@ Možnosti:"</string>
 - Zabraňte ztrátě nebo odcizení vašeho zařízení
 - Slouží na generování ověřovacího kódu pro dvoufázové přihlašování ke Xiaomi účtu"</string>
   <string name="welcome_page_title">Ochrana přihlášení Xiaomi účtu</string>
+  <string name="success_copy_to_clipboard">Zkopírováno do schránky</string>
 </resources>
