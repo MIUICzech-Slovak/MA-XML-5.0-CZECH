@@ -62,10 +62,10 @@
   <string name="cancel">Zrušit</string>
   <string name="edit_city">Upravit</string>
   <string name="enable_gps">GPS</string>
-  <string name="enable_notification">Otevřít upozornění polohy</string>
-  <string name="enable_notification_city">Je otevřená notifikace na počasí %s, systémová notifikace bude odeslána při nenadálém počasí (déšť, sníh, změna teploty).</string>
+  <string name="enable_notification">Upozornění podle polohy</string>
+  <string name="enable_notification_city">Je povolena notifikace o počasí pro %s, systém vác upozorní na změny počasí, jako např. déšť, sníh, změna teploty atd.</string>
   <string name="enable_notification_summary">Upozornit při změně předpovědi</string>
-  <string name="first_start_network_toast_text">pro získání informací o počasí se připojte k síti.</string>
+  <string name="first_start_network_toast_text">Pro získání informací o počasí se připojte k síti.</string>
   <string name="format_date_md">d.M. kk:mm</string>
   <string name="format_date_trend_md">d.M.</string>
   <string name="format_date_week">EEE</string>
@@ -121,9 +121,9 @@ Dnes v %1$s je  počasí %2$s, %3$s, %4$s. %5$s."</string>
   <string name="sina_token_invalid_warning">Účet Weibo je neplatný. Přihlaste se znovu.</string>
   <string name="sms_notification">Sdílet přes SMS</string>
   <string name="tip_weather">Upozornění MIUI počasí</string>
-  <string name="tip_weather_info_content_1">Přináší vrstvy!</string>
-  <string name="tip_weather_info_title_1">%1$s předpokládán rozdíl teploty %2$d stupňů</string>
-  <string name="tip_weather_info_title_2">V %1$s dnes bude %2$s</string>
+  <string name="tip_weather_info_content_1">Vezměte si něco na sebe.</string>
+  <string name="tip_weather_info_title_1">"%1$s - rozdíl teplot až %2$°C"</string>
+  <string name="tip_weather_info_title_2">"%1$s - dnes bude %2$s</string>
   <string name="trend_weather_today">Dnes</string>
   <string name="trend_weather_tomorrow">Zítra</string>
   <string name="weather_data_unreachable">"Nelze načíst údaje o počasí. Zkuste to později."</string>
