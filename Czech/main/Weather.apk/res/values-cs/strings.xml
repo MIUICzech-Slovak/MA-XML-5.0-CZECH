@@ -57,8 +57,8 @@
   <string name="aqi_quality_index_pure">výborné</string>
   <string name="aqi_quality_index_unhealthy">nezdravé</string>
   <string name="button_abandon">Zrušit změny</string>
-  <string name="button_allow">Povolit</string>
-  <string name="button_not_allow">Zakázat</string>
+  <string name="button_allow">Hotovo</string>
+  <string name="button_not_allow">Zrušit</string>
   <string name="cancel">Zrušit</string>
   <string name="edit_city">Upravit</string>
   <string name="enable_gps">GPS</string>
