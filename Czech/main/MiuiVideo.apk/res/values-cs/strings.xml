@@ -358,4 +358,16 @@
   <string name="yestorday">"Včera" </string>
   <string name="yinyuetai">YinYueTai</string>
   <string name="youku">Youku</string>
+  <string name="upgrade">Aktualizovat</string>
+  <string name="start_addon">Spustit doplňky</string>
+  <string name="pick_addon_to_delete">Vyberte položky</string>
+  <string name="no_hot_special">Žádné doplňky</string>
+  <string name="install_comfirm">Instalovat</string>
+  <string name="delete_addon">Vymazat</string>
+  <string name="delete_addon_content">Opravdu vymazat?</string>
+  <string name="addon"/>
+  <string name="addon_category">Doplňky</string>
+  <string name="addon_install_complete_disc">Instalace %s dokončena.</string>
+  <string name="addon_update_desc">Nalezena nová verze, aktualizovat?</string>
+  <string name="add_more_addons">Přidat více doplňků</string>
 </resources>
