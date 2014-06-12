@@ -751,4 +751,7 @@ Velikost aplikace: %2$s"</string>
   <string name="dialog_insufficient_space_on_external">Není dostatek volného místa stáhnutí přílohy.</string>
   <string name="dialog_insufficient_space_on_internal">Není dostatek volného místa</string>
   <string name="mail">E-mail</string>
+  <string name="outbox_alert_button_no_resend">"Neodeslat"</string>
+  <string name="outbox_alert_button_resend">Odeslat</string>
+  <string name="outbox_alert_mailbox_not_found">E-mailová adresa nebyla nalezena</string>
 </resources>
