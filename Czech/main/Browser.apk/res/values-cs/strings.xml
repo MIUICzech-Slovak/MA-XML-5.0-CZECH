@@ -525,8 +525,8 @@
   <string name="sub_sync_item_browser_title_cloud_tab_summary">Synchr. otevřené karty prohlížeče mezi různými zařízeními</string>
   <string name="sub_sync_item_browser_title_history">Synchr. historii</string>
   <string name="sub_sync_item_browser_title_history_summary">Synchr. historii prohlížeče</string>
-  <string name="sub_sync_item_browser_title_novel">Sync novels</string>
-  <string name="sub_sync_item_browser_title_novel_summary">Sync novels of browser</string>
+  <string name="sub_sync_item_browser_title_novel">Synch. novels</string>
+  <string name="sub_sync_item_browser_title_novel_summary">Synch. novels prohlížeče</string>
   <string name="sync_item_browser_summary">Synchr. data do vašeho cloudu a ulehčete si jeho používání mezi různými zařízeními</string>
   <string name="sync_item_browser_title">Synchr. prohlížeč</string>
   <string name="tab_history">Historie</string>
@@ -612,7 +612,7 @@ Opravdu chcete odejít z této stránky?"</string>
   <string name="webapp_add_to_favorite_toast">Přidat do oblíbených</string>
   <string name="webapp_addtodeskpop_append">Přidáno</string>
   <string name="up_to_loading_tips">Pusťte pro obnovení</string>
-  <string name="sub_sync_item_browser_title_webapp">Sync webapp</string>
+  <string name="sub_sync_item_browser_title_webapp">Synch. webapp</string>
   <string name="sub_sync_item_browser_title_webapp_summary">Synchr. přidané webapps a oblíbené</string>
   <string name="pref_webapp_settings_savewidth">Nestahovat obrázky na 2G/3G</string>
   <string name="pref_webapp_settings_hidebottombar">Vždy skrýt spodní lištu</string>
