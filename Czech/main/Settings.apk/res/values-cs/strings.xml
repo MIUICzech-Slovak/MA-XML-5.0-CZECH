@@ -3704,4 +3704,16 @@ Nastavení telefonu může vyžadovat přenos nemalého množství dat."</string
   <string name="xiaomi_router_notif_summary">Upozornit mě na dostupnost Xiaomi MiRouteru</string>
   <string name="xiaomi_router_notif_title">Upozornění Xiaomi MiRouter</string>
   <string name="device_cpu8_info">"8 jader "</string>
+  <string name="app_backup">Záloha</string>
+  <string name="app_feedback">Nahlásit chybu</string>
+  <string name="bugreport_tool_log">Vytvořit hlášení o chybě</string>
+  <string name="google_backup_section_title">Google záloha a obnovení</string>
+  <string name="local_backup_section_summary">Zálohovat nastavení, účty a aplikace</string>
+  <string name="local_backup_section_title">Lokální zálohy</string>
+  <string name="modem_tool_log">Capture Modem Logs</string>
+  <string name="modem_tool_log_start">Spustit záznam</string>
+  <string name="modem_tool_log_start_toast">"Start to dump modem's log to %s"</string>
+  <string name="modem_tool_log_stop">Ukončit záznam</string>
+  <string name="modem_tool_log_stop_toast">"Stop to dump modem's log from %s"</string>
+  <string name="system_backup_section_title">Záloha</string>
 </resources>
