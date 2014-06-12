@@ -406,7 +406,7 @@ Poznámka: Zvětšení trojitým klepnutím funguje ve všech částech obrazovk
   <string name="bluetooth_device_context_pair_connect">Párovat a připojit</string>
   <string name="bluetooth_device_context_unpair">Zrušit párování</string>
   <string name="bluetooth_device_details">Nastavení zařízení</string>
-  <string name="bluetooth_device_name">Název zařízení</string>
+  <string name="bluetooth_device_name">Název zařízení:</string>
   <string name="bluetooth_device_searchable">Viditelné zařízení</string>
   <string name="bluetooth_devices">Zařízení Bluetooth</string>
   <string name="bluetooth_disable_profile_message">Toto nastavení vypne profil: %1$s Zařízení:%2$s</string>
@@ -3716,4 +3716,5 @@ Nastavení telefonu může vyžadovat přenos nemalého množství dat."</string
   <string name="modem_tool_log_stop">Ukončit záznam</string>
   <string name="modem_tool_log_stop_toast">"Stop to dump modem's log from %s"</string>
   <string name="system_backup_section_title">Záloha</string>
+  <string name="bluetooth_device_address">Adresa zařízení:</string>
 </resources>
