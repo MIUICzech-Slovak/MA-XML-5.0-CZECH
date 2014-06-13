@@ -1,5 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
-<resources>
-  <string name="fw_blocked_count" formatted="false">Blokované: %d hovorů a %d SMS</string>
-</resources>
