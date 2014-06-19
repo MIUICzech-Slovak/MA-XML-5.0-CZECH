@@ -624,4 +624,5 @@ Opravdu chcete odejít z této stránky?"</string>
   <string name="cloud_up_to_loading_tips">Pusťte pro sycnhr.</string>
   <string name="cloud_loading_tips">Potáhněte pro synchr.</string>
   <string name="cloud_no_new_data_toast">Žádná nová data</string>
+  <string name="pref_content_brightness_setting">Nastavení jasu</string>
 </resources>
