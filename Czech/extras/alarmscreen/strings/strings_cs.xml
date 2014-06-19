@@ -1,5 +1,6 @@
-<strings>
-<!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
+<resources>
+    <string name="slider_text">>>> Vypnout >>></string>
+    <string name="snooze_message">Odložit o %d min.</string>
     <string name="slider_text" value=">>> Vypnout >>>" />
     <string name="snooze_message" value="Odložit o %d min." />
-</strings>
+</resources>
