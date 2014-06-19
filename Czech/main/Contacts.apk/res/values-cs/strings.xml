@@ -1157,4 +1157,8 @@ Vyberte si z následujících možností:</string>
   <string name="account_msim">SIM %d</string>
   <string name="export_to_sim1">Export do SIM 1</string>
   <string name="import_from_sim1">Importovat ze SIM 1</string>
+  <string name="resource_allow">Povolit</string>
+  <string name="resource_connect_network_message">Chcete povolit aplikaci připojení k internetu?</string>
+  <string name="resource_connect_network_settings">Upozornit na připojení internetu</string>
+  <string name="resource_remind_another_time">Neupozorňovat</string>
 </resources>

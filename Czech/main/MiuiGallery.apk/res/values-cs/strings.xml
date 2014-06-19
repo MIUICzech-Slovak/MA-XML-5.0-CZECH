@@ -550,4 +550,6 @@ společně!"</string>
   <string name="ubifocus_data_missing">Nelze přeostřit kvůli chybějícím datům</string>
   <string name="ubifocus_map_error">Chybí data</string>
   <string name="ubifocus_refocus_fail_tip">Nelze přeostřit kvůli chybějícím datům</string>
+  <string name="download_refocus_data">Stáhnout data na přeostření</string>
+  <string name="refocus_data_downloading">Stahování dat na přeostření...</string>
 </resources>

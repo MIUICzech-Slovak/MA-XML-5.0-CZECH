@@ -302,4 +302,8 @@ ale obsah, který hledáte, není dostupný ve Vaší zemi."</string>
   <string name="wallpaper_set_as_destop">Tapeta plochy</string>
   <string name="wallpaper_set_as_lockscreen">Nastavit jako zámek obrazovky</string>
   <string name="wallpaper_settings">Nastavení tapety</string>
+  <string name="resource_allow">Povolit</string>
+  <string name="resource_connect_network_message">Chcete povolit aplikaci připojení k internetu?</string>
+  <string name="resource_connect_network_settings">Upozornit na připojení internetu</string>
+  <string name="resource_remind_another_time">Neupozorňovat</string>
 </resources>

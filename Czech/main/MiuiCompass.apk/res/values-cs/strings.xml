@@ -25,4 +25,8 @@
   <string name="menu_calibrate_altitude">Kalibrovat nadmořskou výšku</string>
   <string name="pressure_title">Tlak</string>
   <string name="pressure_unit">hPa</string>
+  <string name="direction_north_east">SV</string>
+  <string name="direction_north_west">SZ</string>
+  <string name="direction_south_east">JV</string>
+  <string name="direction_south_west">JZ</string>
 </resources>

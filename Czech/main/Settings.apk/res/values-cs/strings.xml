@@ -3717,4 +3717,6 @@ Nastavení telefonu může vyžadovat přenos nemalého množství dat."</string
   <string name="modem_tool_log_stop_toast">"Stop to dump modem's log from %s"</string>
   <string name="system_backup_section_title">Záloha</string>
   <string name="bluetooth_device_address">Adresa zařízení:</string>
+  <string name="title_font">Písmo</string>
+  <string name="title_font_current">Používá se</string>
 </resources>

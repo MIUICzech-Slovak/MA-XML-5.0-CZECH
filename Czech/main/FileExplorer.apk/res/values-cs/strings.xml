@@ -343,4 +343,6 @@ k uvolnění místa</string>
    <string name="share_box">Sdíleno</string>
    <string name="share_box_receive">Přijato</string>
    <string name="share_box_send">Odesláno</string>
+   <string name="file_not_exist">Soubor neexistuje</string>
+   <string name="open_file_failed">Otevírání selhalo</string>
 </resources>

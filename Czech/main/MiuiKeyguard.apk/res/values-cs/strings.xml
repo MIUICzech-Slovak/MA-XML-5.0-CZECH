@@ -72,4 +72,5 @@ Deaktivujte režim Letadlo."</string>
   <string name="unlockscreen_low_battery">Připojte nabíječku</string>
   <string name="unlockscreen_recharge_completed">Baterie nabita</string>
   <string name="unlockscreen_recharging_message">Nabíjení %d%%</string>
+  <string name="bluetooth_unlock_rssi_far_debug_msg">Bluetooth zařízení je příliš daleko.</string>
 </resources>
