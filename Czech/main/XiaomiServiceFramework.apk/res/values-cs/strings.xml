@@ -327,4 +327,5 @@ s "</string>
   <string name="sync_sub_1_sms_1_intl_sms">Bude odeslána mezinárodní a běžná SMS pro aktivaci vašich SIM karet</string>
   <string name="sync_sub_2_intl_sms">Budou odeslány 2 mezinárodní SMS pro aktivaci vašich SIM karet</string>
   <string name="sync_sub_2_sms">Budou odeslány 2 SMS pro aktivaci vašich SIM karet</string>
+  <string name="error_device_id">Nelze načíst IMEI</string>
 </resources>
