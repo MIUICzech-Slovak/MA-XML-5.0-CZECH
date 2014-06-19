@@ -363,4 +363,8 @@
   <string name="xiaomi_account_setting">Xiaomi účet</string>
   <string name="volume_alert_playback_alert_title">Upozornění na hlasitost</string>
   <string name="volume_alert_playback_message">Chraňte svůj sluch a neposlouchejte dlouhodobě hudbu na vysokou hlasitost.</string>
+  <string name="impunity_declaration_ignore">Neptat se</string>
+  <string name="impunity_declaration_settings">Vždy upozornit při používaní internetového připojení</string>
+  <string name="impunity_declaration_summary">Při přístupu k hudbě se zobrazí voskakovací okno s upozorněním</string>
+  <string name="take_effect_afater_restart">Pro aplikování nastavení je nutný restart aplikace</string>
 </resources>
