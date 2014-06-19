@@ -282,4 +282,7 @@
   <string name="dlg_remove_blacklist_ing">Odebírání z černé listiny...</string>
   <string name="dlg_remove_whitelist_ing">Odebírání z výjimek...</string>
   <string name="sms_delete_hint">Vymazat všechny blokované SMS z vybraného čísla?</string>
+  <string name="ad_block_hint">Blokované: %d</string>
+  <string name="ad_single_block_hint">Blokované</string>
+  <string name="ad_permission_hint">Používání blokování reklam může ovlivnit výkon aplikací nebo jejich funkčnost.</string>
 </resources>
