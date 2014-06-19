@@ -68,7 +68,7 @@
   <string name="default_reminder_mode">Výchozí upozornění</string>
   <string name="delete_calendar">Vymazat</string>
   <string name="delete_label">Smazat</string>
-  <string name="delete_recurring_event_title">Ztlumit %s?</string>
+  <string name="delete_recurring_event_title">Smazat %s?</string>
   <string name="delete_this_event_title">Smazat tuto událost?</string>
   <string name="delete_topic_dialog_title">Vymazat "%s"?</string>
   <string name="delete_topic_success">"%s" odebráno</string>
