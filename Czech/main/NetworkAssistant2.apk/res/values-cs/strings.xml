@@ -51,11 +51,11 @@ Používání mobilního připojení nad rámec předplacených dat, může výr
   <string name="force_stop_dlg_text">"Pokud zakážete používání mobilních dat na pozadí, některé aplikace a služby nemusí fungovat, dokud se nepřipojíte na Wi-Fi síť."</string>
   <string name="force_stop_dlg_title">Zakázat data na pozadí</string>
   <string name="foreground_traffic">Na popředí %s</string>
-  <string name="free_time_traffic">Off-peak data limit</string>
-  <string name="free_time_traffic_hint">Enter off-peak data limit</string>
-  <string name="free_time_traffic_settings">Off-peak data limit settings</string>
-  <string name="free_time_traffic_title">Enter off-peak data limit</string>
-  <string name="free_traffic_settings">Off-peak data usage settings</string>
+  <string name="free_time_traffic">Limit dat mimo špičku</string>
+  <string name="free_time_traffic_hint">Zadejte limit dat mimo špičku</string>
+  <string name="free_time_traffic_settings">Nastavení dat mimo špičku</string>
+  <string name="free_time_traffic_title">Zadejte limit dat mimo špičku</string>
+  <string name="free_traffic_settings">Nastavení dat mimo špičku</string>
   <string name="input_aviable_traffic">Nastavit limit spotřeby dat</string>
   <string name="input_traffic_pkg">Zadejte využitá data</string>
   <string name="input_used_hint">Zadejte využitá data</string>
@@ -66,7 +66,7 @@ Používání mobilního připojení nad rámec předplacených dat, může výr
   <string name="main_alert_message_slot_no_data_connection">"Tento slot SIM karty nepodporuje
 mobilní internetové připojení"</string>
   <string name="main_button_idel_traffic">Limit</string>
-  <string name="main_button_normal_traffic">Peak</string>
+  <string name="main_button_normal_traffic">Mimo špičku</string>
   <string name="main_button_usage_adjust">Zadejte využitá data</string>
   <string name="main_button_usage_adjust_manual">Zadejte využitá data</string>
   <string name="main_button_usage_adjusting">Mění se...</string>
@@ -113,10 +113,10 @@ Využito"</string>
   <string name="pref_daily_adjust">Nastavit limit dat</string>
   <string name="pref_daily_traffic">Limit spotřeby dat</string>
   <string name="pref_data_usage_not_set">Nastavit limit spotřeby dat</string>
-  <string name="pref_free_adjust">Set off-peak data limit</string>
+  <string name="pref_free_adjust">Nastavit limit dat mimo špičku</string>
   <string name="pref_free_traffic_exceed_limit">Upozornit mě při dosažení limitu spotřeby dat</string>
-  <string name="pref_free_traffic_limit_warn">Off-peak data usage warning</string>
-  <string name="pref_free_traffic_settings">Off-peak data usage settings</string>
+  <string name="pref_free_traffic_limit_warn">Upozornit na data mimo špičku</string>
+  <string name="pref_free_traffic_settings">Nastavení dat mimo špičku</string>
   <string name="pref_leisure_no_overlay">Povoleno</string>
   <string name="pref_leisure_not_opened">Zakázáno</string>
   <string name="pref_manual_adjust">Nastavit statistiku používání manuálně</string>
@@ -125,7 +125,7 @@ Využito"</string>
   <string name="pref_more_traffic_settings">Ostatní nastavení</string>
   <string name="pref_new_installed_preconfig_title">Výchozí nastavení pro nové apl.</string>
   <string name="pref_open_adjust_traffic">"Synchronizovat vaši spotřebu dat s operátorem"</string>
-  <string name="pref_package_traffic_leisure">%1$s | Off-peak: %2$s</string>
+  <string name="pref_package_traffic_leisure">%1$s | Mimo špičku: %2$s</string>
   <string name="pref_package_traffic_normal">Limit: %s</string>
   <string name="pref_package_traffic_overlay">%1$s | Dodatečná: %2$s</string>
   <string name="pref_package_traffic_settings">Limit mobilních dat</string>
