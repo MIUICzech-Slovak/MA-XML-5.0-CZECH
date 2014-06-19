@@ -79,4 +79,9 @@
   <string name="virus_scan_install">" "Pokračovat" "</string>
   <string name="virus_scan_is_risk">Tato aplikace je podezřelá!</string>
   <string name="virus_scan_is_virus">Tato aplikace je virus!</string>
+  <string name="ad_block_button_title">Blokovat adware</string>
+  <string name="ad_relative">Adware</string>
+  <string name="adware_count">Obsahuje doplňky: %d</string>
+  <string name="adware_hint">Tyto doplňky se používají v aplikacích pro zobrazení reklamy na vašem zařízení</string>
+ <string name="adware_title">AdWare</string>
 </resources>
