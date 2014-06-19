@@ -370,4 +370,19 @@
   <string name="addon_install_complete_disc">Instalace %s dokončena.</string>
   <string name="addon_update_desc">Nalezena nová verze, aktualizovat?</string>
   <string name="add_more_addons">Přidat více doplňků</string>
+  <string name="failed_text">Nelze získat certifikát, zkuste to znovu!</string>
+  <string name="failed_text_11">Ověření selhalo! Zkuste to znovu!</string>
+  <string name="failed_text_21">požadovaný film není online, čekejte prosím!</string>
+  <string name="failed_text_49">the account do not buy this film, can not play, you can buy it in thunder cinema</string>
+  <string name="failed_text_502">požadovaný film již není dostupný</string>
+  <string name="failed_text_708">the number of terminal is too many, please play it on the terminal you play ever</string>
+  <string name="failed_text_parse_file">chyba! nesprávný formát souboru</string>
+  <string name="failed_title">upozornění</string>
+  <string name="get_cert_file_failed">can not get thunder certificate,please press the back key</string>
+  <string name="gong_count_netdevice">Síťových zařízení: %d</string>
+  <string name="loading_text">Načítání...</string>
+  <string name="net_device_name">síťové zařízení</string>
+  <string name="thunder_cinema">thunder cinema</string>
+  <string name="xunlei_cinema_title">thunder cinema</string>
+  <string name="xunlei_login_error">thunder login in error</string> 
 </resources>
