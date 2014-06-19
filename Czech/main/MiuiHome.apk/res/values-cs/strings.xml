@@ -274,8 +274,8 @@ Prosím otevřete tuto aplikaci znovu pro obnovení zdrojů."</string>
   <string name="widget_global_search">Vyhledávání</string>
   <string name="bad_wallpaper_source_prompt">Načítání tapety selhalo</string>
   <string name="status_downloaded">stáhnuto</string>
-  <string name="status_downloading">stahuje se</string>
-  <string name="status_installing">instaluje se</string>
+  <string name="status_downloading">stahování</string>
+  <string name="status_installing">instalování</string>
   <string name="status_paused">zastaveno</string>
   <string name="status_pending">čekání</string>
 </resources>
