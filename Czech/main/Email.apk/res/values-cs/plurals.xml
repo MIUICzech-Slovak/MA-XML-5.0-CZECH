@@ -135,7 +135,7 @@
         <item quantity="one">Starší zprávy: %1$d</item>
         <item quantity="two">Starší zprávy: %1$d</item>
         <item quantity="few">Starší zprávy: %1$d</item>
-        <item quantity="many">Starší zprávy: %1$d</item
+        <item quantity="many">Starší zprávy: %1$d</item>
     </plurals>
     <plurals name="contact_num_selected">
         <item quantity="other">Vybraných: %d</item>
