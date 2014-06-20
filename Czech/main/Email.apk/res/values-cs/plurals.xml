@@ -1,21 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
-<!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
+
 <resources>
     <plurals name="actionbar_unread_messages">
         <item quantity="other">Nepřečteno: %1$d</item>
     </plurals>
    <plurals name="confirm_archive_conversation">
-        <item quantity="other">Archivovat tyto konverzace (%1$d)?</item>
+        <item quantity="other">Archivovat konverzace (%1$d)?</item>
+        <item quantity="zero">Archivovat konverzace (%1$d)?</item>
         <item quantity="one">Archivovat tuto konverzaci?</item>
+        <item quantity="two">Archivovat konverzace (%1$d)?</item>
+        <item quantity="few">Archivovat konverzace (%1$d)?</item>
+        <item quantity="many">Archivovat konverzace (%1$d)?</item>
     </plurals>
     <plurals name="confirm_delete_conversation">
-        <item quantity="other">Smazat tyto konverzace (%1$d)?</item>
-        <item quantity="one">Smazat tuto konverzaci?</item>
+        <item quantity="other">Odstranit konverzace (%1$d)?</item>
+        <item quantity="zero">Odstranit konverzace (%1$d)?</item>
+        <item quantity="one">Odstranit tuto konverzaci?</item>
+        <item quantity="two">Odstranit konverzace (%1$d)?</item>
+        <item quantity="few">Odstranit konverzace (%1$d)?</item>
+        <item quantity="many">Odstranit konverzace (%1$d)?</item>
     </plurals>
     <plurals name="confirm_delete_conversation_with_sub">
         <item quantity="other">Tyto konverzace mají sloučené položky, chcete je všechny vymazat?</item>
+        <item quantity="zero">Tyto konverzace mají sloučené položky, chcete je všechny vymazat?</item>
         <item quantity="one">Tato konverzace má sloučené položky, chcete je všechny vymazat?</item>
+        <item quantity="two">Tyto konverzace mají sloučené položky, chcete je všechny vymazat?</item>
+        <item quantity="few">Tyto konverzace mají sloučené položky, chcete je všechny vymazat?</item>
+        <item quantity="many">Tyto konverzace mají sloučené položky, chcete je všechny vymazat?</item>
     </plurals>
     <plurals name="confirm_discard_drafts_conversation">
         <item quantity="other">Zahodit z těchto %1$d konverzací koncepty?</item>
@@ -62,8 +74,12 @@
         <item quantity="one">Koncept</item>
     </plurals>
     <plurals name="empty_folder_dialog_message">
-        <item quantity="other">Tyto zprávy (celkem %1$d) budou trvale smazány.</item>
-        <item quantity="one">Tato %1$d zpráva bude trvale smazána.</item>
+        <item quantity="other">Zprávy (%1$d) budou odstraněny.</item>
+        <item quantity="zero">Zprávy (%1$d) budou odstraněny.</item>
+        <item quantity="one">%1$d zpráva bude odstraněna.</item>
+        <item quantity="two">Zprávy (%1$d) budou odstraněny.</item>
+        <item quantity="few">Zprávy (%1$d) budou odstraněny.</item>
+        <item quantity="many">Zprávy (%1$d) budou odstraněny.</item>
     </plurals>
     <plurals name="message_view_attachment_bytes">
         <item quantity="other">%d bajtů</item>
@@ -82,25 +98,51 @@
         <item quantity="one">%d MB</item>
     </plurals>
     <plurals name="move_conversation">
-        <item quantity="other">Přesunutí %1$d konverzací</item>
+        <item quantity="other">Přesunout konverzace (%1$d)</item>
+        <item quantity="zero">Přesunout konverzace (%1$d)</item>
         <item quantity="one">Přesunout konverzaci</item>
+        <item quantity="two">Přesunout konverzace (%1$d)</item>
+        <item quantity="few">Přesunout konverzace (%1$d)</item>
+        <item quantity="many">Přesunout konverzace (%1$d)</item>
     </plurals>
     <plurals name="move_messages">
         <item quantity="other">Přesunout zprávy</item>
-        <item quantity="one">Přesunout zprávu</item>
+        <item quantity="zero">Přesunout zprávy</item>
+        <item quantity="one">Přesunout zprávy</item>
+        <item quantity="two">Přesunout zprávy</item>
+        <item quantity="few">Přesunout zprávy</item>
+        <item quantity="many">Přesunout zprávy</item>
     </plurals>
     <plurals name="new_incoming_messages_many">
-        <item quantity="other">Nové zprávy: %1$d. Zobrazit.</item>
+        <item quantity="other">Nové zprávy: %1$d</item>
+        <item quantity="zero">Nové zprávy: %1$d</item>
+        <item quantity="one">Nové zprávy: %1$d</item>
+        <item quantity="two">Nové zprávy: %1$d</item>
+        <item quantity="few">Nové zprávy: %1$d</item>
+        <item quantity="many">Nové zprávy: %1$d</item>
     </plurals>
     <plurals name="num_selected">
         <item quantity="other">Vybraných: %d</item>
-        <item quantity="one">Vybraných: 1</item>
+        <item quantity="zero">Vybraných: %d</item>
+        <item quantity="one">Vybraných: %d</item>
+        <item quantity="two">Vybraných: %d</item>
+        <item quantity="few">Vybraných: %d</item>
+        <item quantity="many">Vybraných: %d</item>
     </plurals>
     <plurals name="show_messages_read">
         <item quantity="other">Starší zprávy: %1$d</item>
+        <item quantity="zero">Starší zprávy: %1$d</item>
+        <item quantity="one">Starší zprávy: %1$d</item>
+        <item quantity="two">Starší zprávy: %1$d</item>
+        <item quantity="few">Starší zprávy: %1$d</item>
+        <item quantity="many">Starší zprávy: %1$d</item
     </plurals>
     <plurals name="contact_num_selected">
         <item quantity="other">Vybraných: %d</item>
-        <item quantity="one">Vybraných: 1</item>
+        <item quantity="zero">Vybraných: %d</item>
+        <item quantity="one">Vybraných: %d</item>
+        <item quantity="two">Vybraných: %d</item>
+        <item quantity="few">Vybraných: %d</item>
+        <item quantity="many">Vybraných: %d</item>
     </plurals>
 </resources>
