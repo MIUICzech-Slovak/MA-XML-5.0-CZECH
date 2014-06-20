@@ -10,6 +10,8 @@
   <string name="action_lock_screen">Zamknout</string>
   <string name="action_open_camera">Fotoaparát</string>
   <string name="action_open_camera2">Fotografie</string>
+  <string name="action_open_camera360_capture">Camera360 Efekty</string>
+  <string name="action_open_camera360_edit">Camera360 Editace</string>
   <string name="action_open_flashlight">Svítilna</string>
   <string name="action_open_mi_route">Seznam zařízení</string>
   <string name="action_open_or_close_motion">Otáčení displeje</string>
@@ -31,9 +33,9 @@
   <string name="add_to_contacts">Přidat do kontaktů</string>
   <string name="address">Adresa:</string>
   <string name="app_name">MiKey</string>
+  <string name="app_not_installed">Aplikace není nainstalována</string>
   <string name="back_camera">Zadní fotoaparát</string>
   <string name="birthday">Narozeniny:</string>
-  <string name="buy">Koupit MiKey</string>
   <string name="call_to">Volat</string>
   <string name="cancel">Zrušit</string>
   <string name="category_app">Aplikace</string>
@@ -120,6 +122,7 @@
   <string name="sdcard">SD karta</string>
   <string name="select_camera">Vyberte fotoaparát</string>
   <string name="select_device">Jaké zařízení je připojeno?</string>
+  <string name="setting_buy">Koupit MiKey</string>
   <string name="setting_feedback">Zpětná vazba</string>
   <string name="setting_instant_photo_desc">"Před zhotovením fotografie, fotoaparát zaostří"</string>
   <string name="setting_instant_photo_text">Zaostřit před vyfocením</string>
@@ -133,6 +136,9 @@
   <string name="setting_speed_quick">Rychle</string>
   <string name="setting_speed_slow">Pomalu</string>
   <string name="setting_speed_text">Rychlost</string>
+  <string name="setting_toolbar">Panel nástrojů</string>
+  <string name="setting_toolbar_desc">"Funkce budou dostupné v oznamovací liště"</string>
+  <string name="setting_toolbar_tip">"Stiskněte tlačítko "+" pro přidání nových funkcí. Podržte prst na již existující funkci pro její nahrazení nebo vymazání"</string>
   <string name="setting_vibrate_desc">Pro oznámení vykonání funkce telefon zavibruje</string>
   <string name="setting_vibrate_text">Vibrační odezva</string>
   <string name="settings">Nastavení</string>
