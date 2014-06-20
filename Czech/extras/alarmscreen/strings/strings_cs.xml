@@ -1,6 +1,4 @@
 <resources>
     <string name="slider_text">>>> Vypnout >>></string>
     <string name="snooze_message">Odložit o %d min.</string>
-    <string name="slider_text" value=">>> Vypnout >>>" />
-    <string name="snooze_message" value="Odložit o %d min." />
 </resources>
