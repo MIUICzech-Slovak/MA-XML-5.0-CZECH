@@ -418,7 +418,7 @@
   <string name="pref_security_save_form_data_summary">Zapamatovat si údaje vkládané do formulářů pro pozdější použití</string>
   <string name="pref_security_show_security_warning">Zobrazit bezpečnostní varování</string>
   <string name="pref_security_show_security_warning_summary">"Zobrazit varování, jestliže je problém s bezpečností stránky"</string>
-  <string name="pref_set_homepage_to">Nastavit jako</string>
+  <string name="pref_set_homepage_to">Zadejte adresu</string>
   <string name="pref_setting_title">Nastavení stránky</string>
   <string name="pref_text_zoom">Velikost textu</string>
   <string name="pref_ua_string">Zařízení</string>

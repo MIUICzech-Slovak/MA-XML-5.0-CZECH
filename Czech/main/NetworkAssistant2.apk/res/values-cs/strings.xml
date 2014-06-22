@@ -21,14 +21,14 @@
   <string name="data_usage_correction_timeout_title">Synchr. spotřeby dat selhala</string>
   <string name="data_usage_disabled_dialog">"Byl dosažen limit předplacených dat.
   
-Používání mobilního připojení nad rámec předplacených dat, může výrazně zvýšit Vaše  poplatky."</string>
+Používání mobilního připojení nad rámec předplacených dat může výrazně zvýšit vaše poplatky."</string>
   <string name="data_usage_disabled_dialog_enable">Povolit data</string>
   <string name="data_usage_leisure_warning_body">Zobrazit podrobnosti spotřeby.</string>
   <string name="data_usage_leisure_warning_title">Byl překročen datový limit</string>
   <string name="data_usage_limit_body">Povolit mobilní data.</string>
   <string name="data_usage_limit_snoozed_body">"Byl překročen Váš limit mobilních dat."</string>
   <string name="data_usage_mobile_limit_snoozed_title">Překročen datový limit</string>
-  <string name="data_usage_mobile_limit_title">Mobilní data byly zakázány</string>
+  <string name="data_usage_mobile_limit_title">Mobilní data byla zakázána</string>
   <string name="data_usage_no_total_package_body">Chcete nastavit limit mobilních dat?</string>
   <string name="data_usage_no_total_package_body_dual">Chcete nastavit limit mobilních dat pro %s?</string>
   <string name="data_usage_no_total_package_title">Spotřeba dat</string>
