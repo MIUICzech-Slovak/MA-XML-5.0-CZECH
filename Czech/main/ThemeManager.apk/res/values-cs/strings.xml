@@ -307,11 +307,11 @@ ale obsah, který hledáte, není dostupný ve Vaší zemi."</string>
   <string name="resource_connect_network_settings">Upozornit na připojení internetu</string>
   <string name="resource_remind_another_time">Neupozorňovat</string>
   <string name="theme_user_agreement_allow">Souhlasím</string>
-  <string name="theme_user_agreement_content1">Přečtěte si pozorně podmínky používání:</string>
+  <string name="theme_user_agreement_content1">Přečtěte si pozorně</string>
   <string name="theme_user_agreement_content2">" Podmínky používání"</string>
   <string name="theme_user_agreement_content3">" a "</string>
   <string name="theme_user_agreement_content4">Ochranu soukromí</string>
-  <string name="theme_user_agreement_content5">. Souhlasíte, že je vyžadováno internetové připojení?</string>
+  <string name="theme_user_agreement_content5">. Souhlasíte s použitím internetového připojení?</string>
   <string name="theme_user_agreement_remind_again">Upozornit na používání internetového připojení</string>
   <string name="theme_user_agreement_remind_never">Neptat se</string>
   <string name="theme_user_agreement_remind_summary">Použít při dalším spuštění</string>
