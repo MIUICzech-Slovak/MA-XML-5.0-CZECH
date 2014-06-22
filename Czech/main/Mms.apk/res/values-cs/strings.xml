@@ -67,8 +67,8 @@
   <string name="confirm_dialog_title">Smazat</string>
   <string name="confirm_export_dialog_description">Odstranit vybraný soukromý kontakt, konverzace budou přemístěny do běžných SMS. Chcete pokračovat?</string>
   <string name="confirm_export_dialog_title">Odstranit soukromý kontakt</string>
-  <string name="confirm_no_block_positive">Neblokovat</string>
-  <string name="confirm_no_block_title">Neblokovat toto číslo a obnovit všechny zprávy?</string>
+  <string name="confirm_no_block_positive">Odblokovat</string>
+  <string name="confirm_no_block_title">Odblokovat toto číslo a obnovit všechny zprávy?</string>
   <string name="confirm_rate_limit">Odesíláte velké množství multimediálních zpráv. Je to v pořádku?</string>
   <string name="confirm_restore_all_title">Obnovit všechny zprávy z tohoto čísla?</string>
   <string name="confirm_restore_positive">Obnovit</string>
