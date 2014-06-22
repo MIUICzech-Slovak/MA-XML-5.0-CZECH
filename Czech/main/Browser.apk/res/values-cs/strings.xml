@@ -258,7 +258,7 @@
   <string name="miui_quicksearch_enable_pref_title">Hledání v liště</string>
   <string name="miui_search_notification_message">Otevřít rychlé hledání na internetu</string>
   <string name="miui_search_notification_title">Rychlé hledání</string>
-  <string name="miuichromium_save_password_message">Chcete, aby si prohlížeč zapamatoval toto heslo?</string>
+  <string name="miuichromium_save_password_message">Chcete uložit toto heslo?</string>
   <string name="miuichromium_save_password_never">Nikdy</string>
   <string name="miuichromium_save_password_notnow">Nyní ne</string>
   <string name="miuichromium_save_password_remember">Zapamatovat</string>
@@ -472,7 +472,7 @@
   <string name="save">Uložit</string>
   <string name="save_bookmark">Uložit</string>
   <string name="save_dialog_title">Uložit</string>
-  <string name="save_file_already_exist_alert_message">Soubor již existuje, chcete ho přepsat?</string>
+  <string name="save_file_already_exist_alert_message">Soubor již existuje, chcete jej přepsat?</string>
   <string name="save_file_already_exist_alert_title">Upozornění</string>
   <string name="save_image_failed">Ukládání obrázku selhalo</string>
   <string name="save_image_success">Obrázek uložen</string>
