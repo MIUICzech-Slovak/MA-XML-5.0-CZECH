@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
+<!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
 <resources>
-    <string name="mobile_networks">Nastavení mobilní sítě</string>
-	<string name="preferred_network_mode_title">Nastavení 2G/3G</string>
-    <string name="preferred_network_mode_summary">Změna nastavení mobilní sítě</string>
-    <string name="preferred_network_mode_scdma_perf_summary">Upřednostňovaný režim sítě: 3G preferovaná</string>
-    <string name="preferred_network_mode_gsm_only_summary">Upřednostňovaný režim sítě: pouze 2G</string>
-    <string name="preferred_network_mode_scdma_only_summary">Upřednostňovaný režim sítě: pouze 3G</string>
+  <string name="mobile_networks">Nastavení mobilní sítě</string>
+  <string name="preferred_network_mode_gsm_only_summary">Upřednostňovaný režim sítě: pouze 2G</string>
+  <string name="preferred_network_mode_scdma_only_summary">Upřednostňovaný režim sítě: pouze 3G</string>
+  <string name="preferred_network_mode_scdma_perf_summary">Upřednostňovaný režim sítě: 3G preferovaná</string>
+  <string name="preferred_network_mode_summary">Změna nastavení mobilní sítě</string>
+  <string name="preferred_network_mode_title">Nastavení 2G/3G</string>
 </resources>

@@ -440,6 +440,7 @@
   <string name="toast_burst_snap_forbidden_when_audio_capture_open">Dávkové snímání není podporováno při zvukové spoušti.</string>
   <string name="toast_burst_snap_forbidden_when_hdr_open">Dávkové snímání není podporováno v režimu HDR.</string>
   <string name="toast_burst_snap_forbidden_when_iso_not_auto">Dávkové snímání není podporované když ISO není nastaveno na AUTO.</string>
+  <string name="toast_cannot_preview_image_when_screen_locked">Nelze zobrazit fotografii nebo video při zapnutém displeji.</string>
   <string name="toast_start_audio_capture">Vydejte zvuk pro vyfocení snímku</string>
   <string name="undo">Zpět</string>
   <string name="unit_mm">mm</string>
@@ -468,5 +469,4 @@
   <string name="wifi_security">Zabezpečení:</string>
   <string name="wifi_ssid">SSID:</string>
   <string name="wifi_warning">Před připojením se ujistěte, že tato Wi-Fi síť je bezpečná</string>
-    <string name="toast_cannot_preview_image_when_screen_locked">Nelze zobrazit fotografii nebo video při zapnutém displeji.</string>
 </resources>

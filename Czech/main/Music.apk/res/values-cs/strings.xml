@@ -160,6 +160,9 @@
   <string name="id3_modify_confirm_check">Uložit změny v ID3?</string>
   <string name="id3_modify_confirm_text">Uložit</string>
   <string name="impunity_declaration">Online hudba, kterou se chystáte použít, je od Baidu Online Music Service. Klepněte na tlačítko \ "OK \" pro potvrzení, nebo klepněte na tlačítko \ "Zrušit \" k ukončení.</string>
+  <string name="impunity_declaration_ignore">Neptat se</string>
+  <string name="impunity_declaration_settings">Vždy upozornit při používaní internetového připojení</string>
+  <string name="impunity_declaration_summary">Při přístupu k hudbě se zobrazí voskakovací okno s upozorněním</string>
   <string name="impunity_declaration_title">Prohlášení</string>
   <string name="keep_quit_position_settings">Uložit poslední pozici</string>
   <string name="keep_quit_position_summary">Pamatovat si pozici v posledně přehrávané skladbě</string>
@@ -335,6 +338,7 @@
   <string name="synchronize_playlist_setting">Synchronizovat seznam skladeb</string>
   <string name="synchronize_playlist_summary">Synchronizovat seznam skladeb do cloudu.</string>
   <string name="synchronize_to_baidu_cloud">Záloha online playlistů do Baidu Cloudu</string>
+  <string name="take_effect_afater_restart">Pro aplikování nastavení je nutný restart aplikace</string>
   <string name="track_album_format" formatted="false">%s - %s</string>
   <string name="track_bit_rate_hd">Vysoká</string>
   <string name="track_bit_rate_standard">Dobrá</string>
@@ -359,12 +363,8 @@
   <string name="vip_recommend_sub_title">Pouze 5 RMB měsíčně</string>
   <string name="vip_recommend_summary">Streamujte nebo stahujte všechny Vaše oblíbené skladby z Baidu Music ve kvalitě 320 kbps.</string>
   <string name="vip_recommend_title">Získat hudbu ve vyšší kvalitě</string>
-  <string name="where_is_barcode">"Kde je QR kód?"</string>
-  <string name="xiaomi_account_setting">Xiaomi účet</string>
   <string name="volume_alert_playback_alert_title">Upozornění na hlasitost</string>
   <string name="volume_alert_playback_message">Chraňte svůj sluch a neposlouchejte dlouhodobě hudbu na vysokou hlasitost.</string>
-  <string name="impunity_declaration_ignore">Neptat se</string>
-  <string name="impunity_declaration_settings">Vždy upozornit při používaní internetového připojení</string>
-  <string name="impunity_declaration_summary">Při přístupu k hudbě se zobrazí voskakovací okno s upozorněním</string>
-  <string name="take_effect_afater_restart">Pro aplikování nastavení je nutný restart aplikace</string>
+  <string name="where_is_barcode">"Kde je QR kód?"</string>
+  <string name="xiaomi_account_setting">Xiaomi účet</string>
 </resources>

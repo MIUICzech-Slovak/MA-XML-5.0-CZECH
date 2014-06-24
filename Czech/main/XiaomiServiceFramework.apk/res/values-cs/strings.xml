@@ -121,6 +121,7 @@
   <string name="enable_micloud">Registrovat nebo přihlásit</string>
   <string name="enable_sync">Povolit synchr.</string>
   <string name="enable_sync_dspt">Synchr. je deaktivována</string>
+  <string name="error_device_id">Nelze načíst IMEI</string>
   <string name="error_dup_phone">Telefon byl zaregistrován</string>
   <string name="error_invalid_dev_id">Nesprávné ID zařízení</string>
   <string name="error_network">Chyba sítě</string>
@@ -295,6 +296,11 @@ Využito %s | Zbývá %s"</string>
   <string name="sync_dspt">Použijte svůj Xiaomi účet pro synchronizaci dat</string>
   <string name="sync_off">Vyp</string>
   <string name="sync_on">Zap</string>
+  <string name="sync_sub_1_intl_sms">Bude odeslána mezinárodní SMS pro aktivaci vaší SIM karty</string>
+  <string name="sync_sub_1_sms">Bude odeslána SMS pro aktivaci vaší SIM karty</string>
+  <string name="sync_sub_1_sms_1_intl_sms">Bude odeslána mezinárodní a běžná SMS pro aktivaci vašich SIM karet</string>
+  <string name="sync_sub_2_intl_sms">Budou odeslány 2 mezinárodní SMS pro aktivaci vašich SIM karet</string>
+  <string name="sync_sub_2_sms">Budou odeslány 2 SMS pro aktivaci vašich SIM karet</string>
   <string name="sync_sub_dspt">Odešle se SMS pro aktivaci služby</string>
   <string name="sync_sub_int_dspt">Bude odeslána mezinárodní SMS pro aktivaci služby</string>
   <string name="title_reg">Zaregistrujte Xiaomi účet</string>
@@ -322,10 +328,4 @@ s "</string>
   <string name="wrong_vcode">Nesprávný kód</string>
   <string name="xiaomi_cloud_service">MiCloud</string>
   <string name="xmpp_server_addr"/>
-  <string name="sync_sub_1_intl_sms">Bude odeslána mezinárodní SMS pro aktivaci vaší SIM karty</string>
-  <string name="sync_sub_1_sms">Bude odeslána SMS pro aktivaci vaší SIM karty</string>
-  <string name="sync_sub_1_sms_1_intl_sms">Bude odeslána mezinárodní a běžná SMS pro aktivaci vašich SIM karet</string>
-  <string name="sync_sub_2_intl_sms">Budou odeslány 2 mezinárodní SMS pro aktivaci vašich SIM karet</string>
-  <string name="sync_sub_2_sms">Budou odeslány 2 SMS pro aktivaci vašich SIM karet</string>
-  <string name="error_device_id">Nelze načíst IMEI</string>
 </resources>

@@ -5,6 +5,7 @@
   <string name="account_abnormal_state">Chyba v informacích o účtu, zkuste se přihlásit znovu.</string>
   <string name="account_container_title">Z tohoto účtu</string>
   <string name="account_default">Telefon</string>
+  <string name="account_msim">SIM %d</string>
   <string name="account_phone">Pouze v telefonu (nesynchronizováno)</string>
   <string name="account_sim">Pouze na SIM kartě (nesynchronizováno)</string>
   <string name="account_sim2">SIM karta %d</string>
@@ -358,6 +359,7 @@
   <string name="export_sim_contacts_dialog_message">Vaše SIM karta může uložit %d kontaktů. Opravdu chcete pokračovat?</string>
   <string name="export_to_sdcard">Exportovat do úložiště</string>
   <string name="export_to_sim">Exportovat na SIM kartu</string>
+  <string name="export_to_sim1">Export do SIM 1</string>
   <string name="export_to_sim2">Exportovat na SIM 2</string>
   <string name="export_to_sim_title">Exportování na SIM kartu...</string>
   <string name="export_vcard_description">Exportovat vCard na SD kartu</string>
@@ -436,6 +438,7 @@ Chyba: \"%s\""</string>
   <string name="import_from_other_phone">Importovat z jiného telefonu</string>
   <string name="import_from_sdcard">Importovat z SD karty</string>
   <string name="import_from_sim">Importovat ze SIM karty</string>
+  <string name="import_from_sim1">Importovat ze SIM 1</string>
   <string name="import_from_sim2">Importovat ze SIM 2</string>
   <string name="import_multiple_vcard_string">Importovat více vizitek</string>
   <string name="import_name">Jméno</string>
@@ -596,8 +599,8 @@ Pro přidání kontaktů stiskněte "Menu", vyberte:
 "Přidat účty nebo nastavit účet s kontakty, které můžete synchronizovat s telefonem
 "Nový kontakt - pro vytvoření kontaktu"  
 "Import/Export pro importování kontaktů ze SIM anebo SD karty"</string>
-    <string name="noContactsHelpTextForCreateShortcut">"Žádný kontakt pro zobrazení."</string>
-    <string name="noContactsHelpTextWithSync">"Nemáte žádné kontakty k zobrazení. (Pokud jste právě přidali svůj účet, může to chvíli trvat, než se načtou Vaše kontakty.)
+  <string name="noContactsHelpTextForCreateShortcut">"Žádný kontakt pro zobrazení."</string>
+  <string name="noContactsHelpTextWithSync">"Nemáte žádné kontakty k zobrazení. (Pokud jste právě přidali svůj účet, může to chvíli trvat, než se načtou Vaše kontakty.)
 
 Pro přidání kontaktů stiskněte "Menu", vyberte:
  
@@ -606,8 +609,8 @@ Pro přidání kontaktů stiskněte "Menu", vyberte:
 "Nový kontakt - pro vytvoření kontaktu"
 "Import/Export pro importování kontaktů ze SIM nebo SD karty"
 "</string>
-    <string name="noContactsHelpTextWithSyncForCreateShortcut">"Žádný kontakt pro zobrazení. (Pokud jste právě přidali Váš účet, může chvíli trvat, než se vše synchronizuje.)"</string>
-    <string name="noContactsNoSimHelpText">"Nemáte žádné kontakty k zobrazení.
+  <string name="noContactsHelpTextWithSyncForCreateShortcut">"Žádný kontakt pro zobrazení. (Pokud jste právě přidali Váš účet, může chvíli trvat, než se vše synchronizuje.)"</string>
+  <string name="noContactsNoSimHelpText">"Nemáte žádné kontakty k zobrazení.
 
 Pro přidání kontaktů stiskněte "Menu", vyberte:
  
@@ -615,7 +618,7 @@ Pro přidání kontaktů stiskněte "Menu", vyberte:
 "Nový kontakt - pro vytvoření kontaktu"
 "Import/Export pro importování kontaktů ze SIM nebo SD karty"
 "</string>
-    <string name="noContactsNoSimHelpTextWithSync">"Nemáte žádné kontakty k zobrazení. (Pokud jste právě přidali svůj účet, může to chvíli trvat než se načtou Vaše kontakty.)
+  <string name="noContactsNoSimHelpTextWithSync">"Nemáte žádné kontakty k zobrazení. (Pokud jste právě přidali svůj účet, může to chvíli trvat než se načtou Vaše kontakty.)
 
 Pro přidání kontaktů stiskněte "Menu", vyberte:
  
@@ -624,8 +627,8 @@ Pro přidání kontaktů stiskněte "Menu", vyberte:
 "Nový kontakt - pro vytvoření kontaktu"
 "Import/Export pro importování kontaktů ze SIM anebo SD karty"
 "</string>
-    <string name="noContactsWithPhoneNumbers">Žádné kontakty s telefonním číslem.</string>
-    <string name="noFavoritesHelpText">"Nemáte žádné oblíbené kontakty. 
+  <string name="noContactsWithPhoneNumbers">Žádné kontakty s telefonním číslem.</string>
+  <string name="noFavoritesHelpText">"Nemáte žádné oblíbené kontakty. 
 
 Pro přidání kontaktu do oblíbených: 
 
@@ -802,6 +805,7 @@ Synchronizujte je nyní."</string>
   <string name="resource_account_login_title">Přihlásit</string>
   <string name="resource_account_switch">Přepnout</string>
   <string name="resource_alarm_default">Budík</string>
+  <string name="resource_allow">Povolit</string>
   <string name="resource_app_name">Prohlížeč zdrojů</string>
   <string name="resource_apply">Použít</string>
   <string name="resource_apply_trial">Vyzkoušet</string>
@@ -842,6 +846,8 @@ Synchronizujte je nyní."</string>
   <string name="resource_comment_upload_not_bought">Nejdříve musíte téma použít, když chcete přidat komentář.</string>
   <string name="resource_comment_upload_not_logined">Musíte se nejprve přihlásit</string>
   <string name="resource_comment_upload_success">Komentář je odeslaný! Zobrazí se až po jeho schválení.</string>
+  <string name="resource_connect_network_message">Chcete povolit aplikaci připojení k internetu?</string>
+  <string name="resource_connect_network_settings">Upozornit na připojení internetu</string>
   <string name="resource_default">Výchozí zvonění</string>
   <string name="resource_default_name">Zdroj</string>
   <string name="resource_delete">Vymazat</string>
@@ -914,6 +920,7 @@ Synchronizujte je nyní."</string>
   <string name="resource_ranking">Populární</string>
   <string name="resource_ranking_free">Zdarma</string>
   <string name="resource_ranking_purchase">Placené</string>
+  <string name="resource_remind_another_time">Neupozorňovat</string>
   <string name="resource_ringtone_default">Zvonění</string>
   <string name="resource_ringtone_playing_error">chyba přehrávání</string>
   <string name="resource_ringtone_volume_mute">Zvonění je ztišeno.</string>
@@ -1154,11 +1161,4 @@ Vyberte si z následujících možností:</string>
   <string name="yellowpage_navigation_search_select_city">Zvolte město</string>
   <string name="yellowpage_navigation_send_to_desktop_succeeded">Přidáno na plochu</string>
   <string name="zero_items_selected">Nic není vybráno</string>
-  <string name="account_msim">SIM %d</string>
-  <string name="export_to_sim1">Export do SIM 1</string>
-  <string name="import_from_sim1">Importovat ze SIM 1</string>
-  <string name="resource_allow">Povolit</string>
-  <string name="resource_connect_network_message">Chcete povolit aplikaci připojení k internetu?</string>
-  <string name="resource_connect_network_settings">Upozornit na připojení internetu</string>
-  <string name="resource_remind_another_time">Neupozorňovat</string>
 </resources>

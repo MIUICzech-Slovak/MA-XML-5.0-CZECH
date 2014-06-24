@@ -60,7 +60,7 @@ Pokud má zařízení více uživatelů, použití této zkratky na zamykací ob
   <string name="accessibility_global_gesture_preference_title">Zkratka dostupnosti</string>
   <string name="accessibility_long_press_timeout_preference_title">Opoždění dotyku a podržení</string>
   <string name="accessibility_power_button_ends_call_prerefence_title">Tlačítko zapínání ukončí hovor</string>
- <string name="accessibility_screen_magnification_summary">"Je-li tato funkce zapnutá, můžete zobrazení přibližovat a oddalovat tak, že třikrát klepnete na obrazovku.
+  <string name="accessibility_screen_magnification_summary">"Je-li tato funkce zapnutá, můžete zobrazení přibližovat a oddalovat tak, že třikrát klepnete na obrazovku.
 
 Při přiblížení můžete provádět tyto činnosti:
 "Posunutí: táhněte po obrazovce minimálně dvěma prsty.

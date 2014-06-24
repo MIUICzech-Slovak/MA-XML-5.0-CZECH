@@ -116,6 +116,7 @@
   <string name="timer_hour">H</string>
   <string name="timer_message">%1$d min.</string>
   <string name="timer_message_with_hour">%1$d hod. a %2$d min.</string>
+  <string name="timer_message_with_seconds">%1$d sekund</string>
   <string name="timer_minute">M</string>
   <string name="timer_start_alarm">Časovač vypršel</string>
   <string name="timer_title">Časovač</string>
@@ -131,5 +132,4 @@
   <string name="workday_alarm_clock">Pracovní den</string>
   <string name="worldclock_empty_text">Žádné světové hodiny</string>
   <string name="worldclock_title">Hodiny</string>
-  <string name="timer_message_with_seconds">%1$d sekund</string>
 </resources>

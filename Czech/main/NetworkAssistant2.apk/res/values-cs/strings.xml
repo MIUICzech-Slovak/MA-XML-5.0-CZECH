@@ -146,6 +146,7 @@ Využito"</string>
   <string name="settings">Nastavení spotřeby dat</string>
   <string name="sorted_button">Seřadit</string>
   <string name="sorted_dialog_title">Seřadit podle</string>
+  <string name="spinner_title">%1$s - Mobilní data: %2$s</string>
   <string name="stop_app_button">Zastavit</string>
   <string name="system_app">Systémové aplikace</string>
   <string name="text_day">" den"</string>
@@ -180,5 +181,4 @@ Využito"</string>
   <string name="usage_sorted_activity_lable">Spotřeba dat</string>
   <string name="usage_sorted_empty_text">Prázdné</string>
   <string name="usage_sorted_loading_text">Načítání...</string>
-  <string name="spinner_title">%1$s - Mobilní data: %2$s</string>
 </resources>

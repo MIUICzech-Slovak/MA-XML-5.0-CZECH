@@ -73,9 +73,12 @@ se dotknete štítku telefonem"</string>
   <string name="err_no_enough_space">Na štítku není dostatek místa</string>
   <string name="err_no_nfc">"Vaše zařízení nepodporuje NFC. Tato aplikace nebude fungovat správně."</string>
   <string name="err_tag_not_supported">"Vaše zařízení nepodporuje úlohy"</string>
+  <string name="err_tag_protected">Zadejte heslo štítku.</string>
   <string name="err_tag_read_only">Nelze zapsat na tento štítek</string>
   <string name="error_password">Chyba hesla</string>
   <string name="failed_install">Instalace selhala</string>
+  <string name="failed_to_erase">Mazání štítku selhalo</string>
+  <string name="failed_to_write">Zapisování na štítek selhalo</string>
   <string name="gps">GPS</string>
   <string name="help_title">Pomoc</string>
   <string name="hint_input_address">Adresa</string>
@@ -121,6 +124,7 @@ se dotknete štítku telefonem"</string>
   <string name="play_music_desc">Přehrát nebo zastavit hudbu</string>
   <string name="play_song">Přehrát skladbu</string>
   <string name="preference">Nastavení</string>
+  <string name="pwd_alert">Nastavit heslo</string>
   <string name="pwd_pref">Zabránit přepsání NFC štítku</string>
   <string name="pwd_pref_desc">Pokud je tato funkce povolena, je nutné při přepisování štítku zadat heslo.</string>
   <string name="pwd_prot_off">Vypnuto</string>
@@ -192,15 +196,11 @@ přiložte další NFC štítek."</string>
   <string name="write_pon_pon_tile">Zapsat</string>
   <string name="write_success">Zapisování dokončeno</string>
   <string name="write_tag">Zapsat</string>
+  <string name="writing">Zapisování...</string>
   <string name="xiaomi_external_storage_unavailable">Úložiště je nedostupné, zkontrolujte SD kartu.</string>
   <string name="xiaomi_update_dialog_message" formatted="false">"Nová verze %1$s
 Velikost: %2$s"</string>
   <string name="xiaomi_update_dialog_message_diff" formatted="false">"Nová verze %1$s
 Velikost rozdílového balíčku: %2$s"</string>
   <string name="xiaomi_update_dialog_title">%1$s aktualizace!</string>
-  <string name="err_tag_protected">Zadejte heslo štítku.</string>
-  <string name="failed_to_erase">Mazání štítku selhalo</string>
-  <string name="failed_to_write">Zapisování na štítek selhalo</string>
-  <string name="pwd_alert">Nastavit heslo</string>
-  <string name="writing">Zapisování...</string>
 </resources>
