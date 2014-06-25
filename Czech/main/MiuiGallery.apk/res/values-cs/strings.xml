@@ -118,6 +118,17 @@ společně!"</string>
   <string name="confirm">OK</string>
   <string name="confirm_delete">Opravdu chcete položky (%s) vymazat?</string>
   <string name="confirm_delete_album" formatted="false">Opravdu chcete vymazat alba (%s) včetně obsažených položek(%s)?</string>
+  <string name="confirm_delete_has_cloud_image">Vymazat obrázky (%s) v cloudu?</string>
+  <string name="confirm_delete_has_cloud_image_video">Vymazat položky (%s) v cloudu?</string>
+  <string name="confirm_delete_has_cloud_local_image">Vymazat obrázky (%s) v cloudu?</string>
+  <string name="confirm_delete_has_cloud_local_image_video">Vymazat položky (%s) v cloudu a zařízení?</string>
+  <string name="confirm_delete_has_cloud_local_video">Vymazat videa (%s) v cloudu a zařízení?</string>
+  <string name="confirm_delete_has_cloud_video">Vymazat videa (%s) v cloudu?</string>
+  <string name="confirm_delete_has_local_image">Vymazat obrázky (%s)?</string>
+  <string name="confirm_delete_has_local_image_video">Vymazat položky (%s)?</string>
+  <string name="confirm_delete_has_local_video">Vymazat videa (%s)?</string>
+  <string name="confirm_delete_init_message">Obrázky budou vymazány z MiCloudu a také z vašeho zařízení. Pokud je chcete vymazat pouze z vašeho zařízení, přejděte na složku Lokální.</string>
+  <string name="confirm_delete_init_title">Poznámka</string>
   <string name="confirm_delete_cloud_all_item_page" formatted="false">Obrázky: %s, alba: %s. Opravdu chcete vymazat?</string>
   <string name="confirm_delete_home_merge_item">Vymazat obrázky (%s) v zařízení a cloudu?</string>
   <string name="confirm_delete_pictures">obrázky (%s)</string>
@@ -555,5 +566,7 @@ společně!"</string>
   <string name="item_not_sync_for_origin_image">Tato fotografie nebyla synchronizována s cloudem a originál tedy nelze stáhnout</string>
   <string name="item_not_sync_for_origin_video">Toto video nebylo synchronizováno s cloudem a originál tedy nelze stáhnout</string>
   <string name="item_not_sync_for_refocus_data">Tato fotografie nebyla synchronizována s cloudem a data pro přeostření nemohou být stažena</string>
-    <string name="ubifocus_guide_text">Pro přeostření podržte asi půl sekundy</string>
+  <string name="ubifocus_guide_text">Pro přeostření podržte asi půl sekundy</string>
+  <string name="bigscreen_slide_playing">Prezentace se přehrává na: %s</string>
+  <string name="skip_hide_special_album">Systémová alba (Fotoaparát, Screenshoty) nelze skrýt.</string>
 </resources>

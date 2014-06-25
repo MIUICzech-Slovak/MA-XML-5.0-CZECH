@@ -1161,4 +1161,5 @@ Vyberte si z následujících možností:</string>
   <string name="resource_connect_network_message">Chcete povolit aplikaci připojení k internetu?</string>
   <string name="resource_connect_network_settings">Upozornit na připojení internetu</string>
   <string name="resource_remind_another_time">Neupozorňovat</string>
+  <string name="yellowpage_navigation_network_location_enabled">Služba je povolena. Můžete ji deaktivovat v nastavení polohy</string>
 </resources>

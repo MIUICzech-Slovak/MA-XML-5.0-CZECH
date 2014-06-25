@@ -3720,4 +3720,10 @@ Nastavení telefonu může vyžadovat přenos nemalého množství dat."</string
   <string name="title_font">Písmo</string>
   <string name="title_font_current">Používá se</string>
   <string name="use_network_warning">Xiaomi Service Framework a Cloud vyžadují internetové připojení</string>
+  <string name="cta_button_text_agree">OK</string>
+  <string name="cta_button_text_cancel">Zrušit</string>
+  <string name="cta_checkbox_title">Znovu se neptat</string>
+  <string name="cta_dialog_msg">Používání Optimalizace vyžaduje připojení k internetu pro aktualizaci virové databáze. Souhlasíte?</string>
+  <string name="cta_dialog_title">Upozornění</string>
+  <string name="cta_settings">Přístup na internet</string>
 </resources>

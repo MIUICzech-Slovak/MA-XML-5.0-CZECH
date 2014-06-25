@@ -306,4 +306,9 @@ Zkontrolujeme to do dvou pracovních dnů"</string>
   <string name="summary_sms_code">Pro zabezpečení vašeho účtu, zadejte ověřovací kód, který jste získali na číslo %1$s a dokončete platbu.</string>
   <string name="title_bind_phone">Přepojení čísla telefonu.</string>
   <string name="title_sms_code">Zadejte ověřovací kód</string>
+  <string name="mibi_license_checkbox_prompt">Znovu se neptat</string>
+  <string name="mibi_license_net_prompt_message">Používání MiKreditů môže zvýšit spotřebu mobilních dat.</string>
+  <string name="mibi_license_net_prompt_title">Je vyžadováno internetové připojení</string>
+  <string name="title_need_prompt">Upozornit mě na přístup k internetu</string>
+  <string name="title_prompt">Upozornění</string>
 </resources>
