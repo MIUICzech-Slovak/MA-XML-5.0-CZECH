@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
 <resources>
+  <string name="bluetooth_unlock_rssi_far_debug_msg">Bluetooth zařízení je příliš daleko.</string>
   <string name="contact_carrier_message">V případě dalších dotazů kontaktujte Vašeho operátora.</string>
   <string name="emergency_call_string">SOS</string>
   <string name="experimental_try_string">Zkusit</string>
@@ -72,5 +73,4 @@ Deaktivujte režim Letadlo."</string>
   <string name="unlockscreen_low_battery">Připojte nabíječku</string>
   <string name="unlockscreen_recharge_completed">Baterie nabita</string>
   <string name="unlockscreen_recharging_message">Nabíjení %d%%</string>
-  <string name="bluetooth_unlock_rssi_far_debug_msg">Bluetooth zařízení je příliš daleko.</string>
 </resources>

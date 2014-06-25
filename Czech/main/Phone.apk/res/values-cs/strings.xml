@@ -248,6 +248,8 @@
   <string name="change_pin2">Změna kódu PIN2</string>
   <string name="change_pin2_miui">Změnit PIN2</string>
   <string name="change_pin_miui">Změnit SIM PIN</string>
+  <string name="cipher_indication_notification_message">Kódování řeči je deaktivováno sítí</string>
+  <string name="cipher_indication_notification_title">Žádné kódování řeči</string>
   <string name="clir_choices_hide_number_miui">Skrýt číslo</string>
   <string name="clir_choices_network_default_miui">Výchozí síť</string>
   <string name="clir_choices_show_number_miui">Zobrazit číslo</string>
@@ -278,6 +280,7 @@
   <string name="confirm_password_label">Potvrdit nové heslo</string>
   <string name="confirm_pin2_hint_miui">Potvrdit nový PIN2</string>
   <string name="confirm_pin_hint_miui">Potvrdit nový PIN</string>
+  <string name="confirm_save_info_saved_to">Nahrávka byla uložena do</string>
   <string name="connect_disconnect_vibrate_none_miui">Nevibrovat</string>
   <string name="connect_disconnect_vibrate_normal_miui">Vibrovat</string>
   <string name="connect_disconnect_vibrate_summary_miui"/>
@@ -393,6 +396,7 @@
   <string name="dtmf_tones_summary_miui">Nastavte délku pro DTMF tóny</string>
   <string name="dtmf_tones_title">Tóny DTMF</string>
   <string name="dtmf_tones_title_miui">DTMF tóny</string>
+  <string name="dual_mic_summary">Potlačit hluk v pozadí při hovoru</string>
   <string name="duringcall">Tato operace je nedostupná během hovoru</string>
   <string name="ecm_exit_dialog">Dialog ukončení režimu tísňového zpětného volání</string>
   <string name="editContact">Upravit</string>
@@ -621,6 +625,7 @@
   <string name="messageCFU">Vždy použít toto číslo</string>
   <string name="mhh_disable">Lékařství, zdraví a nemocnice zakázány</string>
   <string name="mhh_enable">Lékařství, zdraví a nemocnice povoleny</string>
+  <string name="minutereminder_summary">Upozornit v 50s v každě minutě</string>
   <string name="mismatchPin">Vámi zadané PINy se neshodují. Zkuste znovu.</string>
   <string name="mismatchPin2">Vámi zadané PIN2 se neshodují. Zkuste znovu.</string>
   <string name="mismatch_password">Heslo, které jste zadali, se neshoduje. Zkuste to znovu.</string>
@@ -682,6 +687,7 @@
   <string name="not_a_valid_port">Číslo portu by mělo být od 1000 do 65534</string>
   <string name="not_allowed">Vaše karta SIM nepovoluje připojení k této síti.</string>
   <string name="not_connected_miui">Nepřipojen</string>
+  <string name="not_show_again">Znovu nezobrazovat.</string>
   <string name="not_voice_capable">Hlasové volání není podporováno</string>
   <string name="notification_action_end_call">Zavěsit</string>
   <string name="notification_dialing">Vytáčení</string>
@@ -848,6 +854,7 @@
   <string name="preferred_network_type_group_title_miui">Mobilní síť (%s)</string>
   <string name="preferred_network_type_gsm_umts_miui">GSM / WCDMA</string>
   <string name="preferred_network_type_pref_entries_3g_preferred_miui">3G preferovaná</string>
+  <string name="preferred_network_type_pref_entries_4g_preferred_miui">Preferovat 4G sítě</string>
   <string name="preferred_network_type_pref_entries_auto_miui">Automaticky</string>
   <string name="preferred_network_type_pref_entries_global_miui">Globální</string>
   <string name="preferred_network_type_pref_entries_only_2g_miui">Jen 2G (šetří baterii)</string>
@@ -1189,11 +1196,4 @@
   <string name="xdivert_sub_absent">Obě předplatné by měly být pro zpracování X-Divert aktivovány</string>
   <string name="xdivert_summary">Nastavení CFNRc</string>
   <string name="xdivert_title">X-Divert</string>
-  <string name="preferred_network_type_pref_entries_4g_preferred_miui">Preferovat 4G sítě</string>
-  <string name="cipher_indication_notification_message">Kódování řeči je deaktivováno sítí</string>
-  <string name="cipher_indication_notification_title">Žádné kódování řeči</string>
-  <string name="confirm_save_info_saved_to">Nahrávka byla uložena do</string>  
-  <string name="dual_mic_summary">Potlačit hluk v pozadí při hovoru</string>
-  <string name="minutereminder_summary">Upozornit v 50s v každě minutě</string>
-  <string name="not_show_again">Znovu nezobrazovat.</string>
 </resources>

@@ -61,6 +61,7 @@
   <string name="battery_low_why">Využití baterie</string>
   <string name="bluetooth_tethered">Bluetooth tethering</string>
   <string name="call_status_dialing">Vytáčím</string>
+  <string name="call_status_ringing">Vyzvání</string>
   <string name="camera_key_action_app_title">Otevřít aplikaci</string>
   <string name="camera_key_action_category_title">Použijte, pokud není zapnutý fotoaparát</string>
   <string name="camera_key_action_none_title">Bez akce</string>
@@ -152,6 +153,7 @@
   <string name="notifications_off_title">Vypnutí notifikací</string>
   <string name="recent_apps_key">Naposledy spuštěné</string>
   <string name="recent_apps_key_show">Zobrazit Naposledy spuštěné</string>
+  <string name="reject_call">Odmítnutí</string>
   <string name="return_to_incall_screen">Stiskněte pro návrat k hovoru</string>
   <string name="screen_button_custom">Přizpůsobit pozici tlačítka</string>
   <string name="screen_button_disabled_message">Tlačítka pod displejem jsou vypnuta. Můžete je zapnout stiskem tlačítek \"Domů\" a \"Zapnutí\"</string>
@@ -303,6 +305,4 @@ d. MMMM yyyy"</string>
   <string name="user_guide_for_notification">Nová notifikace, stáhněte lištu pro detail</string>
   <string name="user_guide_for_toggle">Seznam přepínačů lze posouvat horizontálně</string>
   <string name="user_guide_for_toggle_list">Klepněte zde pro přizpůsobení seznamu přepínačů</string>
-  <string name="call_status_ringing">Vyzvání</string>
-  <string name="reject_call">Odmítnutí</string>
 </resources>

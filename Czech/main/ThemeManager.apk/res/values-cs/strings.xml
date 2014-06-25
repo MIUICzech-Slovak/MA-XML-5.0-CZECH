@@ -66,6 +66,7 @@
   <string name="resource_account_login_title">Přihlásit</string>
   <string name="resource_account_switch">Přepnout</string>
   <string name="resource_alarm_default">Budík</string>
+  <string name="resource_allow">Povolit</string>
   <string name="resource_app_name">Prohlížeč zdrojů</string>
   <string name="resource_apply">Použít</string>
   <string name="resource_apply_trial">Vyzkoušet</string>
@@ -109,6 +110,8 @@
   <string name="resource_comment_upload_not_logined">Musíte se nejprve přihlásit</string>
   <string name="resource_comment_upload_success">Komentář je odeslán! Zobrazí se až po jeho schválení.</string>
   <string name="resource_comment_version_name">(Verze %1$s)</string>
+  <string name="resource_connect_network_message">Chcete povolit aplikaci připojení k internetu?</string>
+  <string name="resource_connect_network_settings">Upozornit na připojení internetu</string>
   <string name="resource_default">Výchozí zvonění</string>
   <string name="resource_default_name">Zdroj</string>
   <string name="resource_delete">Vymazat</string>
@@ -182,6 +185,7 @@
   <string name="resource_ranking">Populární</string>
   <string name="resource_ranking_free">Zdarma</string>
   <string name="resource_ranking_purchase">Placené</string>
+  <string name="resource_remind_another_time">Neupozorňovat</string>
   <string name="resource_ringtone_default">Zvonění</string>
   <string name="resource_ringtone_playing_error">chyba přehrávání</string>
   <string name="resource_ringtone_volume_mute">Zvonění je ztišeno.</string>
@@ -288,6 +292,16 @@ ale obsah, který hledáte, není dostupný ve Vaší zemi."</string>
   <string name="theme_upgrade_request_content">Téma musí být aktualizované, aby mohlo pracovat správně. Je nutné internetové připojení. Chcete pokračovat?</string>
   <string name="theme_upgrade_request_title">Aktualizace téma</string>
   <string name="theme_upgrade_request_yes">OK</string>
+  <string name="theme_user_agreement_allow">Souhlasím</string>
+  <string name="theme_user_agreement_content1">Přečtěte si pozorně</string>
+  <string name="theme_user_agreement_content2">" Podmínky používání"</string>
+  <string name="theme_user_agreement_content3">" a "</string>
+  <string name="theme_user_agreement_content4">Ochranu soukromí</string>
+  <string name="theme_user_agreement_content5">. Souhlasíte s použitím internetového připojení?</string>
+  <string name="theme_user_agreement_remind_again">Upozornit na používání internetového připojení</string>
+  <string name="theme_user_agreement_remind_never">Neptat se</string>
+  <string name="theme_user_agreement_remind_summary">Použít při dalším spuštění</string>
+  <string name="theme_user_agreement_title">Prohlášení</string>
   <string name="theme_yes">Ano</string>
   <string name="third_party_pickers_activity_title">Nastavit %1$s</string>
   <string name="title_component">Mix</string>
@@ -302,18 +316,4 @@ ale obsah, který hledáte, není dostupný ve Vaší zemi."</string>
   <string name="wallpaper_set_as_destop">Tapeta plochy</string>
   <string name="wallpaper_set_as_lockscreen">Nastavit jako zámek obrazovky</string>
   <string name="wallpaper_settings">Nastavení tapety</string>
-  <string name="resource_allow">Povolit</string>
-  <string name="resource_connect_network_message">Chcete povolit aplikaci připojení k internetu?</string>
-  <string name="resource_connect_network_settings">Upozornit na připojení internetu</string>
-  <string name="resource_remind_another_time">Neupozorňovat</string>
-  <string name="theme_user_agreement_allow">Souhlasím</string>
-  <string name="theme_user_agreement_content1">Přečtěte si pozorně</string>
-  <string name="theme_user_agreement_content2">" Podmínky používání"</string>
-  <string name="theme_user_agreement_content3">" a "</string>
-  <string name="theme_user_agreement_content4">Ochranu soukromí</string>
-  <string name="theme_user_agreement_content5">. Souhlasíte s použitím internetového připojení?</string>
-  <string name="theme_user_agreement_remind_again">Upozornit na používání internetového připojení</string>
-  <string name="theme_user_agreement_remind_never">Neptat se</string>
-  <string name="theme_user_agreement_remind_summary">Použít při dalším spuštění</string>
-  <string name="theme_user_agreement_title">Prohlášení</string>
 </resources>

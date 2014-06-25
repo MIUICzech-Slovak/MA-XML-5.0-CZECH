@@ -1,4 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
+<!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
 <resources>
   <string name="about_preference_screen_title">Informace</string>
   <string name="about_preference_title">Informace</string>
@@ -106,7 +107,7 @@ Přihlaste se na account.xiaomi.com a potvrďte aktivaci"</string>
   <string name="privacy_page_url">http://www.Xiaomi.com/policies/privacy/</string>
   <string name="privacy_preference_title">Zásady soukromí</string>
   <string name="progress_loading">Zpracovávání...</string>
-  <string name="remove_Xiaomi_account_dialog_message">"Odstraněním tohoto účtu &lt;b>přijdete o možnost&lt;/b> vytvářet kódy, ale k vypnutí dvoufázového ověření totožnosti  &lt;b>nedojde&lt;/b>. Tato skutečnost vám může bránit v přihlašování k účtu. &lt;p> Před odstraněním: &lt;ul> &lt;li>vypněte dvoufázové ověření totožnosti nebo&lt;/li> &lt;li>se přesvědčte, zda máte alternativní způsob vytváření kódů.&lt;/li> &lt;/ul>"</string>
+  <string name="remove_Xiaomi_account_dialog_message">"Odstraněním tohoto účtu &lt;b&gt;přijdete o možnost&lt;/b&gt; vytvářet kódy, ale k vypnutí dvoufázového ověření totožnosti  &lt;b&gt;nedojde&lt;/b&gt;. Tato skutečnost vám může bránit v přihlašování k účtu. &lt;p&gt; Před odstraněním: &lt;ul&gt; &lt;li&gt;vypněte dvoufázové ověření totožnosti nebo&lt;/li&gt; &lt;li&gt;se přesvědčte, zda máte alternativní způsob vytváření kódů.&lt;/li&gt; &lt;/ul&gt;"</string>
   <string name="remove_account_dialog_button_remove">Odebrat účet</string>
   <string name="remove_account_dialog_message">Odstraněním tohoto účtu &lt;b&gt;přijdete o možnost&lt;/b&gt; vytvářet kódy, ale k vypnutí dvoufázového ověření totožnosti &lt;b&gt;nedojde&lt;/b&gt;. Tato skutečnost vám může bránit v přihlašování k účtu. &lt;p&gt; Před odstraněním: &lt;ul&gt; &lt;li&gt;vypněte dvoufázové ověření totožnosti nebo&lt;/li&gt; &lt;li&gt;se přesvědčte, zda máte alternativní způsob vytváření kódů.&lt;/li&gt; &lt;/ul&gt;</string>
   <string name="remove_account_dialog_title">Odstranit účet %1$s?</string>
@@ -120,13 +121,14 @@ Přihlaste se na account.xiaomi.com a potvrďte aktivaci"</string>
   <string name="security_setting">Bezpečnostní nastavení</string>
   <string name="settings_menu_item">Nastavení</string>
   <string name="submit">Uložit</string>
+  <string name="success_copy_to_clipboard">Zkopírováno do schránky</string>
   <string name="success_reset_password">Heslo obnoveno</string>
   <string name="success_set_password">Heslo nastaveno</string>
   <string name="summary_lockpattern">Vyžadovat odemykací vzor pro MiCredity</string>
   <string name="terms_page_url">http://m.Xiaomi.com/tospage</string>
   <string name="terms_preference_title">Smluvní podmínky</string>
   <string name="timesync_about_feature_preference_title">O této funkci</string>
-  <string name="timesync_about_feature_screen_details">Pokud stisknete tlačítko „Synchronizovat“, aplikace Authenticator se jednou pokusí synchronizovat své interní hodiny se servery Google. Čas a datum zařízení se tímto nezmění. &lt;p> Během synchronizace interních hodin se servery Google, nepřenáší aplikace Authenticator žádné osobní údaje a informace o účtu. &lt;p> &lt;b>Proč tohle všechno?&lt;/b> Aplikace Authenticator generuje kódy pro ověření ve dvou krocích na základě 1) aktuálního času a 2) tajného kódu, který zná aplikace a server. &lt;p> Když se aplikace Authenticator a server neshodují s aktuálním časem, kód vygenerovaný aplikací nemusí být při pokusu o přihlášení přijat. &lt;p> Aplikace Authenticator primárně používá nastavení data a času zařízení a ve většině případů budete moci generovat platné kódy tím, že zkontrolujete, zda je nastavení času, data a časového pásma nastaveno správně. Pokud však vznikne nesoulad mezi časy, můžete se při řešení těchto problémů setkat s problémy (hlavně v případě, když používáte čas a časové pásmo poskytované sítí).</string>
+  <string name="timesync_about_feature_screen_details">Pokud stisknete tlačítko „Synchronizovat“, aplikace Authenticator se jednou pokusí synchronizovat své interní hodiny se servery Google. Čas a datum zařízení se tímto nezmění. &lt;p&gt; Během synchronizace interních hodin se servery Google, nepřenáší aplikace Authenticator žádné osobní údaje a informace o účtu. &lt;p&gt; &lt;b&gt;Proč tohle všechno?&lt;/b&gt; Aplikace Authenticator generuje kódy pro ověření ve dvou krocích na základě 1) aktuálního času a 2) tajného kódu, který zná aplikace a server. &lt;p&gt; Když se aplikace Authenticator a server neshodují s aktuálním časem, kód vygenerovaný aplikací nemusí být při pokusu o přihlášení přijat. &lt;p&gt; Aplikace Authenticator primárně používá nastavení data a času zařízení a ve většině případů budete moci generovat platné kódy tím, že zkontrolujete, zda je nastavení času, data a časového pásma nastaveno správně. Pokud však vznikne nesoulad mezi časy, můžete se při řešení těchto problémů setkat s problémy (hlavně v případě, když používáte čas a časové pásmo poskytované sítí).</string>
   <string name="timesync_about_feature_screen_title">O této funkci</string>
   <string name="timesync_preference_screen_summary">Synchronizovat interní hodiny aplikace Authenticator se servery Google</string>
   <string name="timesync_preference_screen_title">Úprava času pro generování kódů</string>
@@ -167,5 +169,4 @@ Možnosti:"</string>
 - Zabraňte ztrátě nebo odcizení vašeho zařízení
 - Slouží na generování ověřovacího kódu pro dvoufázové přihlašování ke Xiaomi účtu"</string>
   <string name="welcome_page_title">Ochrana přihlášení Xiaomi účtu</string>
-  <string name="success_copy_to_clipboard">Zkopírováno do schránky</string>
 </resources>

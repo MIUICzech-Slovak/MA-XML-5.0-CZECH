@@ -192,6 +192,7 @@ Poznámka: Zvětšení trojitým klepnutím funguje ve všech částech obrazovk
   <string name="apn_settings">Názvy APN</string>
   <string name="apn_type">Typ názvu APN</string>
   <string name="apn_user">Uživatelské jméno</string>
+  <string name="app_backup">Záloha</string>
   <string name="app_disable_dlg_text">Pokud zakážete integrovanou aplikaci, může se stát, že ostatní aplikace přestanou fungovat správně.</string>
   <string name="app_disable_dlg_title">Zakázat integrovanou aplikaci</string>
   <string name="app_disable_notifications_dlg_text">Pokud vypnete notifikaci pro tuto aplikaci, můžete zmeškat důležité upozornění.</string>
@@ -199,6 +200,7 @@ Poznámka: Zvětšení trojitým klepnutím funguje ve všech částech obrazovk
   <string name="app_factory_reset">Odinstalovat aktualizace</string>
   <string name="app_factory_reset_dlg_text">Všechny aktualizace této aplikace systému Android budou odinstalovány.</string>
   <string name="app_factory_reset_dlg_title">Odinstalovat aktualizace?</string>
+  <string name="app_feedback">Nahlásit chybu</string>
   <string name="app_floating_window_dlg_disable">"Zákaz vyskakovacích oken aplikace %1$s ji násilně ukončí. Opravdu je chcete zakázat?"</string>
   <string name="app_floating_window_dlg_enable">"Povolení vyskakovacích oken pro aplikaci %1$s vyžaduje její restart. Opravdu je chcete povolit?"</string>
   <string name="app_forward_locked">Aplikace je chráněna proti kopírování.</string>
@@ -393,6 +395,7 @@ Poznámka: Zvětšení trojitým klepnutím funguje ve všech částech obrazovk
   <string name="bluetooth_connection_notif_message">Klepnutím se připojíte k zařízení %1$s.</string>
   <string name="bluetooth_connection_permission_request">Požadavek na připojení zařízení Bluetooth</string>
   <string name="bluetooth_device">Nepojmenované zařízení Bluetooth</string>
+  <string name="bluetooth_device_address">Adresa zařízení:</string>
   <string name="bluetooth_device_advanced_enable_opp_title">Povolit přích. přenosy souborů</string>
   <string name="bluetooth_device_advanced_online_mode_summary">Umožňuje připojení zařízení s rozhraním Bluetooth</string>
   <string name="bluetooth_device_advanced_online_mode_title">Připojit</string>
@@ -536,6 +539,20 @@ Poznámka: Zvětšení trojitým klepnutím funguje ve všech částech obrazovk
   <string name="bluetooth_turning_off">Vypínání rozhraní Bluetooth...</string>
   <string name="bluetooth_turning_on">Zapnout Bluetooth?</string>
   <string name="bluetooth_unknown"/>
+  <string name="bluetooth_unlock_add_device">Přidat zařízení</string>
+  <string name="bluetooth_unlock_change_device_confirm_msg">Staré zařízení bude nahrazeno novým, chcete pokračovat?</string>
+  <string name="bluetooth_unlock_change_matched_device">Vybrat jiné zařízení</string>
+  <string name="bluetooth_unlock_confirm_device_text">Dotkněte se zařízení pro potvrzení</string>
+  <string name="bluetooth_unlock_delete_device">Vymazat toto zařízení</string>
+  <string name="bluetooth_unlock_delete_device_confirm_msg">Vymazat toto zařízení?</string>
+  <string name="bluetooth_unlock_device_matched_text">Použít toto zařízení pro odemknutí</string>
+  <string name="bluetooth_unlock_no_matched_device_yet">Žádné dostupné zařízení</string>
+  <string name="bluetooth_unlock_settings_devices_title">Zařízení</string>
+  <string name="bluetooth_unlock_settings_toggle_title">Použit na</string>
+  <string name="bluetooth_unlock_settings_unlock_device">Odemknutí</string>
+  <string name="bluetooth_unlock_title">Odemknout pomocí bluetooth zařízení</string>
+  <string name="bluetooth_unlock_turned_off">Vypnuto</string>
+  <string name="bluetooth_unlock_turned_on">Zapnuto</string>
   <string name="bluetooth_untether_blank">U zařízení %1$s bude ukončeno sdílené připojení.</string>
   <string name="bluetooth_visibility">Viditelné</string>
   <string name="bluetooth_visibility_timeout">Časový limit viditelnosti</string>
@@ -555,6 +572,7 @@ Poznámka: Zvětšení trojitým klepnutím funguje ve všech částech obrazovk
   <string name="bt_trace_log_summary">Povolit Bluetooth Trace log</string>
   <string name="bugreport_in_power">Hlášení chyb z hlavní nabídky</string>
   <string name="bugreport_in_power_summary">Zahrnout v hlavní nabídce možnost k vytvoření zprávy o chybách</string>
+  <string name="bugreport_tool_log">Vytvořit hlášení o chybě</string>
   <string name="bugreport_tool_log_toast">Log uložen do %s</string>
   <string name="bugreport_tool_log_toast_generate_bugreport">Vytváření záznamu o chybě bude trvat asi 1 minutu</string>
   <string name="build_number">Číslo sestavení</string>
@@ -734,6 +752,12 @@ Poznámka: Zvětšení trojitým klepnutím funguje ve všech částech obrazovk
   <string name="crypt_keeper_unplugged_text">Připojte nabíječku a zkuste to znovu.</string>
   <string name="cryptkeeper_emergency_call">Tísňové volání</string>
   <string name="cryptkeeper_return_to_call">Zpět k hovoru</string>
+  <string name="cta_button_text_agree">OK</string>
+  <string name="cta_button_text_cancel">Zrušit</string>
+  <string name="cta_checkbox_title">Znovu se neptat</string>
+  <string name="cta_dialog_msg">Používání Optimalizace vyžaduje připojení k internetu pro aktualizaci virové databáze. Souhlasíte?</string>
+  <string name="cta_dialog_title">Upozornění</string>
+  <string name="cta_settings">Přístup na internet</string>
   <string name="current_backup_pw_prompt">Sem zadejte aktuální heslo pro úplné zálohy.</string>
   <string name="current_input_method">Výchozí</string>
   <string name="current_use_ese">Použít vnitřní zabezpečovací prvek</string>
@@ -880,6 +904,7 @@ Toto nastavení ovlivní všechny uživatele tohoto telefonu."</string>
   <string name="device_cpu">CPU</string>
   <string name="device_cpu2_info">"2 jádra "</string>
   <string name="device_cpu4_info">"4 jádra "</string>
+  <string name="device_cpu8_info">"8 jader "</string>
   <string name="device_edit_title">Změnit název zařízení</string>
   <string name="device_info_default">Neznámé</string>
   <string name="device_info_label">Info o zařízení</string>
@@ -1022,6 +1047,8 @@ Toto nastavení ovlivní všechny uživatele tohoto telefonu."</string>
   <string name="dolby_surround_virtualizer">Surround</string>
   <string name="dolby_volume_leveler">Hlasitost</string>
   <string name="done_button">Hotovo</string>
+  <string name="double_click_tip">Dvakrát se dotkněte</string>
+  <string name="double_click_title">Rychlost dvojitého dotyku</string>
   <string name="downloaded_rom_title">Staré aktualizace MIUI</string>
   <string name="drive_mode">Režim AUTO</string>
   <string name="drive_mode_auto_reply">Auto. odpověď</string>
@@ -1104,7 +1131,6 @@ Toto nastavení ovlivní všechny uživatele tohoto telefonu."</string>
   <string name="factory_reset_summary">Můžete vymazat osobní data telefonu, nebo vyberte vymazat instalované aplikace a naformátujte SD kartu pro obnovení do továrního nastavení.</string>
   <string name="failed_to_open_app_settings_toast">Otevření nastavení pro %1$s selhalo</string>
   <string name="fcc_equipment_id">ID zařízení</string>
-  <string name="translation_contributors_title">Překladatelé</string>
   <string name="filter">Filtrovat</string>
   <string name="filter_apps_all">Vše</string>
   <string name="filter_apps_cached">Načtené</string>
@@ -1245,6 +1271,7 @@ Toto nastavení ovlivní všechny uživatele tohoto telefonu."</string>
   <string name="global_change_warning">Toto nastavení ovlivní všechny uživatele tohoto telefonu.</string>
   <string name="global_font_change_title">Změna velikosti písma</string>
   <string name="global_locale_change_title">Změna jazyka</string>
+  <string name="google_backup_section_title">Google záloha a obnovení</string>
   <string name="gsm_to_wifi_connect_type_title">Mobilní -&gt; Wi-Fi</string>
   <string name="haptic_feedback_enable_title">Při dotyku vibrovat</string>
   <string name="haptic_feedback_level">Síla vibrací</string>
@@ -1347,6 +1374,7 @@ Toto nastavení ovlivní všechny uživatele tohoto telefonu."</string>
   <string name="internal_storage">Systémové úložiště</string>
   <string name="internal_used_memory">Využité: %s</string>
   <string name="internal_used_memory_hint">Využité: Přepočítávání...</string>
+  <string name="international_roaming_summary_title">Nastavení roamingu</string>
   <string name="invalid_location">Umístění instalace není platné.</string>
   <string name="invalid_size_value">Nepodařilo se určit velikost balíčku</string>
   <string name="item_app_permission">Povolení aplikací</string>
@@ -1426,6 +1454,8 @@ Toto nastavení ovlivní všechny uživatele tohoto telefonu."</string>
   <string name="local_backup_password_toast_confirmation_mismatch">"Nové heslo a potvrzení se neshodují"</string>
   <string name="local_backup_password_toast_success">Nastavené nové heslo pro zálohu</string>
   <string name="local_backup_password_toast_validation_failure">Nastavení hesla pro zálohu selhalo!</string>
+  <string name="local_backup_section_summary">Zálohovat nastavení, účty a aplikace</string>
+  <string name="local_backup_section_title">Lokální zálohy</string>
   <string name="locale_default">Výchozí</string>
   <string name="location_access_summary">Povolit aplikacím, které o to požádaly, používat údaje o poloze</string>
   <string name="location_access_title">Přístup k údajům o mé poloze</string>
@@ -1532,6 +1562,7 @@ Toto nastavení ovlivní všechny uživatele tohoto telefonu."</string>
   <string name="manage_notification_access">Přístup k upozorněním</string>
   <string name="manage_notification_access_summary_zero">Aplikace nemohou číst upozornění</string>
   <string name="manage_space_text">Správa paměti</string>
+  <string name="manage_xiaomi_router">Spravovat Xiaomi MiRouter</string>
   <string name="manageapplications_settings_summary">Umožňuje spravovat a odebírat instalované aplikace</string>
   <string name="manageapplications_settings_title">Spravovat aplikace</string>
   <string name="manually_add_network">Přidat síť manuálně</string>
@@ -1675,6 +1706,13 @@ Toto nastavení ovlivní všechny uživatele tohoto telefonu."</string>
   <string name="mobile_no_provisioning_url">%1$s nemá známou internetovou adresu</string>
   <string name="mobile_unknown_sim_operator">Neznámý operátor SIM karty</string>
   <string name="model_number">Označení modelu</string>
+  <string name="modem_tool_log">Capture Modem Logs</string>
+  <string name="modem_tool_log_start">Spustit záznam</string>
+  <string name="modem_tool_log_start_toast">"Start to dump modem's log to %s"</string>
+  <string name="modem_tool_log_stop">Ukončit záznam</string>
+  <string name="modem_tool_log_stop_toast">"Stop to dump modem's log from %s"</string>
+  <string name="mouse_primary_button_dialog_title">Přepnout hlavní tlačítko</string>
+  <string name="mouse_primary_button_title">Prohodit hlavní a vedlejší tlačítko</string>
   <string name="move_app">Přesunout</string>
   <string name="move_app_failed_dlg_text">"Přesunutí aplikace %1$s se nezdařilo"</string>
   <string name="move_app_failed_dlg_title"/>
@@ -1691,22 +1729,22 @@ Toto nastavení ovlivní všechny uživatele tohoto telefonu."</string>
   <string name="msd_install_next">Dále</string>
   <string name="msd_install_retry_linux">"Pokud počítač nenašel Váš telefon,
 na systému Ubuntu 12.xx pokračujte podle tohoto návodu:
-<a href="http://tinyurl.com/Ubuntu-MTP">Ubuntu-MTP</a>.
+&lt;a href="http://tinyurl.com/Ubuntu-MTP"&gt;Ubuntu-MTP&lt;/a&gt;.
 
-Pozor: Ubuntu 13.04 a novější
-již obsahuje MTP ovládač. 
+Pozor: Ubuntu 13.04 a nov&amp;#283;j&amp;#353;&amp;#237;
+ji&amp;#382; obsahuje MTP ovl&amp;#225;da&amp;#269;. 
 "</string>
-    <string name="msd_install_retry_mac">"Pokud počítač nenašel Váš telefon,
+  <string name="msd_install_retry_mac">"Pokud počítač nenašel Váš telefon,
 zkuste následující:
-"<li>"V počítači hledejte
+"&lt;li&gt;"V po&amp;#269;&amp;#237;ta&amp;#269;i hledejte
 Android File Transfer
 pro MAC"
-"Odpojit telefon z USB a znovu připojit.."
-"Znovu nainstalujte ovladače.</li></string>
-    <string name="msd_install_retry_windows_vista">"Pokud počítač nenašel Váš telefon,
+"Odpojit telefon z USB a znovu p&amp;#345;ipojit.."
+"Znovu nainstalujte ovlada&amp;#269;e.&lt;/li&gt;</string>
+  <string name="msd_install_retry_windows_vista">"Pokud počítač nenašel Váš telefon,
 zkuste následující:
 "Odpojit telefon z USB a znovu připojit.</string>
-    <string name="msd_install_retry_windows_xp">"Pokud počítač nenašel Váš telefon,
+  <string name="msd_install_retry_windows_xp">"Pokud počítač nenašel Váš telefon,
 zkuste následující:"
 "Odpojit telefon z USB a znovu připojit.</string>
   <string name="msd_install_status_done">Ovladač už je nainstalovaný</string>
@@ -1748,6 +1786,8 @@ při připojení k PC."</string>
   <string name="new_bw_list_button">Přidat kontakt</string>
   <string name="next_button_label">Další</string>
   <string name="next_label">Další</string>
+  <string name="nfc_card_emulation">Emulace karty</string>
+  <string name="nfc_card_emulation_category_title">Režim emulace karty</string>
   <string name="nfc_category_title">NFC</string>
   <string name="nfc_payment_learn_more">Další informace</string>
   <string name="nfc_payment_menu_item_add_service">Hledat aplikace</string>
@@ -1773,6 +1813,7 @@ Nastavení jsou nedostupné"</string>
   <string name="noise_suppression">Potlačení hluku</string>
   <string name="normal_date_format">Regionální (%s)</string>
   <string name="not_installed">Není nainstalováno</string>
+  <string name="not_show_again">Znovu nezobrazovat</string>
   <string name="notification_breathing_light_color_title">Barva LED nového upozornění</string>
   <string name="notification_breathing_light_freq_title">Frekv. blikání LED při upozornění</string>
   <string name="notification_button_text_of_low_memory">Vyčistit</string>
@@ -2381,7 +2422,6 @@ Vaše zařízení se přepne po obnově baterie do tohoto režimu. Před vymazá
   <string name="quick_scan_cleaning_title">Čištění...</string>
   <string name="quick_scan_doing_title">Skenování...</string>
   <string name="quick_scan_done_title">Dokončeno!</string>
-  <string name="scan_list_label">Nalezeno:</string>
   <string name="quick_scan_list_loading_hits">Skenování...</string>
   <string name="quick_scan_result_summary">Čistění se spustí za %d s</string>
   <string name="quick_scan_result_title">Nalezené položky: %s</string>
@@ -2523,6 +2563,7 @@ Toto nastavení ovlivní všechny uživatele tohoto telefonu."</string>
   <string name="runningservices_settings_title">Spuštěné služby</string>
   <string name="save_button">Uložit</string>
   <string name="scan_done">Sken kompletní</string>
+  <string name="scan_list_label">Nalezeno:</string>
   <string name="scanning_prefix">Kontrola: %s</string>
   <string name="scanning_start_hints">Příprava na kontrolu</string>
   <string name="scanning_virus">Skenuji...</string>
@@ -2626,6 +2667,8 @@ Toto nastavení ovlivní všechny uživatele tohoto telefonu."</string>
   <string name="search_wifi">Wi-Fi</string>
   <string name="security_enable_widgets_disabled_summary">Zakázáno administrátorem</string>
   <string name="security_enable_widgets_title">Aktivovat widgety</string>
+  <string name="security_keyguard_category_name">Zámek</string>
+  <string name="security_password_category_name">Heslo</string>
   <string name="security_passwords_title">Hesla</string>
   <string name="security_privacy_settings_title">Zabezpečení soukromí</string>
   <string name="security_relative">Bezpečnost</string>
@@ -2741,6 +2784,8 @@ Toto nastavení ovlivní všechny uživatele tohoto telefonu."</string>
   <string name="sim_pins_dont_match">Kódy PIN nejsou shodné</string>
   <string name="sim_reenter_new">Potvrďte nový kód PIN.</string>
   <string name="sim_status_title">stav SIM</string>
+  <string name="sip_call_summary">Nastavit výchozí zvonění SIP</string>
+  <string name="sip_call_title">SIP zvonění</string>
   <string name="skip_button_label">Zrušit</string>
   <string name="skip_label">Dále</string>
   <string name="skip_step">Přeskočit tento krok</string>
@@ -2864,6 +2909,7 @@ Umožňují to důvěryhodné identifikační údaje nainstalované ve vašem za
   <string name="sync_wifi_label">Nastavení Wi-Fi synch.</string>
   <string name="sync_wifi_only">Jen na Wi-Fi</string>
   <string name="system">Systém</string>
+  <string name="system_backup_section_title">Záloha</string>
   <string name="system_cache_title">Systémová cache</string>
   <string name="system_package">Aktualizace systému nelze nainstalovat na SD kartu.</string>
   <string name="system_storage">Systémové úložiště</string>
@@ -2892,6 +2938,8 @@ Umožňují to důvěryhodné identifikační údaje nainstalované ve vašem za
   <string name="title_data_flow_no">Sledování využití dat vypnuto</string>
   <string name="title_data_flow_yes">Sledování využití dat zapnuto</string>
   <string name="title_dolby_control">Dolby Digital Plus</string>
+  <string name="title_font">Písmo</string>
+  <string name="title_font_current">Používá se</string>
   <string name="title_font_size">Velikost písma</string>
   <string name="title_hdmi_color_calibration">Nastavení barev</string>
   <string name="title_install_virus_no">Kontrola instalací vypnuta</string>
@@ -2936,6 +2984,7 @@ Umožňují to důvěryhodné identifikační údaje nainstalované ve vašem za
   <string name="trackball_settings">Trackball</string>
   <string name="trackball_wake_title">Trackball probuzení</string>
   <string name="transition_animation_scale_title">Měřítko animace přeměny</string>
+  <string name="translation_contributors_title">Překladatelé</string>
   <string name="trust_switch_dialog_msg">"MIUI se Vás nebude ptát na povolení pro operace, které mohou zneužít Vaše soukromí nebo ohrozit bezpečnost. Opravdu věříte této aplikaci?"</string>
   <string name="trusted_credentials">Důvěryhodná pověření</string>
   <string name="trusted_credentials_disable_confirmation">Zakázat certifikát CA systému?</string>
@@ -3075,6 +3124,7 @@ Umožňují to důvěryhodné identifikační údaje nainstalované ve vašem za
   <string name="usb_tethering_available_subtext">Připojení USB je k dispozici. Chcete-li vytvořit sdílené datové připojení, vyberte je.</string>
   <string name="usb_tethering_button_text">Sdílené datové připojení prostřednictvím portu USB</string>
   <string name="usb_tethering_errored_subtext">Chyba sdílení datového připojení prostřednictvím USB</string>
+  <string name="usb_tethering_select_version">Vyberte verzi OS v počítači</string>
   <string name="usb_tethering_storage_active_subtext">Nelze sdílet datové připojení, pokud se používá úložiště USB</string>
   <string name="usb_tethering_unavailable_subtext">Připojení USB není k dispozici</string>
   <string name="usb_title">USB</string>
@@ -3082,6 +3132,7 @@ Umožňují to důvěryhodné identifikační údaje nainstalované ve vašem za
   <string name="use_default_tts_settings_title">Vždy používat moje nastavení</string>
   <string name="use_location_summary">Povolit službám Google použít Vaši polohu ke zlepšení výsledků vyhledávání a dalších služeb?</string>
   <string name="use_location_title">Poloha a vyhledávání</string>
+  <string name="use_network_warning">Xiaomi Service Framework a Cloud vyžadují internetové připojení</string>
   <string name="use_system_language_to_select_input_method_subtypes">Použít systémový jazyk</string>
   <string name="user_account_title">Účet pro obsah</string>
   <string name="user_add_profile_item_summary">Můžete omezit přístup k aplikacím a obsahu z Vašeho účtu</string>
@@ -3349,6 +3400,7 @@ Každý uživatel může přijmout aktualizovaná oprávnění aplikací jménem
   <string name="wallpaper_settings_fragment_title">Vybrat tapetu z</string>
   <string name="wallpaper_settings_title">Tapeta</string>
   <string name="wfd_available_devices">Dostupné zařízení</string>
+  <string name="wfd_change_resolution_menu_title">Změnit rozlišení</string>
   <string name="wfd_disconnect_diag_msg">Pokud přerušíte připojení k Wi-Fi, Vaše spojení s %1$s se ukončí.</string>
   <string name="wfd_disconnect_diag_title">Přerušit připojení Wi-Fi?</string>
   <string name="wfd_disconnect_multiple_diag_message">Pokud přerušíte Wi-Fi Displej, Vaše spojení s %1$s a %2$s ostatními zařízeními se ukončí.</string>
@@ -3437,6 +3489,9 @@ Každý uživatel může přijmout aktualizovaná oprávnění aplikací jménem
   <string name="wifi_failed_save_message">Uložení sítě selhalo</string>
   <string name="wifi_forget">Odstranit</string>
   <string name="wifi_gateway">Brána</string>
+  <string name="wifi_hotspot_select_band_title">Vybrat provozní pásmo</string>
+  <string name="wifi_hotspot_suspend_optimizations">Optimalizace Wi-Fi hotspotu</string>
+  <string name="wifi_hotspot_suspend_optimizations_summary">Minimalizovat spotřebu baterie při aktivním Wi-Fi hotspotu</string>
   <string name="wifi_in_airplane_mode">Při režimu Letadlo</string>
   <string name="wifi_install_credentials">Instalace certifikátů</string>
   <string name="wifi_ip_address">Adresa IP</string>
@@ -3607,6 +3662,8 @@ Nastavení telefonu může vyžadovat přenos nemalého množství dat."</string
   <string name="wifi_tether_setting_title">Základní nastavení</string>
   <string name="wifi_tether_starting">Zapínání hotspotu...</string>
   <string name="wifi_tether_stopping">Vypínání hotspotu...</string>
+  <string name="wifi_type_approval"/>
+  <string name="wifi_type_approval_title">Type Approval</string>
   <string name="wifi_unchanged">(nezměněno)</string>
   <string name="wifi_unspecified">(neurčeno)</string>
   <string name="wifi_wapi_as_cert">WAPI AS Certifikát</string>
@@ -3659,71 +3716,14 @@ Nastavení telefonu může vyžadovat přenos nemalého množství dat."</string
   <string name="xiaomi_account">Xiaomi účet</string>
   <string name="xiaomi_cloud_service">MiCloud</string>
   <string name="xiaomi_money_service">MiKredity</string>
+  <string name="xiaomi_router_available_notif_summary">Zobrazit</string>
+  <string name="xiaomi_router_available_notif_title">Xiaomi MiRouter je dostupný</string>
+  <string name="xiaomi_router_notif_summary">Upozornit mě na dostupnost Xiaomi MiRouteru</string>
+  <string name="xiaomi_router_notif_title">Upozornění Xiaomi MiRouter</string>
   <string name="yes">Ano</string>
   <string name="zone_auto">Automatické čas. pásmo</string>
   <string name="zone_auto_summaryOff">Použít časové pásmo ze sítě</string>
   <string name="zone_auto_summaryOn">Použít časové pásmo ze sítě</string>
   <string name="zone_list_menu_sort_alphabetically">Řadit abecedně</string>
   <string name="zone_list_menu_sort_by_timezone">Řadit podle časového pásma</string>
-  <string name="double_click_tip">Dvakrát se dotkněte</string>
-  <string name="double_click_title">Rychlost dvojitého dotyku</string>
-  <string name="international_roaming_summary_title">Nastavení roamingu</string>
-  <string name="mouse_primary_button_dialog_title">Přepnout hlavní tlačítko</string>
-  <string name="mouse_primary_button_title">Prohodit hlavní a vedlejší tlačítko</string>
-  <string name="nfc_card_emulation">Emulace karty</string>
-  <string name="nfc_card_emulation_category_title">Režim emulace karty</string>
-  <string name="not_show_again">Znovu nezobrazovat</string>  
-  <string name="sip_call_summary">Nastavit výchozí zvonění SIP</string>
-  <string name="sip_call_title">SIP zvonění</string>
-  <string name="usb_tethering_select_version">Vyberte verzi OS v počítači</string>
-  <string name="wfd_change_resolution_menu_title">Změnit rozlišení</string>
-  <string name="wifi_hotspot_select_band_title">Vybrat provozní pásmo</string>
-  <string name="wifi_hotspot_suspend_optimizations">Optimalizace Wi-Fi hotspotu</string>
-  <string name="wifi_hotspot_suspend_optimizations_summary">Minimalizovat spotřebu baterie při aktivním Wi-Fi hotspotu</string>
-  <string name="bluetooth_unlock_add_device">Přidat zařízení</string>
-  <string name="bluetooth_unlock_change_device_confirm_msg">Staré zařízení bude nahrazeno novým, chcete pokračovat?</string>
-  <string name="bluetooth_unlock_change_matched_device">Vybrat jiné zařízení</string>
-  <string name="bluetooth_unlock_confirm_device_text">Dotkněte se zařízení pro potvrzení</string>
-  <string name="bluetooth_unlock_delete_device">Vymazat toto zařízení</string>
-  <string name="bluetooth_unlock_delete_device_confirm_msg">Vymazat toto zařízení?</string>
-  <string name="bluetooth_unlock_device_matched_text">Použít toto zařízení pro odemknutí</string>
-  <string name="bluetooth_unlock_no_matched_device_yet">Žádné dostupné zařízení</string>
-  <string name="bluetooth_unlock_settings_devices_title">Zařízení</string>
-  <string name="bluetooth_unlock_settings_toggle_title">Použit na</string>
-  <string name="bluetooth_unlock_settings_unlock_device">Odemknutí</string>
-  <string name="bluetooth_unlock_title">Odemknout pomocí bluetooth zařízení</string>
-  <string name="bluetooth_unlock_turned_off">Vypnuto</string>
-  <string name="bluetooth_unlock_turned_on">Zapnuto</string>
-  <string name="security_keyguard_category_name">Zámek</string>
-  <string name="security_password_category_name">Heslo</string>
-  <string name="wifi_type_approval"/>
-  <string name="wifi_type_approval_title">Type Approval</string>
-  <string name="manage_xiaomi_router">Spravovat Xiaomi MiRouter</string>
-  <string name="xiaomi_router_available_notif_summary">Zobrazit</string>
-  <string name="xiaomi_router_available_notif_title">Xiaomi MiRouter je dostupný</string>
-  <string name="xiaomi_router_notif_summary">Upozornit mě na dostupnost Xiaomi MiRouteru</string>
-  <string name="xiaomi_router_notif_title">Upozornění Xiaomi MiRouter</string>
-  <string name="device_cpu8_info">"8 jader "</string>
-  <string name="app_backup">Záloha</string>
-  <string name="app_feedback">Nahlásit chybu</string>
-  <string name="bugreport_tool_log">Vytvořit hlášení o chybě</string>
-  <string name="google_backup_section_title">Google záloha a obnovení</string>
-  <string name="local_backup_section_summary">Zálohovat nastavení, účty a aplikace</string>
-  <string name="local_backup_section_title">Lokální zálohy</string>
-  <string name="modem_tool_log">Capture Modem Logs</string>
-  <string name="modem_tool_log_start">Spustit záznam</string>
-  <string name="modem_tool_log_start_toast">"Start to dump modem's log to %s"</string>
-  <string name="modem_tool_log_stop">Ukončit záznam</string>
-  <string name="modem_tool_log_stop_toast">"Stop to dump modem's log from %s"</string>
-  <string name="system_backup_section_title">Záloha</string>
-  <string name="bluetooth_device_address">Adresa zařízení:</string>
-  <string name="title_font">Písmo</string>
-  <string name="title_font_current">Používá se</string>
-  <string name="use_network_warning">Xiaomi Service Framework a Cloud vyžadují internetové připojení</string>
-  <string name="cta_button_text_agree">OK</string>
-  <string name="cta_button_text_cancel">Zrušit</string>
-  <string name="cta_checkbox_title">Znovu se neptat</string>
-  <string name="cta_dialog_msg">Používání Optimalizace vyžaduje připojení k internetu pro aktualizaci virové databáze. Souhlasíte?</string>
-  <string name="cta_dialog_title">Upozornění</string>
-  <string name="cta_settings">Přístup na internet</string>
 </resources>

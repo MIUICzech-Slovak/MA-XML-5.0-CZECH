@@ -166,6 +166,7 @@
   <string name="no_thumbnail">Žádný náhled</string>
   <string name="not_enough_space">Vaše SD karta je plná.</string>
   <string name="not_selectable_in_scene_mode">Není možné vybrat v režimu scény.</string>
+  <string name="object_track_enable_toast">Posuňte prstem po displeji pro sledování objektu.</string>
   <string name="ok">OK</string>
   <string name="orientation">Orientace</string>
   <string name="pano_dialog_panorama_failed">"Není možné uložit panoramatický snímek"</string>
@@ -408,6 +409,7 @@
   <string name="pref_setting_title">Nastavení</string>
   <string name="pref_settings_mode">Režim kamery</string>
   <string name="pref_video_captrue_ability_title">Snímek během videa</string>
+  <string name="pref_video_fast_speed_title_simple_mode">Zpomalené video</string>
   <string name="pref_video_focusmode_entry_auto">Dotykem</string>
   <string name="pref_video_focusmode_entry_continuous">Kontinuální ostření</string>
   <string name="pref_video_focusmode_title">Režim ostření</string>
@@ -420,7 +422,6 @@
   <string name="pref_video_quality_entry_wvga">WVGA</string>
   <string name="pref_video_quality_title">Kvalita videa</string>
   <string name="pref_video_slow_speed_title_simple_mode">Zrychlené video</string>
-  <string name="pref_video_fast_speed_title_simple_mode">Zpomalené video</string>
   <string name="pref_video_speed_entry_fast">Zpomalené</string>
   <string name="pref_video_speed_entry_normal">Normální</string>
   <string name="pref_video_speed_entry_slow">Zrychlené</string>
@@ -474,11 +475,11 @@
   <string name="simple_mode_button_text_audio_capture">Ukončit záznam zvuku</string>
   <string name="simple_mode_button_text_color_effect">Ukončit filtry</string>
   <string name="simple_mode_button_text_face_beauty">Ukončit vylepšení tváře</string>
+  <string name="simple_mode_button_text_fast_video">Ukončiť zrychlené natáčení</string>
   <string name="simple_mode_button_text_hand_night">Ukončit noční režim</string>
   <string name="simple_mode_button_text_hdr">Ukončit HDR</string>
   <string name="simple_mode_button_text_panorama">Ukončit panorama</string>
   <string name="simple_mode_button_text_slow_video">Ukončit zpomalené natáčení</string>
-  <string name="simple_mode_button_text_fast_video">Ukončiť zrychlené natáčení</string>
   <string name="simple_mode_title">Základní režim</string>
   <string name="slideshow">Prezentace</string>
   <string name="snapshot_lower_than_video">Video snapshot size is lower than video size. Capping the video size. Please select a resolution higher or equal to the current video size.</string>
@@ -499,6 +500,7 @@
   <string name="toast_burst_snap_forbidden_when_face_beauty_open">Dávkové snímání není dostupné při aktivním vylepšení tváře.</string>
   <string name="toast_burst_snap_forbidden_when_hdr_open">Dávkové snímání není podporováno v režimu HDR.</string>
   <string name="toast_burst_snap_forbidden_when_iso_not_auto">Dávkové snímání není podporované když ISO není nastaveno na AUTO.</string>
+  <string name="toast_cannot_preview_image_when_screen_locked">Nelze zobrazit fotografii nebo video při zapnutém displeji.</string>
   <string name="toast_start_audio_capture">Vydejte zvuk pro vyfocení snímku</string>
   <string name="undo">Zpět</string>
   <string name="unit_mm">mm</string>
@@ -527,6 +529,4 @@
   <string name="wifi_security">Zabezpečení:</string>
   <string name="wifi_ssid">SSID:</string>
   <string name="wifi_warning">Před připojením se ujistěte, že tato Wi-Fi síť je bezpečná</string>
-  <string name="toast_cannot_preview_image_when_screen_locked">Nelze zobrazit fotografii nebo video při zapnutém displeji.</string>
-  <string name="object_track_enable_toast">Posuňte prstem po displeji pro sledování objektu.</string>
 </resources>

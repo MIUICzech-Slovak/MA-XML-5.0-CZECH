@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
 <resources>
+  <string name="ACaddnumcontent">Zadejte začátek čísla, systém automaticky přidá *</string>
   <string name="ACaddnumtitle">Přidat předvolbu do výjimek</string>
   <string name="AD_ALLOW">Povolit</string>
   <string name="AD_APPInfo">Informace o apl.</string>
@@ -19,21 +20,27 @@
   <string name="AD_Unistall">Odinstalovat</string>
   <string name="Call_ADRESS">Hovory z regionu</string>
   <string name="Call_BLACKLIST">Blokované Hovory</string>
+  <string name="Call_DEFAULT">Inteligentní blokování</string>
   <string name="Call_MODENAME">Neinteligentní hovory</string>
   <string name="Call_PREFIX">Číslo hovoru</string>
   <string name="Call_PRIVATE_CALL">Blokovat skrytá čísla</string>
+  <string name="NACaddnumcontent">Telefonní číslo</string>
   <string name="NACaddnumtitle">Přidat číslo do výjimek</string>
   <string name="PAST_BLOCK">Předchozí režim blokování</string>
   <string name="Phonepass">Hovory</string>
   <string name="SMS_ADRESS">SMS z regionu</string>
   <string name="SMS_BLACKLIST">Blokované SMS</string>
+  <string name="SMS_DEFAULT">Inteligentní blokování</string>
   <string name="SMS_KEYWORDS">Blokovat klíčová slova</string>
   <string name="SMS_MODENAME">Neinteligentní SMS</string>
   <string name="SMS_PREFIX">Číslo SMS</string>
   <string name="SMSpass">SMS</string>
+  <string name="ad_block_hint">Blokované: %d</string>
   <string name="ad_install_monitor">Kontrola instalací</string>
   <string name="ad_install_monitor_hint">Instalovaná aplikace je kontrolována na přítomnost Adware</string>
+  <string name="ad_permission_hint">Používání blokování reklam může ovlivnit výkon aplikací nebo jejich funkčnost.</string>
   <string name="ad_relative_setting">Nastavení</string>
+  <string name="ad_single_block_hint">Blokované</string>
   <string name="ad_update_setting">Aktualizace databáze</string>
   <string name="ad_update_time">Aktualizováno: %s</string>
   <string name="ad_update_time_unKnown">Aktualizováno: Neznámé</string>
@@ -42,6 +49,7 @@
   <string name="addwhitelist">Přidat do výjimek</string>
   <string name="all_address_choose_hint">Všechny regiony</string>
   <string name="app_name">AntiSpam</string>
+  <string name="backsound_set_hint">Nastavit zvuk na %s?</string>
   <string name="baidu_thanks"/>
   <string name="bl_block_info" formatted="false">Blokované: Hovory %d, SMS %d</string>
   <string name="bl_no_blacklist">Žádná černá listina</string>
@@ -50,6 +58,7 @@
   <string name="blacklist_prefix_add_hint">Přidat všechny čísla s předvolbou do Černé listiny</string>
   <string name="block_message_number">SMS: %d</string>
   <string name="block_phone_number">Hovory: %d</string>
+  <string name="call_delete_hint">Vymazat všechny blokované hovory z vybraného čísla?</string>
   <string name="cancle">Zrušit</string>
   <string name="close_callwait">Zakázat</string>
   <string name="customizer_mode_user_define_name">Vlastní</string>
@@ -82,8 +91,10 @@
   <string name="dlg_remove_address_blacklist">Odebrat tento region z Černé listiny a obnovit všechny SMS?</string>
   <string name="dlg_remove_address_whitelist">Odebrat z výjimek?</string>
   <string name="dlg_remove_blacklist">Odstranit toto číslo z černé listiny?</string>
+  <string name="dlg_remove_blacklist_ing">Odebírání z černé listiny...</string>
   <string name="dlg_remove_blacklist_ok">Odstranit</string>
   <string name="dlg_remove_whitelist">Odebrat z výjimek?</string>
+  <string name="dlg_remove_whitelist_ing">Odebírání z výjimek...</string>
   <string name="dlg_retore">Obnovit tyto SMS zprávy?</string>
   <string name="dlg_retore_ok">Obnovit</string>
   <string name="dlg_white_address_antispam_message">Přidat tuto předvolbu do výjimek a povolit ji?</string>
@@ -159,6 +170,7 @@
   <string name="qm_vip_list_custom_group">Zvolené VIP</string>
   <string name="qm_vip_list_group">Seznam VIP</string>
   <string name="quiet_mode">Tichý režim</string>
+  <string name="sms_delete_hint">Vymazat všechny blokované SMS z vybraného čísla?</string>
   <string name="st_advanced_setting_group">Rozšířené</string>
   <string name="st_antispam_black_adress_add">Blokovaný region (Pouze Čína)</string>
   <string name="st_antispam_bw_adress_add">Povolený region (Pouze Čína)</string>
@@ -273,16 +285,4 @@
   <string name="user_define_title">Vlastní režim</string>
   <string name="whitelist_prefix_add_hint">Přidat všechny čísla s předvolbou do výjimek</string>
   <string name="wl_no_whitelist">Žádná čísla</string>
-  <string name="ACaddnumcontent">Zadejte začátek čísla, systém automaticky přidá *</string>
-  <string name="Call_DEFAULT">Inteligentní blokování</string>
-  <string name="NACaddnumcontent">Telefonní číslo</string>
-  <string name="SMS_DEFAULT">Inteligentní blokování</string>
-  <string name="backsound_set_hint">Nastavit zvuk na %s?</string>
-  <string name="call_delete_hint">Vymazat všechny blokované hovory z vybraného čísla?</string>
-  <string name="dlg_remove_blacklist_ing">Odebírání z černé listiny...</string>
-  <string name="dlg_remove_whitelist_ing">Odebírání z výjimek...</string>
-  <string name="sms_delete_hint">Vymazat všechny blokované SMS z vybraného čísla?</string>
-  <string name="ad_block_hint">Blokované: %d</string>
-  <string name="ad_single_block_hint">Blokované</string>
-  <string name="ad_permission_hint">Používání blokování reklam může ovlivnit výkon aplikací nebo jejich funkčnost.</string>
 </resources>

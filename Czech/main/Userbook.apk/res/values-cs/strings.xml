@@ -1,7 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
+<!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
 <resources>
-    <string name="app_name">Příručka</string>
-    <string name="loading_userbook">Načítání...</string>
-    <string name="bakc_key_toast_txt">Stiskněte znovu pro ukončení</string>
-    <string name="non_wifi_not_download_data">Tento balíček nelze stáhnout, zkuste to později.</string>
+  <string name="app_name">Příručka</string>
+  <string name="bakc_key_toast_txt">Stiskněte znovu pro ukončení</string>
+  <string name="loading_userbook">Načítání...</string>
+  <string name="non_wifi_not_download_data">Tento balíček nelze stáhnout, zkuste to později.</string>
 </resources>

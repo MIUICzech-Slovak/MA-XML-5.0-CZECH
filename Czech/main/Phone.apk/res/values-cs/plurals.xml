@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
 <!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
+<!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
 <resources>
     <plurals name="phone_in_ecm_notification_time">
         <item quantity="other">Žádné datové připojení po dobu %s minuty</item>

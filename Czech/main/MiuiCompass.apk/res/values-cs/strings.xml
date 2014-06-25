@@ -11,7 +11,11 @@
   <string name="dialog_title_no_network">Nelze se připojit k síti.</string>
   <string name="direction_east">V</string>
   <string name="direction_north">S</string>
+  <string name="direction_north_east">SV</string>
+  <string name="direction_north_west">SZ</string>
   <string name="direction_south">J</string>
+  <string name="direction_south_east">JV</string>
+  <string name="direction_south_west">JZ</string>
   <string name="direction_west">Z</string>
   <string name="getting_location">Kalibrace...</string>
   <string name="guide_toast">"Prosím zkalibrujte kompas pohybem ve tvaru osmičky"</string>
@@ -25,8 +29,4 @@
   <string name="menu_calibrate_altitude">Kalibrovat nadmořskou výšku</string>
   <string name="pressure_title">Tlak</string>
   <string name="pressure_unit">hPa</string>
-  <string name="direction_north_east">SV</string>
-  <string name="direction_north_west">SZ</string>
-  <string name="direction_south_east">JV</string>
-  <string name="direction_south_west">JZ</string>
 </resources>

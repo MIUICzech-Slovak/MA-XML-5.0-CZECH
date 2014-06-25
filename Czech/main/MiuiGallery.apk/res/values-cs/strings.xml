@@ -40,6 +40,8 @@
   <string name="albums">Alb</string>
   <string name="albumset_page_title_separator"> | </string>
   <string name="alert">Oznámení</string>
+  <string name="alert_init_merged_message">Fotografie, které máte ve svém zařízení a v MiCloud, se zobrazí na jednom místě.</string>
+  <string name="alert_init_merged_title">Všechny fotografie na jednom místě</string>
   <string name="alert_message_initial_cloud">Systém automaticky odešle vaše staré a nové fotografie jen pokud jste připojení na síť Wi-Fi.</string>
   <string name="alert_message_open_sync">Vyžaduje se synchronizace, přejete si synchronizovat nyní?</string>
   <string name="already_apply_album">Otevřít %1$s?</string>
@@ -62,6 +64,7 @@
   <string name="big_screen_alertdialog_title">Zařízení</string>
   <string name="bigscreen_slide_exit">Ukončit prezentaci</string>
   <string name="bigscreen_slide_fail_cause_loading">Zkuste to znovu po načtení obrázku.</string>
+  <string name="bigscreen_slide_playing">Prezentace se přehrává na: %s</string>
   <string name="bigscreen_video_quit">Dotykem zrušíte přehrávání videa</string>
   <string name="browse_category">Prohlížení fotografií</string>
   <string name="by_email">E-mail</string>
@@ -85,6 +88,7 @@
   <string name="clear_thumbnail_cache">Vymazat cache náhledů</string>
   <string name="clear_thumbnail_cache_confirm">Cache náhledů bude vymazána. Galérie prohledá mediální soubory a vytvoří nové náhledy.</string>
   <string name="clear_thumbnail_cache_summary">Prohlížení galerie vytvoří náhledy. Vymazání mezipaměti uvolní místo na úložišti.</string>
+  <string name="click_to_add_picture">Dotykem přidáte fotografie</string>
   <string name="click_to_enter_camera">Otevřít fotoaparát</string>
   <string name="click_top_right">Stiskněte ikonu vpravo nahoře</string>
   <string name="close">Zavřít</string>
@@ -118,6 +122,7 @@ společně!"</string>
   <string name="confirm">OK</string>
   <string name="confirm_delete">Opravdu chcete položky (%s) vymazat?</string>
   <string name="confirm_delete_album" formatted="false">Opravdu chcete vymazat alba (%s) včetně obsažených položek(%s)?</string>
+  <string name="confirm_delete_cloud_all_item_page" formatted="false">Obrázky: %s, alba: %s. Opravdu chcete vymazat?</string>
   <string name="confirm_delete_has_cloud_image">Vymazat obrázky (%s) v cloudu?</string>
   <string name="confirm_delete_has_cloud_image_video">Vymazat položky (%s) v cloudu?</string>
   <string name="confirm_delete_has_cloud_local_image">Vymazat obrázky (%s) v cloudu?</string>
@@ -127,10 +132,9 @@ společně!"</string>
   <string name="confirm_delete_has_local_image">Vymazat obrázky (%s)?</string>
   <string name="confirm_delete_has_local_image_video">Vymazat položky (%s)?</string>
   <string name="confirm_delete_has_local_video">Vymazat videa (%s)?</string>
+  <string name="confirm_delete_home_merge_item">Vymazat obrázky (%s) v zařízení a cloudu?</string>
   <string name="confirm_delete_init_message">Obrázky budou vymazány z MiCloudu a také z vašeho zařízení. Pokud je chcete vymazat pouze z vašeho zařízení, přejděte na složku Lokální.</string>
   <string name="confirm_delete_init_title">Poznámka</string>
-  <string name="confirm_delete_cloud_all_item_page" formatted="false">Obrázky: %s, alba: %s. Opravdu chcete vymazat?</string>
-  <string name="confirm_delete_home_merge_item">Vymazat obrázky (%s) v zařízení a cloudu?</string>
   <string name="confirm_delete_pictures">obrázky (%s)</string>
   <string name="confirm_delete_system_album">%s je systémové album, opravdu vymazat?</string>
   <string name="confirm_delete_this_picture">Vymazat tento obrázek?</string>
@@ -182,6 +186,7 @@ společně!"</string>
   <string name="download">Stáhnout</string>
   <string name="download_fail">Stahování selhalo</string>
   <string name="download_fail_confirm_continue">Stahování %s selhalo. Pokračovat?</string>
+  <string name="download_refocus_data">Stáhnout data na přeostření</string>
   <string name="duotone">Duo-tone</string>
   <string name="duration">Trvání</string>
   <string name="edit">Upravit</string>
@@ -276,6 +281,9 @@ společně!"</string>
   <string name="invalid_recipient_message">"Opravte příjemce, jinak neobdrží zprávu."</string>
   <string name="iso">ISO</string>
   <string name="item_not_sync">Tento soubor nebyl synchronizován do cloudu a nelze ho stáhnout</string>
+  <string name="item_not_sync_for_origin_image">Tato fotografie nebyla synchronizována s cloudem a originál tedy nelze stáhnout</string>
+  <string name="item_not_sync_for_origin_video">Toto video nebylo synchronizováno s cloudem a originál tedy nelze stáhnout</string>
+  <string name="item_not_sync_for_refocus_data">Tato fotografie nebyla synchronizována s cloudem a data pro přeostření nemohou být stažena</string>
   <string name="kick_owner_user_positive_button_text">Odstranit</string>
   <string name="kick_owner_user_title">Odstranit tohoto člena?</string>
   <string name="kick_sharer">Odstranit sdílené</string>
@@ -289,9 +297,11 @@ společně!"</string>
   <string name="loading_thumbnail">Stahování náhledů...</string>
   <string name="loading_video">Stahování videa...</string>
   <string name="local_albums">Lokální obrázky</string>
+  <string name="local_time">(Lokální)</string>
   <string name="location">Poloha</string>
   <string name="locations">Místa</string>
   <string name="lomoish">Lomo</string>
+  <string name="long_press_to_refocus">Podržte pro přeostření</string>
   <string name="make_download_dir_fail">Vytvoření složky pro soubory selhalo</string>
   <string name="maker">Tvůrce</string>
   <string name="manual">Manuál</string>
@@ -366,6 +376,7 @@ společně!"</string>
   <string name="path">Cesta</string>
   <string name="people">Lidé</string>
   <string name="photo_page_always_rotate">Automaticky otočit</string>
+  <string name="photo_page_detail_show_in_the_map">Zobrazit polohu na mapě</string>
   <string name="photo_page_save_image">Uložit</string>
   <string name="photo_page_save_uri_image_fail">Ukládání snímku selhalo.</string>
   <string name="photo_page_save_uri_image_ok">Snímek byl uložen do složky fotoaparátu.</string>
@@ -379,6 +390,7 @@ společně!"</string>
   <string name="picker_no_items_selected">Žádné položky</string>
   <string name="picker_select_album_title_empty">Vyberte album</string>
   <string name="picker_tab_camera">Fotoaparát</string>
+  <string name="picker_tab_photo">Fotografie</string>
   <string name="posterize">Posterizovat</string>
   <string name="ppmm_gallery">PPMM</string>
   <string name="preparing_data_to_delete">Příprava obrázků na vymazání.</string>
@@ -392,6 +404,7 @@ společně!"</string>
   <string name="recipient_editor_count_format">%d</string>
   <string name="redeye">Červené oči</string>
   <string name="redeye_tooltip">Klikni pro odstranění červených očí</string>
+  <string name="refocus_data_downloading">Stahování dat na přeostření...</string>
   <string name="remove_hidden_album">Obnovit skryté</string>
   <string name="remove_recent_album">Odstranit z nedávných alb</string>
   <string name="rename_failed">Přejmenovat se nepodařilo</string>
@@ -480,6 +493,7 @@ společně!"</string>
   <string name="size_above">%1$s anebo větší</string>
   <string name="size_below">%1$s anebo menší</string>
   <string name="size_between">%1$s do %2$s</string>
+  <string name="skip_hide_special_album">Systémová alba (Fotoaparát, Screenshoty) nelze skrýt.</string>
   <string name="slideshow">Prohlídka</string>
   <string name="slideshow_category">Prezentace</string>
   <string name="slideshow_dream_name">Prezentace</string>
@@ -489,6 +503,7 @@ společně!"</string>
   <string name="slideshow_repeat_mode">Opakovat</string>
   <string name="slideshow_time_select_title">Zvolte čas prezentace</string>
   <string name="slideshow_time_title">Čas prezentace</string>
+  <string name="start_slide_show">Spustit prezentaci</string>
   <string name="storage_all_volumes">Všechna úložná zařízení</string>
   <string name="storage_no_space">"Není volné místo na úložišti."</string>
   <string name="straighten">Vyrovnat</string>
@@ -499,6 +514,7 @@ společně!"</string>
   <string name="sync_album_set_error">Nepodařilo se stáhnout seznam alb. Prosím zkuste to později.</string>
   <string name="sync_album_summary">Nahrajte vaše fotky do MiCloud</string>
   <string name="sync_history_power_on">Synchronizovat fotografie jen po dobu nabíjení.</string>
+  <string name="sync_in_progress_message">Probíhá synchronizace...</string>
   <string name="sync_only_in_wifi">Jen Wi-Fi</string>
   <string name="sync_only_in_wifi_alert">Deaktivování synchronizace jen přes Wi-Fi může zvýšit vaše poplatky za mobilní data. Opravdu Deaktivovat?</string>
   <string name="sync_only_in_wifi_summary">Doporučuje se povolit, jinak se spotřebuje více dat od operátora.</string>
@@ -524,6 +540,10 @@ společně!"</string>
   <string name="try_to_send">Pokusit se odeslat</string>
   <string name="turn_left">Otočit doleva</string>
   <string name="turn_right">Otočit doprava</string>
+  <string name="ubifocus_data_missing">Nelze přeostřit kvůli chybějícím datům</string>
+  <string name="ubifocus_guide_text">Pro přeostření podržte asi půl sekundy</string>
+  <string name="ubifocus_map_error">Chybí data</string>
+  <string name="ubifocus_refocus_fail_tip">Nelze přeostřit kvůli chybějícím datům</string>
   <string name="ucdownloads_screenshot">Prohlížeč UC</string>
   <string name="unit_mm">mm</string>
   <string name="unpublish_failed">Odstranění z veřejných alb selhalo.</string>
@@ -549,24 +569,4 @@ společně!"</string>
   <string name="width">Šířka</string>
   <string name="yellow_page">Složka</string>
   <string name="yes">Ano</string>
-  <string name="alert_init_merged_message">Fotografie, které máte ve svém zařízení a v MiCloud, se zobrazí na jednom místě.</string>
-  <string name="alert_init_merged_title">Všechny fotografie na jednom místě</string>
-  <string name="click_to_add_picture">Dotykem přidáte fotografie</string>
-  <string name="local_time">(Lokální)</string>
-  <string name="long_press_to_refocus">Podržte pro přeostření</string>
-  <string name="photo_page_detail_show_in_the_map">Zobrazit polohu na mapě</string>
-  <string name="picker_tab_photo">Fotografie</string>
-  <string name="start_slide_show">Spustit prezentaci</string>
-  <string name="sync_in_progress_message">Probíhá synchronizace...</string>
-  <string name="ubifocus_data_missing">Nelze přeostřit kvůli chybějícím datům</string>
-  <string name="ubifocus_map_error">Chybí data</string>
-  <string name="ubifocus_refocus_fail_tip">Nelze přeostřit kvůli chybějícím datům</string>
-  <string name="download_refocus_data">Stáhnout data na přeostření</string>
-  <string name="refocus_data_downloading">Stahování dat na přeostření...</string>
-  <string name="item_not_sync_for_origin_image">Tato fotografie nebyla synchronizována s cloudem a originál tedy nelze stáhnout</string>
-  <string name="item_not_sync_for_origin_video">Toto video nebylo synchronizováno s cloudem a originál tedy nelze stáhnout</string>
-  <string name="item_not_sync_for_refocus_data">Tato fotografie nebyla synchronizována s cloudem a data pro přeostření nemohou být stažena</string>
-  <string name="ubifocus_guide_text">Pro přeostření podržte asi půl sekundy</string>
-  <string name="bigscreen_slide_playing">Prezentace se přehrává na: %s</string>
-  <string name="skip_hide_special_album">Systémová alba (Fotoaparát, Screenshoty) nelze skrýt.</string>
 </resources>
