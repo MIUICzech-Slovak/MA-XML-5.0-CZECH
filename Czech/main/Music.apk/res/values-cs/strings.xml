@@ -159,7 +159,7 @@
   <string name="id3_edit_failed">Nelze upravit ID3 informace</string>
   <string name="id3_modify_confirm_check">Uložit změny v ID3?</string>
   <string name="id3_modify_confirm_text">Uložit</string>
-  <string name="impunity_declaration">Online hudba, kterou se chystáte použít, je od Baidu Online Music Service. Klepněte na tlačítko Potvrdit pro potvrzení, nebo klepněte na tlačítko Zrušit pro ukončení.</string>
+  <string name="impunity_declaration">Online hudba, kterou se chystáte použít, je od Baidu Online Music Service. Klepněte na tlačítko \ "OK \" pro potvrzení, nebo klepněte na tlačítko \ "Zrušit \" k ukončení.</string>
   <string name="impunity_declaration_title">Prohlášení</string>
   <string name="keep_quit_position_settings">Uložit poslední pozici</string>
   <string name="keep_quit_position_summary">Pamatovat si pozici v posledně přehrávané skladbě</string>
