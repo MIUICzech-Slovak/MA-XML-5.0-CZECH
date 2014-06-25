@@ -50,7 +50,7 @@ Deaktivujte režim Letadlo."</string>
   <string name="lockscreen_transport_next_description">Další</string>
   <string name="lockscreen_transport_play_description">Přehrávání</string>
   <string name="lockscreen_transport_prev_description">Předchozí</string>
-  <string name="login_website_in_case_forget_password">Pro nastavení hesla jděte na i.xiaomi.com.</string>
+  <string name="login_website_in_case_forget_password">Pro nastavení hesla jděte na i.mi.com.</string>
   <string name="miui_unlockscreen_password_wrong">Znovu:</string>
   <string name="open_wifi_settings">Nastavení sítě</string>
   <string name="phone_locked_string">Zařízení je zablokováno</string>

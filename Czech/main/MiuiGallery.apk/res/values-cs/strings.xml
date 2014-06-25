@@ -96,7 +96,7 @@
   <string name="cloud_be_shared_guide_title">Toto album je od přítele</string>
   <string name="cloud_camera_display_name">Fotografie</string>
   <string name="cloud_gallery_no_pictures">Žádné fotografie v MiCloud</string>
-  <string name="cloud_gallery_recyclebin_full">Koš v Cloudu je plný, vyprázdněte ho na stránce i.xiaomi.com</string>
+  <string name="cloud_gallery_recyclebin_full">Koš v Cloudu je plný, vyprázdněte ho na stránce i.mi.com</string>
   <string name="cloud_gallery_space_full">Nahrávání selhalo!, Cloud úložiště galerie je plné</string>
   <string name="cloud_media_set_set">Cloudová alba</string>
   <string name="cloud_owner_album_share_guide">Můžete sdílet toto album s přáteli</string>
@@ -452,7 +452,7 @@ společně!"</string>
   <string name="set_screensaver_path_title">Prezentace</string>
   <string name="set_wallpaper">Nastavuji tapetu plochy...</string>
   <string name="settings">Nastavení</string>
-  <string name="settings_i_xiaomi_com">Přihlaste se na i.xiaomi.com pro zobrazení Vašich Cloud alb</string>
+  <string name="settings_i_xiaomi_com">Přihlaste se na i.mi.com pro zobrazení Vašich Cloud alb</string>
   <string name="shadow">Stíny</string>
   <string name="share_album">Sdílet album</string>
   <string name="share_album_owner">Vlastník</string>
