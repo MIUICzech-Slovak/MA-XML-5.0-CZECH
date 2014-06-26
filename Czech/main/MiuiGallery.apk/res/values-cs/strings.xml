@@ -132,14 +132,9 @@ společně!"</string>
   <string name="confirm_delete_has_local_image">Vymazat obrázky (%s)?</string>
   <string name="confirm_delete_has_local_image_video">Vymazat položky (%s)?</string>
   <string name="confirm_delete_has_local_video">Vymazat videa (%s)?</string>
-  <string name="confirm_delete_home_merge_item">Vymazat obrázky (%s) v zařízení a cloudu?</string>
   <string name="confirm_delete_init_message">Obrázky budou vymazány z MiCloudu a také z vašeho zařízení. Pokud je chcete vymazat pouze z vašeho zařízení, přejděte na složku Lokální.</string>
   <string name="confirm_delete_init_title">Poznámka</string>
-  <string name="confirm_delete_pictures">obrázky (%s)</string>
   <string name="confirm_delete_system_album">%s je systémové album, opravdu vymazat?</string>
-  <string name="confirm_delete_this_picture">Vymazat tento obrázek?</string>
-  <string name="confirm_delete_this_video">Vymazat toto video?</string>
-  <string name="confirm_delete_videos">videa (%s)</string>
   <string name="confirm_download">"Potřebujete stáhnout %s. Toto okno se už vícekrát nezobrazí."</string>
   <string name="confirm_download_video_message">Pro přehrání je nutné nejprve celé video stáhnout. Stahování bude obnoveno po připojení na Wi-Fi.</string>
   <string name="confirm_download_video_title">Stáhnout video</string>
