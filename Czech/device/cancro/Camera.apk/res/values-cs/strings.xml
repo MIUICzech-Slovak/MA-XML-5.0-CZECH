@@ -531,4 +531,5 @@
   <string name="wifi_warning">Před připojením se ujistěte, že tato Wi-Fi síť je bezpečná</string>
   <string name="cannot_move_warning_message">Zhotovování fotografie, nehýbejte se zařízením.</string>
   <string name="ubifocus_capture_warning_message">Je mnohem lepší, když jsou v náhledu bližší (do 1m od objektivu) a vzdálenější objekty</string>
+  <string name="pref_camera_auto_capture_when_stable_title">Auto capturing when stable</string>
 </resources>

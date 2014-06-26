@@ -393,4 +393,7 @@
   <string name="yestorday">"Včera" </string>
   <string name="yinyuetai">YinYueTai</string>
   <string name="youku">Youku</string>
+  <string name="info_title">Informace</string>
+  <string name="post_playcount">" krát"</string>
+  <string name="prex_playcount">Přehráno:</string>
 </resources>
