@@ -529,4 +529,6 @@
   <string name="wifi_security">Zabezpečení:</string>
   <string name="wifi_ssid">SSID:</string>
   <string name="wifi_warning">Před připojením se ujistěte, že tato Wi-Fi síť je bezpečná</string>
+  <string name="cannot_move_warning_message">Zhotovování fotografie, nehýbejte se zařízením.</string>
+  <string name="ubifocus_capture_warning_message">Je mnohem lepší, když jsou v náhledu bližší (do 1m od objektivu) a vzdálenější objekty</string>
 </resources>

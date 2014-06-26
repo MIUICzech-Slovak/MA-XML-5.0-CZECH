@@ -226,4 +226,19 @@
   <string name="SysOpt_Boost_Boot">Boot</string>
   <string name="SysOpt_Boost_Receiver">Na pozadí</string>
   <string name="app_name">Povolení</string>
+  <string name="HIPS_Perm_AutoStart">Automaticky spustit</string>
+  <string name="HIPS_Perm_AutoStart_Desc">Automaticky spustit při startu zařízení</string>
+  <string name="HIPS_Perm_AutoStart_Hint">%1$s má právo se automaticky spustit při startu</string>
+  <string name="HIPS_Perm_Calendar">Přístup ke kalendáři</string>
+  <string name="HIPS_Perm_Calendar_Desc">Přístup k událostem v kalendáři</string>
+  <string name="HIPS_Perm_Calendar_Hint">%1$s má právo na přístup ke kalendáři</string>
+  <string name="HIPS_Perm_Notification">Zobrazovat upozornění</string>
+  <string name="HIPS_Perm_Notification_Desc">Přístup k upozorněním</string>
+  <string name="HIPS_Perm_Notification_Hint">%1$s má právo na přístup k upozorněním</string>
+  <string name="HIPS_Perm_SystemAlert">Zobrazovat vyskakovací okna</string>
+  <string name="HIPS_Perm_SystemAlert_Desc">Má právo zobrazovat vyskakovací okna</string>
+  <string name="HIPS_Perm_SystemAlert_Hint">%1$s má právo zobrazovat vyskakovací okna</string>
+  <string name="HIPS_Perm_Wakelock">Zabránit spánku</string>
+  <string name="HIPS_Perm_Wakelock_Desc">Má právo zabránit spánku zařízení</string>
+  <string name="HIPS_Perm_Wakelock_Hint">%1$s má právo zabránit spánku zařízení</string>
 </resources>

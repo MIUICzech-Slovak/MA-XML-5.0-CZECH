@@ -341,8 +341,13 @@ k uvolnění místa</string>
   <string name="waiting">Čekám...</string>
   <string name="waiting_for_cleaning">Čeká na pročištění</string>
   <string name="waiting_for_scanning">Čeká na kontrolu</string>
-  <string name="wangpan_root_path">Můj disk</string>
+  <string name="wangpan_root_path">MiDrive</string>
   <string name="wifi_state">Stav Wi-Fi</string>
   <string name="xiaomi_account">Xiaomi účet</string>
   <string name="yes">Ano</string>
+  <string name="connect_network_setting_des">Upozornit na přístup k internetu</string>
+  <string name="network_connect_confirm_des">Používání MiDrive vyžaduje přístup k internetu. Souhlasíte?</string>
+  <string name="never_notify_network_connect">Znovu se neptat</string>
+  <string name="operation_agree">OK</string>
+  <string name="system_alert">Upozornění</string>
 </resources>

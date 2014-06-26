@@ -569,4 +569,12 @@ společně!"</string>
   <string name="width">Šířka</string>
   <string name="yellow_page">Složka</string>
   <string name="yes">Ano</string>
+  <string name="confirm_delete_home_merge_item">Vymazat obrázky (%s) v zařízení a cloudu?</string>
+  <string name="confirm_delete_pictures">Vymazat obrázky (%s)</string>
+  <string name="confirm_delete_this_picture">Vymazat tento obrázek?</string>
+  <string name="confirm_delete_this_video">Vymazat toto video?</string>
+  <string name="confirm_delete_videos">Vymazat videa (%s)</string>
+  <string name="ubifocus_refocus_data_missing">Nelze přeostřit kvůli chybějícím datům</string>
+  <string name="ubifocus_refocus_download_tip">Nejdříve stáhněte data pro přeostření</string>
+  <string name="ubifocus_refocus_map_error">Nelze přeostřit kvůli chybějícím datům</string>
 </resources>

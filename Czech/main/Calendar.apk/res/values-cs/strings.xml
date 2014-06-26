@@ -275,4 +275,9 @@
   <string name="yearly">Ročně (%s)</string>
   <string name="yearly_plain">Ročně</string>
   <string name="zhushen"/>
+  <string name="cta_notice_checkbox">Znovu se neptat</string>
+  <string name="cta_notice_message">\"Upozornění narozenin\" v kalendáři vás upozorní na narozeniny vašich kontaktů, ale je k nim nutné povolit přístup. Souhlasíte?</string>
+  <string name="cta_notice_ok">OK</string>
+  <string name="cta_notice_title">Upozornění</string>
+  <string name="cta_notify_settings">Upozornit na přístup ke kontaktům</string>
 </resources>

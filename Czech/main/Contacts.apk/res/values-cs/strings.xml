@@ -1162,4 +1162,10 @@ Vyberte si z následujících možností:</string>
   <string name="yellowpage_navigation_search_select_city">Zvolte město</string>
   <string name="yellowpage_navigation_send_to_desktop_succeeded">Přidáno na plochu</string>
   <string name="zero_items_selected">Nic není vybráno</string>
+  <string name="cta_notice_checkbox">Znovu se neptat</string>
+  <string name="cta_notice_new_contact_message">Uložení kontaktu na účet \"%s\" vyžaduje přístup k internetu. Souhlasíte?</string>
+  <string name="cta_notice_ok">OK</string>
+  <string name="cta_notice_photo_message">Úprava fotografie kontaktu vyžaduje přístup k internetu. Souhlasíte?</string>
+  <string name="cta_notice_settings">Upozornit na přístup k internetu</string>
+  <string name="cta_notice_title">Upozornění</string>
 </resources>
