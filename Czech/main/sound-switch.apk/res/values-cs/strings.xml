@@ -2,7 +2,7 @@
 <!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
 <resources>
   <string name="amss">Správa AMSS</string>
-  <string name="amss_dialog_message">"Upozornění!! Oddíl AMSS bude připojen jako adresář /amss. Změna souborů AMSS může úplně znefunkčnit telefon. Buďte VELMI opatrní! Připojit AMSS?"</string>
+  <string name="amss_dialog_message">"Upozornění!! Oddíl AMSS bude připojen jako adresář /amss. Změna souborů AMSS může částečně zničit telefon. Buďte VELMI opatrní! Připojit AMSS?"</string>
   <string name="amss_message">"AMSS připojen. Buďte opatrní."</string>
   <string name="amss_summary">Připojit oddíl AMSS</string>
   <string name="amss_title">Připojit AMSS</string>

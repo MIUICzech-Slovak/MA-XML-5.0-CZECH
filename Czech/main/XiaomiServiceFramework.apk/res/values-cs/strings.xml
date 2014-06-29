@@ -143,7 +143,7 @@
   <string name="find_device_notice_p1">Navštivte</string>
   <string name="find_device_notice_p2">i.xiaomi.com</string>
   <string name="find_device_notice_p3">pro zjištění polohy, zablokování nebo vymazání všech dat</string>
-  <string name="find_device_notice_p4">Vždy, když změníte SIM kratu, odešle se registrační SMS zpráva</string>
+  <string name="find_device_notice_p4">Vždy, když změníte SIM kartu, odešle se registrační SMS zpráva</string>
   <string name="find_device_success_title">Zjišťování polohy je zapnuté</string>
   <string name="find_password_on_web_msg">Navštivte account.xiaomi.com pro obnovu hesla</string>
   <string name="foreign_login">Země/kód země</string>

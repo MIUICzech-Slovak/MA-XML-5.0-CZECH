@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?> 
 <!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
-<!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
-<!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
 <resources>
     <string-array name="animator_duration_scale_entries">
         <item>Animace vypnuté</item>
@@ -416,7 +414,7 @@ Nyní můžete kopírovat soubory."</item>
  	  <string-array name="score_suggests">
         <item>Povolit černou listinu</item>
         <item>Aktivujte Správce práv</item>
-        <item>Vyčištěte možné nepotřebné soubory</item>
+        <item>Vyčistěte možné nepotřebné soubory</item>
         <item>Aktualizujte databázi virů</item>
         <item>Omezte aplikace na pozadí</item>
     </string-array>  
@@ -486,7 +484,7 @@ Nyní můžete kopírovat soubory."</item>
         <item>Amerika</item>
         <item>Evropa</item>
         <item>Afrika</item>
-	<item>Ásie</item>
+	      <item>Asie</item>
         <item>Austrálie</item>
         <item>Pacifik</item>
         <item>Vše</item>

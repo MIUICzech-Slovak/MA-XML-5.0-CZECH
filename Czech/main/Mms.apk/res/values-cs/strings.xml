@@ -293,7 +293,7 @@
   <string name="pref_summary_mms_read_reports">Oznamovat přečtení zprávy</string>
   <string name="pref_summary_mms_retrieval_during_roaming">Automaticky načítat zprávy při roamingu</string>
   <string name="pref_summary_mx_feedback">"Pomozte zlepšit MIUI! 
-Nahlašte chyby a odešlete Váš názor přímo do Xiaomi."</string>
+Nahlaste chyby a odešlete Váš názor přímo do Xiaomi."</string>
   <string name="pref_summary_new_message_popup">Povolit vyskakovací okno při obdržené zprávě</string>
   <string name="pref_summary_new_message_popup_when_secure">Zadat heslo pro zobrazení vyskakovacího okna</string>
   <string name="pref_summary_notification_body_enabled">Zobrazit zprávu na zamykací obrazovce a v notifikační liště</string>

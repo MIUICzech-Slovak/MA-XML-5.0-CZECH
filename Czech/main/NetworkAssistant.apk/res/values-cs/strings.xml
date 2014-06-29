@@ -38,7 +38,7 @@
   <string name="cannot_find_sms_cmd">SMS příkaz nelze nalézt</string>
   <string name="carrier_query_number_brand">Název služby</string>
   <string name="carrier_query_number_carrier">Operátor</string>
-  <string name="carrier_query_number_location">Attribution</string>
+  <string name="carrier_query_number_location">Přidělování</string>
   <string name="carrier_query_number_title">Nastavení operátorů</string>
   <string name="carrier_settings_button">Nastavení operátora</string>
   <string name="close_txt">Ano</string>

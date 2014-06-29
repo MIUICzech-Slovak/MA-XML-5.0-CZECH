@@ -9,7 +9,7 @@
   <string name="dialog_insufficient_space_on_cache">Není dostatek místa na interním úložišti</string>
   <string name="dialog_insufficient_space_on_external">Není dostatek místa na externím úložišti</string>
   <string name="download_percent">%d%%</string>
-  <string name="download_unknown_title">&lt;Bez názvu&gt;</string>
+  <string name="download_unknown_title">Bez názvu</string>
   <string name="notification_download_complete">Stahování dokončeno.</string>
   <string name="notification_download_failed">Stahování bylo neúspěšné.</string>
   <string name="notification_filename_extras">" a ještě %d"</string>

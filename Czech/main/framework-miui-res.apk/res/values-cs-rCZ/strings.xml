@@ -53,7 +53,7 @@
   <string name="find_device_turn_off_flight_mode">Vypnout režim letadlo</string>
   <string name="find_device_turn_off_flight_mode_instructions">"Vaše zařízení bylo zablokováno, vypněte režim letadlo"</string>
   <string name="firewall_setting">Antispam</string>
-  <string name="first_back_long_press_message">"Chcete používat dlouhé stlačení klávesy Zpět k ukončení aktivní aplikace? \nFunkci zapnete v Nastavení systému &gt; Tlačítka"</string>
+  <string name="first_back_long_press_message">"Chcete používat dlouhé stlačení klávesy Zpět k ukončení aktivní aplikace? \nFunkci zapnete v Nastavení systému > Tlačítka"</string>
   <string name="fm_record_smaple_prefix_miui">FM_Nahrávka</string>
   <string name="fools_day"/>
   <string name="force_exit_message">Aplikace \"%1$s\" byla úspěšně ukončena"</string>

@@ -132,7 +132,7 @@
   <string name="received_fileinfo">Celkem z %1$d souborů %2$s</string>
   <string name="received_files">Přijaté soubory</string>
   <string name="received_share_file">Sdílet přijaté soubory</string>
-  <string name="received_share_message">&gt;Přijato od %1$s</string>
+  <string name="received_share_message">Přijato od %1$s</string>
   <string name="recv_sound">Zvuk při přijetí</string>
   <string name="resend">Znovu odeslat</string>
   <string name="restart">Pokračovat</string>

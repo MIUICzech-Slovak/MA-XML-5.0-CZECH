@@ -76,7 +76,7 @@
   <string name="directory_searching_fmt">Vyhledávání na webu %s...</string>
   <string name="discard_label">Zrušit</string>
   <string name="dismiss_all_label">Zavřít vše</string>
-  <string name="do_not_check">Nekontrolovat -&gt;</string>
+  <string name="do_not_check">Nekontrolovat -</string>
   <string name="does_not_repeat">Jednorázová událost</string>
   <string name="done">Další</string>
   <string name="edit_event_all_day_label">Celý den</string>

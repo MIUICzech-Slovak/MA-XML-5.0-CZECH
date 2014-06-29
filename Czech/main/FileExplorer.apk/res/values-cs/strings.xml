@@ -113,7 +113,7 @@ Váš účet bude dočasně zablokovaný,
   <string name="file_too_large">"Soubor je příliš velký a nelze ho nahrát"</string>
   <string name="finished">Dokončeno</string>
   <string name="folder_exist">Složka již existuje</string>
-  <string name="forward_to_web_recycle_prompt">&lt;a href=\"%1$s\"&gt;Klepněte zde&lt;/a&gt;pro otevření koše v Cloudu</string>
+  <string name="forward_to_web_recycle_prompt">\"%1$s\" Klepněte zde pro otevření koše v Cloudu</string>
   <string name="ftp_account_req_notice">Uživatelské jméno a heslo, 4~16 znaků, obsahovat čísla, písmena...</string>
   <string name="ftp_anonymous_login">Anonymní FTP</string>
   <string name="ftp_invalid_username_or_password">Chyba přihlášení</string>

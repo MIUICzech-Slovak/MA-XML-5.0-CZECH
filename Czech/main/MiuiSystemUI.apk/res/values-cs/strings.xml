@@ -175,7 +175,7 @@
   <string name="settings_basic_settings">Nastavení</string>
   <string name="settings_custom_carrier">Vlastní název operátora</string>
   <string name="settings_custom_notification">Přizpůsobit notifikace</string>
-  <string name="settings_expandable_under_fullscreen">Povolit ve fullscreen režimu</string>
+  <string name="settings_expandable_under_fullscreen">Povolit v celoobraz. režimu</string>
   <string name="settings_expandable_under_fullscreen_summary">posunutím prstu přes horní okraj displeje dolů</string>
   <string name="settings_expandable_under_keyguard">Povolit na zamčené obrazovce</string>
   <string name="settings_expandable_under_keyguard_summary">funguje pouze na nezabezpečeném zámku</string>
@@ -287,7 +287,7 @@ d. MMMM yyyy"</string>
   <string name="usb_mtp_text">Soubory</string>
   <string name="usb_notification">USB připojené</string>
   <string name="usb_notification_mtp_info">Přístup k souborům přes připojení k počítači</string>
-  <string name="usb_notification_mtp_problem">Pomoc &gt;</string>
+  <string name="usb_notification_mtp_problem">Pomoc</string>
   <string name="usb_notification_mtp_ticker_text">USB Připojeno (MTP)</string>
   <string name="usb_notification_ptp_info">Přístup k fotkám přes připojení k počítači</string>
   <string name="usb_notification_ptp_ticker_text">USB Připojeno (PTP)</string>

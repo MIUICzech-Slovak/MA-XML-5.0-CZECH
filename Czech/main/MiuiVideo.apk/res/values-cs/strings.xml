@@ -30,7 +30,7 @@
   <string name="app_recommendation">Doporučené</string>
   <string name="area_colon">"Země: "</string>
   <string name="authenticated_failed">Přihlášení selhalo</string>
-  <string name="authenticating">&lt;CDATA&gt;Kontrola &lt;/CDATA&gt;</string>
+  <string name="authenticating">Kontrola</string>
   <string name="authenticating_manually">Autorizace selhala</string>
   <string name="auto_play">Automaticky přehrát</string>
   <string name="auto_play_summary">Přehrát video po dokončení načítání nebo stahování</string>
@@ -142,7 +142,7 @@
   <string name="fullscreen_hint_auto">Na celý displej...</string>
   <string name="fullscreen_hint_horizontal">Pro zobrazení na celý displej se dotkněte ikony v levém horním rohu</string>
   <string name="fullscreen_hint_vertical">Pro zobrazení na celý displej se dotkněte tlačítka níže</string>
-  <string name="fullscreen_to_play">Fullscreen</string>
+  <string name="fullscreen_to_play">Celý displej</string>
   <string name="funshion">Móda</string>
   <string name="get_cert_file_failed">can not get thunder certificate,please press the back key</string>
   <string name="gong_count_dlna">%d DLNA</string>

@@ -891,7 +891,7 @@ Toto nastavení ovlivní všechny uživatele tohoto telefonu."</string>
   <string name="dev_settings_warning_message">Tato nastavení jsou jen pro vývojářské možnosti. Mohou způsobit nestabilitu systému.</string>
   <string name="dev_settings_warning_title">Povolit vývojářské nastavení?</string>
   <string name="development_enable">Povolit vývoj</string>
-  <string name="development_settings_not_available">Pro tohoto uživatele jsou možnosti vyvojáře nedostupné</string>
+  <string name="development_settings_not_available">Pro tohoto uživatele jsou možnosti vývojáře nedostupné</string>
   <string name="development_settings_summary">Umožňuje nastavit možnosti pro vývoj aplikací</string>
   <string name="development_settings_title">Možnosti pro vývojáře</string>
   <string name="device_additional_status">Další info o stavu</string>

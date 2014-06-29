@@ -529,7 +529,7 @@
   <string name="snapshot_failed">"Nelze uložit pro offline použití."</string>
   <string name="snapshot_go_live">Aktualizovat</string>
   <string name="snapshot_successed">Uloženo pro offline čtení</string>
-  <string name="ssl_certificate">Bezpčenostní certifikát</string>
+  <string name="ssl_certificate">Bezpečnostní certifikát</string>
   <string name="ssl_certificate_is_valid">Tento certifikát je platný.</string>
   <string name="ssl_continue">Pokračovat</string>
   <string name="ssl_date_invalid">Certifikát má neplatné datum.</string>

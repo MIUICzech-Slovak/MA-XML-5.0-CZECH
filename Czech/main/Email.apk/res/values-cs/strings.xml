@@ -740,7 +740,7 @@ Chcete-li poštu jednou synchronizovat, dotkněte se položky "Synchronizovat". 
   <string name="wait_for_sync_note">Potáhněte dolů pro upozornění. Stiskněte pro dokončení bezpečnostních nastavení.</string>
   <string name="wait_for_sync_title">Čekání na synchronizaci</string>
   <string name="widget_all_mail">Všechny zprávy</string>
-  <string name="widget_large_unread_count">&gt;%d</string>
+  <string name="widget_large_unread_count">%d</string>
   <string name="widget_other_views">Ostatní</string>
   <string name="wrong_password">Nesprávné heslo!</string>
   <string name="xiaomi_bytes_unit">%1$sB</string>

@@ -104,7 +104,7 @@ Chcete jej ukončit?"</string>
   <string name="bluetooth_a2dp_audio_route_name">Bluetooth Audio</string>
   <string name="byteShort">B</string>
   <string name="cancel">Zrušit</string>
-  <string name="candidates_style">" "&lt;u&gt;kandid&amp;#225;ti&lt;/u&gt;" "</string>
+  <string name="candidates_style">" "kandidáti" "</string>
   <string name="capital_off">VYP</string>
   <string name="capital_on">ZAP</string>
   <string name="car_mode_disable_notification_message">Dotykem ukončíte režim V autě.</string>
@@ -372,7 +372,7 @@ Chcete-li pokračovat, dotkněte se možnosti OK. Chcete-li zůstat na aktuáln�
   <string name="keyguard_password_enter_pin_prompt">Nový kód PIN</string>
   <string name="keyguard_password_enter_puk_code">Zadejte kód PUK a nový kód PIN.</string>
   <string name="keyguard_password_enter_puk_prompt">Kód PUK</string>
-  <string name="keyguard_password_entry_touch_hint">" "&lt;font size="17"&gt;Dotykem zad&amp;#225;te heslo&lt;/font&gt;" "</string>
+  <string name="keyguard_password_entry_touch_hint">" "Dotykem zadátete heslo" "</string>
   <string name="keyguard_password_pin_failed">PIN operace selhala!</string>
   <string name="keyguard_password_puk_failed">PUK operace selhala!</string>
   <string name="keyguard_password_wrong_pin_code">Nesprávný kód PIN.</string>
@@ -400,8 +400,8 @@ Chcete-li pokračovat, dotkněte se možnosti OK. Chcete-li zůstat na aktuáln�
   <string name="lockscreen_failed_attempts_now_wiping">Telefon jste se pokusili nesprávným způsobem odemknout %dkrát. V telefonu se nyní obnoví výchozí tovární nastavení.</string>
   <string name="lockscreen_forgot_pattern_button_text">Zapomněli jste gesto?</string>
   <string name="lockscreen_glogin_account_recovery_hint">"Zapomněli jste uživatelské jméno nebo heslo?
-Přejděte na stránku "&lt;b&gt;google.com/accounts/recovery&lt;/b&gt;.</string>
-  <string name="lockscreen_glogin_checking_password">Kontrola\u2026</string>
+Přejděte na stránku google.com/accounts/recovery</string>
+  <string name="lockscreen_glogin_checking_password">Kontrola...</string>
   <string name="lockscreen_glogin_forgot_pattern">Odemčení účtu</string>
   <string name="lockscreen_glogin_instructions">Chcete-li telefon odemknout, přihlaste se pomocí svého účtu Google.</string>
   <string name="lockscreen_glogin_invalid_input">Neplatné uživatelské jméno nebo heslo.</string>
@@ -631,7 +631,7 @@ Zkuste to znovu za %d s."</string>
   <string name="permdesc_clearAppUserData">Umožňuje aplikaci smazat data uživatele.</string>
   <string name="permdesc_confirm_full_backup">Umožňuje aplikaci spustit uživatelské rozhraní potvrzení úplné zálohy. Toto oprávnění nesmí používat žádná aplikace.</string>
   <string name="permdesc_copyProtectedData">Umožňuje aplikaci dát výchozí službě kontejneru příkaz ke zkopírování obsahu. Toto oprávnění není určeno pro běžné aplikace.</string>
-  <string name="permdesc_createNetworkSockets">Umožňuje aplikaci vytvářet síťové sokety a používat vlastní síťové protokoly. K odesílání údajů na internet toto oprávnění není nutné, protože údaje lze na internet odesílat prostřednictvím prohlížečů a dalších aplikací.</string>
+  <string name="permdesc_createNetworkSockets">Umožňuje aplikaci vytvářet síťové sockety a používat vlastní síťové protokoly. K odesílání údajů na internet toto oprávnění není nutné, protože údaje lze na internet odesílat prostřednictvím prohlížečů a dalších aplikací.</string>
   <string name="permdesc_deleteCacheFiles">Umožňuje aplikaci smazat soubory v mezipaměti.</string>
   <string name="permdesc_deletePackages">Umožňuje aplikaci smazat balíčky Android. Škodlivé aplikace mohou toto oprávnění použít ke smazání důležitých aplikací.</string>
   <string name="permdesc_devicePower">Umožňuje aplikaci zapnout či vypnout telefon.</string>
@@ -901,7 +901,7 @@ pro účet %s."</string>
   <string name="permlab_runSetActivityWatcher">sledování a řízení spouštění všech aplikací</string>
   <string name="permlab_sdcardRead">testování přístupu do chráněného úložiště</string>
   <string name="permlab_sdcardWrite">úprava nebo smazání obsahu v úložišti USB</string>
-  <string name="permlab_sendSms">odesílaní zpráv SMS</string>
+  <string name="permlab_sendSms">odesílání zpráv SMS</string>
   <string name="permlab_sendSmsNoConfirmation">posílat zprávy SMS bez potvrzení</string>
   <string name="permlab_serialPort">přístup k sériovým portům</string>
   <string name="permlab_setAlarm">nastavení budíku</string>
@@ -947,9 +947,9 @@ pro účet %s."</string>
   <string name="permlab_writeSocialStream">zapisovat do vašeho sociálního streamu</string>
   <string name="permlab_writeSyncSettings">vypnutí nebo zapnutí synchronizace</string>
   <string name="perms_description_app">Poskytuje: %1$s.</string>
-  <string name="perms_hide">" "&lt;b&gt;Skr&amp;#253;t&lt;/b&gt;" "</string>
-  <string name="perms_new_perm_prefix">" "&lt;font size="12" fgcolor="#ff900000"&gt;NOV&amp;#201;: &lt;/font&gt;" "</string>
-  <string name="perms_show_all">" "&lt;b&gt;Zobrazit v&amp;#353;e&lt;/b&gt;" "</string>
+  <string name="perms_hide">" "Skrýt" "</string>
+  <string name="perms_new_perm_prefix">" "Nové" "</string>
+  <string name="perms_show_all">" "Zobrazit vše" "</string>
   <string name="petabyteShort">PB</string>
   <string name="phoneTypeAssistant">Asistent</string>
   <string name="phoneTypeCallback">Zpětné volání</string>
@@ -1098,7 +1098,7 @@ pro účet %s."</string>
   <string name="serviceDisabled">Služba byla vypnuta.</string>
   <string name="serviceEnabled">Služba byla zapnuta.</string>
   <string name="serviceEnabledFor">Služba byla zapnuta pro:</string>
-  <string name="serviceErased">Smazaní proběhlo úspěšně.</string>
+  <string name="serviceErased">Smazáni proběhlo úspěšně.</string>
   <string name="serviceNotProvisioned">Služba není zřízena.</string>
   <string name="serviceRegistered">Registrace byla úspěšná.</string>
   <string name="setup_autofill">Nastav aut. vyp.</string>
@@ -1127,7 +1127,7 @@ pro účet %s."</string>
   <string name="sipAddressTypeOther">Jiné</string>
   <string name="sipAddressTypeWork">Práce</string>
   <string name="skip_button_label">Přeskočit</string>
-  <string name="sms_control_message">Aplikace &lt;b&gt;%1$s&lt;/b&gt; odesílá velký počet SMS zpráv. Chcete aplikaci povolit, aby zprávy odesílala i nadále?</string>
+  <string name="sms_control_message">Aplikace %1$s odesílá velký počet SMS zpráv. Chcete aplikaci povolit, aby zprávy odesílala i nadále?</string>
   <string name="sms_control_no">Odmítnout</string>
   <string name="sms_control_title">Odesílání zpráv SMS</string>
   <string name="sms_control_yes">Povolit</string>
@@ -1176,7 +1176,7 @@ pro účet %s."</string>
   <string name="twelve_hour_time_format">h:mm a</string>
   <string name="twenty_four_hour_time_format">H:mm</string>
   <string name="unknownName">(Neznámé)</string>
-  <string name="untitled">&lt;Bez názvu&gt;</string>
+  <string name="untitled">Bez názvu</string>
   <string name="upload_file">Zvolit soubor</string>
   <string name="usb_accessory_notification_title">Připojeno k perifernímu zařízení USB</string>
   <string name="usb_cd_installer_notification_title">Připojeno jako instalátor</string>

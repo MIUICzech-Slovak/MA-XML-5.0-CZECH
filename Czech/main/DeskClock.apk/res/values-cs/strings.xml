@@ -30,7 +30,7 @@
   <string name="app_label">Hodiny</string>
   <string name="auto_silence_never">Nezastavovat</string>
   <string name="auto_silence_summary">Budík se ztiší po %d minutách</string>
-  <string name="auto_silence_title">Auto-ztišení</string>
+  <string name="auto_silence_title">Autom. ztišení</string>
   <string name="battery_charging_level">%d%%</string>
   <string name="cancel">Ukončit</string>
   <string name="clock_instructions">Vyberte hodiny</string>

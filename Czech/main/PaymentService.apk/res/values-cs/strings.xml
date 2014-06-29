@@ -167,7 +167,7 @@ prvně a nemohou být použité po vypršení platnosti"</string>
   <string name="mibi_license_checkbox_prompt">Znovu se neptat</string>
   <string name="mibi_license_message">Xiaomi MiKredity. Klepnutím na OK souhlasíte s %1$s.</string>
   <string name="mibi_license_message_span">Podmínky používání MiKreditů</string>
-  <string name="mibi_license_net_prompt_message">Používání MiKreditů môže zvýšit spotřebu mobilních dat.</string>
+  <string name="mibi_license_net_prompt_message">Používání MiKreditů může zvýšit spotřebu mobilních dat.</string>
   <string name="mibi_license_net_prompt_title">Je vyžadováno internetové připojení</string>
   <string name="mibi_license_title">Podmínky používání MiKreditů</string>
   <string name="mili_center">MiKredity</string>

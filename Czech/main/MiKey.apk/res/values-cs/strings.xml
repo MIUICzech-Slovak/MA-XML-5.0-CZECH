@@ -72,7 +72,7 @@
   <string name="earphone">Sluchátka</string>
   <string name="email">E-mail:</string>
   <string name="fail_generate_barcode">Generování kódu selhalo</string>
-  <string name="faq_comp_text">Pro zařízení s MIUIv5 a Xiaomi telefony. Aktuální verzi MiKey aplikace najdete vždy na adrese &lt;a href="http://www.miui.cz/mikey"&gt;miui.cz/mikey&lt;/a&gt;</string>
+  <string name="faq_comp_text">Pro zařízení s MIUIv5 a Xiaomi telefony. Aktuální verzi MiKey aplikace najdete vždy na adrese miui.cz/mikey</string>
   <string name="faq_comp_title">Které zařízení jsou kompatibilní?</string>
   <string name="faq_focus_text">Blesk při fotografovaní prodlužuje čas zhotovení snímku, ale výsledná fotografie je ostřejší. Můžete jej sice vypnout, ale fotografie může být rozmazaná.</string>
   <string name="faq_focus_title">Pomalé fotografování?</string>

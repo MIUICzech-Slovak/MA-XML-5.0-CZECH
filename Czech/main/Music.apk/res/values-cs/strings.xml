@@ -46,7 +46,7 @@
   <string name="choose_stream_quality">Vyberte kvalitu zdroje</string>
   <string name="click_to_play_all">Přehrát vše</string>
   <string name="click_to_shuffle">Klepněte sem pro spuštění náhodného přehrávání</string>
-  <string name="collect_bill_success">Bill added to favorites</string>
+  <string name="collect_bill_success">Přidáno k oblíbeným</string>
   <string name="collect_fm_success">Přidáno k oblíbeným</string>
   <string name="collect_topic_success">Album přidáno k oblíbeným</string>
   <string name="complete">Dokončeno</string>
@@ -162,7 +162,7 @@
   <string name="impunity_declaration">Online hudba, kterou se chystáte použít, je od Baidu Online Music Service. Klepněte na tlačítko Potvrdit pro potvrzení, nebo klepněte na tlačítko Zrušit k ukončení.</string>
   <string name="impunity_declaration_ignore">Neptat se</string>
   <string name="impunity_declaration_settings">Vždy upozornit při používaní internetového připojení</string>
-  <string name="impunity_declaration_summary">Při přístupu k hudbě se zobrazí voskakovací okno s upozorněním</string>
+  <string name="impunity_declaration_summary">Při přístupu k hudbě se zobrazí vyskakovací okno s upozorněním</string>
   <string name="impunity_declaration_title">Prohlášení</string>
   <string name="keep_quit_position_settings">Uložit poslední pozici</string>
   <string name="keep_quit_position_summary">Pamatovat si pozici v posledně přehrávané skladbě</string>
@@ -358,7 +358,7 @@
   <string name="vip_rebuy">Obnovit</string>
   <string name="vip_recommend_buy">Zakoupit (5 RMB na 1 měsíc)</string>
   <string name="vip_recommend_exchange">Dárkový kupón</string>
-  <string name="vip_recommend_main_title">Neomezená CD-kvalita hudby (320 kbps)</string>
+  <string name="vip_recommend_main_title">Neomezená CD kvalita hudby (320 kbps)</string>
   <string name="vip_recommend_rebuy">Obnovení VIP přístupu na 30 dní stojí 5 MiKreditů</string>
   <string name="vip_recommend_sub_title">Pouze 5 RMB měsíčně</string>
   <string name="vip_recommend_summary">Streamujte nebo stahujte všechny Vaše oblíbené skladby z Baidu Music ve kvalitě 320 kbps.</string>
