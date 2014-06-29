@@ -117,7 +117,7 @@ Poznámka: Zvětšení trojitým klepnutím funguje ve všech částech obrazovk
   <string name="activity_picker_label">Vybrat aktivitu</string>
   <string name="activity_title_create_shortcut">Zástupce</string>
   <string name="activity_title_settings">Nastavení</string>
-  <string name="adb_keys_warning_message">Odvolat přístup k ladění USB ze všech počítačů, které jet dříve autorizovali?</string>
+  <string name="adb_keys_warning_message">Odvolat přístup k ladění USB ze všech počítačů, které jste dříve autorizovali?</string>
   <string name="adb_warning_message">Ladění prostřednictvím rozhraní USB je určeno pouze pro účely vývoje. Použijte je ke kopírování dat mezi počítačem a zařízením,\ninstalaci aplikací do zařízení bez upozornění a čtení dat protokolů.</string>
   <string name="adb_warning_title">Povolit ladění USB?</string>
   <string name="add_account_label">Přidat účet</string>
