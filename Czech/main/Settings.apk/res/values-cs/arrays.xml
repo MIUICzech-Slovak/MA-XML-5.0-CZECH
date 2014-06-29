@@ -158,11 +158,36 @@
         <item>20 sekund</item>
         <item>Vždy zapnuto</item>
     </string-array>
+    <string-array name="captioning_edge_type_selector_titles">
+        <item>Žádné</item>
+        <item>Obrys</item>
+        <item>Stín</item>
+    </string-array>
+    <string-array name="captioning_font_size_selector_titles">
+        <item>Velmi malé</item>
+        <item>Malé</item>
+        <item>Normální</item>
+        <item>Velké</item>
+        <item>Velmi velké</item>
+    </string-array>
+    <string-array name="captioning_preset_selector_titles">
+        <item>Bílé na černém</item>
+        <item>Černé na bílém</item>
+        <item>Žluté na černém</item>
+        <item>Žluté na modrém</item>
+        <item>Vlastní</item>
+    </string-array>
     <string-array name="change_security_lock_picker">
         <item>Odblokování tváří</item>
         <item>Vzor</item>
         <item>PIN</item>
         <item>Heslo</item>
+    </string-array>
+    <string-array name="debug_hw_overdraw_entries">
+        <item>Vypnuto</item>
+        <item>Zobrazit překreslované oblasti</item>
+        <item>Zobrazit oblasti pro deuteranomálii</item>
+        <item>Zobrazit počítadlo překreslení</item>
     </string-array>
     <string-array name="dream_timeout_entries">
         <item>Nikdy</item>
@@ -284,7 +309,7 @@ se Xiaomi Mi2 zobrazí jako přehrávač hudby MTP"</item>
 musí být ovladač nainstalovaný ručně"</item>
         <item/>
     </string-array>
-    <string-array name="msd_pc_system_install_step_1_summary">
+	  <string-array name="msd_pc_system_install_step_1_summary">
         <item>"(Ignorujte vyskakovací okno průvodce instalací)
 XIAOMI úložiště se zobrazí ve Vašem počítači.
 Otevřete soubor Setup.exe pro nainstalování."</item>
@@ -310,7 +335,7 @@ Nyní můžete kopírovat soubory."</item>
         <item>Předplatné 2</item>
         <item>Prompt</item>
     </string-array>
-	  <string-array name="multi_sim_entries_voice_without_prompt">
+    <string-array name="multi_sim_entries_voice_without_prompt">
         <item>Předplatné 1</item>
         <item>Předplatné 2</item>
     </string-array>
@@ -327,6 +352,10 @@ Nyní můžete kopírovat soubory."</item>
     	<item>Síť je pomalá z důvodu jejího přetížení</item>
     	<item>Síť je pomalá z důvodu slabého signálu</item>
     	<item>Přesouvání...</item>
+    </string-array>
+    <string-array name="perm_disable_keyguard_action">
+        <item>Povolit</item>
+        <item>Zakázat</item>
     </string-array>
     <string-array name="perm_hips_action">
         <item>Povolit</item>
@@ -376,21 +405,21 @@ Nyní můžete kopírovat soubory."</item>
         <item>Galerie</item>
         <item>Hudba</item>
         <item>E-mail</item>
-    </string-array>
-    <string-array name="score_descriptions">
+    </string-array>  
+	  <string-array name="score_descriptions">
         <item>Černá listina je deaktivována.</item>
         <item>Správce práv je deaktivován.</item>
         <item>Koš je příliš velký.</item>
         <item>Databáze virů je zastaralá.</item>
         <item>Příliš mnoho procesů na pozadí.</item>
     </string-array>
-    <string-array name="score_suggests">
+ 	  <string-array name="score_suggests">
         <item>Povolit černou listinu</item>
         <item>Aktivujte Správce práv</item>
         <item>Vyčištěte možné nepotřebné soubory</item>
         <item>Aktualizujte databázi virů</item>
         <item>Omezte aplikace na pozadí</item>
-    </string-array>
+    </string-array>  
     <string-array name="screen_color_title">
         <item>Teplé barvy</item>
         <item>Přirozené barvy</item>
@@ -408,12 +437,12 @@ Nyní můžete kopírovat soubory."</item>
         <item>1 sekunda</item>
         <item>1.5 sekundy</item>
         <item>2 sekundy</item>
-    </string-array>  
-	  <string-array name="screen_saturation_title">
+    </string-array>
+    <string-array name="screen_saturation_title">
         <item>Brilantní</item>
         <item>Standardní</item>
     </string-array>
- 	  <string-array name="screen_timeout_entries">
+    <string-array name="screen_timeout_entries">
         <item>15 s.</item>
         <item>30 s.</item>
         <item>1 min.</item>
@@ -421,11 +450,21 @@ Nyní můžete kopírovat soubory."</item>
         <item>5 min.</item>
         <item>10 min.</item>
         <item>Nikdy</item>
-    </string-array>  
+    </string-array>
     <string-array name="security_settings_premium_sms_values">
         <item>Zeptat se</item>
         <item>Zakázat</item>
         <item>Vždy povolit</item>
+    </string-array>
+    <string-array name="select_runtime_summaries">
+        <item>Použít program Dalvik</item>
+        <item>Použít program ART</item>
+        <item>Použít ladicí sestavení programu ART</item>
+    </string-array>
+    <string-array name="select_runtime_titles">
+        <item>Dalvik</item>
+        <item>ART</item>
+        <item>ART (režim ladění)</item>
     </string-array>
     <string-array name="show_non_rect_clip_entries">
         <item>Vypnuto</item>
@@ -611,44 +650,5 @@ Nyní můžete kopírovat soubory."</item>
         <item>Měřítko animace 2x</item>
         <item>Měřítko animace 5x</item>
         <item>Měřítko animace 10x</item>
-    </string-array>
-    <string-array name="captioning_font_size_selector_titles">
-        <item>Velmi malé</item>
-        <item>Malé</item>
-        <item>Normální</item>
-        <item>Velké</item>
-        <item>Velmi velké</item>
-    </string-array>
-    <string-array name="captioning_edge_type_selector_titles">
-        <item>Žádné</item>
-        <item>Obrys</item>
-        <item>Stín</item>
-    </string-array>
-    <string-array name="captioning_preset_selector_titles">
-        <item>Bílé na černém</item>
-        <item>Černé na bílém</item>
-        <item>Žluté na černém</item>
-        <item>Žluté na modrém</item>
-        <item>Vlastní</item>
-    </string-array>
-    <string-array name="select_runtime_titles">
-        <item>Dalvik</item>
-        <item>ART</item>
-        <item>ART (režim ladění)</item>
-    </string-array>
-    <string-array name="select_runtime_summaries">
-        <item>Použít program Dalvik</item>
-        <item>Použít program ART</item>
-        <item>Použít ladicí sestavení programu ART</item>
-    </string-array>
-    <string-array name="debug_hw_overdraw_entries">
-        <item>Vypnuto</item>
-        <item>Zobrazit překreslované oblasti</item>
-        <item>Zobrazit oblasti pro deuteranomálii</item>
-        <item>Zobrazit počítadlo překreslení</item>
-    </string-array>
-    <string-array name="perm_disable_keyguard_action">
-        <item>Povolit</item>
-        <item>Zakázat</item>
     </string-array>
 </resources>

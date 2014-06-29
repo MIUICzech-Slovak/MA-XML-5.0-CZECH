@@ -1729,27 +1729,27 @@ Toto nastavení ovlivní všechny uživatele tohoto telefonu."</string>
   <string name="msd_install_next">Dále</string>
   <string name="msd_install_retry_linux">"Pokud počítač nenašel Váš telefon,
 na systému Ubuntu 12.xx pokračujte podle tohoto návodu:
-&lt;a href="http://tinyurl.com/Ubuntu-MTP"&gt;Ubuntu-MTP&lt;/a&gt;.
+"http://tinyurl.com/Ubuntu-MTP
 
-Pozor: Ubuntu 13.04 a nov&amp;#283;j&amp;#353;&amp;#237;
-ji&amp;#382; obsahuje MTP ovl&amp;#225;da&amp;#269;. 
+Pozor: Ubuntu 13.04 a novější
+již obsahuje MTP ovladač. 
 "</string>
   <string name="msd_install_retry_mac">"Pokud počítač nenašel Váš telefon,
 zkuste následující:
-"&lt;li&gt;"V po&amp;#269;&amp;#237;ta&amp;#269;i hledejte
+"V počítači hledejte
 Android File Transfer
 pro MAC"
-"Odpojit telefon z USB a znovu p&amp;#345;ipojit.."
-"Znovu nainstalujte ovlada&amp;#269;e.&lt;/li&gt;</string>
+"Odpojit telefon z USB a znovu připojit."
+"Znovu nainstalujte ovladače"</string>
   <string name="msd_install_retry_windows_vista">"Pokud počítač nenašel Váš telefon,
 zkuste následující:
 "Odpojit telefon z USB a znovu připojit.</string>
   <string name="msd_install_retry_windows_xp">"Pokud počítač nenašel Váš telefon,
 zkuste následující:"
 "Odpojit telefon z USB a znovu připojit.</string>
-  <string name="msd_install_status_done">Ovladač už je nainstalovaný</string>
+  <string name="msd_install_status_done">Ovladač už je nainstalován</string>
   <string name="msd_install_status_undo">Instalovat ovladač</string>
-  <string name="msd_install_succeed">Ovladač nainstalovaný</string>
+  <string name="msd_install_succeed">Ovladač nainstalován</string>
   <string name="msd_install_windows_xp_step_2_1">"1.Pokud se zobrazí průvodce instalace, následujte všechny kroky pro správné nainstalování ovladačů"</string>
   <string name="msd_pc_system_install_finish_summary_vista">"Pro Windows Vista a novější verze Windows,
 %1$s přehrávač hudby se zobrazí automaticky po připojení k PC"</string>
