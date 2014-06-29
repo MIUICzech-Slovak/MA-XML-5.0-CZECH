@@ -639,7 +639,7 @@ Any user can accept updated app permissions on behalf of all other users."</stri
   <string name="wifi_disconnect">Odpojit</string>
   <string name="wifi_display_available_devices">Dostupné zařízení</string>
   <string name="wifi_display_details">Nastavení displeje</string>
-  <string name="wifi_display_disconnect_text">Připojení s br&gt;b&gt;%1$s/b&gt; bude ukončeno</string>
+  <string name="wifi_display_disconnect_text">Připojení s %1$s bude ukončeno</string>
   <string name="wifi_display_disconnect_title">Odpojit?</string>
   <string name="wifi_display_no_devices_found">Nenašel se žádný wireless displej.</string>
   <string name="wifi_display_options_done">Hotovo</string>

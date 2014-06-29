@@ -567,8 +567,8 @@ Kopie: %4$s
   <string name="upload_state_uploading">Odesílá se</string>
   <string name="upload_state_waiting_retry">Čekání na opakování</string>
   <string name="upload_state_waiting_wifi">Čekání na připojení k síti Wi-Fi</string>
-  <string name="uploading_for">" pro uživatele "&lt;b&gt;%s&lt;/b&gt;</string>
-  <string name="uploading_to">Odesílání do &lt;b&gt;%s&lt;/b&gt;</string>
+  <string name="uploading_for">" pro uživatele %s"</string>
+  <string name="uploading_to">Odesílání do %s</string>
   <string name="waitinf_for_sync_message_1">Čekání na synchronizaci</string>
   <string name="waitinf_for_sync_message_2">Vaše e-maily se brzy zobrazí.</string>
   <string name="widget_all_mail">Všechny Doručené p.</string>

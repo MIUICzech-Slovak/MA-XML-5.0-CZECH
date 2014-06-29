@@ -369,7 +369,7 @@ Chcete aktivovat GPS a počkat na načtení času z GPS?"</string>
   <string name="gps_time_sync_attention_gps_on">"Bude to trvat přibližně 1 minutu než se načtou GPS data. GPS nemusí poskytnout správný čas v závislosti na signálu v okolí.
 
 Chcete použit čas z GPS?"</string>
-  <string name="gsm_to_wifi_connect_type_title">Mobilní data-&gt;Wi-Fi</string>
+  <string name="gsm_to_wifi_connect_type_title">Mobilní data-Wi-Fi</string>
   <string name="hdmi_3d_display_enable_summary">Povolit pro podporu 3D her</string>
   <string name="hdmi_3d_display_enable_title">3D Displej</string>
   <string name="hdmi_3d_help_title">Co je HDMI 3D Stereoscopic</string>
@@ -666,7 +666,7 @@ Any user can accept updated app permissions on behalf of all other users."</stri
   <string name="wifi_disconnect">Odpojit</string>
   <string name="wifi_display_available_devices">Dostupné zařízení</string>
   <string name="wifi_display_details">Nastavení displeje</string>
-  <string name="wifi_display_disconnect_text">Připojení s &lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt; bude ukončeno</string>
+  <string name="wifi_display_disconnect_text">Připojení s %1$s bude ukončeno</string>
   <string name="wifi_display_disconnect_title">Odpojit?</string>
   <string name="wifi_display_no_devices_found">Nenašel se žádný wireless displej.</string>
   <string name="wifi_display_options_done">Hotovo</string>
