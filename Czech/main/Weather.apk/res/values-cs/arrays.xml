@@ -17,6 +17,33 @@
         <item>Ranní cvičení:</item>
         <item>Volný čas:</item>
     </string-array>
+    <string-array name="weather_image">
+        <item>jasno</item>
+        <item>oblačno</item>
+        <item>mlhavo</item>
+        <item>mlha</item>
+        <item>několik bouřek</item>
+        <item>bouřky</item>
+        <item>průtrž</item>
+        <item>bouřka s blesky</item>
+        <item>přeháňky</item>
+        <item>silné srážky</item>
+        <item>déšť</item>
+        <item>mrholení</item>
+        <item>déšť se sněhem</item>
+        <item>sněhová bouřka</item>
+        <item>sněhové jazyky</item>
+        <item>husté sněžení</item>
+        <item>sněžení</item>
+        <item>sněhové přeháňky</item>
+        <item>silná písečná bouře</item>
+        <item>písečná bouře</item>
+        <item>lehká písečná bouře</item>
+        <item>písečná bouře</item>
+        <item>krupobití</item>
+        <item>prach</item>
+        <item>mlha</item>
+    </string-array>
     <string-array name="weather_details_key">
         <item>Nedostupné</item>
         <item>Vhodné</item>
@@ -70,8 +97,8 @@
         <item>Venku je déšť se sněhem, doporučuje se vzít si deštník!</item>
         <item>Sněží, vezměte si čepici a šálu!</item>
         <item>Dnes bude sněžit, vezměte si čepici a šálu!</item>
-        <item>Hodně sneží, vezměte si čepici a šálu!</item>
-        <item>Sneží, vezměte si čepici a šálu!</item>
+        <item>Hodně sněží, vezměte si čepici a šálu!</item>
+        <item>Sněží, vezměte si čepici a šálu!</item>
         <item>Lehce sněží, vezměte si čepici a šálu.</item>
         <item>Venku je prudká písečná bouře, vemte si masku na obličej!</item>
         <item>Prší, vezměte si deštník.</item>
@@ -96,7 +123,7 @@
         <item>Silně sněží!</item>
         <item>Dnes bude sněžit, vezměte si čepici a šálu!</item>
         <item>Sněží, vezměte si čepici a šálu!</item>
-        <item>Velmi sneží, vezměte si čepici a šálu!</item>
+        <item>Velmi sněží, vezměte si čepici a šálu!</item>
         <item>Sněží, vezměte si čepici a šálu!</item>
         <item>Venku je prudká písečná bouře, vemte si masku na obličej!</item>
         <item>Venku je prudká písečná bouře, vemte si masku na obličej!</item>
@@ -107,7 +134,7 @@
         <item>Kvalita vzduchu je nízká, bude lepší zůstat uvnitř.</item>
     </string-array>
     <string-array name="weather_sms_addons">
-        <item>Dnešní předpoveď pro @: $.</item>
+        <item>Dnešní předpověď pro @: $.</item>
         <item>Min~Max: %.</item>
         <item>Nezapomeňte si deštník</item>
         <item></item>
@@ -212,7 +239,7 @@
         <item>26</item>
         <item>Předpověď predikuje, že bude písečná bouře, počkejte s umytím auta.</item>
         <item>27</item>
-        <item>Bude snežit, počkejte s umytím auta.</item>
+        <item>Bude sněžit, počkejte s umytím auta.</item>
         <item>4</item>
         <item>Počkejte s umytím auta.</item>
     </string-array>
