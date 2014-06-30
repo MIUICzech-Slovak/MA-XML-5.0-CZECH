@@ -149,7 +149,7 @@ Využito"</string>
   <string name="spinner_title">%1$s - Mobilní data: %2$s</string>
   <string name="stop_app_button">Zastavit</string>
   <string name="system_app">Systémové aplikace</string>
-  <string name="text_day">" den"</string>
+  <string name="text_day">". den"</string>
   <string name="tips_dialog_title">"Neznáte svůj limit?"</string>
   <string name="tips_message">"Pokud si nejste jisti s objemem předplacených dat, můžete jej zjistit vytočením %2$s (%1$s) (jen Čína)."</string>
   <string name="traffic_correction_failed">"Nelze získat info o spotřebě dat"</string>

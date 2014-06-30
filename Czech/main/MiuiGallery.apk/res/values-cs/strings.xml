@@ -507,7 +507,7 @@ společně!"</string>
   <string name="sync_album_error">Nepodařilo se stáhnout snímky v tomto albu. Prosím zkuste to později.</string>
   <string name="sync_album_in_proecess">Album se synchronizuje se serverem. Čekejte prosím...</string>
   <string name="sync_album_set_error">Nepodařilo se stáhnout seznam alb. Prosím zkuste to později.</string>
-  <string name="sync_album_summary">Nahrajte vaše fotky do MiCloud</string>
+  <string name="sync_album_summary">Vaše nahrané fotky do MiCloud</string>
   <string name="sync_history_power_on">Synchronizovat fotografie jen po dobu nabíjení.</string>
   <string name="sync_in_progress_message">Probíhá synchronizace...</string>
   <string name="sync_only_in_wifi">Jen Wi-Fi</string>

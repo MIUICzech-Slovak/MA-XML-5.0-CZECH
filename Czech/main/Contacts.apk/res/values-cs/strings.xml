@@ -399,7 +399,7 @@ Chyba: \"%s\""</string>
   <string name="generic_no_account_prompt">Mějte svoje kontakty v bezpečí i když ztratíte telefon: synchronizujte je online.</string>
   <string name="generic_no_account_prompt_title">Přidat účet</string>
   <string name="ghostData_company">Společnost</string>
-  <string name="ghostData_title">Titulek</string>
+  <string name="ghostData_title">Název</string>
   <string name="groupSavedErrorToast">Chyba, nelze uložit změny.</string>
   <string name="groupSavedToast">Skupina uložena</string>
   <string name="group_add_fail_toast">Přidání kontaktů selhalo</string>
@@ -791,7 +791,7 @@ Synchronizujte je nyní."</string>
   <string name="redirect_calls_to_vm_confirm_message">If you have not applied to the operator of this business, please do not turn on. Otherwise, you may not be able to receive calls from this contact.</string>
   <string name="redirect_calls_to_vm_confirm_text">Zapnout</string>
   <string name="refresh">Obnovit</string>
-  <string name="relationLabelsGroup">Příbuzné</string>
+  <string name="relationLabelsGroup">Příbuzní</string>
   <string name="remind_btn_ignore">Ignorovat</string>
   <string name="remind_btn_sync_now">Synchronizovat nyní</string>
   <string name="removePhoto">Odstranit fotku</string>

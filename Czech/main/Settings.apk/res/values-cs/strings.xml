@@ -3572,7 +3572,7 @@ Chcete tuto možnost povolit všem aplikacím, které chtějí vyhledávat sít�
   <string name="wifi_setting_frequency_band_summary">Uveďte provozní frekvenční rozsah</string>
   <string name="wifi_setting_frequency_band_title">Frekvenční pásmo Wi-Fi</string>
   <string name="wifi_setting_sleep_policy_error">Při změně nastavení se vyskytl problém</string>
-  <string name="wifi_setting_sleep_policy_title">Ponechat připojení Wi-Fi během režimu spánku</string>
+  <string name="wifi_setting_sleep_policy_title">Wi-Fi během režimu spánku</string>
   <string name="wifi_settings">Wi-Fi</string>
   <string name="wifi_settings_category">Nastavení Wi-Fi</string>
   <string name="wifi_settings_summary">Umožňuje nastavit a spravovat přístupové body bezdrátové sítě</string>
