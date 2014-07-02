@@ -3728,4 +3728,5 @@ Nastavení telefonu může vyžadovat přenos nemalého množství dat."</string
   <string name="zone_list_menu_sort_by_timezone">Řadit podle časového pásma</string>
   <string name="accessibility_service_no_apps_confirm">OK</string>
   <string name="accessibility_service_no_apps_prompt">TalkBack poskytuje mluvené navigování nevidoucím a slabozrakým uživatelům. Tuto aplikaci můžete stáhnout zdarma ze služby Google Play.</string>
+  <string name="bluetooth_preference_connected_devices">Připojené zařízení</string>
 </resources>

@@ -1168,4 +1168,8 @@ Vyberte si z následujících možností:</string>
   <string name="cta_notice_photo_message">Úprava fotografie kontaktu vyžaduje přístup k internetu. Souhlasíte?</string>
   <string name="cta_notice_settings">Upozornit na přístup k internetu</string>
   <string name="cta_notice_title">Upozornění</string>
+  <string name="yellowpage_navigation_more_items">Více</string>
+  <string name="yellowpage_user_profile">Profil</string>
+  <string name="yellowpage_navigation_send_to_desktop_downloading">Stahování ikony...</string>
+  <string name="yellowpage_navigation_send_to_desktop_failed">Chyba, zkontrolujte nastavení sítě.</string>
 </resources>
