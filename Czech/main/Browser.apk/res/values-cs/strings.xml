@@ -625,4 +625,5 @@ Opravdu chcete odejít z této stránky?"</string>
   <string name="webview_yesterday">Včera</string>
   <string name="week_picker_dialog_title">Nastavit týden</string>
   <string name="xiaomi_bookmark_title">Xiaomi</string>
+  <string name="enter_developer_mode">Režim pro vývojáře</string>
 </resources>

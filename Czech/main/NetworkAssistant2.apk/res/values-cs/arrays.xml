@@ -37,4 +37,14 @@
         <item>Nastavit vzorovou zprávu automaticky</item>
         <item>Nastavit vzorovou zprávu manuálně</item>
     </string-array>
+    <string-array name="traffic_type">
+        <item>využito 2G/3G</item>
+        <item>využito Wi-Fi</item>
+        <item>celkem\u0020</item>
+    </string-array>
+    <string-array name="date_of_traffic_prefix">
+        <item>Včera\u0020</item>
+        <item>Dnes\u0020</item>
+        <item>Měsíc\u0020</item>
+    </string-array>
 </resources>
