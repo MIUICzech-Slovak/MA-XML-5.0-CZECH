@@ -113,9 +113,9 @@
   <string name="HIPS_Perm_Location_Desc">Zjistí polohu pomocí GPS nebo GSM sítě</string>
   <string name="HIPS_Perm_Location_Hint">%1$s aplikace mají povolení ke zjištění polohy telefonu</string>
   <string name="HIPS_Perm_Location_Monitor">Sledovat Vaši pozici</string>
-  <string name="HIPS_Perm_Location_Source_Cellular">Zdroj: Mobilní síť</string>
-  <string name="HIPS_Perm_Location_Source_GPS">Zdroj: GPS</string>
-  <string name="HIPS_Perm_Location_Source_Network">Zdroj: Síť</string>
+  <string name="HIPS_Perm_Location_Source_Cellular">sledovat polohu přes mobilní síť</string>
+  <string name="HIPS_Perm_Location_Source_GPS">sledovat polohu přes GPS</string>
+  <string name="HIPS_Perm_Location_Source_Network">sledovat polohu přes síť</string>
   <string name="HIPS_Perm_MMS">Záznamy MMS</string>
   <string name="HIPS_Perm_MMS_Access">Číst MMS</string>
   <string name="HIPS_Perm_MMS_Desc">Přístup k přijatým MMS</string>

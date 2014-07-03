@@ -196,7 +196,7 @@ Využito"</string>
   <string name="traffic_saving_history_total_money">Uspořená částka</string>
   <string name="traffic_saving_history_total_money_unit">Kč</string>
   <string name="traffic_saving_history_total_traffic">Uspořená data</string>
-  <string name="traffic_saving_msg_month">Za měsíc %1$s | Dnes: %2$s</string>
+  <string name="traffic_saving_msg_month">Tento měsíc: %1$s (%2$s)</string>
   <string name="traffic_saving_msg_today">Dnes</string>
   <string name="traffic_saving_notify_start_content">Úspora za tento měsíc %s</string>
   <string name="traffic_saving_notify_start_title">Úspora dat</string>
