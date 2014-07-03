@@ -183,7 +183,15 @@ Využito"</string>
   <string name="usage_sorted_loading_text">Načítání...</string>
   <string name="main_toolbar_saving">Komprese</string>
   <string name="pref_traffic_saving_issue">FAQ</string>
-  <string name="pref_traffic_saving_issue_content">&lt;b&gt;一、使用流量节省功能后，我的上网隐私是否安全？&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;请您放心，此功能不会处理您的任何隐私信息，对您的上网不会造成信息泄露或窃取。&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;二、为什么使用节省流量功能后，我却看不到节省？&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;节省流量功能只针对数据联网生效，WLAN下不启用，且节省流量功能只针对文字和图片生效，音视频与文件下载不会节省流量。</string>
+  <string name="pref_traffic_saving_issue_content">"
+&lt;b&gt;1. Jsou má data v bezpečí během úspory mobilních dat?&lt;/b&gt;
+&lt;br /&gt;&lt;br /&gt;
+Funkce úspory dat nevyužívá žádná vaše soukromá data.
+&lt;br /&gt;&lt;br /&gt;
+&lt;b&gt;2. Jak funguje úspora mobilních dat?&lt;/b&gt;
+&lt;br /&gt;&lt;br /&gt;
+Úspora mobilních dat funguje pouze při připojení na 2G/3G sítě. 
+Během datového přenosu se text a obrázky komprimují na serveru a tím se urychlí jejich načítání. Hudba a videa se nekomprimují."</string>
   <string name="pref_traffic_saving_notify_switch">Upozornění v liště</string>
   <string name="pref_traffic_saving_notify_switch_hint">Zobrazí informace o úspoře dat v notifikační liště</string>
   <string name="pref_traffic_saving_switch">Úspora dat</string>
@@ -196,7 +204,7 @@ Využito"</string>
   <string name="traffic_saving_history_total_money">Uspořená částka</string>
   <string name="traffic_saving_history_total_money_unit">Kč</string>
   <string name="traffic_saving_history_total_traffic">Uspořená data</string>
-  <string name="traffic_saving_msg_month">Tento měsíc: %1$s (%2$s)</string>
+  <string name="traffic_saving_msg_month">Tento měsíc: %1$s</string>
   <string name="traffic_saving_msg_today">Dnes</string>
   <string name="traffic_saving_notify_start_content">Úspora za tento měsíc %s</string>
   <string name="traffic_saving_notify_start_title">Úspora dat</string>
