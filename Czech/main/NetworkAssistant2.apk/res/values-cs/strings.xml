@@ -198,8 +198,8 @@ Během datového přenosu se text a obrázky komprimují na serveru a tím se ur
   <string name="pref_traffic_saving_switch_hint">Úspora dat pomocí komprese na serveru</string>
   <string name="pref_traffic_saving_title">Nastavení úspory dat</string>
   <string name="traffic_saving_button_sorted">Žebříček</string>
-  <string name="traffic_saving_button_start">Ušetřit data</string>
-  <string name="traffic_saving_button_stop">Ukončit</string>
+  <string name="traffic_saving_button_start">Aktivovat</string>
+  <string name="traffic_saving_button_stop">Deaktivovat</string>
   <string name="traffic_saving_history_title">Historie úspory dat</string>
   <string name="traffic_saving_history_total_money">Uspořená částka</string>
   <string name="traffic_saving_history_total_money_unit">¥</string>

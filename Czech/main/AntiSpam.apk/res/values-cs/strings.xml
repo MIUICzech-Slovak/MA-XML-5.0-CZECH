@@ -170,6 +170,7 @@
   <string name="qm_vip_list_custom_group">Zvolené VIP</string>
   <string name="qm_vip_list_group">Seznam VIP</string>
   <string name="quiet_mode">Tichý režim</string>
+  <string name="sim_not_ready">SIM karta není připravena</string>
   <string name="sms_delete_hint">Vymazat všechny blokované SMS z vybraného čísla?</string>
   <string name="st_advanced_setting_group">Rozšířené</string>
   <string name="st_antispam_black_adress_add">Blokovaný region (Pouze Čína)</string>
@@ -251,6 +252,7 @@
   <string name="st_title_back_sound_closed">Vypnutý telefon</string>
   <string name="st_title_back_sound_none">Neexistující číslo</string>
   <string name="st_title_back_sound_stop">Nedostupný</string>
+  <string name="st_title_back_sound_unsetting">Žádné</string>
   <string name="st_title_backsound_group">Nastavení zvuku</string>
   <string name="st_title_blacklist_numbers">Filtrovaná čísla</string>
   <string name="st_title_call_wait">Čekající hovor</string>
@@ -265,6 +267,7 @@
   <string name="st_title_man_head_addblacklist">Přidat předvolbu na Černou listinu</string>
   <string name="st_title_man_head_addwhitelist">Přidat předvolbu do výjimek</string>
   <string name="st_title_mode_choose_group">Výběr režimu blokování</string>
+  <string name="st_title_not_sim">Prázdná</string>
   <string name="st_title_open_antispam">AntiSpam</string>
   <string name="st_title_settings_other_group">Ostatní nastavení</string>
   <string name="st_title_show_antispamnotification">Zobrazit upozornění</string>

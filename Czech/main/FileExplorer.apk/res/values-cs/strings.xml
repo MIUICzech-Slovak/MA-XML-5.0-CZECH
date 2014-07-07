@@ -88,7 +88,7 @@ Váš účet bude dočasně zablokovaný,
   <string name="download_current_progress">%1$d/100</string>
   <string name="download_failed">Stahování selhalo!</string>
   <string name="download_link_completed">Sdílím %1$s přes MiDrive. Klikněte na odkaz níže: </string>
-  <string name="downloading">Stahuji...</string>
+  <string name="downloading">Stahování...</string>
   <string name="empty_dir_cleanup_indication">%s nepotřebné soubory</string>
   <string name="empty_dir_title">Prázdné složky</string>
   <string name="enable_sd_card">Povolit SD kartu</string>
@@ -110,7 +110,7 @@ Váš účet bude dočasně zablokovaný,
   <string name="file_info_size">Velikost:</string>
   <string name="file_loading">Nahrávám...</string>
   <string name="file_not_exist">Soubor neexistuje</string>
-  <string name="file_too_large">"Soubor je příliš velký a nelze ho nahrát"</string>
+  <string name="file_too_large">Soubor je příliš velký</string>
   <string name="finished">Dokončeno</string>
   <string name="folder_exist">Složka již existuje</string>
   <string name="forward_to_web_recycle_prompt">\"%1$s\" Klepněte zde pro otevření koše v Cloudu</string>
