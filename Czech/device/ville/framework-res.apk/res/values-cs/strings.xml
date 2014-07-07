@@ -48,7 +48,7 @@
   <string name="action_menu_overflow_description">Další možnosti</string>
   <string name="action_mode_done">Hotovo</string>
   <string name="activity_chooser_view_dialog_title_default">Vybrat aktivitu</string>
-  <string name="activity_chooser_view_see_all">&lt;b&gt;Zobrazit v&amp;#353;e&lt;/b&gt;</string>
+  <string name="activity_chooser_view_see_all">Zobrazit vše</string>
   <string name="activity_list_empty">Nebyly nalezeny žádné odpovídající aktivity.</string>
   <string name="activity_resolver_use_always">Vždy</string>
   <string name="activity_resolver_use_once">Pouze jednou</string>
@@ -128,7 +128,7 @@ Chcete jej ukončit?"</string>
   <string name="bluetooth_a2dp_audio_route_name">Bluetooth Audio</string>
   <string name="byteShort">B</string>
   <string name="cancel">Zrušit</string>
-  <string name="candidates_style">&lt;u&gt;kandid&amp;#225;ti&lt;/u&gt;</string>
+  <string name="candidates_style">kandidáti</string>
   <string name="capital_off">VYPNOUT</string>
   <string name="capital_on">ZAPNUTO</string>
   <string name="car_mode_disable_notification_message">Dotykem ukončíte režim V autě.</string>
@@ -396,7 +396,7 @@ Chcete-li pokračovat, dotkněte se možnosti OK. Chcete-li zůstat na aktuáln�
   <string name="keyguard_password_enter_pin_prompt">Nový kód PIN</string>
   <string name="keyguard_password_enter_puk_code">Zadejte kód PUK a nový kód PIN.</string>
   <string name="keyguard_password_enter_puk_prompt">Kód PUK</string>
-  <string name="keyguard_password_entry_touch_hint">&lt;font size="17"&gt;Dotykem zad&amp;#225;te heslo&lt;/font&gt;</string>
+  <string name="keyguard_password_entry_touch_hint">Dotykem zadáte heslo</string>
   <string name="keyguard_password_wrong_pin_code">Nesprávný kód PIN.</string>
   <string name="kilobyteShort">kB</string>
   <string name="last_month">Poslední měsíc</string>
@@ -986,7 +986,7 @@ pro účet %s."</string>
   <string name="perms_description_app">Poskytuje: %1$s.</string>
   <string name="perms_hide">&lt;b&gt;Skr&amp;#253;t&lt;/b&gt;</string>
   <string name="perms_new_perm_prefix">&lt;font size="12" fgcolor="#ff900000"&gt;NOV&amp;#201;: &lt;/font&gt;</string>
-  <string name="perms_show_all">&lt;b&gt;Zobrazit v&amp;#353;e&lt;/b&gt;</string>
+  <string name="perms_show_all">Zobrazit vše</string>
   <string name="petabyteShort">PB</string>
   <string name="phoneTypeAssistant">Asistent</string>
   <string name="phoneTypeCallback">Zpětné volání</string>

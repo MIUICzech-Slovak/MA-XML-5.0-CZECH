@@ -107,7 +107,7 @@ Chcete jej ukončit?"</string>
   <string name="bugreport_title">Vytvořit chybové hlášení</string>
   <string name="byteShort">B</string>
   <string name="cancel">Zrušit</string>
-  <string name="candidates_style">&lt;u&gt;kandid&amp;#225;ti&lt;/u&gt;</string>
+  <string name="candidates_style">kandidáti</string>
   <string name="capability_desc_canRequestEnhancedWebAccessibility">Za účelem usnadnění přístupu k obsahu aplikací mohou být nainstalovány skripty.</string>
   <string name="capability_desc_canRequestFilterKeyEvents">Zahrnuje osobní údaje, jako jsou například čísla kreditních karet a hesla.</string>
   <string name="capability_desc_canRequestTouchExploration">Položky, na které klepnete, budou přečteny nahlas a obrazovku bude možné procházet pomocí gest.</string>
@@ -383,7 +383,7 @@ Opravdu tuto stránku chcete opustit?"</string>
   <string name="keyguard_password_enter_pin_prompt">Nový kód PIN</string>
   <string name="keyguard_password_enter_puk_code">Zadejte kód PUK a nový kód PIN.</string>
   <string name="keyguard_password_enter_puk_prompt">Kód PUK</string>
-  <string name="keyguard_password_entry_touch_hint">&lt;font size="17"&gt;Dotykem zad&amp;#225;te heslo&lt;/font&gt;</string>
+  <string name="keyguard_password_entry_touch_hint">Dotykem zadáte heslo</string>
   <string name="keyguard_password_wrong_pin_code">Nesprávný kód PIN.</string>
   <string name="kg_emergency_call_label">Tísňové volání</string>
   <string name="kg_enter_confirm_pin_hint">Potvrďte požadovaný kód PIN.</string>
