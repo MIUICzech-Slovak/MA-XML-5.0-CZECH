@@ -285,7 +285,7 @@
   <string name="pref_camera_jpegquality_entry_superfine">Velmi dobrá</string>
   <string name="pref_camera_jpegquality_title">Kvalita obrazu</string>
   <string name="pref_camera_long_pressing_burst_shooting_entry_off">Zaostřit</string>
-  <string name="pref_camera_long_pressing_burst_shooting_entry_on">Dávkové focení</string>
+  <string name="pref_camera_long_pressing_burst_shooting_entry_on">Dávkové snímání</string>
   <string name="pref_camera_long_pressing_burst_shooting_title">Podržení spouště</string>
   <string name="pref_camera_movie_solid_entry_off">VYP.</string>
   <string name="pref_camera_movie_solid_entry_on">ZAP.</string>
@@ -518,8 +518,8 @@
   <string name="time_lapse_error">Neplatná velikost pro časosběrné nahrávání.</string>
   <string name="times">Časy</string>
   <string name="title">Název</string>
-  <string name="toast_burst_snap_finished_end">Vytvořené fotografie</string>
-  <string name="toast_burst_snap_finished_start">Dávkové snímání dokončeno</string>
+  <string name="toast_burst_snap_finished_end">" fotografií"</string>
+  <string name="toast_burst_snap_finished_start">Dávkové snímání dokončeno. Nasnímáno</string>
   <string name="toast_burst_snap_forbidden_when_audio_capture_open">Dávkové snímání není podporováno při záznamu zvuku.</string>
   <string name="toast_burst_snap_forbidden_when_face_beauty_open">Dávkové snímání není dostupné při aktivním vylepšení tváře.</string>
   <string name="toast_burst_snap_forbidden_when_hdr_open">Dávkové snímání není podporováno v režimu HDR.</string>

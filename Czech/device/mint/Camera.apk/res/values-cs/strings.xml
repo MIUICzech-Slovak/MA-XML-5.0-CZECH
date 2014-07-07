@@ -391,8 +391,8 @@
   <string name="time_lapse_error">Neplatná velikost pro časosběrné nahrávání.</string>
   <string name="times">Časy</string>
   <string name="title">Název</string>
-  <string name="toast_burst_snap_finished_end">Vytvořené fotografie</string>
-  <string name="toast_burst_snap_finished_start">Dávkové snímání dokončeno</string>
+  <string name="toast_burst_snap_finished_end">" fotografií"</string>
+  <string name="toast_burst_snap_finished_start">Dávkové snímání dokončeno. Nasnímáno</string>
   <string name="toast_burst_snap_forbidden_when_audio_capture_open">Dávkové snímání není podporováno při záznamu zvuku.</string>
   <string name="toast_burst_snap_forbidden_when_hdr_open">Dávkové snímání není podporováno v režimu HDR.</string>
   <string name="toast_burst_snap_forbidden_when_iso_not_auto">Dávkové snímání není podporované když ISO není nastaveno na AUTO.</string>
