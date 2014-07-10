@@ -518,9 +518,9 @@
   <string name="wechat_details">"Weixin: "</string>
   <string name="white_balance">Vyvážení bílé</string>
   <string name="width">Šířka</string>
-  <string name="wifi_connect_current_connetion">Můžete se připojit k Wi-Fi</string>
+  <string name="wifi_connect_current_connetion">Připojeno k Wi-Fi</string>
   <string name="wifi_connect_fail">Připojení k Wi-Fi selhalo</string>
-  <string name="wifi_connect_not_found">"Wi-Fi nenalezena"</string>
+  <string name="wifi_connect_not_found">Wi-Fi nenalezena</string>
   <string name="wifi_connect_success">Připojení k Wi-Fi úspěšné</string>
   <string name="wifi_connecting">Připojování k Wi-Fi...</string>
   <string name="wifi_details">Detaily o Wi-Fi:</string>
@@ -535,4 +535,6 @@
   <string name="ubi_focus_capture_fail">Chyba, zkuste to znovu.</string>
   <string name="pref_video_4kuhd_title_simple_mode">4K</string>
   <string name="simple_mode_button_text_4kuhd">Ukončit 4K</string>
+  <string name="pref_camera_countdown_title">Odpočítávání</string>
+  <string name="simple_mode_button_text_countdown">Ukončit odpočítávání</string>
 </resources>

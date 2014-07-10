@@ -469,4 +469,6 @@
   <string name="wifi_security">Zabezpečení:</string>
   <string name="wifi_ssid">SSID:</string>
   <string name="wifi_warning">Před připojením se ujistěte, že tato Wi-Fi síť je bezpečná</string>
+  <string name="pref_camera_countdown_title">Odpočítávání</string>
+  <string name="simple_mode_button_text_countdown">Ukončit odpočítávání</string>
 </resources>
