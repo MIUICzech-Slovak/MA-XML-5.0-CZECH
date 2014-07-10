@@ -626,4 +626,13 @@ Opravdu chcete odejít z této stránky?"</string>
   <string name="week_picker_dialog_title">Nastavit týden</string>
   <string name="xiaomi_bookmark_title">Xiaomi</string>
   <string name="enter_developer_mode">Režim pro vývojáře</string>
+  <string name="account_prifix">Účet:</string>
+  <string name="adblock_notification">blokovaná %d reklama</string>
+  <string name="miui_autologin_bar_error">Nelze se přihlásit</string>
+  <string name="miui_autologin_bar_title">Použít systémový účet na přihlášení</string>
+  <string name="pref_adblock_counts">celkem blokovaných %d reklam</string>
+  <string name="pref_adblock_title">Adblock</string>
+  <string name="pref_clear_adblock_statistics">Vymazat statistiky Adblock</string>
+  <string name="pref_clear_adblock_statistics_dlg">Vymazat všechny statistiky Adblock?</string>
+  <string name="pref_enable_adblock_notification">Adblock tipy</string>
 </resources>

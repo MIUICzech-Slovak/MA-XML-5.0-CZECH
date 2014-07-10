@@ -2,7 +2,7 @@
 <!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
 <resources>
     <plurals name="actionbar_unread_messages">
-        <item quantity="other">Nepřečteno: %1$d</item>
+        <item quantity="other">(%1$d)</item>
     </plurals>
    <plurals name="confirm_archive_conversation">
         <item quantity="other">Archivovat konverzace (%1$d)?</item>

@@ -489,4 +489,9 @@ Pokus: %s."</string>
   <string name="view_message_details">Zobrazit podrobnosti zprávy</string>
   <string name="wap_push_title">"[WAP Push] "</string>
   <string name="yes">OK</string>
+  <string name="hms_first_use_tips">Pro přijímání zpráv služeb je nutné připojení k Wi-Fi.</string>
+  <string name="retrive_hms_tips">Načítání...</string>
+  <string name="send_hms_editor_hints">Cloudová zpráva</string>
+  <string name="view_hms_details">Podrobnosti</string>
+  <string name="xiaomi_service_number">Číslo služby</string>
 </resources>
