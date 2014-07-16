@@ -280,4 +280,8 @@
   <string name="cta_notice_ok">OK</string>
   <string name="cta_notice_title">Upozornění</string>
   <string name="cta_notify_settings">Upozornit na přístup ke kontaktům</string>
+  <string name="alarm_label">OK</string>
+  <string name="button_week">T</string>
+  <string name="text_year">Rok</string>
+  <string name="week_view_today_toast">Již je v tomto týdnu</string>
 </resources>

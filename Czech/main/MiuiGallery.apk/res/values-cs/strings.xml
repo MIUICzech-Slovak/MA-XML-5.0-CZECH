@@ -572,4 +572,6 @@ společně!"</string>
   <string name="ubifocus_refocus_data_missing">Nelze přeostřit kvůli chybějícím datům</string>
   <string name="ubifocus_refocus_download_tip">Nejdříve stáhněte data pro přeostření</string>
   <string name="ubifocus_refocus_map_error">Nelze přeostřit kvůli chybějícím datům</string>
+  <string name="priority_storage">Uložit na SD kartu</string>
+  <string name="priority_storage_summary">Ukládat soubory automaticky na SD kartu.</string>
 </resources>

@@ -214,4 +214,5 @@ Během datového přenosu se text a obrázky komprimují na serveru a tím se ur
   <string name="traffic_saving_toast_start_none_mobile">Úspora dat se spustí při využívaní mobilních dat</string>
   <string name="traffic_saving_toast_start_unreachable">Chyba úspory dat</string>
   <string name="traffic_saving_toast_stop">Úspora dat je deaktivována</string>
+  <string name="traffic_saving_button_sorted_chose_simcard">Vybrat největší</string>
 </resources>

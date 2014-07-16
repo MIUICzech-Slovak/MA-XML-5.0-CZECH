@@ -396,4 +396,6 @@
   <string name="info_title">Informace</string>
   <string name="post_playcount">" krát"</string>
   <string name="prex_playcount">Přehráno:</string>
+  <string name="priority_storage">Uložit na SD kartu</string>
+  <string name="priority_storage_summary">Ukládat soubory automaticky na SD kartu.</string>
 </resources>
