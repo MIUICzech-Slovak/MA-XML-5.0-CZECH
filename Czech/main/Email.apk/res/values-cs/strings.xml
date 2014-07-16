@@ -754,4 +754,5 @@ Velikost aplikace: %2$s"</string>
   <string name="xiaomi_update_dialog_title">%1$s aktualizace!</string>
   <string name="yes">Ano</string>
   <string name="zip_viewer_no_file">Žádné soubory!</string>
+  <string name="account_setup_options_mail_check_frequency_imap_push">Automaticky (Push, pokud to server podporuje)</string>
 </resources>

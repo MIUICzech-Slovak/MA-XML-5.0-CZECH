@@ -649,4 +649,8 @@ Nyní můžete kopírovat soubory."</item>
         <item>Měřítko animace 5x</item>
         <item>Měřítko animace 10x</item>
     </string-array>
+    <string-array name="priority_storage_entries">
+        <item>Interní úložiště</item>
+        <item>Externí úložiště</item>
+    </string-array>
 </resources>

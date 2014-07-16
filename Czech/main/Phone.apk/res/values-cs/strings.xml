@@ -1196,4 +1196,8 @@
   <string name="xdivert_sub_absent">Obě předplatné by měly být pro zpracování X-Divert aktivovány</string>
   <string name="xdivert_summary">Nastavení CFNRc</string>
   <string name="xdivert_title">X-Divert</string>
+  <string name="ivr_menu_dialing_msg">Přesměrovávání...</string>
+  <string name="ivr_menu_list_title">Hlasové menu</string>
+  <string name="non_ivr_menu_collapse_menu">Zavřít menu</string>
+  <string name="non_ivr_menu_view_menu">Zobrazit menu</string>
 </resources>

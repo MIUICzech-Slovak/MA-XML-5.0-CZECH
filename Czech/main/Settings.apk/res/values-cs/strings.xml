@@ -3729,4 +3729,8 @@ Nastavení telefonu může vyžadovat přenos nemalého množství dat."</string
   <string name="accessibility_service_no_apps_confirm">OK</string>
   <string name="accessibility_service_no_apps_prompt">TalkBack poskytuje mluvené navigování nevidoucím a slabozrakým uživatelům. Tuto aplikaci můžete stáhnout zdarma ze služby Google Play.</string>
   <string name="bluetooth_preference_connected_devices">Připojené zařízení</string>
+  <string name="priority_storage_app_settings">Uživatelská data budou uložena na %1$s</string>
+  <string name="priority_storage_settings_summary">Pokud není vložena SD karta, uživatelská data budou uložena automaticky na interní úložiště</string>
+  <string name="priority_storage_summary">Vyberte výchozí úložiště pro ukládání dat</string>
+  <string name="priority_storage_title">Nastavení úložiště</string>
 </resources>
