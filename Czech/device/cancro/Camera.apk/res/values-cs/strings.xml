@@ -537,4 +537,7 @@
   <string name="simple_mode_button_text_4kuhd">Ukončit 4K</string>
   <string name="pref_camera_countdown_title">Odpočítávání</string>
   <string name="simple_mode_button_text_countdown">Ukončit odpočítávání</string>
+  <string name="burst_shoot_exit_button_text">Ukončit dávkové snímání</string>
+  <string name="pref_burst_shoot_title">Dávkové snímání</string>
+  <string name="pref_long_press_shutter_button_focus_title">Dlouhé podržení spouště zaostří</string>
 </resources>
