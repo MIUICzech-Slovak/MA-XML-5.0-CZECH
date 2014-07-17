@@ -391,8 +391,7 @@ Nyní můžete kopírovat soubory."</item>
     </string-array>
     <string-array name="power_mode_entries">
         <item>Výkonný režim</item>
-        <item>Vyvážený režim</item>
-        <item>Úsporný režim</item>
+        <item>Vyvážený režim (výchozí)</item>
     </string-array>
     <string-array name="preferred_app_entries">
         <item>Launcher</item>
