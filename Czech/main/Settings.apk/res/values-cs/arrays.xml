@@ -373,7 +373,6 @@ Nyní můžete kopírovat soubory."</item>
     <string-array name="power_dialog_cpu_state_items">
         <item>Výkonný režim</item>
         <item>Vyvážený režim</item>
-        <item>Úsporný režim</item>
     </string-array>
     <string-array name="power_dialog_sleep_items">
         <item>15 sekund</item>
