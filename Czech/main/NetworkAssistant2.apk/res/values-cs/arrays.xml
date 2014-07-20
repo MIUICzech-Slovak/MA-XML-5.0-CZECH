@@ -38,8 +38,8 @@
         <item>Nastavit vzorovou zprávu manuálně</item>
     </string-array>
     <string-array name="traffic_type">
-        <item>využito 2G/3G</item>
-        <item>využito Wi-Fi</item>
+        <item>využito 2G/3G\u0020</item>
+        <item>využito Wi-Fi\u0020</item>
         <item>celkem\u0020</item>
     </string-array>
     <string-array name="date_of_traffic_prefix">

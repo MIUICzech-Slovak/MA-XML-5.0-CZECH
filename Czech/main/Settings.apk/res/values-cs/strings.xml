@@ -3122,7 +3122,7 @@ Umožňují to důvěryhodné identifikační údaje nainstalované ve vašem za
   <string name="usb_ptp_title">Fotoaparát (PTP)</string>
   <string name="usb_tethering_active_subtext">Sdíleno</string>
   <string name="usb_tethering_available_subtext">Připojení USB je k dispozici. Chcete-li vytvořit sdílené datové připojení, vyberte je.</string>
-  <string name="usb_tethering_button_text">Sdílené datové připojení prostřednictvím portu USB</string>
+  <string name="usb_tethering_button_text">Sdílené připojení přes USB</string>
   <string name="usb_tethering_errored_subtext">Chyba sdílení datového připojení prostřednictvím USB</string>
   <string name="usb_tethering_select_version">Vyberte verzi OS v počítači</string>
   <string name="usb_tethering_storage_active_subtext">Nelze sdílet datové připojení, pokud se používá úložiště USB</string>

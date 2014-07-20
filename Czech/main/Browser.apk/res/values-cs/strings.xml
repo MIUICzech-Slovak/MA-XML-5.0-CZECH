@@ -414,7 +414,7 @@
   <string name="pref_privacy_clear_history">Vymazat historii</string>
   <string name="pref_privacy_clear_history_by_group_dlg">Vymazat historii prohlížení?</string>
   <string name="pref_privacy_clear_history_dlg">Vymazat historii prohlížení?</string>
-  <string name="pref_privacy_clear_history_summary">Vymazat historii hledání</string>
+  <string name="pref_privacy_clear_history_summary">Vymazat historii prohlížení</string>
   <string name="pref_privacy_clear_passwords">Vymazat uložená hesla</string>
   <string name="pref_privacy_clear_passwords_dlg">Vymazat všechna uložená hesla?</string>
   <string name="pref_privacy_clear_passwords_summary">Vymazat všechna uložená hesla</string>
