@@ -204,7 +204,8 @@ Během datového přenosu se text a obrázky komprimují na serveru a tím se ur
   <string name="traffic_saving_history_total_money">Uspořená částka</string>
   <string name="traffic_saving_history_total_money_unit">¥</string>
   <string name="traffic_saving_history_total_traffic">Uspořená data</string>
-  <string name="traffic_saving_msg_month">Tento měsíc: %1$s</string>
+  <string name="traffic_saving_msg_month">Měsíční úspora</string>
+  <string name="traffic_saving_msg_not_started">Vypnuto</string>
   <string name="traffic_saving_msg_today">Dnes</string>
   <string name="traffic_saving_notify_start_content">Úspora za tento měsíc %s</string>
   <string name="traffic_saving_notify_start_title">Úspora dat</string>
@@ -215,4 +216,24 @@ Během datového přenosu se text a obrázky komprimují na serveru a tím se ur
   <string name="traffic_saving_toast_start_unreachable">Chyba úspory dat</string>
   <string name="traffic_saving_toast_stop">Úspora dat je deaktivována</string>
   <string name="traffic_saving_button_sorted_chose_simcard">Vybrat největší</string>
+  <string name="mi_service_app_detail">Podrobnosti o spotřebě dat</string>
+  <string name="mi_service_framework">Mi Service Framework</string>
+  <string name="mi_service_framework_pkg">com.xiaomi.xmsf</string>
+  <string name="mi_service_traffic_detail">Podrobnosti o Frameworku</string>
+  <string name="none_mi_service_app_detail">Prázdné</string>
+  <string name="pref_traffic_saving_whitelist">Výjimky</string>
+  <string name="pref_traffic_saving_whitelist_hint">Tyto aplikace nebudou mít aktivní kompresi dat</string>
+  <string name="traffic_saving_history_total_month">You save the equivalent of traffic this month</string>
+  <string name="traffic_saving_history_total_month_default">Our monthly savings for the average user traffic equivalent</string>
+  <string name="traffic_saving_history_total_month_value">"Online hudba &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;%1$s&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; Online chat &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;%2$s&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; Čtení online &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;%3$s&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; Nové položky"</string>
+  <string name="traffic_saving_history_total_month_value_default">"Online hudba &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;18&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; Online chat &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;10&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; Čtení online &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;86&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; Nové položky"</string>
+  <string name="traffic_saving_history_total_rate">Úspora</string>
+  <string name="traffic_saving_history_total_rate_unit">%</string>
+  <string name="traffic_saving_whitelist_btn_add">Přidat</string>
+  <string name="traffic_saving_whitelist_btn_add_app">Přidat</string>
+  <string name="traffic_saving_whitelist_btn_added">Přidáno</string>
+  <string name="traffic_saving_whitelist_btn_remove">Odebrat</string>
+  <string name="traffic_saving_whitelist_btn_removed">Aplikace odebrána</string>
+  <string name="traffic_saving_whitelist_count">"%d aplikací nemá aktivní kompresi dat"</string>
+  <string name="traffic_saving_whitelist_no_app">Žádné aplikace</string>
 </resources>

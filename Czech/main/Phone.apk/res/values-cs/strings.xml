@@ -1201,4 +1201,5 @@
   <string name="ivr_menu_list_title">Hlasové menu</string>
   <string name="non_ivr_menu_collapse_menu">Zavřít menu</string>
   <string name="non_ivr_menu_view_menu">Zobrazit menu</string>
+  <string name="fdn_contacts_empty_miui">Žádné konakty v seznamu fixních čísel.</string>
 </resources>

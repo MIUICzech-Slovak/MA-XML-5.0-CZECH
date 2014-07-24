@@ -755,4 +755,7 @@ Velikost aplikace: %2$s"</string>
   <string name="yes">Ano</string>
   <string name="zip_viewer_no_file">Žádné soubory!</string>
   <string name="account_setup_options_mail_check_frequency_imap_push">Automaticky (Push, pokud to server podporuje)</string>
+  <string name="outbox_alert_description_auth_error">Příčina: Chyba přihlášení serveru během synch. odchozí pošty</string>
+  <string name="outbox_alert_description_http_error">Příčina: HTTP chyba serveru během synch. odchozí pošty</string>
+  <string name="outbox_alert_description_provision_error">Příčina: chyba serveru během synch. odchozí pošty</string> 
 </resources>

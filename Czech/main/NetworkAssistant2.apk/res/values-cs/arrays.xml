@@ -47,4 +47,8 @@
         <item>Dnes\u0020</item>
         <item>Měsíc\u0020</item>
     </string-array>
+    <string-array name="mi_service_traffic_type">
+        <item>"Mobilní data "</item>
+        <item>"Wi-Fi "</item>
+    </string-array>
 </resources>

@@ -309,8 +309,8 @@
   <string name="dialer_useDtmfDialpad">Použít číselník</string>
   <string name="dialog_import">Importovat kontakty</string>
   <string name="dialog_import_export">Importovat/exportovat kontakty</string>
-  <string name="dialog_new_contact_account">Vytvořit kontakt na účtě</string>
-  <string name="dialog_new_group_account">Vytvořit skupinu na účtě</string>
+  <string name="dialog_new_contact_account">Vytvořit kontakt na účtu</string>
+  <string name="dialog_new_group_account">Vytvořit skupinu na účtu</string>
   <string name="dialog_phone_call_prohibited_message">Hovor nebyl odeslán</string>
   <string name="dialog_sync_add">Přidat synchronizaci skupiny</string>
   <string name="dialog_voicemail_airplane_mode_message">Pro volání do hlasové schránky vypněte režim Letadlo.</string>
@@ -1172,4 +1172,5 @@ Vyberte si z následujících možností:</string>
   <string name="yellowpage_user_profile">Profil</string>
   <string name="yellowpage_navigation_send_to_desktop_downloading">Stahování ikony...</string>
   <string name="yellowpage_navigation_send_to_desktop_failed">Chyba, zkontrolujte nastavení sítě.</string>
+  <string name="yellowpage_navigation_search_result_average_price">Přibližně %d RMB</string>
 </resources>
