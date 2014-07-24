@@ -226,7 +226,7 @@ Během datového přenosu se text a obrázky komprimují na serveru a tím se ur
   <string name="traffic_saving_history_total_month">Uspořeno tento měsíc</string>
   <string name="traffic_saving_history_total_month_default">Uspořeno tento měsíc</string>
   <string name="traffic_saving_history_total_month_value">"Online hudba &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;%1$s&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; skladeb / Online chat &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;%2$s&lt;/big&gt;&lt;/b&gt;&lt;/font&gt;h / Čtení online &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;%3$s&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; položek"</string>
- +  <string name="traffic_saving_history_total_month_value_default">"Online hudba &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;18&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; skladeb / Online chat &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;10&lt;/big&gt;&lt;/b&gt;&lt;/font&gt;h / Čtení online &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;86&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; položek"</string>
+  <string name="traffic_saving_history_total_month_value_default">"Online hudba &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;18&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; skladeb / Online chat &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;10&lt;/big&gt;&lt;/b&gt;&lt;/font&gt;h / Čtení online &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;86&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; položek"</string>
   <string name="traffic_saving_history_total_rate">Úspora</string>
   <string name="traffic_saving_history_total_rate_unit">%</string>
   <string name="traffic_saving_whitelist_btn_add">Přidat</string>
