@@ -223,8 +223,8 @@ Během datového přenosu se text a obrázky komprimují na serveru a tím se ur
   <string name="none_mi_service_app_detail">Prázdné</string>
   <string name="pref_traffic_saving_whitelist">Výjimky</string>
   <string name="pref_traffic_saving_whitelist_hint">Tyto aplikace nebudou mít aktivní kompresi dat</string>
-  <string name="traffic_saving_history_total_month">You save the equivalent of traffic this month</string>
-  <string name="traffic_saving_history_total_month_default">Our monthly savings for the average user traffic equivalent</string>
+  <string name="traffic_saving_history_total_month">Uspořeno tento měsíc</string>
+  <string name="traffic_saving_history_total_month_default">Uspořeno tento měsíc</string>
   <string name="traffic_saving_history_total_month_value">"Online hudba &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;%1$s&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; skladeb / Online chat &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;%2$s&lt;/big&gt;&lt;/b&gt;&lt;/font&gt;h / Čtení online &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;%3$s&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; položek"</string>
  +  <string name="traffic_saving_history_total_month_value_default">"Online hudba &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;18&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; skladeb / Online chat &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;10&lt;/big&gt;&lt;/b&gt;&lt;/font&gt;h / Čtení online &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;86&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; položek"</string>
   <string name="traffic_saving_history_total_rate">Úspora</string>
