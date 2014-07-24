@@ -3734,7 +3734,7 @@ Nastavení telefonu může vyžadovat přenos nemalého množství dat."</string
   <string name="priority_storage_settings_summary">Pokud není vložena SD karta, uživatelská data budou uložena automaticky na interní úložiště</string>
   <string name="priority_storage_summary">Vyberte výchozí úložiště pro ukládání dat</string>
   <string name="priority_storage_title">Nastavení úložiště</string>
-  <string name="high_performance_notif_summary">Baterie se bude vybíjet rychleji.</string>
-  <string name="high_performance_notif_title">Výkonný režim aktivován.</string>
+  <string name="high_performance_notif_summary">Baterie se bude vybíjet rychleji</string>
+  <string name="high_performance_notif_title">Výkonný režim je aktivní</string>
   <string name="high_performance_title">Byl spuštěn Benchmark test. Nastavte "Výkonný režim" pro dosáhnutí nejlepších výsledků.</string>
 </resources>

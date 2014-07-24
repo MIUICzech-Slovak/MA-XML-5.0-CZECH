@@ -54,8 +54,8 @@
   <string name="cancel_backup">Zrušit zálohování</string>
   <string name="cancel_restore">Zrušit obnovu</string>
   <string name="cloud_app_backup_cancel">Zrušit zálohu</string>
-  <string name="cloud_app_backup_cancel_prompt_message">"Záloha není dokončena
-Ok pro zrušení zálohy"</string>
+  <string name="cloud_app_backup_cancel_prompt_message">"Záloha není dokončena!
+Opravdu chcete ukončit zálohování?"</string>
   <string name="cloud_app_backup_cancel_prompt_title">Zastavit zálohu</string>
   <string name="cloud_app_backup_date">"Zálohováno "</string>
   <string name="cloud_app_backup_pending">Čekání...</string>
@@ -87,8 +87,8 @@ Ok pro zrušení zálohy"</string>
   <string name="cloud_app_no_wifi_connect">Žádná Wi-Fi</string>
   <string name="cloud_app_other_devices">Ostatní zařízení</string>
   <string name="cloud_app_remove_cancel">Zrušit mazání</string>
-  <string name="cloud_app_remove_cancel_prompt_message">"Mazání není dokončeno
-Ok pro zrušení mazání"</string>
+  <string name="cloud_app_remove_cancel_prompt_message">"Mazání není dokončeno!
+Opravdu chcete zrušit mazání?"</string>
   <string name="cloud_app_remove_cancel_prompt_title">Zastavit mazání</string>
   <string name="cloud_app_remove_error">Vymazání selhalo.</string>
   <string name="cloud_app_remove_pending">Čekání...</string>
@@ -97,8 +97,8 @@ Ok pro zrušení mazání"</string>
   <string name="cloud_app_restore_action_bar_title">Zálohovaná data %1$s</string>
   <string name="cloud_app_restore_app_and_data">Obnovit aplikace a uživatelská data</string>
   <string name="cloud_app_restore_cancel">Zrušit obnovu</string>
-  <string name="cloud_app_restore_cancel_prompt_message">"Obnova není dokončena
-Ok pro zrušení obnovy"</string>
+  <string name="cloud_app_restore_cancel_prompt_message">"Obnova není kompletní!
+Opravdu chcete ukončit obnovování?"</string>
   <string name="cloud_app_restore_cancel_prompt_title">Zastavit obnovu</string>
   <string name="cloud_app_restore_data">Obnovit nainstalované aplikace</string>
   <string name="cloud_app_restore_data_title">Obnovit uživatelská data</string>
