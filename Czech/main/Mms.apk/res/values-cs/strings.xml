@@ -494,4 +494,9 @@ Pokus: %s."</string>
   <string name="send_hms_editor_hints">Cloudová zpráva</string>
   <string name="view_hms_details">Podrobnosti</string>
   <string name="xiaomi_service_number">Číslo služby</string>
+  <string name="file_create_time">Vytvořeno:</string>
+  <string name="file_size">Velikost:</string>
+  <string name="file_title">Název:</string>
+  <string name="file_width_height">Velikost:</string>
+  <string name="share_img">Sdílet</string>
 </resources>
