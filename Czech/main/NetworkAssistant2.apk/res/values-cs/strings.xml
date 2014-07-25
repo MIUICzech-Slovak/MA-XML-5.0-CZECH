@@ -234,6 +234,6 @@ Během datového přenosu se text a obrázky komprimují na serveru a tím se ur
   <string name="traffic_saving_whitelist_btn_added">Přidáno</string>
   <string name="traffic_saving_whitelist_btn_remove">Odebrat</string>
   <string name="traffic_saving_whitelist_btn_removed">Aplikace odebrána</string>
-  <string name="traffic_saving_whitelist_count">"%d aplikací nemá aktivní kompresi dat"</string>
+  <string name="traffic_saving_whitelist_count">Aplikace bez aktivní komprese dat: %d</string>
   <string name="traffic_saving_whitelist_no_app">Žádné aplikace</string>
 </resources>
