@@ -94,7 +94,7 @@
   <string name="error_app_unsupported_raw_wavelet">Redukci šumu není možné použít v režimu RAW</string>
   <string name="error_fail_to_start_audio_capture">Záznam zvuku selhal.</string>
   <string name="exposure_time">Čas expozice</string>
-  <string name="face_analyze_info">%1$s %2$s roků</string>
+  <string name="face_analyze_info">%1$s %2$s let</string>
   <string name="face_analyze_info_female">Žena</string>
   <string name="face_analyze_info_gender">Pohlaví:</string>
   <string name="face_analyze_info_male">Muž</string>
