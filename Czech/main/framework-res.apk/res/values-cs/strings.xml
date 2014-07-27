@@ -1098,7 +1098,7 @@ pro účet %s."</string>
   <string name="serviceDisabled">Služba byla vypnuta.</string>
   <string name="serviceEnabled">Služba byla zapnuta.</string>
   <string name="serviceEnabledFor">Služba byla zapnuta pro:</string>
-  <string name="serviceErased">Smazáni proběhlo úspěšně.</string>
+  <string name="serviceErased">Smazání proběhlo úspěšně.</string>
   <string name="serviceNotProvisioned">Služba není zřízena.</string>
   <string name="serviceRegistered">Registrace byla úspěšná.</string>
   <string name="setup_autofill">Nastav aut. vyp.</string>
