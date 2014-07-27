@@ -2281,7 +2281,7 @@ Vaše zařízení se přepne po obnově baterie do tohoto režimu. Před vymazá
   <string name="power_used_prefix">Spotřebovaná energie</string>
   <string name="power_wifi">Wi-Fi</string>
   <string name="pref_button_light">Osvětlení tlačítek</string>
-  <string name="pref_button_light_summary">Menu, Domů a Zpět tlačítko</string>
+  <string name="pref_button_light_summary">Tlačítka Menu, Domů a Zpět</string>
   <string name="pref_category_title_auto_update_cleanup_db">Nastavení databáze čištění</string>
   <string name="pref_category_title_cleanup_white_list">Ignorováno při čištění</string>
   <string name="pref_category_title_garbage_cleanup_check">Nastavení čištění</string>
