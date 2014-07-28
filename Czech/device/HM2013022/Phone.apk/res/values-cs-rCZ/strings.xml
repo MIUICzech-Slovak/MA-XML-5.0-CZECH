@@ -103,7 +103,7 @@
   <string name="fdn_errorcode_pin2_info">Nesprávný PIN2.</string>
   <string name="fdn_errorcode_storage_info">Úložiště je plné.</string>
   <string name="fdn_errorcode_unknown_info">Nastala neznámá chyba. Zkuste to později.</string>
-  <string name="fdn_only_error">Tato operace není povolena při nastavení fixních čísel.</string>
+  <string name="fdn_only_error">Tato operace není povolena při nastavení povolených čísel.</string>
   <string name="fdn_phone_book_busy">Telefonní seznam je zaneprázdněný, zkuste to později.</string>
   <string name="gemini_3g_disable_warning_case0">Je nutné povolit data v roamingu pro tuto SIM, což může způsobit zvýšení Vašich poplatků! Chcete povolit?</string>
   <string name="gemini_3g_disable_warning_case1">Služby 3G nejsou pro tuto SIM dostupné. Data se mohou načítat pomaleji. Nastavení 3G můžete změnit v Nastavení &gt; Mobilní sítě. Chcete zvolit tuto SIM?</string>
