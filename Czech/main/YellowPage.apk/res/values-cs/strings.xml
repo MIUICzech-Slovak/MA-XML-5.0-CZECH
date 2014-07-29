@@ -29,7 +29,8 @@
   <string name="custom_mark_category">Vlastní</string>
   <string name="data_error">Promiňte, služba je momentálně nedostupná. Zkuste to znovu později.</string>
   <string name="delete">Vymazat</string>
-  <string name="do_not_remind_me">" Neupozorňovat mě"</string>
+  <string name="do_not_remind_me">Znovu se neptat</string>
+  <string name="dont_enable">Zakázat</string>
   <string name="download_completed">Stahování dokončeno！Cesta na SD kartě: %s</string>
   <string name="download_failed">Stahování selhalo</string>
   <string name="download_failed_blocked">Stahování selhalo, cannot connect to network</string>
@@ -41,6 +42,7 @@
   <string name="download_failed_space">Stahování selhalo, nedostatek místa</string>
   <string name="download_failed_storage">Stahování selhalo, zkontrolujte SD kartu</string>
   <string name="downloading">Stahování...</string>
+  <string name="enable_now">Povolit</string>
   <string name="exapress_save_address_to_contact">Uložit adresu do kontaktu</string>
   <string name="express_add_new_address">Přidat adresu</string>
   <string name="express_address_delete_warning">Opravdu?</string>
@@ -109,10 +111,10 @@ Please check tracking number"</string>
   <string name="module_sms_sent">Textová zpráva doručena</string>
   <string name="network_unavaliable">Síť je nedostupná, zkontrolujte nastavení sítě</string>
   <string name="no_more_result">Nic víc nenalezeno</string>
-  <string name="notfiy_connect_title">Práva sítě</string>
+  <string name="notfiy_connect_title">Povolení sítě</string>
   <string name="notices_and_terms">Legal notices and terms of use</string>
-  <string name="notify_connect_every_time">Vždy se ptát na práva sítě</string>
-  <string name="notify_connect_summary">Vždy se ptát na práva sítě</string>
+  <string name="notify_connect_every_time">Vždy se ptát na povolení sítě</string>
+  <string name="notify_connect_summary">Vždy se ptát na povolení sítě</string>
   <string name="packages_no_package">No suitable traffic packages</string>
   <string name="packages_pay">Koupit</string>
   <string name="packages_pay_confirm">Potvrdit</string>
