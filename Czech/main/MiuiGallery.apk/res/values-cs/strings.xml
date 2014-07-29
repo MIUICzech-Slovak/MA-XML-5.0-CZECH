@@ -574,4 +574,7 @@ společně!"</string>
   <string name="ubifocus_refocus_map_error">Nelze přeostřit kvůli chybějícím datům</string>
   <string name="priority_storage">Uložit na SD kartu</string>
   <string name="priority_storage_summary">Ukládat soubory automaticky na SD kartu.</string>
+  <string name="crop_recognize_text">Rozpoznat</string>  
+  <string name="crop_save_text_setas">Použít</string>
+  <string name="recognizing_image">Rozpoznávání...</string>
 </resources>

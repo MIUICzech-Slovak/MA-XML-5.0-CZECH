@@ -331,4 +331,5 @@ s "</string>
   <string name="bank_cards">Platební karta</string>
   <string name="error_login">Nelze se přihlásit</string>
   <string name="relogin_notice">Musíte se znovu přihlásit</string>
+  <string name="micloud_proceed">Pokračovat</string>
 </resources>

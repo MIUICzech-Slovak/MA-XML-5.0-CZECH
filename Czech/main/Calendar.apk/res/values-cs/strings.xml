@@ -284,4 +284,5 @@
   <string name="button_week">T</string>
   <string name="text_year">Rok</string>
   <string name="week_view_today_toast">Je zobrazen tento týden</string>
+  <string name="edit_event_confirm_message">Zrušit změny v události?</string>
 </resources>
