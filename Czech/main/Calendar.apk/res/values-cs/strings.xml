@@ -163,7 +163,7 @@
   <string name="month_medium_september">Zář</string>
   <string name="month_view">Měsíc</string>
   <string name="monthly">Měsíčně</string>
-  <string name="monthly_on_day">Měsíčně (%s. den)</string>
+  <string name="monthly_on_day">Měsíčně</string>
   <string name="monthly_on_day_count" formatted="false">Měsíčně (vždy %1$s %2$s)</string>
   <string name="more_string">Ještě %1$s...</string>
   <string name="movable_list_header_label">Popis</string>
