@@ -350,4 +350,5 @@ k uvolnění místa</string>
   <string name="never_notify_network_connect">Znovu se neptat</string>
   <string name="operation_agree">OK</string>
   <string name="system_alert">Upozornění</string>
+  <string name="folder_name_illegal">Chyba v názvu složky</string>
 </resources>
