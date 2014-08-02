@@ -61,12 +61,12 @@
     </string-array>
     <string-array name="app_detail_tabs">
         <item>Podrobnosti</item>
-        <item>Komentovať</item>
+        <item>Komentovat</item>
     </string-array>
     <string-array name="ac_mode_array">
-        <item>Chladenie</item>
-        <item>Vyhrievanie</item>
-        <item>Odvlhčovanie</item>
+        <item>Chlazení</item>
+        <item>Vyhřívání</item>
+        <item>Odvlhčování</item>
         <item>Ventilátor</item>
     </string-array>
 </resources>
