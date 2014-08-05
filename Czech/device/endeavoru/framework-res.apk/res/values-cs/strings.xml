@@ -1164,7 +1164,7 @@ pro účet %s."</string>
   <string name="sipAddressTypeOther">Jiné</string>
   <string name="sipAddressTypeWork">Práce</string>
   <string name="skip_button_label">Přeskočit</string>
-  <string name="sms_control_message">Aplikace &lt;b&gt;%1$s&lt;/b&gt;odesílá velký počet SMS zpráv. Chcete aplikaci povolit, aby zprávy odesílala i nadále?</string>
+  <string name="sms_control_message">Aplikace %1$s odesílá velký počet SMS zpráv. Chcete aplikaci povolit, aby zprávy odesílala i nadále?</string>
   <string name="sms_control_no">Odmítnout</string>
   <string name="sms_control_title">Odesílání zpráv SMS</string>
   <string name="sms_control_yes">Povolit</string>
