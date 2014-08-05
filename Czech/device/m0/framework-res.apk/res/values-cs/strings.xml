@@ -1213,7 +1213,7 @@ vyžadováno oprávnění"</string>
   <string name="permlab_writeSyncSettings">zapsat nastavení synchronizace</string>
   <string name="perms_description_app">Poskytuje: %1$s.</string>
   <string name="perms_hide">Skrýt</string>
-  <string name="perms_new_perm_prefix">&lt;font fgcolor="#ff900000" size="12"&gt;NOV&amp;#201;: &lt;/font&gt;</string>
+  <string name="perms_new_perm_prefix">" "Nové" "</string>
   <string name="perms_show_all">Zobrazit vše</string>
   <string name="petabyteShort">PB</string>
   <string name="phoneTypeAssistant">Asistent</string>

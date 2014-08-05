@@ -1013,7 +1013,7 @@ pro účet %s."</string>
   <string name="permlab_writeSocialStream">zapisovat do vašeho sociálního streamu</string>
   <string name="permlab_writeSyncSettings">vypnutí nebo zapnutí synchronizace</string>
   <string name="perms_description_app">Poskytuje: %1$s.</string>
-  <string name="perms_new_perm_prefix">&lt;font size="12" fgcolor="#ff33b5e5"&gt;NOV&amp;#201;: &lt;/font&gt;</string>
+  <string name="perms_new_perm_prefix">" "Nové" "</string>
   <string name="petabyteShort">PB</string>
   <string name="phoneTypeAssistant">Asistent</string>
   <string name="phoneTypeCallback">Zpětné volání</string>

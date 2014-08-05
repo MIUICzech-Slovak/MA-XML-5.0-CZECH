@@ -1541,7 +1541,7 @@ vyžadováno oprávnění"</string>
   <string name="permlab_writeSocialStream">Vystavit do datového proudu sociální sítě</string>
   <string name="permlab_writeSyncSettings">zapsat nastavení synchronizace</string>
   <string name="perms_description_app">Poskytovatel: %s</string>
-  <string name="perms_new_perm_prefix">&lt;font fgcolor="#ff33b5e5" size="12"&gt;NOV&amp;#201;: &lt;/font&gt;</string>
+  <string name="perms_new_perm_prefix">" "Nové" "</string>
   <string name="personal_mode_setting">Klávesnice Osobního režimu</string>
   <string name="petabyteShort">PB</string>
   <string name="phoneTypeAssistant">Asistent</string>
@@ -1844,13 +1844,13 @@ Dlouhodobý poslech hlasitého zvuku může poškodit sluch."</string>
   <string name="sms_control_no">Odmítnout</string>
   <string name="sms_control_title">Odesílání SMS zprávy…</string>
   <string name="sms_control_yes">Povolit</string>
-  <string name="sms_premium_short_code_details">&lt;font fgcolor="#ffffb060"&gt;Mohou b&amp;#253;t &amp;#250;&amp;#269;tov&amp;#225;ny dal&amp;#353;&amp;#237; poplatky&lt;/font&gt;</string>
+  <string name="sms_premium_short_code_details">Jedná se o zpoplatněnou zprávu. Budou naúčtovány dodatečné poplatky.</string>
   <string name="sms_short_code_confirm_allow">Odeslat</string>
   <string name="sms_short_code_confirm_always_allow">Vždy povolit</string>
   <string name="sms_short_code_confirm_deny">Zrušit</string>
   <string name="sms_short_code_confirm_message">%1$s chce odeslat zprávu na číslo %2$s. Povolit?</string>
   <string name="sms_short_code_confirm_never_allow">Nikdy nepovolit</string>
-  <string name="sms_short_code_details">&lt;font fgcolor="#ffffb060"&gt;M&amp;#367;&amp;#382;e to v&amp;#233;st k poplatk&amp;#367;m&lt;/font&gt; na va&amp;#353;em &amp;#250;&amp;#269;tu za telefon</string>
+  <string name="sms_short_code_details">Jedná se o zpoplatněnou zprávu. Budou naúčtovány dodatečné poplatky.</string>
   <string name="sms_short_code_remember_choice">Zapamatovat výběr</string>
   <string name="sms_short_code_remember_undo_instruction">Nastavení můžete později změnit pomocí Nastavení &gt; Aplikace</string>
   <string name="smv_application">Aplikace %1$s (proces %2$s) porušila své vlastní vynucené zásady StrictMode.</string>
