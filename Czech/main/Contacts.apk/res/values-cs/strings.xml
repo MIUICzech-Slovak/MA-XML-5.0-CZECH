@@ -175,7 +175,7 @@
   <string name="contactMultiPickerActivityTitle">Vybrat kontakty</string>
   <string name="contactPickerActivityTitle">Vyberte kontakt</string>
   <string name="contactSavedErrorToast">Chyba, změny nelze uložit.</string>
-  <string name="contactSavedToast">Kontakt uložen.</string>
+  <string name="contactSavedToast">Kontakt uložen</string>
   <string name="contact_delete_toast">Kontakt úspěšně vymazaný</string>
   <string name="contact_detail_calllog_call_note_tips">Poznámka o hovoru</string>
   <string name="contact_detail_calllog_call_record_tips">Nahrávka hovoru</string>

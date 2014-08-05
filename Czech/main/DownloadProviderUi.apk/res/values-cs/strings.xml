@@ -101,7 +101,7 @@
   <string name="download_speed_null"/>
   <string name="dredge_xunlei_account">Registrovat Xunlei účet</string>
   <string name="experience_xunlei_account_speed">Členové Xunlei stahují vysokou rychlostí</string>
-  <string name="free_high_speed_channel">Zbývající zrychlená data</string>
+  <string name="free_high_speed_channel">Zbývající data</string>
   <string name="get_account_dialog_msg">Načítání informací o účtu</string>
   <string name="get_order_dialog_msg">Načítání informací o objednávce</string>
   <string name="get_order_fail_msg">Objednávka selhala</string>

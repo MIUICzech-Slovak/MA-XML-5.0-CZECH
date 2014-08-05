@@ -482,7 +482,7 @@
   <string name="fdn_enabled_miui">Povolená telefonní čísla jsou zapnuta</string>
   <string name="fdn_failed">Operace PTČ selhala.</string>
   <string name="fdn_invalid_number">Povolené telefonní číslo nebylo aktualizováno: Délka čísla nemůže přesahovat 20 číslic.</string>
-  <string name="fdn_miui">Povolené telefonní čísla</string>
+  <string name="fdn_miui">Povolená telefonní čísla</string>
   <string name="fdn_summary_miui">Výše uvedené možnosti jsou vypnuté, pokud je PTČ zapnuté</string>
   <string name="fdn_unavailable">Služba PTČ není dostupná</string>
   <string name="fw_change_failed">"Změna čísla hlasové schránky se nezdařila. Pokud problém přetrvává, obraťte se na svého operátora."</string>
