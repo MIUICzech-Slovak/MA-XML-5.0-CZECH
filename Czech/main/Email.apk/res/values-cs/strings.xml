@@ -758,4 +758,15 @@ Velikost aplikace: %2$s"</string>
   <string name="outbox_alert_description_auth_error">Příčina: Chyba přihlášení serveru během synch. odchozí pošty</string>
   <string name="outbox_alert_description_http_error">Příčina: HTTP chyba serveru během synch. odchozí pošty</string>
   <string name="outbox_alert_description_provision_error">Příčina: chyba serveru během synch. odchozí pošty</string> 
+  <string name="conversation_list_net_check">Nelze se připojit na síť. Zkontrolujte nastavení připojení k internetu a zkuste to znovu</string>
+  <string name="mail_body_turncated">Tato zpráva je příliš velká a je zobrazena jen její část. Zkontrolujte ji ve svém PC.</string>
+  <string name="no_wifi_promot">Není připojena Wi-Fi, buďte opatrní s přenosem dat přes operátora.</string>
+  <string name="ser_resp_err_map_certificate_validator_err">"Ověření certifikátu selhalo
+\u0009 (Zkontrolujte, zda je nastavena "Automatická synchronizace")"</string>
+  <string name="ser_resp_err_map_connect_err">Chyba internetového připojení.</string>
+  <string name="ser_resp_err_map_nouser">Uživatel neexistuje</string>
+  <string name="ser_resp_err_map_or">nebo</string>
+  <string name="ser_resp_err_map_pserr">Nesprávné Jméno/Heslo</string>
+  <string name="ser_resp_err_map_serclosed">Služba ukončena</string>
+  <string name="ser_resp_err_map_ssl">"Zkuste vybrat 'SSL/TLS (Akceptovat všechny certifikáty)' v 'Zabezpečení'"</string>
 </resources>

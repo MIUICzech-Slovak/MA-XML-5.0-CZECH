@@ -3627,7 +3627,7 @@ můžete použít jinou síť"</string>
   <string name="wifi_share_notification_summary">MIUI Vás připojilo k zabezpečené Wi-Fi síti.</string>
   <string name="wifi_share_other_network">Ostatní sítě</string>
   <string name="wifi_share_qrcode_finish">Dokončit</string>
-  <string name="wifi_share_qrcode_summary">Použít fotoaparát MIUI pro snímání QR kódu</string>
+  <string name="wifi_share_qrcode_summary">Použijte fotoaparát MIUI pro načtení QR kódu</string>
   <string name="wifi_share_qrcode_title">Sdílet Wi-Fi</string>
   <string name="wifi_share_show_network">Zobrazit sítě</string>
   <string name="wifi_share_summary1">Uživatelé MIUI mohou sdílet zabezpečenou veřejnou Wi-Fi síť s ostatními.</string>

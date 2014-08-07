@@ -313,4 +313,6 @@ Informace na čísle: 400-100-5678"</string>
   <string name="voucher_input_password_prompt">Vložte heslo</string>
   <string name="mipay_error">MiPay selhalo</string>
   <string name="progress_mipay_creating">Vytváření objednávky...</string>
+  <string name="giftcard_title">MiKredit kupóny</string>
+ <string name="giftcard_define_detail">Použijte tyto kupóny jako MiKredity. Můžete získat kredity v různých Xiaomi soutěžích.</string>
 </resources>
