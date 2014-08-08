@@ -68,7 +68,7 @@
   <string name="signal_problem2">Slabý signál</string>
   <string name="status_msg_collecting_log">Shromažďování záznamů...</string>
   <string name="status_msg_pending_upload">Odesílání %d chyb...</string>
-  <string name="suggestion_description">"Důvod přidání této funkce (v angličtině)..."</string>
+  <string name="suggestion_description">Napište návrh na novou funkci (v angličtině)...</string>
   <string name="suggestion_problem1">Doufám, že přidáte tuto funkci nebo...</string>
   <string name="systemui">Roletka</string>
   <string name="system_app_select">MIUI apl.</string>
