@@ -55,13 +55,10 @@
   <string name="camera_problem3">Fotoaparát se ukončuje</string>
   <string name="camera_problem4">"Nelze přepnout mezi předním a zadním fotoaparátem"</string>
   <string name="camera_problem5">Fotoaparát přestal pracovat</string>
-  <string name="description">"If you don't see your issue in the common bugs, describe it here"</string>
-  <string name="err_type">Typ chyby</string>
   <string name="err_type_bluetooth">Bluetooth</string>
   <string name="err_type_camera">Fotoaparát</string>
   <string name="err_type_nonsystemapp">Ostatní apl.</string>
-  <string name="err_type_power_consuming">Power usage</string>
- <string name="err_type_signal">Chyby sítě</string>
+  <string name="err_type_signal">Chyby sítě</string>
   <string name="err_type_systemapp">MIUI apl.</string>
   <string name="err_type_wifi">Wi-Fi</string>
   <string name="hot_problem">View common bugs</string>
