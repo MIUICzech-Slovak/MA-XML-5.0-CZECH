@@ -1877,7 +1877,7 @@ Nastavení jsou nedostupné"</string>
   <string name="optimize_cache_header_left">Cache souborů: %d</string>
   <string name="optimize_cache_list_empty_content">Žádné soubory</string>
   <string name="optimize_done">"Dobře, vše v pořádku!"</string>
-  <string name="optimize_installed_apps_header_left">Stáhnuté apl.:%d</string>
+  <string name="optimize_installed_apps_header_left">Nainstalované apl.:%d</string>
   <string name="optimize_installed_apps_list_empty_content">Žádné aplikace</string>
   <string name="optimize_large_file_header_left">Velké soubory: %d</string>
   <string name="optimize_large_file_list_empty_content">Žádné soubory</string>
@@ -3737,4 +3737,11 @@ Nastavení telefonu může vyžadovat přenos nemalého množství dat."</string
   <string name="high_performance_notif_summary">Baterie se bude vybíjet rychleji</string>
   <string name="high_performance_notif_title">Výkonný režim je aktivní</string>
   <string name="high_performance_title">Byl spuštěn Benchmark test. Nastavte "Výkonný režim" pro dosáhnutí nejlepších výsledků.</string>
+  <string name="cache_data_sort_type_item_name">Název</string>
+  <string name="cache_data_sort_type_item_size">Velikost</string> 
+  <string name="deepclean_cache_header_left">Cache souborů: %d</string>
+  <string name="deepclean_sort_type_title">Seřadit</string>
+  <string name="empty_content_size">Prázdné</string>
+  <string name="large_file_sort_type_item_name">Název</string>
+  <string name="large_file_sort_type_item_size">Velikost</string>
 </resources>

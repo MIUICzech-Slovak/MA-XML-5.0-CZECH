@@ -156,7 +156,7 @@
   <string name="forward_prefix">"Fwd: "</string>
   <string name="found_old_messages">Celkem z: %1$s bylo nalezených ze starého účtu. Přejete si je nahrát do stávajícího účtu: %2$s?</string>
   <string name="found_old_messages_title">Nahrát zprávy</string>
-  <string name="found_wild_messages">Byly nalezeny zprávy z ostatních SIM karet v Cloudu:%s Chcete je stáhnout?</string>
+  <string name="found_wild_messages">Zprávy z těchto čísel byly nalezeny ve vašem MiCloud účtu:%s Chcete je stáhnout?</string>
   <string name="found_wild_messages_title">Stáhnout zprávy</string>
   <string name="from_label">"Od: "</string>
   <string name="group_message">Skupinové zprávy</string>

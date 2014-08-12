@@ -79,6 +79,9 @@
   <string name="turn_off_xunlei_title">Deaktivovat Xunlei stahování</string>
   <string name="xunlei_brand">Poskytuje Xunlei</string>
   <string name="xunlei_switch">Xunlei stahování</string>
+  <string name="add_flow_fail_haveget_msg">Sorry,You have Get Free High Speed Flow This Month</string>
+  <string name="add_flow_fail_vip_msg">Dear Thunder vip, High Speed Channel Opened</string>
+  <string name="add_flow_success_msg">Získejte 300MB dat ke stažení</string>
   <string name="Only_the_wifi">Efektivně jen přes Wi-Fi</string>
   <string name="all_the_internet">Všechna připojení</string>
   <string name="auth_activity_title">Xunlei účet</string>

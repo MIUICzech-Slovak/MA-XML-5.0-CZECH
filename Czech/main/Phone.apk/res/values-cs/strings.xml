@@ -1202,4 +1202,23 @@
   <string name="non_ivr_menu_collapse_menu">Zavřít menu</string>
   <string name="non_ivr_menu_view_menu">Zobrazit menu</string>
   <string name="fdn_contacts_empty_miui">Žádné kontakty v seznamu povolených čísel.</string>
+  <string name="call_barring_sum">Nastavení blokování hovorů</string>
+  <string name="change_password">Změnit heslo blokování</string>
+  <string name="confirm_password_label">Potvrďte nové heslo</string>
+  <string name="deactivate_all">Zrušit vše</string>
+  <string name="enter_callbarring_password">Zadejte heslo blokování hovorů (4 čísla)</string>
+  <string name="invalid_password">Zadejte heslo (4 čísla)</string>
+  <string name="lable_all_incoming">Všechny příchozí hovory</string>
+  <string name="lable_all_out_except">Mezinárodní odchozí hovory kromě domácí PLMN</string>
+  <string name="lable_all_outgoing">Všechny odchozí hovory</string>
+  <string name="lable_all_outgoing_international">Mezinárodní odchozí hovory</string>
+  <string name="lable_call_barring">Blokování hovorů</string>
+  <string name="lable_disable">Zakázáno</string>
+  <string name="lable_enable">Povoleno</string>
+  <string name="lable_incoming_calls_except">Příchozí hovory v roamingu</string>
+  <string name="mismatch_password">Hesla se neshodují</string>
+  <string name="new_password_label">Nové heslo (4 čísla)</string>
+  <string name="old_password_label">Staré heslo (4 čísla)</string>
+  <string name="password_changed">Heslo je změněno</string>
+  <string name="wrong_password">Nesprávné heslo</string>
 </resources>
