@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
 <resources>
-  <string name="about">Informace</string>
+  <string name="about">O aplikaci</string>
   <string name="about_copyright"/>
   <string name="accept">Přijmout</string>
   <string name="action_exit">Ukončit</string>
@@ -9,7 +9,7 @@
   <string name="action_pop_about">Informace</string>
   <string name="action_pop_my_bracelet">Můj MiBand</string>
   <string name="action_pop_person_info">Osobní informace</string>
-  <string name="action_pop_smart_alarms">Inteligentní Budík</string>
+  <string name="action_pop_smart_alarms">Inteligentní budík</string>
   <string name="action_pop_unlock_screen">Odemknout zařízení</string>
   <string name="action_pop_weixin_enter">Weixing</string>
   <string name="age">Věk</string>
@@ -53,7 +53,7 @@
   <string name="bracelet_info_fw_version">"Firmware: %1$s protokol: %2$s"</string>
   <string name="bracelet_info_mac_address">"Název: %1$s  adresa: %2$s"</string>
   <string name="bracelet_login_info">Přihlaste se svým Xiaomi účtem</string>
-  <string name="bracelet_login_info_2">Přihlášením se, souhlasíte s Podmínkami používání.</string>
+  <string name="bracelet_login_info_2">Přihlášením souhlasíte s Podmínkami používání.</string>
   <string name="bracelet_login_title">Vítejte v MiBand</string>
   <string name="bracelet_not_connected_bat_unknown">MiBand není připojen.</string>
   <string name="bracelet_not_found_info">Když svítí LED, zkuste jej vyhledat znovu.</string>
@@ -61,7 +61,7 @@
   <string name="bt_operation_failed_tips">Chyba Bluetooth, zkuste to znovu</string>
   <string name="cal">kcal</string>
   <string name="cancel">Zrušit</string>
-  <string name="check_upgrade">Zkontrolovat</string>
+  <string name="check_upgrade">Aktualizace</string>
   <string name="checking_new_apk">Kontrola nové verze...</string>
   <string name="clock_closed">Vypnuto</string>
   <string name="cm">cm</string>
@@ -96,7 +96,7 @@
   <string name="device_not_response">MiBand neodpovídá, zkontrolujte LED.</string>
   <string name="disable_debug_log">Debug log inactive</string>
   <string name="distance">Vzdálenost</string>
-  <string name="donot_bind">Nepropojit</string>
+  <string name="donot_bind">Přeskočit</string>
   <string name="download_failed">Stahování apk selhalo</string>
   <string name="downloading_apk">MiBand apl.</string>
   <string name="dynamic_detail_sleep_title">Celkový spánek %s</string>
@@ -182,7 +182,7 @@
   <string name="hour_1">Začít v</string>
   <string name="incoming_call_notify">Upozornění na hovor</string>
   <string name="incoming_call_notify_tips">Upozornit každých 20 sekund na zmeškaný hovor</string>
-  <string name="input_precise_person_info">Zadejte vaše přesné údaje pro vypočítání cvičení a nutného spánku</string>
+  <string name="input_precise_person_info">Zadejte údaje o vaší postavě pro výpočet cvičení a doporučeného spánku</string>
   <string name="instruction_tip_1">Zvedněte zápěstí pro zobrazení pohybu</string>
   <string name="instruction_tip_2_1">je méně, jak 1/3 z vašeho cíle</string>
   <string name="instruction_tip_2_2">více, jak 1/3 z vašeho cíle</string>
@@ -198,7 +198,7 @@
   <string name="light_color">Barva LED</string>
   <string name="light_color_title">Barva LED diody</string>
   <string name="local_app_failed">Vyhledávání lokální aktualizace selhalo</string>
-  <string name="login">Přihlášení</string>
+  <string name="login">Přihlásit</string>
   <string name="login_failed">Nelze se přihlásit, zkuste to znovu.</string>
   <string name="login_failed_check_sys_time">Chyba přihlášení, zkontrolujte nastavení časového pásma</string>
   <string name="logining">Přihlašování...</string>
@@ -309,7 +309,7 @@
   <string name="share_sleep_title">Noční spánek</string>
   <string name="share_sleep_title_average">Průměrný čas spánku</string>
   <string name="share_sleep_title_daily">Denní spánek</string>
-  <string name="share_step_description">Prochozeno %1$s, spálené kalorie %2$sKcal</string>
+  <string name="share_step_description">"Prochozeno %1$s, spálené kalorie %2$s Kcal "</string>
   <string name="share_step_description_monthly">"Travelled %1$s, %2$s total calories burned %3$sKcal, saved %4$s litres of fuel, walked a total of %5$s per day and %6$s steps"</string>
   <string name="share_step_description_weekly"> "Travelled %1$s,%2$s total calories burned %3$s kcal, highest record is %4$s, walking %5$s steps a day" </string>
   <string name="share_step_goal_failed_title">Celkem kroků</string>
@@ -335,7 +335,7 @@
   <string name="stat_sleep_rise_time">Probuzení</string>
   <string name="stat_sleep_rise_time_average">Průměrný čas probuzení</string>
   <string name="stat_sleep_shallow">Krátký spánek</string>
-  <string name="stat_sleep_shallow_average">Lehký spánek ve dne</string>
+  <string name="stat_sleep_shallow_average">Denní lehký spánek</string>
   <string name="stat_sleep_time">Spánek</string>
   <string name="stat_sleep_time_average">Průměrný čas spánku</string>
   <string name="stat_sleep_wake">Aktivita</string>
@@ -346,15 +346,15 @@
   <string name="stat_step_calorie_average">Průměrně kalorií</string>
   <string name="stat_step_calorie_daily">Denně kalorií</string>
   <string name="stat_step_calorie_total">Celkem kalorií</string>
-  <string name="stat_step_daily">počet kroků denně</string>
+  <string name="stat_step_daily">Kroků denně</string>
   <string name="stat_step_distance_average">Průměrná vzdálenost</string>
   <string name="stat_step_distance_daily">Denní vzdálenost</string>
   <string name="stat_step_distance_total">Celkem mil</string>
-  <string name="stat_step_run">Kdy běh</string>
+  <string name="stat_step_run">Běh</string>
   <string name="stat_step_run_average">Průměrně běh</string>
   <string name="stat_step_run_total">Celkově běh</string>
   <string name="stat_step_total">Celkem kroků</string>
-  <string name="stat_step_walk">Kdy chůze</string>
+  <string name="stat_step_walk">Chůze</string>
   <string name="stat_step_walk_average">Průměrně</string>
   <string name="stat_step_walk_total">Celkem</string>
   <string name="stat_steps">Kroků</string>
@@ -402,16 +402,16 @@
   <string name="unlock_screen_miui_version_low">Verze MIUI je zastaralá, aktualizujte prosím</string>
   <string name="unlock_screen_modify_unlock">Pokud potřebujete změnit vaše nastavení, jděte do Nastavení - Zabezpečení soukromí - Zabezpečení obrazovky</string>
   <string name="unlock_screen_not_connect">Připojte MiBand a upravte nastavení odemknutí</string>
-  <string name="unlock_screen_set_password">1. krok, nastavte vaše heslo</string>
+  <string name="unlock_screen_set_password">V 1. kroku nastavte vaše heslo</string>
   <string name="unlock_screen_set_password_tips_has_set">Heslo bylo nastaveno</string>
   <string name="unlock_screen_set_password_tips_set">Nastavení hesla</string>
   <string name="unlock_screen_set_success">Odemknutí pomocí MiBand bylo nastaveno</string>
-  <string name="unlock_screen_set_use_bracelet">2. krok, použitím MiBand nastavit odemykání</string>
+  <string name="unlock_screen_set_use_bracelet">Ve 2. kroku nastavte MiBand odemykání</string>
   <string name="unlock_screen_set_use_bracelet_tips">Potvrďte heslo zadané v prvním kroku</string>
   <string name="upgrade">Aktualizace</string>
   <string name="upgrade_tip">Tipy na aktualizaci</string>
   <string name="user_agreement">Podmínky používání a ochrana soukromí</string>
-  <string name="visit_micom">Navštivte oficiální web</string>
+  <string name="visit_micom">Oficiální web Xiaomi</string>
   <string name="wait">Čekejte prosím...</string>
   <string name="walked">Prochozeno</string>
   <string name="wear_hand">Kde máte MiBand</string>
