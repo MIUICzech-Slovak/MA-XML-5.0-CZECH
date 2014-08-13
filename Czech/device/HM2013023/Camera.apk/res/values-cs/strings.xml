@@ -135,7 +135,7 @@
   <string name="pano_dialog_waiting_previous">Čekání na dokončení předcházejícího snímku</string>
   <string name="pano_file_name_format">"'PANO'_yyyyMMdd_HHmmss"</string>
   <string name="pano_how_to_use_prompt">stiskněte spoušť pro zahájení snímání</string>
-  <string name="pano_how_to_use_prompt_go_on_moving">Pomalu pohybujte telefonem v jenom směru</string>
+  <string name="pano_how_to_use_prompt_go_on_moving">Pomalu pohybujte telefonem v jednom směru</string>
   <string name="pano_how_to_use_prompt_to_move">Při snímání pohybujte telefonem plynule</string>
   <string name="pano_review_saving_indication_str">Ukládání...</string>
   <string name="pano_too_fast_prompt">Příliš rychle</string>
