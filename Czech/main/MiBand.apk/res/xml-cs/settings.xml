@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <Preference android:title="Budík" android:key="settings_alarm_clock" android:summary="Neotevřeno">
+        <intent android:targetPackage="cn.com.smartdevices.bracelet" android:action="android.intent.action.MAIN" android:targetClass="cn.com.smartdevices.bracelet.ui.AlarmClockActivity" />
+    </Preference>
+    <Preference android:title="Úroveň dosaženého cíle" android:key="settings_push_goals_progress" android:summary="50%,100%" />
+    <CheckBoxPreference android:title="Upozornění slabé baterie" android:key="settings_push_low_battery" android:defaultValue="true" />
+    <Preference android:title="Aktualizace firmware" android:key="settings_fw_upgrade" />
+    <Preference android:title="Obnovit nastavení" android:key="settings_bracelet_reset" />
+    <Preference android:title="Zpětná vazba" android:key="settings_feedback" />
+    <Preference android:title="Info o apl." android:key="settings_about">
+        <intent android:targetPackage="cn.com.smartdevices.bracelet" android:action="android.intent.action.MAIN" android:targetClass="cn.com.smartdevices.bracelet.activity.BraceletInfoActivity" />
+    </Preference>
+</PreferenceScreen>
