@@ -210,7 +210,7 @@
   <string name="custom_nickname_hint">Vložte oslovení jako: Pan/Paní</string>
   <string name="date_picker_label">Připomenout 3 dny před narozeninami</string>
   <string name="date_time_set">Nastavit</string>
-  <string name="date_year_toggle">Zadejte rok</string>
+  <string name="date_year_toggle">Zadat rok</string>
   <string name="default_ringtone">Výchozí vyzvánění</string>
   <string name="deleteConfirmation">Tento kontakt bude smazán.</string>
   <string name="deleteConfirmationDetail">Kontakt \"%s\" bude vymazán</string>
