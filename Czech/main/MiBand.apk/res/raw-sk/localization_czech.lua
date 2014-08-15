@@ -3,7 +3,7 @@
 -- miui.cz (2014)
 -- kynio
 -------------------------
-localization_czech_table = {
+localization_Czech_table = {
     calories_table={
 
     },
