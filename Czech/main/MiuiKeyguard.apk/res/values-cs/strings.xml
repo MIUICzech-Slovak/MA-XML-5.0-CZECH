@@ -16,7 +16,7 @@
   <string name="find_device_turn_off_flight_mode">Deaktivovat režim letadlo</string>
   <string name="find_device_turn_off_flight_mode_instructions">"Vaše zařízení bylo zablokováno.
 Deaktivujte režim Letadlo."</string>
-  <string name="forget_password_string">Zapomněl jsem heslo</string>
+  <string name="forget_password_string">Zapomenuté heslo</string>
   <string name="incorrect_pincode">Nesprávný PIN</string>
   <string name="incorrect_pincode_remaining_attempts">Nesprávný PIN kód, zbývající pokusy: %d</string>
   <string name="incorrect_pukcode">Nesprávný PUK</string>
