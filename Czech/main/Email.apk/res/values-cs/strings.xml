@@ -146,7 +146,7 @@
   <string name="account_setup_options_mail_window_1month">Poslední měsíc</string>
   <string name="account_setup_options_mail_window_1week">Poslední týden</string>
   <string name="account_setup_options_mail_window_2weeks">Poslední dva týdny</string>
-  <string name="account_setup_options_mail_window_3days">Poslední tři týdny</string>
+  <string name="account_setup_options_mail_window_3days">Poslední tři dny</string>
   <string name="account_setup_options_mail_window_all">Vše</string>
   <string name="account_setup_options_mail_window_auto">Automatické</string>
   <string name="account_setup_options_mail_window_default">Použít výchozí nast. účtu</string>
