@@ -109,8 +109,8 @@
     <string name="video_history_title">Historce</string>
     <string name="vendor_yaokan">Yaokan</string>
     <string name="vendor_peel">Peel</string>
-    <string name="by">Od</string>
-    <string name="technical_support">Technická podpora</string>
+    <string name="by"/>
+    <string name="technical_support">- Technická podpora</string>
     <string name="add">Přidat</string>
     <string name="rc">Dálkové ovládání</string>
     <string name="mi_rc">Xiaomi ovládání</string>
@@ -119,7 +119,7 @@
     <string name="loading_ir_data">Načítání...</string>
     <string name="loading_get">Načítání...</string>
     <string name="match_data">Kontrola dat</string>
-    <string name="di">První</string>
+    <string name="di"/>
     <string name="bu">Krok</string>
     <string name="no_data">Žádná data</string>
     <string name="stb">STB</string>
