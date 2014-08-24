@@ -12,6 +12,8 @@
   <string name="app_name">Xiaomi Generátor</string>
   <string name="app_name_lockpattern">Odemykací vzor</string>
   <string name="app_name_short">Generátor</string>
+  <string name="authenticator_invalid_tip">Můžete zavřít aplikaci nebo vygenerovat další ověřovací kód</string>
+  <string name="authenticator_invalid_title">Účet: %1$s nesprávný kód</string>
   <string name="authenticator_page_reactivation">Znovu aktivovat</string>
   <string name="button_add_account">Přidat účet</string>
   <string name="button_add_account_manual_entry">Ručně přidat účet</string>
@@ -27,6 +29,7 @@
   <string name="check_code_menu_item">Zkontrolovat hodnotu klíče</string>
   <string name="check_code_title">Hodnota kontroly integrity</string>
   <string name="context_menu_remove_account">Odstranit</string>
+  <string name="continue_btn">Pokračovat</string>
   <string name="copy_to_clipboard">Kopírovat do schránky</string>
   <string name="correct_enter_password">Správné heslo</string>
   <string name="correct_enter_update_password">Heslo je správné</string>
@@ -169,7 +172,4 @@ Možnosti:"</string>
 - Zabraňte ztrátě nebo odcizení vašeho zařízení
 - Slouží na generování ověřovacího kódu pro dvoufázové přihlašování ke Xiaomi účtu"</string>
   <string name="welcome_page_title">Ochrana přihlášení Xiaomi účtu</string>
-  <string name="continue_btn">Pokračovat</string>
-  <string name="authenticator_invalid_tip">Můžete zavřít aplikaci nebo vygenerovat další ověřovací kód</string>
-  <string name="authenticator_invalid_title">Účet: %1$s nesprávný kód</string>
 </resources>

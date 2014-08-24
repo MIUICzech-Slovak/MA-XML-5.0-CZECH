@@ -122,6 +122,7 @@ Vyčkejte prosím 5 minut a zkuste to znovu"</string>
   <string name="forget_password">Zapomněl jsem heslo</string>
   <string name="frozen">(Zmrazeno)</string>
   <string name="giftcard_acitivity_and_denomination">%2$s MiKreditů z poukázky %1$s</string>
+  <string name="giftcard_define_detail">Použijte tyto kupóny jako MiKredity. Můžete získat kredity v různých Xiaomi soutěžích.</string>
   <string name="giftcard_denom">MiKreditů</string>
   <string name="giftcard_denom_available">MiKreditů dostupných</string>
   <string name="giftcard_denom_frozen">MiKreditů zmrazených</string>
@@ -135,6 +136,7 @@ prvně a nemohou být použité po vypršení platnosti"</string>
   <string name="giftcard_push_notification_prime_title">"Dostali jste dárkovou poukázku"</string>
   <string name="giftcard_push_notification_sub_title">%1$s: %2$s MiKreditů.</string>
   <string name="giftcard_record">Mé poukázky</string>
+  <string name="giftcard_title">MiKredit kupóny</string>
   <string name="giftcard_value">(%1$s MiKreditů)</string>
   <string name="label_balance">Stav:</string>
   <string name="label_giftcard">Dárková poukázka:</string>
@@ -171,6 +173,7 @@ prvně a nemohou být použité po vypršení platnosti"</string>
   <string name="mibi_license_net_prompt_title">Je vyžadováno internetové připojení</string>
   <string name="mibi_license_title">Podmínky používání MiKreditů</string>
   <string name="mili_center">MiKredity</string>
+  <string name="mipay_error">MiPay selhalo</string>
   <string name="msg_denomination_type">MiKredity</string>
   <string name="msg_error">Navýšení selhalo</string>
   <string name="msg_order_hint_1_1">Až potvrdíte nákup, Váš telefon se</string>
@@ -235,6 +238,7 @@ prvně a nemohou být použité po vypršení platnosti"</string>
   <string name="progress_error_recharge_summary">Navýšení selhalo. Zkuste to znovu později.</string>
   <string name="progress_error_recharge_title">Navýšení selhalo</string>
   <string name="progress_loading">Zpracovávání...</string>
+  <string name="progress_mipay_creating">Vytváření objednávky...</string>
   <string name="progress_msg_creating">Vytváření objednávky přes SMS...</string>
   <string name="progress_paytool_creating">Generování %1$s objednávky...</string>
   <string name="progress_paytool_installing">Instalace %1$s bezpečnostního doplňku...</string>
@@ -311,8 +315,4 @@ Informace na čísle: 400-100-5678"</string>
   <string name="voucher_edit_limit">číslice</string>
   <string name="voucher_error_password_empty">Prázdné</string>
   <string name="voucher_input_password_prompt">Vložte heslo</string>
-  <string name="mipay_error">MiPay selhalo</string>
-  <string name="progress_mipay_creating">Vytváření objednávky...</string>
-  <string name="giftcard_title">MiKredit kupóny</string>
- <string name="giftcard_define_detail">Použijte tyto kupóny jako MiKredity. Můžete získat kredity v různých Xiaomi soutěžích.</string>
 </resources>

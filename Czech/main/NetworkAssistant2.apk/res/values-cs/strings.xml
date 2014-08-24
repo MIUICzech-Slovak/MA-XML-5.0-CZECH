@@ -16,6 +16,7 @@
   <string name="background_traffic">Na pozadí %s</string>
   <string name="begin_date">Den obnovení předplacených dat</string>
   <string name="cancel_button">Zrušit</string>
+  <string name="checkout_traffic_saving_history">Zobrazit historii</string>
   <string name="daily_pkg_traffic">Nastavte limit předplacených dat</string>
   <string name="data_usage_correction_timeout_body">Nastavit manuálně.</string>
   <string name="data_usage_correction_timeout_title">Synchr. spotřeby dat selhala</string>
@@ -73,6 +74,7 @@ mobilní internetové připojení"</string>
   <string name="main_button_usage_package_setting">Zadejte využitá data</string>
   <string name="main_toolbar_firewall">Pravidla</string>
   <string name="main_toolbar_purchase">Navýšit</string>
+  <string name="main_toolbar_saving">Komprese</string>
   <string name="main_toolbar_statistic">Statistiky</string>
   <string name="main_traffic_overlimit_text">"%s
 Nad limit"</string>
@@ -83,9 +85,14 @@ Zbývá"</string>
 Využito"</string>
   <string name="manual_input_free_traffic">Zadejte limit mobilních dat</string>
   <string name="manual_input_traffic">Zadejte využitá data</string>
+  <string name="mi_service_app_detail">Podrobnosti o spotřebě dat</string>
+  <string name="mi_service_framework">Mi Service Framework</string>
+  <string name="mi_service_framework_pkg">com.xiaomi.xmsf</string>
+  <string name="mi_service_traffic_detail">Podrobnosti o Frameworku</string>
   <string name="network_assistant_upgraded_body">Dotykem omezíte používání dat.</string>
   <string name="network_assistant_upgraded_title">Aktualizace dokončena</string>
   <string name="network_control">Nastavení aplikace</string>
+  <string name="none_mi_service_app_detail">Prázdné</string>
   <string name="notification_content_title">Využito %1$s při uzamknutém zařízení</string>
   <string name="notification_title">%1$s-%2$s: %3$s využito</string>
   <string name="per_month_pkg_traffic_settings">Nastavit limit mobilních dat</string>
@@ -141,6 +148,23 @@ Využito"</string>
   <string name="pref_title_network_diagnostics">Diagnostika sítě</string>
   <string name="pref_title_traffic_speed_state">Zobrazit rychlost sítě</string>
   <string name="pref_title_update_notification">Zobrazit spotřebu dat</string>
+  <string name="pref_traffic_saving_issue">FAQ</string>
+  <string name="pref_traffic_saving_issue_content">"
+&lt;b&gt;1. Jsou má data v bezpečí během úspory mobilních dat?&lt;/b&gt;
+&lt;br /&gt;&lt;br /&gt;
+Funkce úspory dat nevyužívá žádná vaše soukromá data.
+&lt;br /&gt;&lt;br /&gt;
+&lt;b&gt;2. Jak funguje úspora mobilních dat?&lt;/b&gt;
+&lt;br /&gt;&lt;br /&gt;
+Úspora mobilních dat funguje pouze při připojení na 2G/3G sítě. 
+Během datového přenosu se text a obrázky komprimují na serveru a tím se urychlí jejich načítání. Hudba a videa se nekomprimují."</string>
+  <string name="pref_traffic_saving_notify_switch">Upozornění v liště</string>
+  <string name="pref_traffic_saving_notify_switch_hint">Zobrazí informace o úspoře dat v notifikační liště</string>
+  <string name="pref_traffic_saving_switch">Úspora dat</string>
+  <string name="pref_traffic_saving_switch_hint">Úspora dat pomocí komprese na serveru</string>
+  <string name="pref_traffic_saving_title">Nastavení úspory dat</string>
+  <string name="pref_traffic_saving_whitelist">Výjimky</string>
+  <string name="pref_traffic_saving_whitelist_hint">Tyto aplikace nebudou mít aktivní kompresi dat</string>
   <string name="pref_version">Verze %s</string>
   <string name="pref_warning_values">Upozornění po dosažení</string>
   <string name="settings">Nastavení spotřeby dat</string>
@@ -164,6 +188,38 @@ Využito"</string>
   <string name="traffic_protection_text_hint">Nastavit limit mobilních dat</string>
   <string name="traffic_protection_unknown">Zadat později</string>
   <string name="traffic_protection_use_data">Data povolena</string>
+  <string name="traffic_saving_button_sorted">Žebříček</string>
+  <string name="traffic_saving_button_sorted_chose_simcard">Vybrat největší</string>
+  <string name="traffic_saving_button_start">Aktivovat</string>
+  <string name="traffic_saving_button_stop">Deaktivovat</string>
+  <string name="traffic_saving_history_title">Historie úspory dat</string>
+  <string name="traffic_saving_history_total_money">Uspořená částka</string>
+  <string name="traffic_saving_history_total_money_unit">¥</string>
+  <string name="traffic_saving_history_total_month"/>
+  <string name="traffic_saving_history_total_month_default">Uspořeno tento měsíc</string>
+  <string name="traffic_saving_history_total_month_value"/>
+  <string name="traffic_saving_history_total_month_value_default"/>
+  <string name="traffic_saving_history_total_rate">Úspora</string>
+  <string name="traffic_saving_history_total_rate_unit">%</string>
+  <string name="traffic_saving_history_total_traffic">Uspořená data</string>
+  <string name="traffic_saving_msg_month">Měsíční úspora</string>
+  <string name="traffic_saving_msg_not_started">Vypnuto</string>
+  <string name="traffic_saving_msg_today">Dnes</string>
+  <string name="traffic_saving_notify_start_content">Úspora za tento měsíc %s</string>
+  <string name="traffic_saving_notify_start_title">Úspora dat</string>
+  <string name="traffic_saving_tecsupport">Poskytuje Opera Max</string>
+  <string name="traffic_saving_title">Úspora dat</string>
+  <string name="traffic_saving_toast_start_mobile">Aktivovaná úspora dat</string>
+  <string name="traffic_saving_toast_start_none_mobile">Úspora dat se spustí při využívaní mobilních dat</string>
+  <string name="traffic_saving_toast_start_unreachable">Chyba úspory dat</string>
+  <string name="traffic_saving_toast_stop">Úspora dat je deaktivována</string>
+  <string name="traffic_saving_whitelist_btn_add">Přidat</string>
+  <string name="traffic_saving_whitelist_btn_add_app">Přidat</string>
+  <string name="traffic_saving_whitelist_btn_added">Přidáno</string>
+  <string name="traffic_saving_whitelist_btn_remove">Odebrat</string>
+  <string name="traffic_saving_whitelist_btn_removed">Aplikace odebrána</string>
+  <string name="traffic_saving_whitelist_count">Aplikace bez aktivní komprese dat: %d</string>
+  <string name="traffic_saving_whitelist_no_app">Žádné aplikace</string>
   <string name="traffic_setting_fragment_area">Lokální</string>
   <string name="traffic_setting_fragment_brand">Brand</string>
   <string name="traffic_setting_fragment_button2_text">Uložit</string>
@@ -181,60 +237,4 @@ Využito"</string>
   <string name="usage_sorted_activity_lable">Spotřeba dat</string>
   <string name="usage_sorted_empty_text">Prázdné</string>
   <string name="usage_sorted_loading_text">Načítání...</string>
-  <string name="main_toolbar_saving">Komprese</string>
-  <string name="pref_traffic_saving_issue">FAQ</string>
-  <string name="pref_traffic_saving_issue_content">"
-&lt;b&gt;1. Jsou má data v bezpečí během úspory mobilních dat?&lt;/b&gt;
-&lt;br /&gt;&lt;br /&gt;
-Funkce úspory dat nevyužívá žádná vaše soukromá data.
-&lt;br /&gt;&lt;br /&gt;
-&lt;b&gt;2. Jak funguje úspora mobilních dat?&lt;/b&gt;
-&lt;br /&gt;&lt;br /&gt;
-Úspora mobilních dat funguje pouze při připojení na 2G/3G sítě. 
-Během datového přenosu se text a obrázky komprimují na serveru a tím se urychlí jejich načítání. Hudba a videa se nekomprimují."</string>
-  <string name="pref_traffic_saving_notify_switch">Upozornění v liště</string>
-  <string name="pref_traffic_saving_notify_switch_hint">Zobrazí informace o úspoře dat v notifikační liště</string>
-  <string name="pref_traffic_saving_switch">Úspora dat</string>
-  <string name="pref_traffic_saving_switch_hint">Úspora dat pomocí komprese na serveru</string>
-  <string name="pref_traffic_saving_title">Nastavení úspory dat</string>
-  <string name="traffic_saving_button_sorted">Žebříček</string>
-  <string name="traffic_saving_button_start">Aktivovat</string>
-  <string name="traffic_saving_button_stop">Deaktivovat</string>
-  <string name="traffic_saving_history_title">Historie úspory dat</string>
-  <string name="traffic_saving_history_total_money">Uspořená částka</string>
-  <string name="traffic_saving_history_total_money_unit">¥</string>
-  <string name="traffic_saving_history_total_traffic">Uspořená data</string>
-  <string name="traffic_saving_msg_month">Měsíční úspora</string>
-  <string name="traffic_saving_msg_not_started">Vypnuto</string>
-  <string name="traffic_saving_msg_today">Dnes</string>
-  <string name="traffic_saving_notify_start_content">Úspora za tento měsíc %s</string>
-  <string name="traffic_saving_notify_start_title">Úspora dat</string>
-  <string name="traffic_saving_tecsupport">Poskytuje Opera Max</string>
-  <string name="traffic_saving_title">Úspora dat</string>
-  <string name="traffic_saving_toast_start_mobile">Aktivovaná úspora dat</string>
-  <string name="traffic_saving_toast_start_none_mobile">Úspora dat se spustí při využívaní mobilních dat</string>
-  <string name="traffic_saving_toast_start_unreachable">Chyba úspory dat</string>
-  <string name="traffic_saving_toast_stop">Úspora dat je deaktivována</string>
-  <string name="traffic_saving_button_sorted_chose_simcard">Vybrat největší</string>
-  <string name="mi_service_app_detail">Podrobnosti o spotřebě dat</string>
-  <string name="mi_service_framework">Mi Service Framework</string>
-  <string name="mi_service_framework_pkg">com.xiaomi.xmsf</string>
-  <string name="mi_service_traffic_detail">Podrobnosti o Frameworku</string>
-  <string name="none_mi_service_app_detail">Prázdné</string>
-  <string name="pref_traffic_saving_whitelist">Výjimky</string>
-  <string name="pref_traffic_saving_whitelist_hint">Tyto aplikace nebudou mít aktivní kompresi dat</string>
-  <string name="traffic_saving_history_total_month"/>
-  <string name="traffic_saving_history_total_month_default">Uspořeno tento měsíc</string>
-  <string name="traffic_saving_history_total_month_value"/>
-  <string name="traffic_saving_history_total_month_value_default"/>  
-  <string name="traffic_saving_history_total_rate">Úspora</string>
-  <string name="traffic_saving_history_total_rate_unit">%</string>
-  <string name="traffic_saving_whitelist_btn_add">Přidat</string>
-  <string name="traffic_saving_whitelist_btn_add_app">Přidat</string>
-  <string name="traffic_saving_whitelist_btn_added">Přidáno</string>
-  <string name="traffic_saving_whitelist_btn_remove">Odebrat</string>
-  <string name="traffic_saving_whitelist_btn_removed">Aplikace odebrána</string>
-  <string name="traffic_saving_whitelist_count">Aplikace bez aktivní komprese dat: %d</string>
-  <string name="traffic_saving_whitelist_no_app">Žádné aplikace</string>
-  <string name="checkout_traffic_saving_history">Zobrazit historii</string>
 </resources>

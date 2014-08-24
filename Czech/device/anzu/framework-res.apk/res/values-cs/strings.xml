@@ -946,7 +946,7 @@ pro účet %s."</string>
   <string name="permlab_writeSyncSettings">vypnutí nebo zapnutí synchronizace</string>
   <string name="perms_description_app">Poskytuje: %1$s.</string>
   <string name="perms_hide">&lt;b&gt;Skr&amp;#253;t&lt;/b&gt;</string>
-    <string name="perms_new_perm_prefix">" "Nové" "</string>
+  <string name="perms_new_perm_prefix">" "Nové" "</string>
   <string name="perms_show_all">Zobrazit vše</string>
   <string name="petabyteShort">PB</string>
   <string name="phoneTypeAssistant">Asistent</string>

@@ -145,6 +145,7 @@
   <string name="toast_fm_recorder_access_error">"Nelze nahrávat v režimu Návštěvník"</string>
   <string name="toast_fm_recorder_internal_error">Chyba nahrávání FM.</string>
   <string name="toast_fm_recorder_storage_full">Úložiště je plné, nelze nahrávat</string>
+  <string name="toast_fm_scaning">Vyhledávání...</string>
   <string name="toast_fm_seeking">Vyhledávání stanic...</string>
   <string name="toast_fm_starting">Spouští se FM，čekejte prosím...</string>
   <string name="toast_fm_stoping">Ukončuje se FM, čekejte prosím...</string>
@@ -159,5 +160,4 @@
   <string name="turn_on_speaker_phone">Zapnout reproduktor</string>
   <string name="type_rd"/>
   <string name="view_stations_list">Zobrazit seznam stanic</string>
-  <string name="toast_fm_scaning">Vyhledávání...</string>
 </resources>

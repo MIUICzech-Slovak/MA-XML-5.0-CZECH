@@ -28,6 +28,7 @@
   <string name="auto">Auto</string>
   <string name="bg_replacement_message">"Nasměrujte svůj telefon dolů, 
   opusťte na chvíli náhled"</string>
+  <string name="burst_shoot_exit_button_text">Ukončit dávkové snímání</string>
   <string name="camera_disabled">Fotoaparát byl deaktivován z bezpečnostních důvodů.</string>
   <string name="camera_error_title">Chyba fotoaparátu</string>
   <string name="camera_label">Fotoaparát</string>
@@ -189,6 +190,7 @@
   <string name="people">Lidé</string>
   <string name="pref_advanced_functions">Rozšířené funkce</string>
   <string name="pref_advanced_settings">Rozšířené</string>
+  <string name="pref_burst_shoot_title">Dávkové snímání</string>
   <string name="pref_camcorder_settings_category">Nastavení kamery</string>
   <string name="pref_camera_ae_bracket_hdr_title">HDR</string>
   <string name="pref_camera_antibanding_entry_0">Vypnuta</string>
@@ -228,6 +230,7 @@
   <string name="pref_camera_coloreffect_entry_yesteryear"/>
   <string name="pref_camera_coloreffect_title">Filtry</string>
   <string name="pref_camera_contrast_title">Kontrast</string>
+  <string name="pref_camera_countdown_title">Odpočítávání</string>
   <string name="pref_camera_current_k_value">Aktuální hodnota</string>
   <string name="pref_camera_default_suffix">(Výchozí)</string>
   <string name="pref_camera_denoise_title">Redukce šumu</string>
@@ -413,13 +416,16 @@
   <string name="pref_grp_capture_settings">Nastavení Záznamu</string>
   <string name="pref_grp_picture_settings">Nastavení Fotografie</string>
   <string name="pref_grp_restore_settings">Obnovit Nastavení</string>
+  <string name="pref_long_press_shutter_button_focus_title">Dlouhé podržení spouště zaostří</string>
   <string name="pref_manual_exposure_title">Manuální expozice</string>
+  <string name="pref_priority_storage_title">Priorita ukládání na externí SD kartu</string>
   <string name="pref_scan_qrcode_entry_off">Vypnuto</string>
   <string name="pref_scan_qrcode_entry_on">Zapnuto</string>
   <string name="pref_scan_qrcode_title">Skenovat QR kód</string>
   <string name="pref_setting_title">Nastavení</string>
   <string name="pref_settings_mode">Režim kamery</string>
   <string name="pref_touch_down_capture_title">Touch Down Capture</string>
+  <string name="pref_video_4kuhd_title_simple_mode">4K</string>
   <string name="pref_video_captrue_ability_title">Snímek během videa</string>
   <string name="pref_video_fast_speed_title_simple_mode">Zpomalené video</string>
   <string name="pref_video_focusmode_entry_auto">Dotykem</string>
@@ -485,9 +491,11 @@
   <string name="show_images_only">Zobrazit fotografie</string>
   <string name="show_on_map">Zobrazit na mapě</string>
   <string name="show_videos_only">Zobrazit videa</string>
+  <string name="simple_mode_button_text_4kuhd">Ukončit 4K</string>
   <string name="simple_mode_button_text_audio_capture">Ukončit zvukovou spoušť</string>
   <string name="simple_mode_button_text_chroma_flash">Ukončit</string>
   <string name="simple_mode_button_text_color_effect">Ukončit filtry</string>
+  <string name="simple_mode_button_text_countdown">Ukončit odpočítávání</string>
   <string name="simple_mode_button_text_face_beauty">Ukončit</string>
   <string name="simple_mode_button_text_fast_video">Ukončiť zrychlené natáčení</string>
   <string name="simple_mode_button_text_hand_night">Ukončit noční režim</string>
@@ -548,12 +556,4 @@
   <string name="wifi_security">Zabezpečení:</string>
   <string name="wifi_ssid">SSID:</string>
   <string name="wifi_warning">Před připojením se ujistěte, že tato Wi-Fi síť je bezpečná</string>
-  <string name="pref_video_4kuhd_title_simple_mode">4K</string>
-  <string name="simple_mode_button_text_4kuhd">Ukončit 4K</string>
-  <string name="pref_camera_countdown_title">Odpočítávání</string>
-  <string name="simple_mode_button_text_countdown">Ukončit odpočítávání</string>
-  <string name="burst_shoot_exit_button_text">Ukončit dávkové snímání</string>
-  <string name="pref_burst_shoot_title">Dávkové snímání</string>
-  <string name="pref_long_press_shutter_button_focus_title">Dlouhé podržení spouště zaostří</string>
-  <string name="pref_priority_storage_title">Priorita ukládání na externí SD kartu</string>
 </resources>

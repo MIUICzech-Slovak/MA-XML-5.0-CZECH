@@ -218,6 +218,7 @@
   <string name="pref_camera_coloreffect_entry_yesteryear">Silvestr</string>
   <string name="pref_camera_coloreffect_title">Filtry</string>
   <string name="pref_camera_contrast_title">Kontrast</string>
+  <string name="pref_camera_countdown_title">Odpočítávání</string>
   <string name="pref_camera_current_k_value">Aktuální hodnota</string>
   <string name="pref_camera_default_suffix">(Výchozí)</string>
   <string name="pref_camera_denoise_title">Redukce šumu</string>
@@ -472,6 +473,7 @@
   <string name="show_videos_only">Zobrazit videa</string>
   <string name="simple_mode_button_text_audio_capture">Ukončit záznam zvuku</string>
   <string name="simple_mode_button_text_color_effect">Ukončit filtry</string>
+  <string name="simple_mode_button_text_countdown">Ukončit odpočítávání</string>
   <string name="simple_mode_button_text_face_beauty">Ukončit vylepšení tváře</string>
   <string name="simple_mode_button_text_hand_night">Ukončit noční režim</string>
   <string name="simple_mode_button_text_hdr">Ukončit HDR</string>
@@ -525,6 +527,4 @@
   <string name="wifi_security">Zabezpečení:</string>
   <string name="wifi_ssid">SSID:</string>
   <string name="wifi_warning">Před připojením se ujistěte, že tato Wi-Fi síť je bezpečná</string>
-  <string name="pref_camera_countdown_title">Odpočítávání</string>
-  <string name="simple_mode_button_text_countdown">Ukončit odpočítávání</string>
 </resources>

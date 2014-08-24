@@ -268,6 +268,8 @@
   <string name="playlist_renamed_message">Playlist přejmenován.</string>
   <string name="playlists_title">Playlisty</string>
   <string name="powered_by">Poskytuje</string>
+  <string name="priority_storage">Stahovat na externí SD kartu</string>
+  <string name="priority_storage_summary">Bude použito po vložení SD karty</string>
   <string name="project_device">Xiaomi Box</string>
   <string name="project_device_mobile">Mobilní telefon</string>
   <string name="queue">Aktuální playlist</string>
@@ -367,6 +369,4 @@
   <string name="volume_alert_playback_message">Chraňte svůj sluch a neposlouchejte dlouhodobě hudbu na vysokou hlasitost.</string>
   <string name="where_is_barcode">"Kde je QR kód?"</string>
   <string name="xiaomi_account_setting">Xiaomi účet</string>
-  <string name="priority_storage">Stahovat na externí SD kartu</string>
-  <string name="priority_storage_summary">Bude použito po vložení SD karty</string>
 </resources>

@@ -91,6 +91,8 @@
   <string name="app_name">Xiaomi Service Framework</string>
   <string name="available_functionality">Dostupné služby</string>
   <string name="bad_authentication">Nesprávné jméno nebo heslo</string>
+  <string name="bank_cards">Platební karta</string>
+  <string name="barcode_add_account_prompt">Pro přidání účtu načtěte QR kód znovu po přihlášení.</string>
   <string name="bind_sina_weibo">Autorizovat Sina Weibo</string>
   <string name="bind_weibo_description">Najít kontakty, přátele a ostatní informace přímo z Vašeho účtu</string>
   <string name="binded">Propojené</string>
@@ -124,6 +126,7 @@
   <string name="error_device_id">Nelze načíst IMEI</string>
   <string name="error_dup_phone">Telefon byl zaregistrován</string>
   <string name="error_invalid_dev_id">Nesprávné ID zařízení</string>
+  <string name="error_login">Nelze se přihlásit</string>
   <string name="error_network">Chyba sítě</string>
   <string name="error_no_sms_service">SMS služba není dostupná</string>
   <string name="error_phone_error">Nesprávné číslo telefonu</string>
@@ -271,6 +274,7 @@ Využito %s | Zbývá %s"</string>
   <string name="reg_type_phone">Registrovat přes číslo telefonu (doporučené)</string>
   <string name="reging">Registrace, čekejte prosím...</string>
   <string name="relogin">Znovu přihlásit</string>
+  <string name="relogin_notice">Musíte se znovu přihlásit</string>
   <string name="remove_account_notice">Co si přejete udělat s dříve synchronizovanými zprávami, kontakty, historií volání a poznámkami ve vašem zařízení?</string>
   <string name="remove_confirm">Odhlásit</string>
   <string name="remove_unactivated_account_notice">Xiaomi účet není aktivovaný, chcete se odhlásit?</string>
@@ -328,8 +332,4 @@ s "</string>
   <string name="wrong_vcode">Nesprávný kód</string>
   <string name="xiaomi_cloud_service">MiCloud</string>
   <string name="xmpp_server_addr"/>
-  <string name="bank_cards">Platební karta</string>
-  <string name="error_login">Nelze se přihlásit</string>
-  <string name="relogin_notice">Musíte se znovu přihlásit</string>
-  <string name="barcode_add_account_prompt">Pro přidání účtu načtěte QR kód znovu po přihlášení.</string>
 </resources>

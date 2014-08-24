@@ -170,6 +170,11 @@
   <string name="qm_vip_list_custom_group">Zvolené VIP</string>
   <string name="qm_vip_list_group">Seznam VIP</string>
   <string name="quiet_mode">Tichý režim</string>
+  <string name="report">Nahlásit</string>
+  <string name="report_error">Děkujeme za nahlášení, informace budou automaticky odeslány po připojení k Wi-Fi.</string>
+  <string name="report_only">Vyberte alespoň jednu zprávu</string>
+  <string name="report_sms">Nahlásit zprávu</string>
+  <string name="report_success">Hlášení odesláno</string>
   <string name="sim_not_ready">SIM karta není připravena</string>
   <string name="sms_delete_hint">Vymazat všechny blokované SMS z vybraného čísla?</string>
   <string name="st_advanced_setting_group">Rozšířené</string>
@@ -288,9 +293,4 @@
   <string name="user_define_title">Vlastní režim</string>
   <string name="whitelist_prefix_add_hint">Přidat všechny čísla s předvolbou do výjimek</string>
   <string name="wl_no_whitelist">Žádná čísla</string>
-  <string name="report">Nahlásit</string>
-  <string name="report_error">Děkujeme za nahlášení, informace budou automaticky odeslány po připojení k Wi-Fi.</string>
-  <string name="report_only">Vyberte alespoň jednu zprávu</string>
-  <string name="report_sms">Nahlásit zprávu</string>
-  <string name="report_success">Hlášení odesláno</string>
 </resources>

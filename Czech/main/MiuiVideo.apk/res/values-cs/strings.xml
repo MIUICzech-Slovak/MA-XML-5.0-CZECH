@@ -162,6 +162,7 @@
   <string name="in_download_notification">%d videa se načítají</string>
   <string name="in_pause">Zastaveno</string>
   <string name="in_waiting">Čeká</string>
+  <string name="info_title">Informace</string>
   <string name="install_comfirm">Instalovat</string>
   <string name="jni_invalid_param">Chybné parametry</string>
   <string name="jni_no_media_source">Žádný zdroj medií</string>
@@ -284,8 +285,12 @@
   <string name="play_length_colon">"Délka: "</string>
   <string name="play_setting">Přehrávání</string>
   <string name="playvideo">Přehrát</string>
+  <string name="post_playcount">" krát"</string>
   <string name="pps">PPS</string>
   <string name="pptv">PPTV</string>
+  <string name="prex_playcount">Přehráno:</string>
+  <string name="priority_storage">Uložit na SD kartu</string>
+  <string name="priority_storage_summary">Ukládat soubory automaticky na SD kartu.</string>
   <string name="publish">Odeslat</string>
   <string name="qiyi">iQiyi</string>
   <string name="quarter_bell_alert_button_cancel">zrušit</string>
@@ -393,9 +398,4 @@
   <string name="yestorday">"Včera" </string>
   <string name="yinyuetai">YinYueTai</string>
   <string name="youku">Youku</string>
-  <string name="info_title">Informace</string>
-  <string name="post_playcount">" krát"</string>
-  <string name="prex_playcount">Přehráno:</string>
-  <string name="priority_storage">Uložit na SD kartu</string>
-  <string name="priority_storage_summary">Ukládat soubory automaticky na SD kartu.</string>
 </resources>

@@ -35,6 +35,7 @@
   <string name="agenda_tomorrow">ZÍTRA, %1$s</string>
   <string name="agenda_view">Agenda</string>
   <string name="agenda_yesterday">VČERA, %1$s</string>
+  <string name="alarm_label">OK</string>
   <string name="alert_title">Upozornění kalendáře</string>
   <string name="app_label">Kalendář</string>
   <string name="attendees_label">Hosté</string>
@@ -50,6 +51,7 @@
   <string name="birthday_notification_type_term_lunar"/>
   <string name="button_day">D</string>
   <string name="button_month">M</string>
+  <string name="button_week">T</string>
   <string name="calendar_refresh">Aktualizovat</string>
   <string name="calendar_server_error">Chyba serveru</string>
   <string name="change_response_title">Změnit odpověď</string>
@@ -60,6 +62,11 @@
   <string name="create_an_account_desc">"Kalendář funguje lépe s účtem Google.\n • Přístup z jakéhokoliv webového prohlížeče\n • Bezpečné zálohování událostí"</string>
   <string name="creating_event">Událost byla vytvořena.</string>
   <string name="creating_event_with_guest">Pozvánky byly odeslány.</string>
+  <string name="cta_notice_checkbox">Znovu se neptat</string>
+  <string name="cta_notice_message">\"Upozornění narozenin\" v kalendáři vás upozorní na narozeniny vašich kontaktů, ale je k nim nutné povolit přístup. Souhlasíte?</string>
+  <string name="cta_notice_ok">OK</string>
+  <string name="cta_notice_title">Upozornění</string>
+  <string name="cta_notify_settings">Upozornit na přístup ke kontaktům</string>
   <string name="custom">Vlastní (nelze upravit v telefonu)</string>
   <string name="daily">Denně</string>
   <string name="date_time_fmt" formatted="false">%s, %s</string>
@@ -81,6 +88,7 @@
   <string name="done">Další</string>
   <string name="edit_event_all_day_label">Celý den</string>
   <string name="edit_event_calendar_label">Kalendář</string>
+  <string name="edit_event_confirm_message">Zrušit změny v události?</string>
   <string name="edit_event_from_label">Od</string>
   <string name="edit_event_label">Podrobnosti</string>
   <string name="edit_event_show_all">Zobrazit vše</string>
@@ -249,6 +257,7 @@
   <string name="taishen"/>
   <string name="tardis">TARDIS</string>
   <string name="template_announce_item_index" formatted="false">Událost %1$s z %2$s</string>
+  <string name="text_year">Rok</string>
   <string name="time_zone">Zóna</string>
   <string name="timezone_label">Časové pásmo</string>
   <string name="today">Dnes</string>
@@ -262,6 +271,7 @@
   <string name="view_event_organizer_label">Organizátor:</string>
   <string name="view_event_response_label">Zúčastníte se?</string>
   <string name="week_view">Týden</string>
+  <string name="week_view_today_toast">Je zobrazen tento týden</string>
   <string name="weekly">Týdně (vždy %s)</string>
   <string name="what_label">Co</string>
   <string name="when_label">Kdy</string>
@@ -275,14 +285,4 @@
   <string name="yearly">Ročně (%s)</string>
   <string name="yearly_plain">Ročně</string>
   <string name="zhushen"/>
-  <string name="cta_notice_checkbox">Znovu se neptat</string>
-  <string name="cta_notice_message">\"Upozornění narozenin\" v kalendáři vás upozorní na narozeniny vašich kontaktů, ale je k nim nutné povolit přístup. Souhlasíte?</string>
-  <string name="cta_notice_ok">OK</string>
-  <string name="cta_notice_title">Upozornění</string>
-  <string name="cta_notify_settings">Upozornit na přístup ke kontaktům</string>
-  <string name="alarm_label">OK</string>
-  <string name="button_week">T</string>
-  <string name="text_year">Rok</string>
-  <string name="week_view_today_toast">Je zobrazen tento týden</string>
-  <string name="edit_event_confirm_message">Zrušit změny v události?</string>
 </resources>

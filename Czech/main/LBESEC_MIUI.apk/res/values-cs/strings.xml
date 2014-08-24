@@ -78,9 +78,15 @@
   <string name="HIPS_Perm_AudioRecorder">Nahrávání zvuku</string>
   <string name="HIPS_Perm_AudioRecorder_Desc">Lokální nahrávky a nahrávky hovoru</string>
   <string name="HIPS_Perm_AudioRecorder_Hint">%1$s může nahrávat zvuk a hovory</string>
+  <string name="HIPS_Perm_AutoStart">Automaticky spustit</string>
+  <string name="HIPS_Perm_AutoStart_Desc">Automaticky spustit při startu zařízení</string>
+  <string name="HIPS_Perm_AutoStart_Hint">%1$s má právo se automaticky spustit při startu</string>
   <string name="HIPS_Perm_Bluetooth_Connectivity">Zapnout Bluetooth</string>
   <string name="HIPS_Perm_Bluetooth_Connectivity_Desc">Zapnout Bluetooth</string>
   <string name="HIPS_Perm_Bluetooth_Connectivity_Hint">%1$s může použít bluetooth</string>
+  <string name="HIPS_Perm_Calendar">Přístup ke kalendáři</string>
+  <string name="HIPS_Perm_Calendar_Desc">Přístup k událostem v kalendáři</string>
+  <string name="HIPS_Perm_Calendar_Hint">%1$s má právo na přístup ke kalendáři</string>
   <string name="HIPS_Perm_Call">Telefonní hovor</string>
   <string name="HIPS_Perm_CallLog">Seznam hovorů</string>
   <string name="HIPS_Perm_CallLog_Access">Přístup k seznamu hovorů</string>
@@ -134,6 +140,9 @@
   <string name="HIPS_Perm_Network_Send">Odeslat data</string>
   <string name="HIPS_Perm_Network_UnknownAddr">Neznámá adresa</string>
   <string name="HIPS_Perm_Network_WIFIEvent">Použít Wi-Fi síť</string>
+  <string name="HIPS_Perm_Notification">Zobrazovat upozornění</string>
+  <string name="HIPS_Perm_Notification_Desc">Přístup k upozorněním</string>
+  <string name="HIPS_Perm_Notification_Hint">%1$s má právo na přístup k upozorněním</string>
   <string name="HIPS_Perm_PhoneID">Údaje o telefonu</string>
   <string name="HIPS_Perm_PhoneID_Desc">Zjistí ID přístroje, včetně IMEI, IMSI, atd.</string>
   <string name="HIPS_Perm_PhoneID_Hint">%1$s aplikace mají povolení ke zjištěni údajů o telefonu</string>
@@ -182,6 +191,9 @@
   <string name="HIPS_Perm_Settings_Hint">%1$s může změnit nastavení systému</string>
   <string name="HIPS_Perm_Settings_Modify">Změnit nastavení systému</string>
   <string name="HIPS_Perm_SilenceRinger">Ztišit zvonění</string>
+  <string name="HIPS_Perm_SystemAlert">Zobrazovat vyskakovací okna</string>
+  <string name="HIPS_Perm_SystemAlert_Desc">Má právo zobrazovat vyskakovací okna</string>
+  <string name="HIPS_Perm_SystemAlert_Hint">%1$s má právo zobrazovat vyskakovací okna</string>
   <string name="HIPS_Perm_VideoRecorder">Video a fotografie</string>
   <string name="HIPS_Perm_VideoRecorder_Desc">Může zhotovit video a fotografii</string>
   <string name="HIPS_Perm_VideoRecorder_Hint">%1$s může zhotovit video a fotografii</string>
@@ -191,6 +203,9 @@
   <string name="HIPS_Perm_WIFI_Connectivity">Použít Wi-Fi</string>
   <string name="HIPS_Perm_WIFI_Connectivity_Desc">Použít Wi-Fi</string>
   <string name="HIPS_Perm_WIFI_Connectivity_Hint">%1$s může použít Wi-Fi</string>
+  <string name="HIPS_Perm_Wakelock">Zabránit spánku</string>
+  <string name="HIPS_Perm_Wakelock_Desc">Má právo zabránit spánku zařízení</string>
+  <string name="HIPS_Perm_Wakelock_Hint">%1$s má právo zabránit spánku zařízení</string>
   <string name="HIPS_SecurityPrompt_Accept">Povoleno (%d)</string>
   <string name="HIPS_SecurityPrompt_AcceptRoot">Povolit</string>
   <string name="HIPS_SecurityPrompt_Caption">Bezpečnostní varování</string>
@@ -226,19 +241,4 @@
   <string name="SysOpt_Boost_Boot">Boot</string>
   <string name="SysOpt_Boost_Receiver">Na pozadí</string>
   <string name="app_name">Povolení</string>
-  <string name="HIPS_Perm_AutoStart">Automaticky spustit</string>
-  <string name="HIPS_Perm_AutoStart_Desc">Automaticky spustit při startu zařízení</string>
-  <string name="HIPS_Perm_AutoStart_Hint">%1$s má právo se automaticky spustit při startu</string>
-  <string name="HIPS_Perm_Calendar">Přístup ke kalendáři</string>
-  <string name="HIPS_Perm_Calendar_Desc">Přístup k událostem v kalendáři</string>
-  <string name="HIPS_Perm_Calendar_Hint">%1$s má právo na přístup ke kalendáři</string>
-  <string name="HIPS_Perm_Notification">Zobrazovat upozornění</string>
-  <string name="HIPS_Perm_Notification_Desc">Přístup k upozorněním</string>
-  <string name="HIPS_Perm_Notification_Hint">%1$s má právo na přístup k upozorněním</string>
-  <string name="HIPS_Perm_SystemAlert">Zobrazovat vyskakovací okna</string>
-  <string name="HIPS_Perm_SystemAlert_Desc">Má právo zobrazovat vyskakovací okna</string>
-  <string name="HIPS_Perm_SystemAlert_Hint">%1$s má právo zobrazovat vyskakovací okna</string>
-  <string name="HIPS_Perm_Wakelock">Zabránit spánku</string>
-  <string name="HIPS_Perm_Wakelock_Desc">Má právo zabránit spánku zařízení</string>
-  <string name="HIPS_Perm_Wakelock_Hint">%1$s má právo zabránit spánku zařízení</string>
 </resources>

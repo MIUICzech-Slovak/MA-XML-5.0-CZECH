@@ -205,6 +205,12 @@
   <string name="createContactShortcutSuccessful">Widget kontaktu byl přidán na plochu.</string>
   <string name="create_group_dialog_title">Vytvořit novou skupinu</string>
   <string name="create_group_item_label">[Vytvořit novou skupinu]</string>
+  <string name="cta_notice_checkbox">Znovu se neptat</string>
+  <string name="cta_notice_new_contact_message">Uložení kontaktu na účet \"%s\" vyžaduje přístup k internetu. Souhlasíte?</string>
+  <string name="cta_notice_ok">OK</string>
+  <string name="cta_notice_photo_message">Úprava fotografie kontaktu vyžaduje přístup k internetu. Souhlasíte?</string>
+  <string name="cta_notice_settings">Upozornit na přístup k internetu</string>
+  <string name="cta_notice_title">Upozornění</string>
   <string name="customLabelPickerTitle">Vlastní označení</string>
   <string name="custom_list_filter">Definovat vlastní zobrazení</string>
   <string name="custom_nickname_hint">Vložte oslovení jako: Pan/Paní</string>
@@ -1146,6 +1152,7 @@ Vyberte si z následujících možností:</string>
   <string name="yellowPageNavigationIconLabel">Adresář</string>
   <string name="yellowPageNavigationLabel">Adresář</string>
   <string name="yellowpage_navigation_menu_order">Má objednávka</string>
+  <string name="yellowpage_navigation_more_items">Více</string>
   <string name="yellowpage_navigation_network_location_enable">Povolit</string>
   <string name="yellowpage_navigation_network_location_enable_later">Později</string>
   <string name="yellowpage_navigation_network_location_enabled">Služba je povolena. Můžete ji deaktivovat v nastavení polohy</string>
@@ -1155,22 +1162,15 @@ Vyberte si z následujících možností:</string>
   <string name="yellowpage_navigation_search_city_name_hint">Město</string>
   <string name="yellowpage_navigation_search_hint">Vyhledat</string>
   <string name="yellowpage_navigation_search_offline_hint">Žádné připojení</string>
+  <string name="yellowpage_navigation_search_result_average_price">Přibližně %d RMB</string>
   <string name="yellowpage_navigation_search_result_network_error">"Nelze se připojit k síti"</string>
   <string name="yellowpage_navigation_search_result_no_more">Nic více</string>
   <string name="yellowpage_navigation_search_result_service_error">Služba není dostupná</string>
   <string name="yellowpage_navigation_search_result_unknown_error">Neznámá chyba</string>
   <string name="yellowpage_navigation_search_select_city">Zvolte město</string>
-  <string name="yellowpage_navigation_send_to_desktop_succeeded">Přidáno na plochu</string>
-  <string name="zero_items_selected">Nic není vybráno</string>
-  <string name="cta_notice_checkbox">Znovu se neptat</string>
-  <string name="cta_notice_new_contact_message">Uložení kontaktu na účet \"%s\" vyžaduje přístup k internetu. Souhlasíte?</string>
-  <string name="cta_notice_ok">OK</string>
-  <string name="cta_notice_photo_message">Úprava fotografie kontaktu vyžaduje přístup k internetu. Souhlasíte?</string>
-  <string name="cta_notice_settings">Upozornit na přístup k internetu</string>
-  <string name="cta_notice_title">Upozornění</string>
-  <string name="yellowpage_navigation_more_items">Více</string>
-  <string name="yellowpage_user_profile">Profil</string>
   <string name="yellowpage_navigation_send_to_desktop_downloading">Stahování ikony...</string>
   <string name="yellowpage_navigation_send_to_desktop_failed">Chyba, zkontrolujte nastavení sítě.</string>
-  <string name="yellowpage_navigation_search_result_average_price">Přibližně %d RMB</string>
+  <string name="yellowpage_navigation_send_to_desktop_succeeded">Přidáno na plochu</string>
+  <string name="yellowpage_user_profile">Profil</string>
+  <string name="zero_items_selected">Nic není vybráno</string>
 </resources>

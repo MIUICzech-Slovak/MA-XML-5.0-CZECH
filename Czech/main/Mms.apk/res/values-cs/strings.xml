@@ -150,7 +150,11 @@
   <string name="festival_sms_category_count_format">(%s)</string>
   <string name="festival_sms_loading">Načítám...</string>
   <string name="fetion_prefix">[Otevřít]</string>
+  <string name="file_create_time">Vytvořeno:</string>
   <string name="file_share_message_description">Sdílím s Vámi soubory</string>
+  <string name="file_size">Velikost:</string>
+  <string name="file_title">Název:</string>
+  <string name="file_width_height">Velikost:</string>
   <string name="flatshow_page_no">%1$d</string>
   <string name="forward_from">Přeposláno od:</string>
   <string name="forward_prefix">"Fwd: "</string>
@@ -167,6 +171,7 @@
   <string name="has_invalid_recipient">Neplatní příjemci: %1$s</string>
   <string name="hidden_sender_address">Adresa skrytého odesílatele</string>
   <string name="hint_search_sms">%d SMS</string>
+  <string name="hms_first_use_tips">Pro přijímání zpráv služeb je nutné připojení k Wi-Fi.</string>
   <string name="importing_progress_private_message">Importování zpráv do soukromé schránky</string>
   <string name="in_sms">Zpráva</string>
   <string name="insufficient_drm_rights">Nemáte dostatečná práva DRM.</string>
@@ -362,6 +367,7 @@ Nahlaste chyby a odešlete Váš názor přímo do Xiaomi."</string>
   <string name="restore_blocked_message">Obnovit zprávy</string>
   <string name="restore_to_phone_memory_failed">Obnovení selhalo</string>
   <string name="restored_to_phone_memory">"Obnoveno do paměti telefonu"</string>
+  <string name="retrive_hms_tips">Načítání...</string>
   <string name="save">Uložit</string>
   <string name="save_ringtone">Uložit jako vyzvánění</string>
   <string name="save_to_sim">Uložit na SIM kartu</string>
@@ -386,6 +392,7 @@ Nahlaste chyby a odešlete Váš názor přímo do Xiaomi."</string>
   <string name="select_recipient">Příjemce</string>
   <string name="select_top_text">Text nahoře</string>
   <string name="send">Poslat</string>
+  <string name="send_hms_editor_hints">Cloudová zpráva</string>
   <string name="send_message_dlg_check_hint">Pamatovat si nastavení</string>
   <string name="send_message_dlg_mgs">CMCC notice: We need to register your device to device management platform to provide the free post-service (Post-service is a platform by CMCC that can manage the terminal devices. It provides you the service of remote settings and app upgrade. ). A free message of device information will be sent for registration. The message will be sent only once and do not need you personal data (Do not send of Hong Kong, Macao, Taiwan and international roaming). Select “OK” to agree to register and use the service. Select “Cancel” to give up and no service will be provided from CMCC.</string>
   <string name="send_message_dlg_title">Správa zařízení</string>
@@ -404,6 +411,7 @@ Nahlaste chyby a odešlete Váš názor přímo do Xiaomi."</string>
   <string name="service_not_activated">Služba není aktivní ve vaší síti.</string>
   <string name="set">Nastavit</string>
   <string name="set_smsc_address_title_miui">Nastavit číslo SMS centra</string>
+  <string name="share_img">Sdílet</string>
   <string name="show_all_messages">Zobrazit všechny zprávy</string>
   <string name="sim_card1">SIM karta 1</string>
   <string name="sim_card2">SIM karta 2</string>
@@ -486,17 +494,9 @@ Pokus: %s."</string>
   <string name="unsupported_media_format">%1$s je v nepodporovaném formátu</string>
   <string name="view">Zobrazit</string>
   <string name="view_bookmark">Zobrazit původní zprávu</string>
+  <string name="view_hms_details">Podrobnosti</string>
   <string name="view_message_details">Zobrazit podrobnosti zprávy</string>
   <string name="wap_push_title">"[WAP Push] "</string>
-  <string name="yes">OK</string>
-  <string name="hms_first_use_tips">Pro přijímání zpráv služeb je nutné připojení k Wi-Fi.</string>
-  <string name="retrive_hms_tips">Načítání...</string>
-  <string name="send_hms_editor_hints">Cloudová zpráva</string>
-  <string name="view_hms_details">Podrobnosti</string>
   <string name="xiaomi_service_number">Číslo služby</string>
-  <string name="file_create_time">Vytvořeno:</string>
-  <string name="file_size">Velikost:</string>
-  <string name="file_title">Název:</string>
-  <string name="file_width_height">Velikost:</string>
-  <string name="share_img">Sdílet</string>
+  <string name="yes">OK</string>
 </resources>

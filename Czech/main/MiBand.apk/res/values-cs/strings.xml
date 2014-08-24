@@ -219,7 +219,7 @@
   <string name="mili_unbind_question">Po odpojení od telefonu už nebude možné přijímat informace z MiBand</string>
   <string name="mili_unbind_question_content">Po odpojení od vašeho telefonu můžete MiBand spojit s jiným telefonem nebo připojit jiný MiBand</string>
   <string name="mili_unbind_question_content_1">Pokud jste již nastavili odemykání telefonu pomocí MiBand, tato funkce bude automaticky deaktivována.</string>
- <string name="mininute">min</string>
+  <string name="mininute">min</string>
   <string name="modify_gender">Pohlaví</string>
   <string name="modify_height">Výška</string>
   <string name="modify_nickname">Upravit přezdívku</string>

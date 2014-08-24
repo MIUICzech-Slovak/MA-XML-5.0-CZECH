@@ -1335,7 +1335,7 @@ Dlouhodobý poslech hlasitého zvuku může poškodit sluch."</string>
   <string name="sms_short_code_confirm_allow">Odeslat</string>
   <string name="sms_short_code_confirm_always_allow">Povolit vždy</string>
   <string name="sms_short_code_confirm_deny">Zrušit</string>
-    <string name="sms_short_code_confirm_message">%1$s chce odeslat zprávu na číslo %2$s.</string>
+  <string name="sms_short_code_confirm_message">%1$s chce odeslat zprávu na číslo %2$s.</string>
   <string name="sms_short_code_confirm_never_allow">Nepovolit nikdy</string>
   <string name="sms_short_code_details">Jedná se o zpoplatněnou zprávu. Budou naúčtovány dodatečné poplatky.</string>
   <string name="sms_short_code_remember_choice">Zapamatovat moji volbu</string>

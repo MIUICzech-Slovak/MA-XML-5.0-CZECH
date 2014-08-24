@@ -64,7 +64,9 @@ Poznámka: Zvětšení trojitým klepnutím funguje ve všech částech obrazovk
   <string name="accessibility_service_default_description">K dispozici není žádný popis.</string>
   <string name="accessibility_service_disable_warning_summary">Klepnutím na tlačítko OK službu %1$s ukončíte.</string>
   <string name="accessibility_service_disable_warning_title">Ukončit službu %1$s?</string>
+  <string name="accessibility_service_no_apps_confirm">OK</string>
   <string name="accessibility_service_no_apps_message">TalkBack poskytuje mluvenou navigaci nevidomým a slabozrakým uživatelům. Chcete tuto aplikaci stáhnout zdarma ze služby \nGoogle Play?</string>
+  <string name="accessibility_service_no_apps_prompt">TalkBack poskytuje mluvené navigování nevidoucím a slabozrakým uživatelům. Tuto aplikaci můžete stáhnout zdarma ze služby Google Play.</string>
   <string name="accessibility_service_no_apps_title">Potřebujete čtečku obrazovky?</string>
   <string name="accessibility_service_security_warning_summary">Služba %1$s zaznamenává veškerý text, který napíšete, kromě hesel.\nTo zahrnuje osobní údaje, jako jsou čísla platebních karet. Zaznamenává také údaje o interakci s telefonem.</string>
   <string name="accessibility_service_security_warning_title">Použít službu %1$s?</string>
@@ -496,6 +498,7 @@ Poznámka: Zvětšení trojitým klepnutím funguje ve všech částech obrazovk
   <string name="bluetooth_permission_request">Požadavek na povolení zařízení Bluetooth</string>
   <string name="bluetooth_phonebook_request">Požadavek telefonního seznamu</string>
   <string name="bluetooth_pin_values_hint">Obvykle 0000 nebo 1234</string>
+  <string name="bluetooth_preference_connected_devices">Připojené zařízení</string>
   <string name="bluetooth_preference_device_settings">Nastavení zařízení</string>
   <string name="bluetooth_preference_found_devices">Dostupná zařízení</string>
   <string name="bluetooth_preference_paired_devices">Párovaná zařízení</string>
@@ -599,6 +602,8 @@ Poznámka: Zvětšení trojitým klepnutím funguje ve všech částech obrazovk
   <string name="button_text_uninstall_apps">Odinstalovat</string>
   <string name="button_text_view">Zobrazit</string>
   <string name="button_text_view_power">Zobrazit výkon</string>
+  <string name="cache_data_sort_type_item_name">Název</string>
+  <string name="cache_data_sort_type_item_size">Velikost</string>
   <string name="cache_garbage">Cache</string>
   <string name="cache_header_label">Cache</string>
   <string name="cache_list_empty_hints">Žádná cache souborů</string>
@@ -880,6 +885,8 @@ Toto nastavení ovlivní všechny uživatele tohoto telefonu."</string>
   <string name="deep_clean_title_residual">Staré soubory</string>
   <string name="deep_clean_title_uninstall_apps">Aplikace</string>
   <string name="deep_cleaning">Pokročilé</string>
+  <string name="deepclean_cache_header_left">Cache souborů: %d</string>
+  <string name="deepclean_sort_type_title">Seřadit</string>
   <string name="default_date_format">MM/dd/yyyy</string>
   <string name="default_input_method">Vybrat výchozí vstupní metodu</string>
   <string name="default_sdcard_select_msg">"Pokud zvolíte %1$s, aplikace nainstalované na %2$s nebude možné používat a zařízení se restartuje, změnit na %3$s?"</string>
@@ -1068,6 +1075,7 @@ Toto nastavení ovlivní všechny uživatele tohoto telefonu."</string>
   <string name="edit_whitelist">Upravit poznámku</string>
   <string name="emergency_tone_summary">Nastavit chování při tísňovém volání</string>
   <string name="emergency_tone_title">Tísňové vyzvánění</string>
+  <string name="empty_content_size">Prázdné</string>
   <string name="empty_folder_title">Prázdná složka (%d)</string>
   <string name="empty_folder_title_hints">Prázdná složka</string>
   <string name="empty_list_msg">Žádné aplikace třetích stran nejsou nainstalovány.</string>
@@ -1315,6 +1323,9 @@ Toto nastavení ovlivní všechny uživatele tohoto telefonu."</string>
   <string name="headset_settings">Sluchátka</string>
   <string name="heavy_weight_stop_description">Tuto aplikaci nemůžete bezpečně ukončit. Mohlo by dojít ke ztrátě části Vaší aktuální práce.</string>
   <string name="help_label">Pomoc</string>
+  <string name="high_performance_notif_summary">Baterie se bude vybíjet rychleji</string>
+  <string name="high_performance_notif_title">Výkonný režim je aktivní</string>
+  <string name="high_performance_title">Byl spuštěn Benchmark test. Nastavte "Výkonný režim" pro dosáhnutí nejlepších výsledků.</string>
   <string name="history_details_title">Podrobnosti historie</string>
   <string name="home_app_uninstall_button">Odinstalovat aplikaci</string>
   <string name="home_key">Tlačítko Domů</string>
@@ -1416,6 +1427,8 @@ Toto nastavení ovlivní všechny uživatele tohoto telefonu."</string>
   <string name="language_picker_title">Jazyk</string>
   <string name="language_settings">Jazyk a vstup</string>
   <string name="language_settings_category">Nastavení jazyka</string>
+  <string name="large_file_sort_type_item_name">Název</string>
+  <string name="large_file_sort_type_item_size">Velikost</string>
   <string name="large_file_sort_type_name">Podle názvu</string>
   <string name="large_file_sort_type_size">Podle velikosti</string>
   <string name="large_font">Velká</string>
@@ -2347,6 +2360,10 @@ Vaše zařízení se přepne po obnově baterie do tohoto režimu. Před vymazá
   <string name="print_service_security_warning_title">Chcete použít službu %1$s?</string>
   <string name="print_settings">Tisk</string>
   <string name="print_settings_title">Tiskové služby</string>
+  <string name="priority_storage_app_settings">Uživatelská data budou uložena na %1$s</string>
+  <string name="priority_storage_settings_summary">Pokud není vložena SD karta, uživatelská data budou uložena automaticky na interní úložiště</string>
+  <string name="priority_storage_summary">Vyberte výchozí úložiště pro ukládání dat</string>
+  <string name="priority_storage_title">Nastavení úložiště</string>
   <string name="priority_sub_summary">Vybrat prioritu odběru</string>
   <string name="priority_sub_title">Priorita odběru</string>
   <string name="privacy_mode_enable_sum">Skrýt seznam hovorů, zprávy a ostatní data při aktivním soukromém režimu</string>
@@ -3727,21 +3744,4 @@ Nastavení telefonu může vyžadovat přenos nemalého množství dat."</string
   <string name="zone_auto_summaryOn">Použít časové pásmo ze sítě</string>
   <string name="zone_list_menu_sort_alphabetically">Řadit abecedně</string>
   <string name="zone_list_menu_sort_by_timezone">Řadit podle časového pásma</string>
-  <string name="accessibility_service_no_apps_confirm">OK</string>
-  <string name="accessibility_service_no_apps_prompt">TalkBack poskytuje mluvené navigování nevidoucím a slabozrakým uživatelům. Tuto aplikaci můžete stáhnout zdarma ze služby Google Play.</string>
-  <string name="bluetooth_preference_connected_devices">Připojené zařízení</string>
-  <string name="priority_storage_app_settings">Uživatelská data budou uložena na %1$s</string>
-  <string name="priority_storage_settings_summary">Pokud není vložena SD karta, uživatelská data budou uložena automaticky na interní úložiště</string>
-  <string name="priority_storage_summary">Vyberte výchozí úložiště pro ukládání dat</string>
-  <string name="priority_storage_title">Nastavení úložiště</string>
-  <string name="high_performance_notif_summary">Baterie se bude vybíjet rychleji</string>
-  <string name="high_performance_notif_title">Výkonný režim je aktivní</string>
-  <string name="high_performance_title">Byl spuštěn Benchmark test. Nastavte "Výkonný režim" pro dosáhnutí nejlepších výsledků.</string>
-  <string name="cache_data_sort_type_item_name">Název</string>
-  <string name="cache_data_sort_type_item_size">Velikost</string> 
-  <string name="deepclean_cache_header_left">Cache souborů: %d</string>
-  <string name="deepclean_sort_type_title">Seřadit</string>
-  <string name="empty_content_size">Prázdné</string>
-  <string name="large_file_sort_type_item_name">Název</string>
-  <string name="large_file_sort_type_item_size">Velikost</string>
 </resources>

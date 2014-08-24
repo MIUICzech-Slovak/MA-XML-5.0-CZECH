@@ -132,9 +132,14 @@ společně!"</string>
   <string name="confirm_delete_has_local_image">Vymazat obrázky (%s)?</string>
   <string name="confirm_delete_has_local_image_video">Vymazat položky (%s)?</string>
   <string name="confirm_delete_has_local_video">Vymazat videa (%s)?</string>
+  <string name="confirm_delete_home_merge_item">Vymazat obrázky (%s) v zařízení a cloudu?</string>
   <string name="confirm_delete_init_message">Obrázky budou vymazány z MiCloudu a také z vašeho zařízení. Pokud je chcete vymazat pouze z vašeho zařízení, přejděte na složku Lokální.</string>
   <string name="confirm_delete_init_title">Poznámka</string>
+  <string name="confirm_delete_pictures">Vymazat obrázky (%s)</string>
   <string name="confirm_delete_system_album">%s je systémové album, opravdu vymazat?</string>
+  <string name="confirm_delete_this_picture">Vymazat tento obrázek?</string>
+  <string name="confirm_delete_this_video">Vymazat toto video?</string>
+  <string name="confirm_delete_videos">Vymazat videa (%s)</string>
   <string name="confirm_download">"Potřebujete stáhnout %s. Toto okno se už vícekrát nezobrazí."</string>
   <string name="confirm_download_video_message">Pro přehrání je nutné nejprve celé video stáhnout. Stahování bude obnoveno po připojení na Wi-Fi.</string>
   <string name="confirm_download_video_title">Stáhnout video</string>
@@ -149,7 +154,9 @@ společně!"</string>
   <string name="crop">Ořezat</string>
   <string name="crop_fail_to_load_image">Načítání obrázku pro ořezání selhalo.</string>
   <string name="crop_label">Ořezat obrázek</string>
+  <string name="crop_recognize_text">Rozpoznat</string>
   <string name="crop_save_text">Ořezat</string>
+  <string name="crop_save_text_setas">Použít</string>
   <string name="crop_tooltip">Posuň značky pro ořezání snímku</string>
   <string name="crossprocess">Překrytí</string>
   <string name="cut">Ořezání</string>
@@ -389,6 +396,8 @@ společně!"</string>
   <string name="posterize">Posterizovat</string>
   <string name="ppmm_gallery">PPMM</string>
   <string name="preparing_data_to_delete">Příprava obrázků na vymazání.</string>
+  <string name="priority_storage">Uložit na SD kartu</string>
+  <string name="priority_storage_summary">Ukládat soubory automaticky na SD kartu.</string>
   <string name="projection">Projekce</string>
   <string name="public_url_descript">Kdokoliv má přístup k albu přes tuto URL</string>
   <string name="publish_failed">Zveřejnění selhalo.</string>
@@ -397,6 +406,7 @@ společně!"</string>
   <string name="qqbrowser_img">Prohlížeč QQ</string>
   <string name="qsbk_save">QSBK</string>
   <string name="recipient_editor_count_format">%d</string>
+  <string name="recognizing_image">Rozpoznávání...</string>
   <string name="redeye">Červené oči</string>
   <string name="redeye_tooltip">Klikni pro odstranění červených očí</string>
   <string name="refocus_data_downloading">Stahování dat na přeostření...</string>
@@ -538,7 +548,10 @@ společně!"</string>
   <string name="ubifocus_data_missing">Nelze přeostřit kvůli chybějícím datům</string>
   <string name="ubifocus_guide_text">Pro přeostření podržte asi půl sekundy</string>
   <string name="ubifocus_map_error">Chybí data</string>
+  <string name="ubifocus_refocus_data_missing">Nelze přeostřit kvůli chybějícím datům</string>
+  <string name="ubifocus_refocus_download_tip">Nejdříve stáhněte data pro přeostření</string>
   <string name="ubifocus_refocus_fail_tip">Nelze přeostřit kvůli chybějícím datům</string>
+  <string name="ubifocus_refocus_map_error">Nelze přeostřit kvůli chybějícím datům</string>
   <string name="ucdownloads_screenshot">Prohlížeč UC</string>
   <string name="unit_mm">mm</string>
   <string name="unpublish_failed">Odstranění z veřejných alb selhalo.</string>
@@ -564,17 +577,4 @@ společně!"</string>
   <string name="width">Šířka</string>
   <string name="yellow_page">Složka</string>
   <string name="yes">Ano</string>
-  <string name="confirm_delete_home_merge_item">Vymazat obrázky (%s) v zařízení a cloudu?</string>
-  <string name="confirm_delete_pictures">Vymazat obrázky (%s)</string>
-  <string name="confirm_delete_this_picture">Vymazat tento obrázek?</string>
-  <string name="confirm_delete_this_video">Vymazat toto video?</string>
-  <string name="confirm_delete_videos">Vymazat videa (%s)</string>
-  <string name="ubifocus_refocus_data_missing">Nelze přeostřit kvůli chybějícím datům</string>
-  <string name="ubifocus_refocus_download_tip">Nejdříve stáhněte data pro přeostření</string>
-  <string name="ubifocus_refocus_map_error">Nelze přeostřit kvůli chybějícím datům</string>
-  <string name="priority_storage">Uložit na SD kartu</string>
-  <string name="priority_storage_summary">Ukládat soubory automaticky na SD kartu.</string>
-  <string name="crop_recognize_text">Rozpoznat</string>  
-  <string name="crop_save_text_setas">Použít</string>
-  <string name="recognizing_image">Rozpoznávání...</string>
 </resources>

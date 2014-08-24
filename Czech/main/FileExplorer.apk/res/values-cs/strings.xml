@@ -55,6 +55,7 @@ Váš účet bude dočasně zablokovaný,
   <string name="compress_title">Zabalit</string>
   <string name="confirm">OK</string>
   <string name="confirm_know">OK</string>
+  <string name="connect_network_setting_des">Upozornit na přístup k internetu</string>
   <string name="copy_failed">Kopírování selhalo</string>
   <string name="count_down_time">Začne za %d s</string>
   <string name="create_kuaipan_shortcut_pref">Vytvořit ikonu na ploše</string>
@@ -113,6 +114,7 @@ Váš účet bude dočasně zablokovaný,
   <string name="file_too_large">Soubor je příliš velký</string>
   <string name="finished">Dokončeno</string>
   <string name="folder_exist">Složka již existuje</string>
+  <string name="folder_name_illegal">Chyba v názvu složky</string>
   <string name="forward_to_web_recycle_prompt">\"%1$s\" Klepněte zde pro otevření koše v Cloudu</string>
   <string name="ftp_account_req_notice">Uživatelské jméno a heslo, 4~16 znaků, obsahovat čísla, písmena...</string>
   <string name="ftp_anonymous_login">Anonymní FTP</string>
@@ -193,6 +195,8 @@ Server je momentálně nedostupný, zkuste to znovu později
   <string name="name_illegal">Název souboru nesmí být prázdný</string>
   <string name="net_lose_connected">Síť není dostupná, nelze získat velikost</string>
   <string name="networkView_notConnected">Žádná síť k dispozici</string>
+  <string name="network_connect_confirm_des">Používání MiDrive vyžaduje přístup k internetu. Souhlasíte?</string>
+  <string name="never_notify_network_connect">Znovu se neptat</string>
   <string name="new_folder_name">Nová složka</string>
   <string name="no">Ne</string>
   <string name="no_app_cache_indication">Žádná cache aplikací</string>
@@ -216,6 +220,7 @@ Server je momentálně nedostupný, zkuste to znovu později
   <string name="open_changed_file_title">Soubor je změněný</string>
   <string name="open_file_failed">Otevírání selhalo</string>
   <string name="operating">Pracuji...</string>
+  <string name="operation_agree">OK</string>
   <string name="operation_cancel">Zrušit</string>
   <string name="operation_compress">Zabalit</string>
   <string name="operation_compressing">Komprimuji...</string>
@@ -295,6 +300,7 @@ Bylo přičteno dalších %1$s"</string>
   <string name="storage_warning">SD karta není přístupná, nebo ji nelze přečíst.</string>
   <string name="sys_size">Celková kapacita %1$s</string>
   <string name="sys_size_title">Celková kapacita úložiště</string>
+  <string name="system_alert">Upozornění</string>
   <string name="tab_category">Kategorie</string>
   <string name="tab_networkdisk">MiDrive</string>
   <string name="tab_phone">Telefon</string>
@@ -345,10 +351,4 @@ k uvolnění místa</string>
   <string name="wifi_state">Stav Wi-Fi</string>
   <string name="xiaomi_account">Xiaomi účet</string>
   <string name="yes">Ano</string>
-  <string name="connect_network_setting_des">Upozornit na přístup k internetu</string>
-  <string name="network_connect_confirm_des">Používání MiDrive vyžaduje přístup k internetu. Souhlasíte?</string>
-  <string name="never_notify_network_connect">Znovu se neptat</string>
-  <string name="operation_agree">OK</string>
-  <string name="system_alert">Upozornění</string>
-  <string name="folder_name_illegal">Chyba v názvu složky</string>
 </resources>
