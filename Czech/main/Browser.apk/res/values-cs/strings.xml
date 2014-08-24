@@ -634,7 +634,7 @@ Opravdu chcete odejít z této stránky?"</string>
   <string name="pref_adblock_title">Blokování reklam</string>
   <string name="pref_clear_adblock_statistics">Vymazat statistiky Adblock</string>
   <string name="pref_clear_adblock_statistics_dlg">Vymazat všechny statistiky Adblock?</string>
-  <string name="pref_enable_adblock_notification">Blokování reklam</string>
+  <string name="pref_enable_adblock_notification">Upozornit na blokovanou reklamu</string>
   <string name="close_cloud_tab_tip">Zavřít cloudové karty na %s ?</string>
   <string name="cloud_sync_closed_toast">Synchr. Cloudu je deaktivována</string>
   <string name="cloud_sync_failed_toast">Aktualizace selhala</string>
