@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
-<!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
-<resources>
-    <dimen name="v5_text_font_size_main_page_title">22.0sp</dimen>
-    <dimen name="v5_text_font_size_primary">15.0sp</dimen>
-    <dimen name="v5_text_font_size_small">11.0sp</dimen>
-    <dimen name="v5_text_font_size_tab">13.0sp</dimen>
-</resources>
