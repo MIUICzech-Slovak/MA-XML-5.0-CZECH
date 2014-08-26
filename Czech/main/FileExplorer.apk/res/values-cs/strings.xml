@@ -86,7 +86,6 @@ Váš účet bude dočasně zablokovaný,
   <string name="directory_info_divider">"  |  "</string>
   <string name="directory_no_item">Prázdná složka</string>
   <string name="dlg_error_unmount_text">"Nelze odebrat USB úložiště. Zkuste to znovu."</string>
-  <string name="download_current_progress">%1$d/100</string>
   <string name="download_failed">Stahování selhalo!</string>
   <string name="download_link_completed">Sdílím %1$s přes MiDrive. Klikněte na odkaz níže: </string>
   <string name="downloading">Stahování...</string>
@@ -351,4 +350,11 @@ k uvolnění místa</string>
   <string name="wifi_state">Stav Wi-Fi</string>
   <string name="xiaomi_account">Xiaomi účet</string>
   <string name="yes">Ano</string>
+  <string name="copy_file_to_kuaipan">Kopírovat na MiDrive</string>
+  <string name="downloading_in_3g">Stahování přes 3G...</string>
+  <string name="file_already_downlaoded">Soubor uložen do \"%1$s\"</string>
+  <string name="image_download">Stáhnout</string>
+  <string name="image_share">Sdílet</string>
+  <string name="operate_confirm_in_3g">Použít mobilní data pro stáhnutí tohoto velkého souboru?</string>
+  <string name="operation_save">Uložit</string> 
 </resources>

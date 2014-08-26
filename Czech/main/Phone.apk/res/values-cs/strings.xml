@@ -1202,4 +1202,10 @@
   <string name="xdivert_sub_absent">Obě předplatné by měly být pro zpracování X-Divert aktivovány</string>
   <string name="xdivert_summary">Nastavení CFNRc</string>
   <string name="xdivert_title">X-Divert</string>
+  <string name="dialog_network_priority_title">Priorita</string>
+  <string name="gsm_umts_network_preferences_dialogtitle">Režim sítě</string>
+  <string name="gsm_umts_network_preferences_title">Režim sítě</string>
+  <string name="network_id">ID sítě</string>
+  <string name="uplmn_list_setting_add_plmn">Nový PLMN</string>
+  <string name="uplmn_list_setting_title">Preferované sítě</string>
 </resources>

@@ -22,7 +22,7 @@
   <string name="app_installing">Instalování...</string>
   <string name="app_manager_get_data_failed">Nepodařilo se získat seznam nainstalovaných aplikací</string>
   <string name="app_manager_no_data">Žádná nová data</string>
-  <string name="app_name">Ovladač</string>
+  <string name="app_name">MiRemote</string>
   <string name="app_open">Spustit</string>
   <string name="app_size">Velikost: %1$s</string>
   <string name="app_uninstall">Odinstalovat</string>

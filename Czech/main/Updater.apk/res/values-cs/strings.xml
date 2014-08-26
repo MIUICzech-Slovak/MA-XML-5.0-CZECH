@@ -88,7 +88,7 @@ https://account.xiaomi.com/pass/serviceLogin""</string>
   <string name="my_worst_update">Nejhorší update</string>
   <string name="network_error">Připojení nelze navázat, prosím zkuste znovu</string>
   <string name="new_update_content_notification_shade"/>
-  <string name="new_update_content_title">"Verze: "</string>
+  <string name="new_update_content_title">Dostupná nová verze MIUI</string>
   <string name="new_update_download_complete_body">Připravena nová verze: %s</string>
   <string name="new_update_downloading_body">Stahuji novou verzi: %s</string>
   <string name="new_updates_found_notification_title">Byla nalezena nová aktualizace!</string>

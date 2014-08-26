@@ -11,6 +11,19 @@
         <item>To je za %2$s %3$s</item>
         <item>To je za %1$s %2$s %3$s</item>
     </string-array>
+	<string-array name="contact_entries">
+        <item>Jméno</item>
+        <item>Přezdívka</item>
+        <item>Telefon</item>
+        <item>E-mail</item>
+        <item>Firma</item>
+        <item>Chat</item>
+        <item>SIP</item>
+        <item>Narozeniny</item>
+        <item>Web</item>
+        <item>Adresa</item>
+        <item>Poznámka</item>
+    </string-array>
 	<string-array name="mobile_operator_numeric_values">
         <item>23430</item>
         <item>310410</item>
