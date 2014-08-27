@@ -70,7 +70,7 @@
   <string name="delete_file_from_sdcard">Současně odstranit soubory z SD karty</string>
   <string name="delete_item">Vymazat</string>
   <string name="delete_playlist_menu">Vymazat</string>
-  <string name="delete_song_desc">%s bude nenávratně smazáno z SD karty.</string>
+  <string name="delete_song_desc">%s</string>
   <string name="deselect_all">Odznačit vše</string>
   <string name="dirac_mode_earbuds">Xi. sluchátka</string>
   <string name="dirac_mode_general">Obyčejné</string>
