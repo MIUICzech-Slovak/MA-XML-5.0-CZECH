@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" ?> 
 <resources>
  <string-array name="weeks">
-  <item>V pondělí</item> 
-  <item>V úterý</item> 
-  <item>Ve středu</item> 
-  <item>Ve čtvrtek</item> 
-  <item>V pátek</item> 
-  <item>V sobotu</item> 
-  <item>V neděli</item> 
+  <item>Po</item> 
+  <item>Út</item> 
+  <item>St</item> 
+  <item>Čt</item> 
+  <item>Pá</item> 
+  <item>So</item> 
+  <item>Ne</item> 
   </string-array>
  <string-array name="weeks_short">
-  <item>1.</item> 
-  <item>2.</item> 
-  <item>3.</item> 
-  <item>4.</item> 
-  <item>5.</item> 
-  <item>6.</item> 
-  <item>7.</item> 
+  <item>Po</item> 
+  <item>Út</item> 
+  <item>St</item> 
+  <item>Čt</item> 
+  <item>Pá</item> 
+  <item>So</item> 
+  <item>Ne</item> 
   </string-array>
  <string-array name="months">
   <item>Leden</item> 
@@ -31,24 +31,6 @@
   <item>Říjen</item> 
   <item>Listopad</item> 
   <item>Prosinec</item> 
-  </string-array>
- <string-array name="select_days">
-  <item>Pondělí</item> 
-  <item>Úterý</item> 
-  <item>Středa</item> 
-  <item>Čtvrtek</item> 
-  <item>Pátek</item> 
-  <item>Sobota</item> 
-  <item>Neděle</item> 
-  </string-array>
- <string-array name="short_days">
-  <item>1.</item> 
-  <item>2.</item> 
-  <item>3.</item> 
-  <item>4.</item> 
-  <item>5.</item> 
-  <item>6.</item> 
-  <item>7.</item> 
   </string-array>
  <string-array name="select_days_simple">
   <item>Jednou</item> 

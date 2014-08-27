@@ -36,12 +36,12 @@ Souhlas: %2$s"</string>
   <string name="before_min">před %s min.</string>
   <string name="bin_weixin_device_not_connect">Link with your Wechat to share and compete with your friends.</string>
   <string name="bind_bracelet">Nalezený MiBand</string>
-  <string name="bind_bracelet_ok">Připojit nový MiBand</string>
+  <string name="bind_bracelet_ok">MiBand je připojen</string>
   <string name="bind_new_mili">Propojit nový MiBand</string>
   <string name="bind_weixin_failed">Spojení selhalo, zkuste to znovu</string>
   <string name="bind_weixin_now">Vytváření QR kódu...</string>
   <string name="bind_weixin_qrcode_name">MiBand QR kód</string>
-  <string name="bind_weixin_save">Uložit do galerie</string>
+  <string name="bind_weixin_save">Uloženo do galerie</string>
   <string name="bind_weixin_succ">Connected successfully, use your wechat to try!</string>
   <string name="bind_weixin_tips_1">Tap Generate QR code to generate and save a QR code in Gallery.</string>
   <string name="bind_weixin_tips_2">Tap Open Wechat, enter Scan QR code and tap Album to select the QR code saved.</string>
@@ -156,7 +156,7 @@ Adresa: %2$s"</string>
   <string name="finding_bracelet">Vyhledávání MiBand...</string>
   <string name="firmware_upgrade">Aktualizovat firmware</string>
   <string name="firmware_version">Verze Firmware</string>
-  <string name="found_bracelet_info">Když blikají 3 LED na MiBand, dotkněte se ho pro propojení se zařízením</string>
+  <string name="found_bracelet_info">Když blikají LED na MiBand, dotkněte se ho pro propojení se zařízením</string>
   <string name="friends_invite2">Pozvat</string>
   <string name="friends_search">Vyhledat</string>
   <string name="friends_search_tips">Xiaomi ID, jméno/e-mail/číslo</string>
@@ -228,7 +228,7 @@ Adresa: %2$s"</string>
   <string name="mili_exit_login_info_continue_tip">Pokračovat?</string>
   <string name="mili_exit_login_info_exiting">Ukončování...</string>
   <string name="mili_exit_login_info_unbind">Ukončení odstraní současné propojení MiBand s telefonem,</string>
-  <string name="mili_exit_login_info_unlock">Odemknutí telefonu se deaktivuje.</string>
+  <string name="mili_exit_login_info_unlock">odemknutí telefonu se deaktivuje.</string>
   <string name="mili_name">Název MiBand</string>
   <string name="mili_name_too_long">Název MiBand je příliš dlouhý.</string>
   <string name="mili_rename_fail">Nelze přejmenovat MiBand</string>
@@ -431,7 +431,7 @@ Highest daily record is %4$s, walked %5$s steps."</string>
   <string name="unit_meter">m</string>
   <string name="unit_min">min</string>
   <string name="unit_min_short">min</string>
-  <string name="unit_step">Kroků</string>
+  <string name="unit_step">kroků</string>
   <string name="unknown_location">Neznámá poloha</string>
   <string name="unknown_mili">Můj</string>
   <string name="unlock_screen">Odemknout obrazovku</string>
