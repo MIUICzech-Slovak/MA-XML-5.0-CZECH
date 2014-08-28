@@ -3,12 +3,12 @@
 <resources>
   <string name="Import">Import</string>
   <string name="access_sd_fail">"Není možný přístup na SD kartu"</string>
-  <string name="accessibilit_camera_video_switch_picker_and_state">Přepnout Foto a Video (Aktualně je %s)</string>
+  <string name="accessibilit_camera_video_switch_picker_and_state">Přepnout Foto a Video (Aktuálně je %s)</string>
   <string name="accessibility_camera_auto_flashmode">Auto-Blesk</string>
   <string name="accessibility_camera_flash_closemode">Bez blesku</string>
   <string name="accessibility_camera_flashmode">Vždy</string>
   <string name="accessibility_camera_picker">Výběr přední/zadní kamery</string>
-  <string name="accessibility_close_more_ptions">zatvoriť nastavení</string>
+  <string name="accessibility_close_more_ptions">Zavřít nastavení</string>
   <string name="accessibility_ev_control">Ovládání vyrovnání expozice</string>
   <string name="accessibility_flash_mode_button">Blesk</string>
   <string name="accessibility_more_ptions_closed">Více nastavení deaktivováno</string>
