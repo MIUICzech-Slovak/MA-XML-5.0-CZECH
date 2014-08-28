@@ -527,4 +527,8 @@
   <string name="wifi_security">Zabezpečení:</string>
   <string name="wifi_ssid">SSID:</string>
   <string name="wifi_warning">Před připojením se ujistěte, že tato Wi-Fi síť je bezpečná</string>
+  <string name="burst_shoot_exit_button_text">Ukončit</string>
+  <string name="pref_burst_shoot_title">Dávkové snímání</string>
+  <string name="pref_long_press_shutter_button_focus_title">Dlouhé podržení spouště zaostří</string>
+  <string name="pref_priority_storage_title">Prioritně ukládat na SD kartu</string>
 </resources>
