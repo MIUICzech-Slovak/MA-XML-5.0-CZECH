@@ -3744,4 +3744,7 @@ Nastavení telefonu může vyžadovat přenos nemalého množství dat."</string
   <string name="zone_auto_summaryOn">Použít časové pásmo ze sítě</string>
   <string name="zone_list_menu_sort_alphabetically">Řadit abecedně</string>
   <string name="zone_list_menu_sort_by_timezone">Řadit podle časového pásma</string>
+  <string name="ime_privacy_policy">Podmínky soukromí metody zadávání dat</string>
+  <string name="ime_privacy_policy_no_network">Žádné internetové připojení. Můžete si přečíst podmínky na %s</string>
+  <string name="provision_inputmethod_policy_description">Zobrazit podmínky soukromí spojené s vaší metodou zadávání dat</string>
 </resources>

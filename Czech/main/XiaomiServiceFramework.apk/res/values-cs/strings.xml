@@ -331,5 +331,7 @@ s "</string>
   <string name="wrong_captcha">Nesprávný captcha kód</string>
   <string name="wrong_vcode">Nesprávný kód</string>
   <string name="xiaomi_cloud_service">MiCloud</string>
+  <string name="user_agreement_p6">Povolením synchr. souhlasíte s </string>
+  <string name="user_agreement_p7">"Podmínkami používání MiCloud"</string>
   <string name="xmpp_server_addr"/>
 </resources>
