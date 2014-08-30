@@ -356,5 +356,11 @@ k uvolnění místa</string>
   <string name="image_download">Stáhnout</string>
   <string name="image_share">Sdílet</string>
   <string name="operate_confirm_in_3g">Použít mobilní data pro stáhnutí tohoto velkého souboru?</string>
-  <string name="operation_save">Uložit</string> 
+  <string name="operation_save">Uložit</string>
+  <string name="google_play">Obchod Play</string>
+  <string name="ignore">Ignorovat</string>
+  <string name="kuaipan_alert_message">Stáhněte MiDrive aplikaci z Obchodu Play a přihlaste se svým Xiaomi účtem.</string>
+  <string name="kuaipan_alert_title">Upozornění</string>
+  <string name="kuaipan_app">MiDrive App</string>
+  <string name="kuaipan_can_not_find_play">Obchod Play nebyl nalezen</string> 
 </resources>

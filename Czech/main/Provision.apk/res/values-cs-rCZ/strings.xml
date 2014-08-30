@@ -33,4 +33,10 @@
   <string name="traffic_protection_text_hint">Zadejte limit mobilních dat</string>
   <string name="traffic_protection_unknown">Zadat později</string>
   <string name="use_data">Povolit data</string>
+  <string name="privacy_policy">Ochrana soukromí</string>
+  <string name="terms_agree">Souhlasím</string>
+  <string name="terms_description">Musíte souhlasit s Podmínkami používání a Ochrany soukromí pro pokračování v MIUI.</string>
+  <string name="terms_disagree">Zrušit</string>
+  <string name="terms_label">Podmínky používání</string>
+  <string name="terms_of_service">Podmínky používání</string>
 </resources>

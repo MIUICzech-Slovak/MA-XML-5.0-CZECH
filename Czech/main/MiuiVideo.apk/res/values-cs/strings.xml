@@ -398,4 +398,10 @@
   <string name="yestorday">"Včera" </string>
   <string name="yinyuetai">YinYueTai</string>
   <string name="youku">Youku</string>
+  <string name="ad_moredetail">Více</string>
+  <string name="live_tabs_my">Moje Kanály</string>
+  <string name="prefix_countdown">Reklama:</string>
+  <string name="setting_network_alert">Upozornění na připojení</string>
+  <string name="setting_network_alert_summery">Zobrazit upozornění před připojením na internet</string>
+  <string name="suffix_countdown">s</string>
 </resources>

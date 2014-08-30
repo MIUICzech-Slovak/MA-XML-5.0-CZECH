@@ -94,4 +94,7 @@
   <string name="undo">Zpět</string>
   <string name="widget_havenot_content">Žádná poznámka není vytvořena.</string>
   <string name="widget_under_visit_mode">Režim Soukromí, není možné zobrazit obsah poznámky</string>
+  <string name="alert_message_edit_anyway">Pokud upravíte tuto poznámku, její obsah může být ztracen.</string>
+  <string name="alert_title_edit_anyway">Tato poznámka obsahuje nepodporovaný obsah</string>
+  <string name="error_unsupport_content">Tato poznámka obsahuje nepodporovaný obsah, dotkněte se pro aktualizaci aplikace</string>
 </resources>

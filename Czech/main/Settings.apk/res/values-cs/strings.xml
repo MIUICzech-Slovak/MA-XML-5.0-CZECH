@@ -3747,4 +3747,5 @@ Nastavení telefonu může vyžadovat přenos nemalého množství dat."</string
   <string name="ime_privacy_policy">Podmínky soukromí metody zadávání dat</string>
   <string name="ime_privacy_policy_no_network">Žádné internetové připojení. Můžete si přečíst podmínky na %s</string>
   <string name="provision_inputmethod_policy_description">Zobrazit podmínky soukromí spojené s vaší metodou zadávání dat</string>
+  <string name="config_list_label">Nastavené sítě</string>
 </resources>

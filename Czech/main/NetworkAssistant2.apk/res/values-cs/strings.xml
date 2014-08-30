@@ -237,4 +237,12 @@ Během datového přenosu se text a obrázky komprimují na serveru a tím se ur
   <string name="usage_sorted_activity_lable">Spotřeba dat</string>
   <string name="usage_sorted_empty_text">Prázdné</string>
   <string name="usage_sorted_loading_text">Načítání...</string>
+  <string name="datausage_ignore_app_list_count">Ignorování spotřeby dat %d apl.</string>
+  <string name="pref_data_usage_ignore_settings">Ignorovat spotřebu dat</string>
+  <string name="pref_data_usage_ignore_settings_summary">Nesledovat spotřebu dat pro tyto aplikace</string>
+  <string name="traffic_config_alert_cancel">Zrušit</string>
+  <string name="traffic_config_alert_nomore">Znovu se neptat</string>
+  <string name="traffic_config_alert_ok">OK</string>
+  <string name="traffic_config_alert_setted">Nastaveno</string>
+  <string name="traffic_config_alert_title">%s korekce</string>
 </resources>

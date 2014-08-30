@@ -640,4 +640,8 @@ Opravdu chcete odejít z této stránky?"</string>
   <string name="webview_yesterday">Včera</string>
   <string name="week_picker_dialog_title">Nastavit týden</string>
   <string name="xiaomi_bookmark_title">Xiaomi</string>
+  <string name="show_check_security_url_check_tip_dialog_description">Pro zajištění bezpečnosti vašich dat, bude tato URL odeslána na server, kde se ověří, zda neobsahuje škodlivý kód. Pokud tuto službu nepotřebujete, můžete ji deaktivovat v nastavení prohlížeče.</string>
+  <string name="show_check_security_url_check_tip_dialog_title">Kontrola URL</string>
+  <string name="pref_check_security_url_summary">Odeslat URL adresu pro kontrolu její bezpečnosti</string>
+  <string name="pref_check_security_url_title">Kontrola bezpečnosti URL</string>
 </resources>
