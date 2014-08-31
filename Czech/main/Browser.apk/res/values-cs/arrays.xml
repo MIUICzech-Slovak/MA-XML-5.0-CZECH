@@ -74,5 +74,15 @@
         <item>Zelená</item>  
         <item>Modrá</item>  
         <item>Tmavá</item>  
-        </string-array> 
+    </string-array>
+    <string-array name="search_bar_search_engines_rCN">
+       <item>google</item>
+       <item>yahoo</item>
+       <item>bing</item>
+    </string-array>
+    <string-array name="search_engines_rCN">
+       <item>google</item>
+       <item>yahoo</item>
+       <item>bing</item>
+    </string-array>
 </resources>
