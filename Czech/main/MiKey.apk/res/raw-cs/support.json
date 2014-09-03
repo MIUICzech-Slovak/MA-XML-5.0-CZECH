@@ -37,6 +37,11 @@
     "name" : "com.xiaomi.miclick.core.action.AudioRecorderAction",
     "sortId" : 6
   },
+  { "groupId" : 1,
+        "groupName" : "Aplikace",
+        "name" : "com.xiaomi.miclick.core.action.KuaidiAction",
+        "sortId" : 7
+    },
   { "mutex" : [ "com.xiaomi.miclick.core.action.TorchAction"],
     "groupId" : 1,
     "groupName" : "Aplikace",

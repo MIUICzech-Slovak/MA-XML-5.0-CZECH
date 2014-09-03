@@ -22,9 +22,9 @@ localization_Czech_table = {
 
     welcome_use="Vítejte, já jsem váš MiBand.",
     last_week_walked_format='Minulý týden jste ušli %d kroků.',
-    last_week_walked_info_format='Ušli jste %d km a spálili %d kcal.',
+    last_week_walked_info_format='Ušli jste %d km a spálili %d cal.',
     last_month_walked_format='Minulý měsíc jste ušli %d kroků.',
-    last_month_walked_info_format='Ušli jste %d km a spálili %d kcal.',
+    last_month_walked_info_format='Ušli jste %d km a spálili %d cal.',
 
     get_over_format=", kolem %dg tuku.",
     click_to_get_help="Mrkněte co dokáže MiBand.",
@@ -49,11 +49,11 @@ localization_Czech_table = {
     activie_run_format_0="Uběhli jste %s. Skvělé!",
     activie_run_format_1="Uběhli jste %s. Jen tak dál!",
     activie_run_format_2="Uběhli jste %s, Neskutečné!",
-    activie_run_consumed="Uběhli jste %d kcal. %s",
+    activie_run_consumed="Uběhli jste %d cal. %s",
 
     get_distance_format=", celkem z %dm.",
     activity_walk_format="%s Chůze %d kroků %s",
-    activity_walk_consumed_format="Spálené %d kcal %s",
+    activity_walk_consumed_format="Spálené %d cal %s",
 
     activity_activity_format="%s učinil %s %s",
     last_night_sleeped_good_format="Minulou noc trval spánek %dh %dmin. Skvělý spánek!",
@@ -65,4 +65,7 @@ localization_Czech_table = {
 
     cannot_find_bracelet="Nebylo možné najít váš MiBand?",
     cannot_find_bracelet_info="Ujistěte se, že váš MiBand je nabitý a nachází se v blízkosti vašeho telefonu.",
+    challenge_to_get="%s dní od nového rekordu!",
+    record_reach_max="Byl dosažen váš rekord!",
+    new_record_born="Nový rekord!",
  }

@@ -8,12 +8,12 @@
   <string name="action_local_ota">Aktualizace z SD karty</string>
   <string name="action_pop_about">Informace</string>
   <string name="action_pop_my_bracelet">Můj MiBand</string>
-  <string name="action_pop_person_info">Osobní informace</string>
+  <string name="action_pop_person_info">Můj profil</string>
   <string name="action_pop_smart_alarms">Inteligentní budík</string>
   <string name="action_pop_unlock_screen">Odemknout zařízení</string>
   <string name="action_pop_weixin_enter">Weixing</string>
   <string name="age">Věk</string>
-  <string name="ages">Rok</string>
+  <string name="ages">Let</string>
   <string name="alarm">Budík</string>
   <string name="alarm_cycle">Cyklus</string>
   <string name="alarm_device_not_connect">Připojte MiBand a upravte nastavení budíku</string>
@@ -34,7 +34,7 @@ Souhlas: %2$s"</string>
   <string name="battery_charging">Nabíjení...</string>
   <string name="battery_low_info">Slabá baterie</string>
   <string name="before_min">před %s min.</string>
-  <string name="bin_weixin_device_not_connect">Link with your Wechat to share and compete with your friends.</string>
+  <string name="bin_weixin_device_not_connect">MiBand není propojen.</string>
   <string name="bind_bracelet">Nalezený MiBand</string>
   <string name="bind_bracelet_ok">MiBand je připojen</string>
   <string name="bind_new_mili">Propojit nový MiBand</string>
@@ -64,7 +64,7 @@ Adresa: %2$s"</string>
   <string name="bracelet_not_found_info">Když bliká LED, zkuste jej vyhledat znovu.</string>
   <string name="bracelet_not_found_title">MiBand nenalezen</string>
   <string name="bt_operation_failed_tips">Chyba Bluetooth, zkuste to znovu</string>
-  <string name="cal">kcal</string>
+  <string name="cal">cal</string>
   <string name="cancel">Zrušit</string>
   <string name="check_upgrade">Aktualizace</string>
   <string name="checking_new_apk">Kontrola nové verze...</string>
@@ -90,8 +90,8 @@ Adresa: %2$s"</string>
   <string name="date_this_month">Tento měsíc</string>
   <string name="date_this_week">Tento týden</string>
   <string name="date_today">Dnes</string>
-  <string name="date_year_month">yyyyMMM</string>
-  <string name="date_year_month_day">yyyy-MMM-d</string>
+  <string name="date_year_month">MMM, yyyy</string>
+  <string name="date_year_month_day">d.MMM yyyy</string>
   <string name="date_yesterday">Včera</string>
   <string name="day">Den</string>
   <string name="day_active_detail">Denní statistiky</string>
@@ -106,15 +106,15 @@ Adresa: %2$s"</string>
   <string name="downloading_apk">MiBand</string>
   <string name="dynamic_detail_modify_sleep_end_time">Upravit čas vstávání</string>
   <string name="dynamic_detail_modify_sleep_start_time">Upravit čas spánku</string>
-  <string name="dynamic_detail_sleep_title">Spánek %s</string>
+  <string name="dynamic_detail_sleep_title">%s</string>
   <string name="dynamic_detail_sleep_title_yesterday">Včerejší spánek</string>
   <string name="dynamic_detail_step_share_title">Aktivity %s</string>
-  <string name="dynamic_detail_step_title">Výsledky %s</string>
+  <string name="dynamic_detail_step_title">%s</string>
   <string name="dynamic_detail_step_title_today">Dnes</string>
   <string name="dynamic_pull_connect_failed">Spojení selhalo, zkuste to znovu</string>
   <string name="dynamic_pull_connect_failed_hint">Je MiBand nabitý?</string>
   <string name="dynamic_pull_connecting_bracelet">Připojování k MiBand...</string>
-  <string name="dynamic_pull_last_sync_time">Poslední synchr.</string>
+  <string name="dynamic_pull_last_sync_time">Poslední synchr. %s</string>
   <string name="dynamic_pull_not_sync_today">Dnes nesynchronizováno</string>
   <string name="dynamic_pull_pull_to_sync">Potáhněte dolů pro synchr.</string>
   <string name="dynamic_pull_release_to_sync">Pusťte pro synchr.</string>
@@ -196,7 +196,7 @@ Adresa: %2$s"</string>
   <string name="help_title_2">Je váš MiBand nabitý?</string>
   <string name="help_title_3">Je MiBand spárovaný s jiným telefonem?</string>
   <string name="hot_des">Energie</string>
-  <string name="hour_1">h</string>
+  <string name="hour_1"/>
   <string name="incoming_call_notify">Příchozí hovor</string>
   <string name="incoming_call_notify_tips">Upozornit každých %ss na zmeškaný hovor</string>
   <string name="input_precise_person_info">Zadejte vaše přesné údaje pro výpočet cvičení a optimálního spánku</string>
@@ -236,15 +236,15 @@ Adresa: %2$s"</string>
   <string name="mili_unbind_question">Po odpojení od telefonu už nebude možné přijímat informace z MiBand</string>
   <string name="mili_unbind_question_content">Po odpojení od vašeho telefonu můžete MiBand spojit s jiným telefonem nebo připojit jiný MiBand</string>
   <string name="mili_unbind_question_content_1">Pokud jste již nastavili odemykání telefonu pomocí MiBand, tato funkce bude automaticky deaktivována.</string>
-  <string name="minute">min</string>
+  <string name="minute"/>
   <string name="modify_gender">Pohlaví</string>
   <string name="modify_height">Výška</string>
   <string name="modify_nickname">Upravit jméno</string>
   <string name="modify_signiture">Upravit stav</string>
   <string name="modify_signiture_hint">Stav</string>
   <string name="modify_weight">Váha</string>
-  <string name="mon_fri">Pondělí až pátek</string>
-  <string name="mon_sat">Pondělí až sobota</string>
+  <string name="mon_fri">Po až Pá</string>
+  <string name="mon_sat">Po až So</string>
   <string name="month">Měsíc</string>
   <string name="move_and_capture">Hýbat a Zachytit</string>
   <string name="multi_devices_info">Bylo nalezeno více MiBand v okolí. Přejděte dál a zkuste hledání znovu</string>
@@ -253,7 +253,7 @@ Adresa: %2$s"</string>
   <string name="new_friend_accept">Přijmout</string>
   <string name="new_friend_cancel">Zrušit</string>
   <string name="new_record_born">Skvěle! Nový rekord</string>
-  <string name="new_record_format_str">Prochozené %1$s, spálené kalorie %2$s kcal, nový rekord je jen krok v mé dlouhé cestě</string>
+  <string name="new_record_format_str">Prochozené %1$s, spálené kalorie %2$s cal, nový rekord je jen krok v mé dlouhé cestě</string>
   <string name="new_version_available">Dostupná nová verze</string>
   <string name="next_step">Další</string>
   <string name="no_network_connection">Žádné připojení</string>
@@ -286,13 +286,14 @@ Adresa: %2$s"</string>
   <string name="red">Červená</string>
   <string name="register">Registrovat</string>
   <string name="remain_days_format">Dní od nabíjení: %s dní</string>
+  <string name="remain_days_today_format">Méně, než jeden den od nabití</string>
   <string name="rename_mili">Název</string>
   <string name="reset_mili">Restartovat MiBand</string>
   <string name="retry">Znovu</string>
   <string name="right_hand">Pravá ruka</string>
   <string name="runed">Zaběhnuté</string>
   <string name="s_mili">MiBand</string>
-  <string name="search_bracelet">Vyhledat MiBand</string>
+  <string name="search_bracelet">Vyhledávání</string>
   <string name="search_bracelet_again">Nové hledání</string>
   <string name="search_bracelet_ok">MiBand nalezen</string>
   <string name="search_devices_info">Vyhledat MiBand v blízkosti telefonu</string>
@@ -338,14 +339,14 @@ Average sleep time is %5$s, Average awake time is %6$s."</string>
   <string name="share_sleep_title">Minulá noc</string>
   <string name="share_sleep_title_average">Průměrný spánek</string>
   <string name="share_sleep_title_daily">Spánek</string>
-  <string name="share_step_description">"Prochozené %1$s, spálené kalorie %2$s Kcal "</string>
-    <string name="share_step_description_monthly">"Walked %1$s%2$s
- burned %3$s cal, and you saved %4$s gallons gas.
-(thanks for protecting our earth)
-The highest record is %5$s, walked %6$s steps."</string>
-  <string name="share_step_description_weekly">"Did %1$s%2$s
-Burned %3$s cal.
-Highest daily record is %4$s, walked %5$s steps."</string>
+  <string name="share_step_description">"Prochozené %1$s, spálené kalorie %2$s cal "</string>
+    <string name="share_step_description_monthly">"%1$s%2$s
+ spálené %3$s cal, ušetřeno %4$s litrů paliva.
+(Děkujeme, že chráníne životní prostředí)
+Nejvyšší rekord je %5$s, prochozeno %6$s kroků."</string>
+  <string name="share_step_description_weekly">"%1$s%2$s
+Spálené %3$s cal.
+Nejvyšší denní rekord je %4$s, prochozeno %5$s kroků."</string>
   <string name="share_step_goal_failed_title">Celkem</string>
   <string name="share_step_goal_failed_title_today">Celkem</string>
   <string name="share_step_goal_succ_title">Cíl splněn</string>
@@ -425,7 +426,7 @@ Highest daily record is %4$s, walked %5$s steps."</string>
   <string name="unbind_mili">Odpojit MiBand</string>
   <string name="unbind_short">Odpojit</string>
   <string name="unbinding">Odpojování...</string>
-  <string name="unit_calorie">kcal</string>
+  <string name="unit_calorie">cal</string>
   <string name="unit_hour">h</string>
   <string name="unit_kilometer">km</string>
   <string name="unit_meter">m</string>
@@ -460,7 +461,7 @@ Highest daily record is %4$s, walked %5$s steps."</string>
   <string name="wait">Čekejte prosím...</string>
   <string name="walked">prochozené</string>
   <string name="wear_hand">Zápěstí</string>
-  <string name="weared_days">Nošený ve dnech</string>
+  <string name="weared_days">Dní celkem</string>
   <string name="week">Týden</string>
   <string name="welcom_back">Vítejte zpět!</string>
   <string name="welcome">Vítejte</string>
@@ -468,4 +469,8 @@ Highest daily record is %4$s, walked %5$s steps."</string>
   <string name="your_gender">Vaše pohlaví</string>
   <string name="your_height">Výška</string>
   <string name="your_weight">Váha</string>
+  <string name="first_use_days_today_format">Méně, než jeden den od prvního použití.</string>
+  <string name="first_use_remain_days_format">%s dní od prvního použití</string>
+  <string name="until">"Do "</string>
+  <string name="continue_reach_goal_new_record">Vytvořen nový rekord</string>
 </resources>
