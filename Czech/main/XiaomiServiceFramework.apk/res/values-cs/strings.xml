@@ -49,9 +49,9 @@
   <string name="activate_popup_title_failed_receive_sms">Aktivace selhala</string>
   <string name="activate_popup_title_failed_send_sms">Aktivace selhala</string>
   <string name="activate_popup_title_failed_server">Aktivace selhala</string>
-  <string name="activate_popup_title_manual">Aktivace SIM karty</string>
-  <string name="activate_popup_title_new_sim_card">Nová aktivace SIM karty</string>
-  <string name="activate_popup_title_register_account">Registrovat účet</string>
+  <string name="activate_popup_title_manual">Aktivace %s</string>
+  <string name="activate_popup_title_new_sim_card">Nová aktivace %s</string>
+  <string name="activate_popup_title_register_account">Vytvořit účet</string>
   <string name="activate_status_desc_acquire_phone_number">Načítání čísla telefonu ze serveru</string>
   <string name="activate_status_desc_acquire_phone_number_server_error">Chyba serveru při načítání čísla telefonu.</string>
   <string name="activate_status_desc_acquire_phone_number_server_no_info">Nelze načíst číslo telefonu.</string>
@@ -300,11 +300,11 @@ Využito %s | Zbývá %s"</string>
   <string name="sync_dspt">Použijte svůj Xiaomi účet pro synchronizaci dat</string>
   <string name="sync_off">Vyp</string>
   <string name="sync_on">Zap</string>
-  <string name="sync_sub_1_intl_sms">Bude odeslána mezinárodní SMS pro aktivaci vaší SIM karty</string>
-  <string name="sync_sub_1_sms">Bude odeslána SMS pro aktivaci vaší SIM karty</string>
-  <string name="sync_sub_1_sms_1_intl_sms">Bude odeslána mezinárodní a běžná SMS pro aktivaci vašich SIM karet</string>
-  <string name="sync_sub_2_intl_sms">Budou odeslány 2 mezinárodní SMS pro aktivaci vašich SIM karet</string>
-  <string name="sync_sub_2_sms">Budou odeslány 2 SMS pro aktivaci vašich SIM karet</string>
+  <string name="sync_sub_1_intl_sms">Bude odeslána mezinárodní SMS pro aktivaci %s</string>
+  <string name="sync_sub_1_sms">Bude odeslána SMS pro aktivaci %s</string>
+  <string name="sync_sub_1_sms_1_intl_sms">Bude odeslána mezinárodní a běžná SMS pro aktivaci %s</string>
+  <string name="sync_sub_2_intl_sms">Budou odeslány 2 mezinárodní SMS pro aktivaci %s</string>
+  <string name="sync_sub_2_sms">Budou odeslány 2 SMS pro aktivaci %s</string>
   <string name="sync_sub_dspt">Odešle se SMS pro aktivaci služby</string>
   <string name="sync_sub_int_dspt">Bude odeslána mezinárodní SMS pro aktivaci služby</string>
   <string name="title_reg">Zaregistrujte Xiaomi účet</string>
@@ -335,4 +335,23 @@ s "</string>
   <string name="user_agreement_p7">"Podmínkami používání MiCloud"</string>
   <string name="xmpp_server_addr"/>
   <string name="error_ssl_hand_shake">Chyba připojení. Zkuste nastavit správný čas na vašem zařízení.</string>
+  <string name="find_device_additional_alert">Když vyměníte SIM kartu, automaticky se odešle SMS pro aktivaci služeb.</string>
+  <string name="find_device_notice_1">"Když ztratíte vaše zařízení, můžete navštívit "</string>
+  <string name="find_device_notice_2">i.mi.com</string>
+  <string name="find_device_notice_3">" pro jeho vyhledání, uzamknutí a vymazání.
+
+Můžete toto nastavení kdykoliv změnit."</string>
+  <string name="sms_prompt_cloud_messaging">Cloud zprávy</string>
+  <string name="sms_prompt_cloud_service">MiCloud služby</string>
+  <string name="sms_prompt_find_device">Vyhledat zařízení</string>
+  <string name="sms_prompt_sync">synchr.</string>
+  <string name="all_cloud_service_dspt">"Vyberte, které MiCloud služby chcete používat.
+Vaše nastavení můžete kdykoliv změnit."</string>
+  <string name="find_device_dspt_in_all_setting_1">"Vyhledat, zablokovat nebo vymazat vaše zařízení z prohlížeče na "</string>
+  <string name="find_device_dspt_in_all_setting_2">i.mi.com</string>
+  <string name="find_device_dspt_in_all_setting_3"/>
+  <string name="mx_dspt_in_all_setting">Odeslat SMS zprávy komukoliv s MIUI zdarma</string>
+  <string name="sms_prompt_set_all">této služby</string>
+  <string name="sms_prompt_set_single">tuto službu</string>
+  <string name="sync_dspt_in_all_setting">Synchr. vaše fotografie, SMS správy, poznámky a mnohem víc s vašimi zařízeními.</string>
 </resources>
