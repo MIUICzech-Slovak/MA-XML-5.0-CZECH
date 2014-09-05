@@ -22,7 +22,7 @@
   <string name="app_installing">Instalování...</string>
   <string name="app_manager_get_data_failed">Nepodařilo se získat seznam nainstalovaných aplikací</string>
   <string name="app_manager_no_data">Žádná nová data</string>
-  <string name="app_name">MiRemote</string>
+  <string name="app_name">Ovladač</string>
   <string name="app_open">Spustit</string>
   <string name="app_size">Velikost: %1$s</string>
   <string name="app_uninstall">Odinstalovat</string>
@@ -156,4 +156,21 @@
   <string name="video_name_recommend">Doporučit</string>
   <string name="video_name_score">Hodnocení</string>
   <string name="video_play_count_label">Přehráno:</string>
+  <string name="management_video_recent_watch">Nedávné</string>
+  <string name="management_video_favor">Historie</string>
+  <string name="management_app_management">Správa aplikací</string>
+  <string name="management_settings">Nastavit</string>
+  <string name="connected">Připojeno</string>
+  <string name="privacy_title">Podmínky používání</string>
+  <string name="privacy_content">Chystáte se využívat naše služby. Potvrzením souhlasíte s Podmínkami používání a soukromí.</string>
+  <string name="privacy_nohit">Znovu nezobrazovat</string>
+  <string name="privacy_agree">OK</string>
+  <string name="privacy_disagree">Nesouhlasím</string>
+  <string name="mitv_assistant_setting_version">Verze V%1$s</string>
+  <string name="input_complete">Hotovo</string>
+  <string name="input_speech_button">Stiskněte a podržte</string>
+  <string name="app_user_used">Používáno %1$s lidmi</string>
+  <string name="app_open_intv">Otevřít v TV</string>
+  <string name="app_open_inbox">Otevřít v BOXE</string>
+  <string name="speech_init_failed">Nebyla nalezena aplikace iFlytek, chcete ji nainstalovat?</string>
 </resources>
