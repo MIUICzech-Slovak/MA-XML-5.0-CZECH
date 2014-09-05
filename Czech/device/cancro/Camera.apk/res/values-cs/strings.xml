@@ -410,7 +410,7 @@
   <string name="pref_camera_zsl_title">ZSL (okamžitá závěrka)</string>
   <string name="pref_captrue_mirror_entry_off">Vypnuto</string>
   <string name="pref_captrue_mirror_entry_on">Zapnuto</string>
-  <string name="pref_captrue_mirror_title">Přední kamera</string>
+  <string name="pref_captrue_mirror_title">Zrcadlit přední kameru</string>
   <string name="pref_exposure_title">Expozice</string>
   <string name="pref_grp_advanced_settings">Rozšířené Nastavení</string>
   <string name="pref_grp_capture_settings">Nastavení Záznamu</string>
