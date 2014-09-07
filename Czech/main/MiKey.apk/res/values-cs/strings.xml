@@ -186,15 +186,18 @@ Podržte prst na již existující funkci pro její nahrazení nebo vymazání"<
   <string name="write_pic_fail">Chyba ukládání fotografie!</string>
   <string name="tab_mikey">MiKey</string>
   <string name="tab_mikey_sprite">MiKey Wizard</string>
-  <string name="splash_mikey_sprite">"可以拖动小白点儿到屏幕的任何地方
-点击米键就是点击小白点儿下的屏幕"</string>
-  <string name="notify_content_sprite">点击右侧叉号可以关闭</string>
+  <string name="splash_mikey_sprite">"Umístěte MiKey Wizard kdekoliv 
+a stiskem MiKey simulujte dotyk na zvoleném místě"</string>
+  <string name="notify_content_sprite">Křížkem vpravo ukončíte</string>
   <string name="notify_ticker_sprite">MiKey wizard je spuštěn</string>
   <string name="notify_title_sprite">MiKey Wizard</string>
-  <string name="hint_mikey_sprite">"点击米键就是点击屏幕
-发语音、拍照片、打游戏…
-使用米键精灵无法使用米键其它功能"</string>
+  <string name="hint_mikey_sprite">"Umístěte MiKey Wizard kdekoliv 
+a stiskem MiKey simulujte dotyk na zvoleném místě. 
+Během používání MiKey Wizard jsou ostatní funkce MiKey nedostupné."</string>
   <string name="enable_mikey_sprite">Povolit MiKey wizard</string>
   <string name="dialog_title_disable_mikey_sprite">Vypnout MiKey wizard?</string>
   <string name="disable_mikey_sprite">Vypnout MiKey wizard</string>
+  <string name="action_baidusearch">Baidu vyhledávání</string>
+  <string name="select_baidusearch">Baidu vyhledávání</string>
+  <string name="select_baiduvoicesearch">Baidu hlasové vyhledávání</string>
 </resources>
