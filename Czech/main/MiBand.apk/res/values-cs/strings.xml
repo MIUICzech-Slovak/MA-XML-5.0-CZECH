@@ -265,7 +265,7 @@ Adresa: %2$s"</string>
   <string name="noti_bracelet_low_battery_title_none">Slabá baterie v MiBand</string>
   <string name="odo">Celkem</string>
   <string name="one_min">Před minutou</string>
-  <string name="one_week">Jeden týden</string>
+  <string name="one_week">Tento týden</string>
   <string name="orange">Oranžová</string>
   <string name="person_info_finished_info">Nastavení MiBand dokončeno!</string>
   <string name="person_info_goal_info">Podle Světové Zdravotnické Organizace byste měli běhat alespoň 40min denně s minimem 8000 kroků</string>
@@ -327,22 +327,22 @@ Adresa: %2$s"</string>
   <string name="share_continue_goal_format">"Walked total of %1$s steps, %2$s steps per day
 %3$s%4$s"</string>
   <string name="share_goal_tips_fail">Not far from your goal, just need a bit more hard work.</string>
-  <string name="share_goal_tips_succ">"Have a great plan?
-Take your first step."</string>
-  <string name="share_miliao_too_old">MiTalk version is too old.</string>
-  <string name="share_play_ground_format">"It's about %1$s laps of track."</string>
-    <string name="share_sleep_description">"In deep sleep stage for %1$s hr and %2$s min, 
-in light sleep stage for %3$s hr and %4$s min.
-In sleep: %5$s. Awake: %6$s"</string>
-  <string name="share_sleep_description_average">"Average slept %1$s hr %2$s min in deep sleep stage, %3$s hr and %4$s min in light sleep stage.
-Average sleep time is %5$s, Average awake time is %6$s."</string>
+  <string name="share_goal_tips_succ">"Máte skvělý plán?
+Vykročte vpřed."</string>
+  <string name="share_miliao_too_old">Verze MiTalk je příliš zastaralá.</string>
+  <string name="share_play_ground_format">Je to okolo %1$s kol na dráze.</string>
+    <string name="share_sleep_description">"V hlubokém spánku %1$sh a %2$smin, 
+v lehkém spánku %3$sh a %4$smin.
+Spánek: %5$s. Aktivita: %6$s"</string>
+  <string name="share_sleep_description_average">"Průměrně %1$sh %2$smin v hlubokém spánku, %3$sh a %4$smin v lehkém spánku.
+Průměrný čas spánku je %5$s, průměrný čas aktivity %6$s."</string>
   <string name="share_sleep_title">Minulá noc</string>
   <string name="share_sleep_title_average">Průměrný spánek</string>
   <string name="share_sleep_title_daily">Spánek</string>
   <string name="share_step_description">"Prochozené %1$s, spálené kalorie %2$s cal "</string>
     <string name="share_step_description_monthly">"%1$s%2$s
  spálené %3$s cal, ušetřeno %4$s litrů paliva.
-(Děkujeme, že chráníne životní prostředí)
+(Děkujeme, že chráníte životní prostředí)
 Nejvyšší rekord je %5$s, prochozeno %6$s kroků."</string>
   <string name="share_step_description_weekly">"%1$s%2$s
 Spálené %3$s cal.
@@ -353,8 +353,8 @@ Nejvyšší denní rekord je %4$s, prochozeno %5$s kroků."</string>
   <string name="share_step_goal_succ_title_today">Dnešní dosažené výsledky</string>
   <string name="share_step_walk">Prochodil jsem celkem</string>
   <string name="share_to_content">MiBand campaign sharing</string>
-  <string name="share_to_content_sleep">My sleep info</string>
-  <string name="share_to_content_step">My sport info</string>
+  <string name="share_to_content_sleep">Můj spánek</string>
+  <string name="share_to_content_step">Mé sportování</string>
   <string name="share_to_miliao_path">Sdílet s</string>
   <string name="share_to_miliao_target_feeds">Circle</string>
   <string name="share_to_miliao_target_friends">Přátelé</string>
@@ -473,4 +473,38 @@ Nejvyšší denní rekord je %4$s, prochozeno %5$s kroků."</string>
   <string name="first_use_remain_days_format">%s dní od prvního použití</string>
   <string name="until">"Do "</string>
   <string name="continue_reach_goal_new_record">Vytvořen nový rekord</string>
+  <string name="share_step_description_run">"Prochozeno %1$s, Uběhnuto %2$s
+Spáleno %3$scal.
+"</string>
+  <string name="share_step_description_weekly_run">"Celkem %1$s, uběhnuto %2$s
+%3$s
+Nejvyšší denní rekord %4$s, prochozeno %5$s kroků."</string>
+  <string name="share_step_description_monthly_run">"%1$s, uběhnuto %2$s
+ %3$s, a ušetřili jste %4$s litrů paliva.
+(Děkujeme, že chráníte životní prostředí)
+Nejvyšší rekord byl %5$s, prochozeno %6$s kroků."</string>
+  <string name="share_continue_goal_format_run">"Prochozeno %1$s, uběhnuto %2$s kroků
+%3$s
+%4$s"</string>
+  <string name="until_hit_goals">Pokračujte za splněním cíle do %s</string>
+    <string name="bind_weixin_new_tips">"点击“微信接入”启动微信进入小米手环帐号页面，
+然后点击“关注”按钮即可完成接入"</string>
+    <string name="bind_weixin_new_now">正在进行微信接入，请稍候......</string>
+    <string name="bind_weixin_new_disable_tips">"接入微信关注小米手环服务号后即可通过微信查看当
+前步数，并且与朋友圈中的好友们一起PK运动排行"</string>
+    <string name="weather_aqi">Kvalita ovzduší %s</string>
+    <string name="weather_description_rain">Srážky</string>
+    <string name="weather_description_rain_snow">Déšť se sněhem</string>
+    <string name="weather_description_snow">Sněžení</string>
+    <string name="weather_description_sand">Písek</string>
+    <string name="weather_description_fine">Jasno</string>
+    <string name="weather_description_cloudy">Oblačno</string>
+    <string name="weather_description_overcast">Zamračeno</string>
+    <string name="weather_description_fog">Mlha</string>
+    <string name="weather_description_haze">Mlha</string>
+    <string name="fw_low_battery_title">Pro aktualizování FW je nutné nabít MiBand</string>
+    <string name="fw_low_battery_tips" formatted="false">"MiBand je nabitý jen na 5%. Připojte jej k nabíječce 
+a aktualizace se spustí automaticky po nabití MiBand"</string>
+    <string name="fw_low_battery_view_help">Pomoc</string>
+    <string name="in">V </string>
 </resources>

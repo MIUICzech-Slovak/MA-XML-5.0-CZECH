@@ -50,4 +50,46 @@
         <item>Just do it.</item>
         <item>Keep practicing, winning will take care of itself.</item>
   </string-array>
+    <string-array name="weather_rains">
+        <item>Liják</item>
+        <item>Bouřka</item>
+        <item>Déšť</item>
+        <item>Déšť</item>
+        <item>Déšť</item>
+        <item>Liják</item>
+        <item>Liják</item>
+        <item>Mrznoucí déšť</item>
+        <item>Déšť s kroupami</item>
+    </string-array>
+    <string-array name="weather_rain_snows">
+        <item>Déšť se sněhem</item>
+    </string-array>
+    <string-array name="weather_snows">
+        <item>Déšť se sněhem</item>
+        <item>Sněžení</item>
+        <item>Sněžení</item>
+        <item>Sněžení</item>
+        <item>Vichřice</item>
+    </string-array>
+    <string-array name="weather_sands">
+        <item>浮尘</item>
+        <item>扬沙</item>
+        <item>沙尘暴</item>
+        <item>强沙尘暴</item>
+    </string-array>
+    <string-array name="weather_fine">
+        <item>Jasno</item>
+    </string-array>
+    <string-array name="weather_cloudy">
+        <item>Přeháňky</item>
+    </string-array>
+    <string-array name="weather_overcast">
+        <item>Zamračeno</item>
+    </string-array>
+    <string-array name="weather_fog">
+        <item>Mlha</item>
+    </string-array>
+    <string-array name="weather_haze">
+        <item>Mlha</item>
+	</string-array>
 </resources>
