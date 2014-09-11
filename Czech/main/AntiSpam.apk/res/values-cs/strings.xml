@@ -293,4 +293,28 @@
   <string name="user_define_title">Vlastní režim</string>
   <string name="whitelist_prefix_add_hint">Přidat všechny čísla s předvolbou do výjimek</string>
   <string name="wl_no_whitelist">Žádná čísla</string>
+  <string name="STRANGER_BLOCK">Černá listina</string>
+  <string name="button_to_setting">Nastavení</string>
+  <string name="dlg_antispam_mode_delete_message">Pokud vymažete vlastní pravidla, nelze je obnovit zpět.</string>
+  <string name="dlg_antispam_mode_delete_title">Vymazat vlastní pravidla</string>
+  <string name="dlg_message_not_open_stranger_identify">Musíte nejdříve povolit "Rozpoznání neznámého čísla" v nastavení telefonu.</string>
+  <string name="dlg_title_not_open_stranger_identify">Povolit rozpoznání neznámého čísla</string>
+  <string name="mark_agent">Prodejce</string>
+  <string name="mark_agent_block">Označeno jako Prodejce</string>
+  <string name="mark_express">Kurýr</string>
+  <string name="mark_express_block">Označeno jako Kurýr</string>
+  <string name="mark_fraud">Podvodník</string>
+  <string name="mark_fraud_block">Označeno jako Podvodník</string>
+  <string name="mark_meal">Donáška</string>
+  <string name="mark_meal_block">Označeno jako Donáška</string>
+  <string name="mark_number_info">"
+Pamatujte, že někdy tyto hovory mohou být užitečné. Blokujte pouze čísla, která opravdu blokovat chcete."</string>
+  <string name="mark_sell">Prodejce po telefonu</string>
+  <string name="mark_sell_block">Označeno jako Prodejce</string>
+  <string name="read_all_sms">Vše přečteno</string>
+  <string name="st_title_markednumber_group">Označená čísla</string>
+  <string name="info_antispam_current_mode">Používáte %s</string>
+  <string name="fw_blocked_join">" a "</string>
+  <string name="dlg_antispam_using_mode_delete_message">"Vymazat profil černé listiny, který právě používáte a nastavit výchozí profil? Tuto akci nelze vrátit zpět!"</string>
+  <string name="dlg_antispam_using_mode_international_delete_message">"Vymazat profil černé listiny, který právě používáte a nastavit výchozí profil? Tuto akci nelze vrátit zpět!"</string>
 </resources>
