@@ -330,7 +330,7 @@ Adresa: %2$s"</string>
   <string name="share_goal_tips_succ">"Máte skvělý plán?
 Vykročte vpřed."</string>
   <string name="share_miliao_too_old">Verze MiTalk je příliš zastaralá.</string>
-  <string name="share_play_ground_format">Je to okolo %1$s kol na dráze.</string>
+  <string name="share_play_ground_format">To je zhruba %1$s kol na dráze.</string>
     <string name="share_sleep_description">"V hlubokém spánku %1$sh a %2$smin, 
 v lehkém spánku %3$sh a %4$smin.
 Spánek: %5$s. Aktivita: %6$s"</string>
@@ -483,7 +483,7 @@ Nejvyšší denní rekord %4$s, prochozeno %5$s kroků."</string>
  %3$s, a ušetřili jste %4$s litrů paliva.
 (Děkujeme, že chráníte životní prostředí)
 Nejvyšší rekord byl %5$s, prochozeno %6$s kroků."</string>
-  <string name="share_continue_goal_format_run">"Prochozeno %1$s, uběhnuto %2$s kroků
+  <string name="share_continue_goal_format_run">"Prochozeno %1$s, uběhnuto %2$s
 %3$s
 %4$s"</string>
   <string name="until_hit_goals">Pokračujte za splněním cíle do %s</string>
