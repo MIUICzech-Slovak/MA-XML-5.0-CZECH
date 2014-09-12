@@ -51,7 +51,7 @@ localization_Czech_table = {
     activie_run_format_2="Uběhli jste %s, Neskutečné!",
     activie_run_consumed="Uběhli jste %d cal. %s",
 
-    get_distance_format=", celkem z %dm.",
+    get_distance_format=", celkem %dm.",
     activity_walk_format="%s Chůze %d kroků %s",
     activity_walk_consumed_format="Spálené %d cal %s",
 
