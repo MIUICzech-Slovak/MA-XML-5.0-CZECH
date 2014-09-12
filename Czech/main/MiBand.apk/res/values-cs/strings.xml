@@ -326,7 +326,7 @@ Adresa: %2$s"</string>
   <string name="share_blog_weixin">Weixin</string>
   <string name="share_continue_goal_format">"Walked total of %1$s steps, %2$s steps per day
 %3$s%4$s"</string>
-  <string name="share_goal_tips_fail">Not far from your goal, just need a bit more hard work.</string>
+  <string name="share_goal_tips_fail">Nejste daleko od svého cíle, chce to ještě máknout.</string>
   <string name="share_goal_tips_succ">"Máte skvělý plán?
 Vykročte vpřed."</string>
   <string name="share_miliao_too_old">Verze MiTalk je příliš zastaralá.</string>
