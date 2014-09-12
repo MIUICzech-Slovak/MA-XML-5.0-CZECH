@@ -130,7 +130,7 @@ Adresa: %2$s"</string>
   <string name="dynamic_sleep_deep_title">Hluboký spánek %s</string>
   <string name="dynamic_sleep_shallow">Lehký spánek</string>
   <string name="dynamic_sleep_tip">Celkem</string>
-  <string name="dynamic_step_tip">Počet kroků</string>
+  <string name="dynamic_step_tip">Aktuálně kroků</string>
   <string name="dynamic_tip_sleep_unsynced">Neaktualizováno</string>
   <string name="dynamic_tip_step_sync_time_hour">Před %d h</string>
   <string name="dynamic_tip_step_sync_time_min">Před %d min</string>
@@ -198,7 +198,7 @@ Adresa: %2$s"</string>
   <string name="hot_des">Energie</string>
   <string name="hour_1"/>
   <string name="incoming_call_notify">Příchozí hovor</string>
-  <string name="incoming_call_notify_tips">Upozornit každých %ss na zmeškaný hovor</string>
+  <string name="incoming_call_notify_tips">Po %ss upozorní na právě příchozí hovor</string>
   <string name="input_precise_person_info">Zadejte vaše přesné údaje pro výpočet cvičení a optimálního spánku</string>
   <string name="instruction_tip_1">Podívejte se na průběh vašeho cvičení</string>
   <string name="instruction_tip_2_1">Méně jak 1/3 z vašeho cíle</string>
@@ -376,11 +376,11 @@ Nejvyšší denní rekord je %4$s, prochozeno %5$s kroků."</string>
   <string name="stat_sleep_average">Spánek</string>
   <string name="stat_sleep_deep">Hluboký spánek</string>
   <string name="stat_sleep_deep_average">Denní hluboký spánek</string>
-  <string name="stat_sleep_rise_time">Probuzení</string>
+  <string name="stat_sleep_rise_time">Spánek do</string>
   <string name="stat_sleep_rise_time_average">Čas probuzení</string>
   <string name="stat_sleep_shallow">Lehký spánek</string>
   <string name="stat_sleep_shallow_average">Denní lehký spánek</string>
-  <string name="stat_sleep_time">Spánek</string>
+  <string name="stat_sleep_time">Spánek od</string>
   <string name="stat_sleep_time_average">Čas spánku</string>
   <string name="stat_sleep_wake">Aktivita</string>
   <string name="stat_sleep_wake_average">Čas aktivity</string>
