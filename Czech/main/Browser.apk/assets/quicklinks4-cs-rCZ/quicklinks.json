@@ -37,13 +37,13 @@
 	    "position": 2
         },
         {
-            "title":"AndroidNEWS.sk",
-            "url":"http://www.androidnews.sk/",
-            "thumbnail":"androidnews_logo.png",
+            "title":"Touch.sk",
+            "url":"http://www.touch.sk/",
+            "thumbnail":"touch.png",
             "logobg":"bg01.9.png",
             "nightModeMask": "night.9.png",
             "favicon":"",
-	    "displayName": "AndroidNEWS.sk",
+	    "displayName": "Touch.sk",
 	    "isDelete": true,
 	    "movable": true,
 	    "position": 3
