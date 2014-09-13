@@ -77,7 +77,7 @@ Adresa: %2$s"</string>
   <string name="content_too_short">Nelze nechat prázdné</string>
   <string name="continue_reach_goal">Dosáhnout cíle</string>
   <string name="continue_tips_format">Pokračujte %1$s dní pro dosažení cíle</string>
-  <string name="daily_sporty">Kroky denně</string>
+  <string name="daily_sporty">Kroků denně</string>
   <string name="date_from_to">%1$s do %2$s</string>
   <string name="date_from_to_short">%1$s-%2$s</string>
   <string name="date_last_month">Poslední měsíc</string>
@@ -124,11 +124,11 @@ Adresa: %2$s"</string>
   <string name="dynamic_pull_syncing_progress">Synchr. %s%%</string>
   <string name="dynamic_pull_update_report">Aktualizovaných záznamů: %s</string>
   <string name="dynamic_sleep_active">Aktivní</string>
-  <string name="dynamic_sleep_active_end">Připravte se na vstávání</string>
-  <string name="dynamic_sleep_active_start">Je čas jít spát</string>
-  <string name="dynamic_sleep_deep">Hluboký spánek</string>
+  <string name="dynamic_sleep_active_end">Vstávání</string>
+  <string name="dynamic_sleep_active_start">Usínání</string>
+  <string name="dynamic_sleep_deep">Hluboký</string>
   <string name="dynamic_sleep_deep_title">Hluboký spánek %s</string>
-  <string name="dynamic_sleep_shallow">Lehký spánek</string>
+  <string name="dynamic_sleep_shallow">Lehký</string>
   <string name="dynamic_sleep_tip">Celkem</string>
   <string name="dynamic_step_tip">Aktuálně kroků</string>
   <string name="dynamic_tip_sleep_unsynced">Neaktualizováno</string>
@@ -246,7 +246,7 @@ Adresa: %2$s"</string>
   <string name="mon_fri">Po až Pá</string>
   <string name="mon_sat">Po až So</string>
   <string name="month">Měsíc</string>
-  <string name="move_and_capture">Hýbat a Zachytit</string>
+  <string name="move_and_capture">Vyberte svůj obrázek</string>
   <string name="multi_devices_info">Bylo nalezeno více MiBand v okolí. Přejděte dál a zkuste hledání znovu</string>
   <string name="multi_devices_title">Nelze se propojit s MiBand</string>
   <string name="network_error">Žádné internetové připojení, zkuste to znovu</string>
@@ -263,7 +263,7 @@ Adresa: %2$s"</string>
   <string name="noti_bracelet_low_battery_content_none">MiBand je nutné připojit k nabíječce</string>
   <string name="noti_bracelet_low_battery_title">Slabá baterie v MiBand</string>
   <string name="noti_bracelet_low_battery_title_none">Slabá baterie v MiBand</string>
-  <string name="odo">Celkem</string>
+  <string name="odo">Vzdálenost (km)</string>
   <string name="one_min">Před minutou</string>
   <string name="one_week">Tento týden</string>
   <string name="orange">Oranžová</string>
@@ -365,8 +365,9 @@ Nejvyšší denní rekord je %4$s, prochozeno %5$s kroků."</string>
   <string name="smart_alarm_clock">Inteligentní budík</string>
   <string name="smart_alarm_notify">Inteligentní buzení</string>
   <string name="smart_wake_up">Inteligentní buzení</string>
-  <string name="smart_wake_up_info">"Povolit probuzení v lehkém spánku v rozpětí 30min před nastaveným časem buzení</string>
-  <string name="start">Start</string>
+  <string name="smart_wake_up_info">"Povolit probuzení v lehkém spánku v rozpětí 
+30min před nastaveným časem buzení</string>
+  <string name="start">Začátek</string>
   <string name="start_download">Stahování...</string>
   <string name="start_use">Začít</string>
   <string name="start_weixin">Otevřít Wechat</string>
@@ -375,11 +376,11 @@ Nejvyšší denní rekord je %4$s, prochozeno %5$s kroků."</string>
   <string name="stat_sleep_achievement">Průběh</string>
   <string name="stat_sleep_average">Spánek</string>
   <string name="stat_sleep_deep">Hluboký spánek</string>
-  <string name="stat_sleep_deep_average">Denní hluboký spánek</string>
+  <string name="stat_sleep_deep_average">Hluboký spánek denně</string>
   <string name="stat_sleep_rise_time">Spánek do</string>
   <string name="stat_sleep_rise_time_average">Čas probuzení</string>
   <string name="stat_sleep_shallow">Lehký spánek</string>
-  <string name="stat_sleep_shallow_average">Denní lehký spánek</string>
+  <string name="stat_sleep_shallow_average">Lehký spánek denně</string>
   <string name="stat_sleep_time">Spánek od</string>
   <string name="stat_sleep_time_average">Čas spánku</string>
   <string name="stat_sleep_wake">Aktivita</string>
