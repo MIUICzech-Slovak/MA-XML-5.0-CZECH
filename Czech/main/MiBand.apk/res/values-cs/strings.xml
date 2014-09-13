@@ -333,9 +333,9 @@ Vykročte vpřed."</string>
   <string name="share_play_ground_format">To je zhruba %1$s kol na dráze.</string>
     <string name="share_sleep_description">"V hlubokém spánku %1$sh a %2$smin, 
 v lehkém spánku %3$sh a %4$smin.
-Spánek: %5$s. Aktivita: %6$s"</string>
+Usnutí: %5$s. Probuzení: %6$s"</string>
   <string name="share_sleep_description_average">"Průměrně %1$sh %2$smin v hlubokém spánku, %3$sh a %4$smin v lehkém spánku.
-Průměrný čas spánku je %5$s, průměrný čas aktivity %6$s."</string>
+Průměrný čas usínání je %5$s, průměrný čas probouzení %6$s."</string>
   <string name="share_sleep_title">Minulá noc</string>
   <string name="share_sleep_title_average">Průměrný spánek</string>
   <string name="share_sleep_title_daily">Spánek</string>
