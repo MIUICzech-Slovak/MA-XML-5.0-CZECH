@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
+<!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
 <resources>
   <string name="about_device">Info o telefonu</string>
   <string name="active_xiaomi_account">Aktivovat</string>
@@ -94,11 +94,11 @@ https://account.xiaomi.com/pass/serviceLogin""</string>
   <string name="new_updates_found_notification_title">Byla nalezena nová aktualizace!</string>
   <string name="new_updates_found_title">Nalezena aktualizace</string>
   <string name="next">Další</string>
-  <string name="no_proper_updates">Aktualizace nebyla nalezena. Zkontrolujte verzi na miui.cz/rom</string>
-  <string name="no_updatecheck_executed">Kontrola aktualizace nebyla provedena. Zkontrolujte verzi na miui.cz/rom</string>
-  <string name="no_updates_found">Již máte nejnovější verzi. Zkontrolujte verzi na miui.cz/rom</string>
-  <string name="no_updates_warning">Nebyly nalezeny žádné aktualizace. Zkontrolujte verzi na miui.cz/rom</string>
-  <string name="no_updates_warning2">Tato aplikace Vás upozorní na nové aktualizace. Zkontrolujte verzi na miui.cz/rom</string>
+  <string name="no_proper_updates">Aktualizace nebyla nalezena. Zkontrolujte verzi na miuios.cz/rom</string>
+  <string name="no_updatecheck_executed">Kontrola aktualizace nebyla provedena. Zkontrolujte verzi na miuios.cz/rom</string>
+  <string name="no_updates_found">Již máte nejnovější verzi. Zkontrolujte verzi na miuios.cz/rom</string>
+  <string name="no_updates_warning">Nebyly nalezeny žádné aktualizace. Zkontrolujte verzi na miuios.cz/rom</string>
+  <string name="no_updates_warning2">Tato aplikace Vás upozorní na nové aktualizace. Zkontrolujte verzi na miuios.cz/rom</string>
   <string name="not_recommend">"Nedoporučuji"</string>
   <string name="now">Teď</string>
   <string name="paused_queued_for_network">Čekání na internetové připojení</string>

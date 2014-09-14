@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
+<!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
 <resources>
   <string name="ct_mobile_data_hints">Nelze aktivovat mobilní data pro druhý slot SIM, pokud jsou povolena pro první slot SIM.</string>
   <string name="gemini_data_connection">Datové připojení</string>

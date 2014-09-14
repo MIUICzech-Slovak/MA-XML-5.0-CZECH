@@ -1,6 +1,6 @@
 -------------------------
 -- Czech Localization String resources
--- miui.cz (2014)
+-- miuios.cz (2014)
 -- kynio
 -------------------------
 localization_Czech_table = {
