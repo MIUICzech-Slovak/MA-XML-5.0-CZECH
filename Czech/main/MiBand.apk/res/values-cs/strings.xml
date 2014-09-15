@@ -460,7 +460,7 @@ Nejvyšší denní rekord je %4$s, prochozeno %5$s kroků."</string>
   <string name="user_agreement">Podmínky používání a ochrana soukromí</string>
   <string name="visit_micom">Oficiální web Xiaomi</string>
   <string name="wait">Čekejte prosím...</string>
-  <string name="walked">prochozené</string>
+  <string name="walked">"prochozeno "</string>
   <string name="wear_hand">Zápěstí</string>
   <string name="weared_days">Dní celkem</string>
   <string name="week">Týden</string>
@@ -488,11 +488,10 @@ Nejvyšší rekord byl %5$s, prochozeno %6$s kroků."</string>
 %3$s
 %4$s"</string>
   <string name="until_hit_goals">Pokračujte za splněním cíle do %s</string>
-    <string name="bind_weixin_new_tips">"点击“微信接入”启动微信进入小米手环帐号页面，
-然后点击“关注”按钮即可完成接入"</string>
-    <string name="bind_weixin_new_now">正在进行微信接入，请稍候......</string>
-    <string name="bind_weixin_new_disable_tips">"接入微信关注小米手环服务号后即可通过微信查看当
-前步数，并且与朋友圈中的好友们一起PK运动排行"</string>
+    <string name="bind_weixin_new_tips">"Tap Link with Wechat to start, 
++then tap Follow to complete sync."</string>
+    <string name="bind_weixin_new_now">Syncing w"After link with your Wechat account and follow Mi Band's Wechat service account, 
++you can check information like the number of steps taken through Wechat. You can also see your result status among your friends."</string>
     <string name="weather_aqi">Kvalita ovzduší %s</string>
     <string name="weather_description_rain">Srážky</string>
     <string name="weather_description_rain_snow">Déšť se sněhem</string>
@@ -508,4 +507,13 @@ Nejvyšší rekord byl %5$s, prochozeno %6$s kroků."</string>
 a aktualizace se spustí automaticky po nabití MiBand"</string>
     <string name="fw_low_battery_view_help">Pomoc</string>
     <string name="in">V </string>
+    <string name="main_ui_share_tips">"Cvičil/a jsem %1$s%2$s dnes.
+%3$s"</string>
+    <string name="ran">"uběhnuto "</string>
+    <string name="main_ui_sleep_share_tips">"Lehký spánek %1$s%2$s
+Usnul/a jsem v %3$s, probudil/a se v %4$s."</string>
+    <string name="awake_format">", probuzen/a %1$s krát."</string>
+    <string name="awake_format_1">", probuzen/a jednou."</string>
+    <string name="discard">Zrušit</string>
+    <string name="discard_alarm_change">Zrušit změny?</string>
 </resources>
