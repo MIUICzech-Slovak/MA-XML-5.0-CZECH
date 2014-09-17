@@ -98,11 +98,11 @@ localization_Czech_table = {
     activie_run_format_2="Uběhli jste %s, Neskutečné!",
     activie_run_consumed="Spálili jste %d cal. %s",
 
-    get_distance_format=", celkem %dm",
+    get_distance_format="celkem %dm",
     activity_walk_format="%s Chůze %d kroků %s",
     activity_walk_consumed_format="Spálené %d cal %s",
 
-    activity_activity_format="%s %s v pohybu %s",
+    activity_activity_format="%s %s v pohybu, %s",
     last_night_sleeped_good_format="Minulou noc trval spánek %s",
     last_night_sleeped_normal_format="Minulou noc trval spánek %s",
     deep_sleep_format="Hluboká fáze spánku trvala %s",
