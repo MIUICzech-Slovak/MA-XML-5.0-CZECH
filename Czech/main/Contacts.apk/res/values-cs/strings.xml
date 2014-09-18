@@ -1173,4 +1173,13 @@ Vyberte si z následujících možností:</string>
   <string name="yellowpage_navigation_send_to_desktop_succeeded">Přidáno na plochu</string>
   <string name="yellowpage_user_profile">Profil</string>
   <string name="zero_items_selected">Nic není vybráno</string>
+  <string name="resource_clear_search_history">Vymazat historii hledání</string>
+  <string name="resource_clear_search_history_dialog">Vymazat historii hledání?</string>
+  <string name="resource_comment_rating_star_tips">Vyberte počet hvězdiček:</string>
+  <string name="resource_failed_to_load_list">Načítání selhalo</string>
+  <string name="resource_search_list_empty">Nic nebylo nalezeno</string>
+  <string name="resource_trial_fail_cancel">OK</string>
+  <string name="resource_trial_fail_go_settings">Nastavení</string>
+  <string name="resource_trial_fail_message">Ujistěte se, že váš čas je nastaven správně.</string>
+  <string name="resource_trial_fail_title">Nebylo možné spustit zkušební dobu</string>
 </resources>

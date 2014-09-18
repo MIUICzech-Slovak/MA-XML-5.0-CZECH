@@ -354,4 +354,10 @@ Vaše nastavení můžete kdykoliv změnit."</string>
   <string name="sms_prompt_set_all">této služby</string>
   <string name="sms_prompt_set_single">tuto službu</string>
   <string name="sync_dspt_in_all_setting">Synchr. vaše fotografie, SMS správy, poznámky a mnohem víc s vašimi zařízeními.</string>
+  <string name="reg_title">Vytvořit nový Xiaomi účet přes:</string>
+  <string name="user_agreement_p8">" pro porozumění, jaké informace o vás uchováváme, jak je používáme a jaké máte možnosti.
+
+Vytvořením účtu souhlasíte s výše uvedenými podmínkami."</string>
+  <string name="error_data_in_transfer">Synchr. bude dokončena za %sh.</string>
+  <string name="error_data_in_transfer_title">MiCloud je nedostupný.</string>
 </resources>
