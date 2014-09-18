@@ -317,6 +317,4 @@ Pamatujte, že někdy tyto hovory mohou být užitečné. Blokujte pouze čísla
   <string name="fw_blocked_join">" a "</string>
   <string name="dlg_antispam_using_mode_delete_message">"Vymazat profil černé listiny, který právě používáte a nastavit výchozí profil? Tuto akci nelze vrátit zpět!"</string>
   <string name="dlg_antispam_using_mode_international_delete_message">"Vymazat profil černé listiny, který právě používáte a nastavit výchozí profil? Tuto akci nelze vrátit zpět!"</string>
-  <string name="sim_not_ready">SIM karta není připravena</string>
-  <string name="st_title_not_sim">Prázdné</string>
 </resources>
