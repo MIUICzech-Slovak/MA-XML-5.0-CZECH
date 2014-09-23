@@ -83,8 +83,8 @@ Adresa: %2$s"</string>
   <string name="date_last_month">Poslední měsíc</string>
   <string name="date_last_week">Poslední týden</string>
   <string name="date_month">MMMM</string>
-  <string name="date_month_day">MMM d</string>
-  <string name="date_month_day_short">%1$d/%2$d</string>
+  <string name="date_month_day">d. MMM</string>
+  <string name="date_month_day_short">%2$d.%1$d.</string>
   <string name="date_month_day_week">%1$s %2$s</string>
   <string name="date_month_day_week_short">%1$d.%2$d %3$s</string>
   <string name="date_this_month">Tento měsíc</string>
@@ -183,8 +183,8 @@ Adresa: %2$s"</string>
   <string name="goals_push_ten">Splněných 100%</string>
   <string name="gram">g</string>
   <string name="green">Zelená</string>
-  <string name="half_marathon_format_0">Jako %1$s půlmaratonu</string>
-  <string name="half_marathon_format_1">Více jak %1$s půlmaratonu</string>
+  <string name="half_marathon_format_0">Jako %1$s půlmaraton</string>
+  <string name="half_marathon_format_1">Více jak %1$s půlmaraton</string>
   <string name="help">Pomoc</string>
   <string name="help_info_0">Je vyžadován Bluetooth 4.0 pro spojení s MiBand. Zkontrolujte specifikace vašeho telefonu, zda obsahuje technologii Bluetooth 4.0.</string>
   <string name="help_info_1">MiBand vyžaduje verzi Android 4.4 nebo vyšší</string>
@@ -298,7 +298,7 @@ Adresa: %2$s"</string>
   <string name="search_bracelet_ok">MiBand nalezen</string>
   <string name="search_devices_info">Vyhledat MiBand v blízkosti telefonu</string>
   <string name="search_devices_title">Vyhledat MiBand</string>
-  <string name="second">Sekunda</string>
+  <string name="second">Sekund</string>
   <string name="select_from_camera">Fotoaparát</string>
   <string name="select_from_local">Galerie</string>
   <string name="select_image">Vybrat obrázek</string>
@@ -341,17 +341,17 @@ Průměrný čas usínání je %5$s, průměrný čas probouzení %6$s."</string
   <string name="share_sleep_title_daily">Spánek</string>
   <string name="share_step_description">"Prochozené %1$s, spálené kalorie %2$s cal "</string>
     <string name="share_step_description_monthly">"%1$s%2$s
- spálené %3$s cal, ušetřeno %4$s litrů paliva.
+ spáleno %3$s cal, ušetřeno %4$s litrů paliva.
 (Děkujeme, že chráníte životní prostředí)
 Nejvyšší rekord je %5$s, prochozeno %6$s kroků."</string>
   <string name="share_step_description_weekly">"%1$s%2$s
-Spálené %3$s cal.
-Nejvyšší denní rekord je %4$s, prochozeno %5$s kroků."</string>
+Spáleno %3$s cal.
+Nejvyšší denní rekord byl v %4$s, prochozeno %5$s kroků."</string>
   <string name="share_step_goal_failed_title">Celkem</string>
   <string name="share_step_goal_failed_title_today">Celkem</string>
   <string name="share_step_goal_succ_title">Cíl splněn</string>
   <string name="share_step_goal_succ_title_today">Dnešní dosažené výsledky</string>
-  <string name="share_step_walk">Prochodil jsem celkem</string>
+  <string name="share_step_walk">" jsem celkem prochodil"</string>
   <string name="share_to_content">MiBand campaign sharing</string>
   <string name="share_to_content_sleep">Můj spánek</string>
   <string name="share_to_content_step">Mé sportování</string>
@@ -489,8 +489,8 @@ Nejvyšší rekord byl %5$s, prochozeno %6$s kroků."</string>
 %4$s"</string>
   <string name="until_hit_goals">Pokračujte za splněním cíle do %s</string>
     <string name="bind_weixin_new_tips">"Tap Link with Wechat to start, 
-+then tap Follow to complete sync."</string>
-    <string name="bind_weixin_new_now">Syncing w"After link with your Wechat account and follow Mi Band's Wechat service account, 
+then tap Follow to complete sync."</string>
+    <string name="bind_weixin_new_now">"After link with your Wechat account and follow Mi Band's Wechat service account, 
 +you can check information like the number of steps taken through Wechat. You can also see your result status among your friends."</string>
     <string name="weather_aqi">Kvalita ovzduší %s</string>
     <string name="weather_description_rain">Srážky</string>
@@ -507,13 +507,13 @@ Nejvyšší rekord byl %5$s, prochozeno %6$s kroků."</string>
 a aktualizace se spustí automaticky po nabití MiBand"</string>
     <string name="fw_low_battery_view_help">Pomoc</string>
     <string name="in">V </string>
-    <string name="main_ui_share_tips">"Cvičil/a jsem %1$s%2$s dnes.
+    <string name="main_ui_share_tips">"Cvičil/a jsem dnes %1$s%2$s.
 %3$s"</string>
     <string name="ran">"uběhnuto "</string>
     <string name="main_ui_sleep_share_tips">"Lehký spánek %1$s%2$s
 Usnul/a jsem v %3$s, probudil/a se v %4$s."</string>
     <string name="awake_format">", probuzen/a %1$s krát."</string>
     <string name="awake_format_1">", probuzen/a jednou."</string>
-    <string name="discard">Zrušit</string>
+    <string name="discard">Zrušit změny</string>
     <string name="discard_alarm_change">Zrušit změny?</string>
 </resources>
