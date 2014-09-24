@@ -81,7 +81,7 @@ Adresa: %2$s"</string>
   <string name="date_from_to">%1$s do %2$s</string>
   <string name="date_from_to_short">%1$s-%2$s</string>
   <string name="date_last_month">Poslední měsíc</string>
-  <string name="date_last_week">Poslední týden</string>
+  <string name="date_last_week">Minulý týden</string>
   <string name="date_month">MMMM</string>
   <string name="date_month_day">d. MMM</string>
   <string name="date_month_day_short">%2$d.%1$d.</string>
