@@ -385,6 +385,9 @@
   <string name="vp_select_ci">Vybrat</string>
   <string name="vp_standard_definition">SD</string>
   <string name="vp_super_definition">Super</string>
+  <string name="vp_closedialog">OK</string>
+  <string name="vp_hint">Tipy</string>
+  <string name="vp_maintitlearea">Pro sledování filmů v HD stiskněte OK.</string>
   <string name="waitfornewset">Sledovat obsah</string>
   <string name="waitfornewset_tip_content">Budete upozorněni na dostupnost nové epizody.</string>
   <string name="wasu">Wasu</string>
