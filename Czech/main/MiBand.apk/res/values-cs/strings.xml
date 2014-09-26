@@ -516,4 +516,15 @@ Usnul/a jsem v %3$s, probudil/a se v %4$s."</string>
     <string name="awake_format_1">", probuzen/a jednou."</string>
     <string name="discard">Zrušit změny</string>
     <string name="discard_alarm_change">Zrušit změny?</string>
+    <string name="notify_status_motor">Vibrace</string>
+  <string name="notify_status_motor_alarm">Důvod: Budík</string>
+  <string name="notify_status_motor_auth">Důvod: Párování</string>
+  <string name="notify_status_motor_auth_success">Důvod: Úspěšné přihlášení</string>
+  <string name="notify_status_motor_call">Důvod: Příchozí hovor</string>
+  <string name="notify_status_motor_disconnect">Důvod: Odpojení</string>
+  <string name="notify_status_motor_goal">Důvod: Splněný cíl</string>
+  <string name="notify_status_motor_notify">Důvod: Vyhledávání</string>
+  <string name="notify_status_motor_shut_down">Důvod: Vybitá baterie</string>
+  <string name="notify_status_motor_smart_alarm">Důvod: Inteligentní budík</string>
+  <string name="notify_status_motor_test">Důvod: Test</string>
 </resources>
