@@ -28,6 +28,7 @@
   <string name="auto">Auto</string>
   <string name="bg_replacement_message">"Nasměrujte svůj telefon dolů, 
   opusťte na chvíli náhled"</string>
+  <string name="burst_shoot_exit_button_text">Ukončit</string>
   <string name="camera_disabled">Fotoaparát byl deaktivován z bezpečnostních důvodů.</string>
   <string name="camera_error_title">Chyba fotoaparátu</string>
   <string name="camera_label">Fotoaparát</string>
@@ -36,6 +37,7 @@
   <string name="cancel">Zrušit</string>
   <string name="cannot_connect_camera_once">"Není možné připojit kameru, ukončete aplikaci"</string>
   <string name="cannot_connect_camera_twice">"Není možné připojit kameru, restartujte telefon"</string>
+  <string name="cannot_move_warning_message">Nehýbejte s telefonem</string>
   <string name="clear_effects">Vymazat efekty</string>
   <string name="close">Zavřít</string>
   <string name="cloud_album_details">Cloud album:</string>
@@ -165,6 +167,7 @@
   <string name="no_thumbnail">Žádný náhled</string>
   <string name="not_enough_space">Vaše SD karta je plná.</string>
   <string name="not_selectable_in_scene_mode">Není možné vybrat v režimu scény.</string>
+  <string name="object_track_enable_toast">Pro sledování objektu, potáhnte prstem po displeji.</string>
   <string name="ok">OK</string>
   <string name="orientation">Orientace</string>
   <string name="pano_dialog_panorama_failed">"Není možné uložit panoramatický snímek"</string>
@@ -181,6 +184,7 @@
   <string name="people">Lidé</string>
   <string name="pref_advanced_functions">Rozšířené funkce</string>
   <string name="pref_advanced_settings">Rozšířené</string>
+  <string name="pref_burst_shoot_title">Dávkové snímání</string>
   <string name="pref_camcorder_settings_category">Nastavení kamery</string>
   <string name="pref_camera_ae_bracket_hdr_title">HDR</string>
   <string name="pref_camera_antibanding_entry_0">Vypnuta</string>
@@ -189,6 +193,8 @@
   <string name="pref_camera_antibanding_entry_3">Auto</string>
   <string name="pref_camera_antibanding_title">Redukce pruhů na displeji</string>
   <string name="pref_camera_audio_capture_title">Spoušť zvukem</string>
+  <string name="pref_camera_auto_capture_when_stable_title">Auto. zachytit v klidovém stavu</string>
+  <string name="pref_camera_auto_chroma_flash_title">Chroma Flash</string>
   <string name="pref_camera_auto_focus_title_entry_off">Vypnuto</string>
   <string name="pref_camera_auto_focus_title_entry_on">Zapnuto</string>
   <string name="pref_camera_autoexposure_entry_centerweighted">Na střed</string>
@@ -253,6 +259,7 @@
   <string name="pref_camera_hdr_title">HDR</string>
   <string name="pref_camera_hdr_type_entry_live">Živé</string>
   <string name="pref_camera_hdr_type_entry_normal">Normální</string>
+  <string name="pref_camera_hdr_type_title">Typ HDR</string>
   <string name="pref_camera_hfr_entry_2x">60</string>
   <string name="pref_camera_hfr_entry_3x">90</string>
   <string name="pref_camera_hfr_entry_4x">120</string>
@@ -400,12 +407,16 @@
   <string name="pref_grp_capture_settings">Nastavení Záznamu</string>
   <string name="pref_grp_picture_settings">Nastavení Fotografie</string>
   <string name="pref_grp_restore_settings">Obnovit Nastavení</string>
+  <string name="pref_long_press_shutter_button_focus_title">Dlouhé podržení zaostří</string>
   <string name="pref_manual_exposure_title">Manuální expozice</string>
+  <string name="pref_priority_storage_title">Uložit na externí SD kartu</string>
   <string name="pref_scan_qrcode_entry_off">Vypnuto</string>
   <string name="pref_scan_qrcode_entry_on">Zapnuto</string>
   <string name="pref_scan_qrcode_title">Skenovat QR kód</string>
   <string name="pref_setting_title">Nastavení</string>
   <string name="pref_settings_mode">Režim kamery</string>
+  <string name="pref_touch_down_capture_title">Touch Down Capture</string>
+  <string name="pref_video_4kuhd_title_simple_mode">4K Režim</string>
   <string name="pref_video_captrue_ability_title">Snímek během videa</string>
   <string name="pref_video_fast_speed_title_simple_mode">Zrychlené</string>
   <string name="pref_video_focusmode_entry_auto">Dotykem</string>
@@ -470,8 +481,10 @@
   <string name="show_images_only">Zobrazit fotografie</string>
   <string name="show_on_map">Zobrazit na mapě</string>
   <string name="show_videos_only">Zobrazit videa</string>
+  <string name="simple_mode_button_text_4kuhd">Ukončit</string>
   <string name="simple_mode_button_text_audio_capture">Ukončit záznam zvuku</string>
   <string name="simple_mode_button_text_color_effect">Ukončit filtry</string>
+  <string name="simple_mode_button_text_countdown">Ukončit</string>
   <string name="simple_mode_button_text_face_beauty">Ukončit vylepšení tváře</string>
   <string name="simple_mode_button_text_fast_video">Ukončit</string>
   <string name="simple_mode_button_text_hand_night">Ukončit noční režim</string>
@@ -501,7 +514,9 @@
   <string name="toast_burst_snap_forbidden_when_iso_not_auto">Dávkové snímání není podporované když ISO není nastaveno na AUTO.</string>
   <string name="toast_cannot_preview_image_when_screen_locked">Nelze zobrazit fotografii při uzamknutém zařízení.</string>
   <string name="toast_start_audio_capture">Vydejte zvuk pro vyfocení snímku</string>
+  <string name="ubi_focus_capture_fail">Nebylo možné zhotovit fotografii</string>
   <string name="ubi_focus_exit_button_text">Ukončit</string>
+  <string name="ubifocus_capture_warning_message">Je mnohem lepší, když jsou v náhledu bližší (do 1m od objektivu) a vzdálenější objekty</string>
   <string name="undo">Zpět</string>
   <string name="unit_mm">mm</string>
   <string name="video_camera_label">Videokamera</string>
