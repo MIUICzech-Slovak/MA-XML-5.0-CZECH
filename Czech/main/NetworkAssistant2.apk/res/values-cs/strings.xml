@@ -269,4 +269,5 @@ Během datového přenosu se text a obrázky komprimují na serveru a tím se ur
   <string name="roaming_not_start_title">Mezinárodní roaming</string>
   <string name="roaming_start_body">Povolit aplikacím v seznamu výjimek připojit se k mobilním datům v roamingu.</string>
   <string name="roaming_start_title">Mezinárodní roaming</string>
+  <string name="input_used_max_hint">Zadejte spotřebovaná data (méně než %s)</string>
 </resources>
