@@ -10,7 +10,7 @@
   <string name="action_pop_my_bracelet">Můj MiBand</string>
   <string name="action_pop_person_info">Můj profil</string>
   <string name="action_pop_smart_alarms">Inteligentní budík</string>
-  <string name="action_pop_unlock_screen">Odemknout zařízení</string>
+  <string name="action_pop_unlock_screen">Odemknutí zařízení</string>
   <string name="action_pop_weixin_enter">Weixing</string>
   <string name="age">Věk</string>
   <string name="ages">Let</string>
@@ -436,7 +436,7 @@ Nejvyšší denní rekord byl v %4$s, prochozeno %5$s kroků."</string>
   <string name="unit_step">kroků</string>
   <string name="unknown_location">Neznámá poloha</string>
   <string name="unknown_mili">Můj</string>
-  <string name="unlock_screen">Odemknout obrazovku</string>
+  <string name="unlock_screen">Odemknutí zařízení</string>
   <string name="unlock_screen_help_info0">Pro bezpečnost umístěte MiBand v blízkosti telefonu.</string>
   <string name="unlock_screen_help_info1">Pokud je váš telefon stále uzamknutý, zkuste znovu zapnout Bluetooth.</string>
   <string name="unlock_screen_help_info2">Pokud není možné znovu zapnout Bluetooth, jděte do Nastavení - Zabezpečení soukromí - Zabezpečení obrazovky - Odemknout s Bluetooth zařízením pro odpojení MiBand. Potom znovu nastavte v aplikaci MiBand uzamykání.</string>
