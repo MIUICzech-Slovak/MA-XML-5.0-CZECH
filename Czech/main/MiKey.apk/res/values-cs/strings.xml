@@ -197,9 +197,6 @@ Během používání MiKey Wizard jsou ostatní funkce MiKey nedostupné."</stri
   <string name="enable_mikey_sprite">Povolit MiKey wizard</string>
   <string name="dialog_title_disable_mikey_sprite">Vypnout MiKey wizard?</string>
   <string name="disable_mikey_sprite">Vypnout MiKey wizard</string>
-  <string name="action_baidusearch">Baidu vyhledávání</string>
-  <string name="select_baidusearch">Baidu vyhledávání</string>
-  <string name="select_baiduvoicesearch">Baidu hlasové vyhledávání</string>
   <string name="action_key_back">Zpět</string>
   <string name="action_key_back_long">Zpět (Dlouhý stisk)</string>
   <string name="action_key_call">Přijetí hovoru</string>
@@ -238,4 +235,14 @@ Během používání MiKey Wizard jsou ostatní funkce MiKey nedostupné."</stri
   <string name="super_difficult_click">"Obtížnost "</string>
   <string name="unsupport_content">Aktualizujte na nejnovější verzi MIUI pro používání této funkce</string>
   <string name="unsupport_title">Tato funkce není podporována</string>
+  <string name="action_baidusearch">Baidu</string>
+  <string name="select_baidusearch">Baidu</string>
+  <string name="select_baiduvoicesearch">Baidu Voice</string>
+  <string name="action_search">Hledat</string>
+  <string name="search_cancel_text">Zrušit</string>
+  <string name="search_go_text">Text</string>
+  <string name="search_baidu_text">Baidu</string>
+  <string name="search_taobao_text">TaoBao</string>
+  <string name="search_iciba_text">Iciba</string>
+  <string name="search_select_title">Hledat text</string>
 </resources>

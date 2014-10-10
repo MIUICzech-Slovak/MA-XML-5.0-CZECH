@@ -22,12 +22,12 @@
   <string name="btn_install">Instalovat</string>
   <string name="btn_start">Start</string>
   <string name="btn_write">Zapsat</string>
-  <string name="bump_erase">"Vymažete tak, že
-přiložíte štítek k telefonu"</string>
-  <string name="bump_start">"Začnete tak, že
-přiložíte štítek k telefonu"</string>
-  <string name="bump_write">"Začnete tak, že
-přiložíte štítek k telefonu"</string>
+  <string name="bump_erase">"Vymažete tím, že
+se dotknete štítku telefonem"</string>
+  <string name="bump_start">"Začněte tím, že
+se dotknete štítku telefonem"</string>
+  <string name="bump_write">"Začněte tím, že
+se dotknete štítku telefonem"</string>
   <string name="bump_write_alert">Pro použití tohoto nastavení se dotkněte NFC štítkem zadní strany vašeho zařízení</string>
   <string name="call_sb">Volat %s</string>
   <string name="call_to">Zavolat:</string>
@@ -203,4 +203,5 @@ Velikost: %2$s"</string>
   <string name="xiaomi_update_dialog_message_diff" formatted="false">"Nová verze %1$s
 Velikost rozdílového balíčku: %2$s"</string>
   <string name="xiaomi_update_dialog_title">%1$s aktualizace!</string>
+  <string name="erase_pon_pon_tile">Vymazat štítek</string>
 </resources>
