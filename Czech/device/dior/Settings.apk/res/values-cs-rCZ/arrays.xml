@@ -23,14 +23,4 @@
         <item>IMSI</item>
         <item>GID</item>
     </string-array>
-    <string-array name="power_mode_entries">
-        <item>Výkonný režim</item>
-        <item>Vyvážený (Výchozí)</item>
-        <item>Úsporný režim</item>
-    </string-array>
-  	<string-array name="power_dialog_cpu_state_items">
-        <item>Výkonný režim</item>
-        <item>Vyvážený (Výchozí)</item>
-        <item>Úsporný režim</item>
-    </string-array>
 </resources>
