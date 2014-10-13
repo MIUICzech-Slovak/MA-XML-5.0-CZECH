@@ -3749,4 +3749,6 @@ Nastavení telefonu může vyžadovat přenos nemalého množství dat."</string
   <string name="provision_inputmethod_policy_description">Zobrazit podmínky soukromí spojené s vaší metodou zadávání dat</string>
   <string name="config_list_label">Nastavené sítě</string>
   <string name="status_bar_toggle_arrangement">Rozložení přepínačů</string>
+  <string name="battery_decrease_background_process_summary">Zákazem spuštění aplikací na pozadí můžete snížit spotřebu baterie a paměti RAM. Některé aplikace se nemusí synchronizovat správně!</string>
+  <string name="battery_decrease_background_process_title">Omezit procesy na pozadí</string>
 </resources>
