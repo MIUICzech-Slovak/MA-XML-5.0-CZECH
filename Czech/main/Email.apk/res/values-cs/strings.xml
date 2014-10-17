@@ -769,4 +769,13 @@ Velikost aplikace: %2$s"</string>
   <string name="xiaomi_update_dialog_title">%1$s aktualizace!</string>
   <string name="yes">Ano</string>
   <string name="zip_viewer_no_file">Žádné soubory!</string>
+  <string name="load_from_remote">Pokračovat ve vyhledávání na serveru</string>
+  <string name="loading_from_remote">Vyhledávání na serveru...</string>
+  <string name="local_search_result">Nalezených zpráv v zařízení: %s</string>
+  <string name="perference_change_pw">Aktualizovat heslo</string>
+  <string name="perference_change_pw_notnull_tips">Heslo nesmí být prázdné</string>
+  <string name="perference_change_pw_ok_tips">Heslo aktualizováno</string>
+  <string name="prefetched_got_it">OK</string>
+  <string name="remote_search">Všechny zprávy na serveru</string>
+  <string name="remote_search_result">Nalezených zpráv na serveru: %s</string>
 </resources>
