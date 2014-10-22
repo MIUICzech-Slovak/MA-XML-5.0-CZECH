@@ -360,4 +360,6 @@ Vaše nastavení můžete kdykoliv změnit."</string>
 Vytvořením účtu souhlasíte s výše uvedenými podmínkami."</string>
   <string name="error_data_in_transfer">Synchr. bude dokončena za %sh.</string>
   <string name="error_data_in_transfer_title">MiCloud je nedostupný.</string>
+  <string name="error_device_id_message">"Nesprávné ID zařízení: %s
+ID zařízení musí být IMEI nebo MAC adresa. Bez něj nelze využívat některé služby MiCloud."</string>
 </resources>

@@ -501,4 +501,22 @@ Pokus: %s."</string>
   <string name="yes">OK</string>
   <string name="mx_on_sim_1">Cloud zprávy ze SIM %s</string>
   <string name="mx_on_sim_2">Cloud zprávy ze SIM %s</string>
+  <string name="festival_continue">OK</string>
+  <string name="festival_networking_desc">Tato funkce vyžaduje připojení k internetu.</string>
+  <string name="festival_never_remind">Znovu se neptat</string>
+  <string name="hms_add_image_progress_message">Zpracovávání...</string>
+  <string name="view_hms_attachment_fail">Stahování obrázku selhalo.</string>
+  <string name="pref_title_festival_networking">Upozornění na připojení</string>
+  <string name="button_antivirus">OK</string>
+  <string name="button_optimizer">OK</string>
+  <string name="header_antivirus">Používáním této funkce souhlasíte s Podmínkami používání Tencent.</string>
+  <string name="header_optimizer">Používáním této funkce souhlasíte s Podmínkami používání Clean Master.</string>
+  <string name="pref_title_open_optimizer_cloud_scan">Použít online databázi</string>
+  <string name="pref_summary_open_optimizer_cloud_scan">Odeslat a zkontrolovat neznámé názvy souborů s online databází</string>
+  <string name="summary_antivirus">Odeslat a zkontrolovat neznámé názvy souborů s online virovou databází</string>
+  <string name="summary_optimizer">Odeslat a zkontrolovat neznámé názvy souborů s online databází</string>
+  <string name="text_antivirus">Použít online virovou databází</string>
+  <string name="text_optimizer">Použít online databází</string>
+  <string name="title_antivirus">AntiVirus</string>
+  <string name="title_optimizer">Čistič</string>
 </resources>
