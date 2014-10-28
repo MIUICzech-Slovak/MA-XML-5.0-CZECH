@@ -38,7 +38,6 @@
   <string name="action_phone">Hovor</string>
   <string name="action_qrcode">QR kód</string>
   <string name="action_screen_shot">Screenshot</string>
-  <string name="action_search">Hledat</string>
   <string name="action_send_text_message">SMS</string>
   <string name="action_share_to_miliao">MiTalk</string>
   <string name="action_share_to_miliao_wall">MiTalk</string>
@@ -168,12 +167,6 @@ Během používání MiKey Wizard jsou ostatní funkce MiKey nedostupné."</stri
   <string name="scan_fail">Skenování selhalo</string>
   <string name="scan_result">Informace</string>
   <string name="sdcard">SD karta</string>
-  <string name="search_baidu_text">Baidu</string>
-  <string name="search_cancel_text">Zrušit</string>
-  <string name="search_go_text">Text</string>
-  <string name="search_iciba_text">Iciba</string>
-  <string name="search_select_title">Hledat text</string>
-  <string name="search_taobao_text">TaoBao</string>
   <string name="select_baidusearch">Baidu</string>
   <string name="select_baiduvoicesearch">Baidu Voice</string>
   <string name="select_camera">Vyberte fotoaparát</string>
@@ -247,4 +240,6 @@ a stiskem MiKey simulujte dotyk na zvoleném místě"</string>
   <string name="vcard_prompt">Nelze přidat kontakt, protože chybí jméno</string>
   <string name="web">Web:</string>
   <string name="write_pic_fail">Chyba ukládání fotografie!</string>
+  <string name="toast_audio_record_start">Spustit nahrávání</string>
+  <string name="toast_audio_record_stop">Zastavit nahrávání</string>
 </resources>
