@@ -499,8 +499,8 @@ Pokus: %s."</string>
   <string name="wap_push_title">"[WAP Push] "</string>
   <string name="xiaomi_service_number">Číslo služby</string>
   <string name="yes">OK</string>
-  <string name="mx_on_sim_1">Cloud zprávy ze SIM %s</string>
-  <string name="mx_on_sim_2">Cloud zprávy ze SIM %s</string>
+  <string name="mx_on_sim_1">Cloud zprávy ze SIM 1</string>
+  <string name="mx_on_sim_2">Cloud zprávy ze SIM 2</string>
   <string name="festival_continue">OK</string>
   <string name="festival_networking_desc">Tato funkce vyžaduje připojení k internetu.</string>
   <string name="festival_never_remind">Znovu se neptat</string>
