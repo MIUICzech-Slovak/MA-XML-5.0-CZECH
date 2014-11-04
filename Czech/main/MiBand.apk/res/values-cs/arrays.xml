@@ -39,57 +39,23 @@
   <item>Vlastní</item> 
   </string-array>
  <string-array name="fortune">
-        <item>"Je snadné dosáhnout cíle jednou, mnohem obtížnější každý den."</item>
-        <item>"Není to tak jednoduché dosáhnout svého cíle každý den."</item>
+        <item>Je snadné dosáhnout cíle jednou, mnohem obtížnější každý den.</item>
+        <item>Není to tak jednoduché dosáhnout svého cíle každý den.</item>
         <item>Máte každý den nový rekord!</item>
-        <item>Enjoy building a better you!</item>
-        <item>You are never a loser until you quit trying.</item>
-        <item>We are what we repeatedly do. Excellence, then, is not an act, but a habit.</item>
-        <item>Dosažen jeden cíl za den.</item>
+        <item>Užijte si být lepší!</item>
+        <item>Nikdy neprohrajete, když se nepřestanete snažit.</item>
+        <item>Jsme tím, co děláme každý den.</item>
+        <item>Dosáhněte svého cíle každý den.</item>
         <item>Cvičte a buďte lepší ještě dnes.</item>
         <item>Prostě to udělejte.</item>
-        <item>Keep practicing, winning will take care of itself.</item>
+        <item>Pokračujte v dosahování vašich cílů.</item>
   </string-array>
-    <string-array name="weather_rains">
-        <item>Liják</item>
-        <item>Bouřka</item>
-        <item>Déšť</item>
-        <item>Déšť</item>
-        <item>Déšť</item>
-        <item>Liják</item>
-        <item>Liják</item>
-        <item>Mrznoucí déšť</item>
-        <item>Déšť s kroupami</item>
+    <string-array name="weather_aqi_descriptions">
+        <item>Great</item>
+        <item>Good</item>
+        <item>Moderate</item>
+        <item>Caution</item>
+        <item>Unhealthy</item>
+        <item>Very Unhealthy</item>
     </string-array>
-    <string-array name="weather_rain_snows">
-        <item>Déšť se sněhem</item>
-    </string-array>
-    <string-array name="weather_snows">
-        <item>Déšť se sněhem</item>
-        <item>Sněžení</item>
-        <item>Sněžení</item>
-        <item>Sněžení</item>
-        <item>Vichřice</item>
-    </string-array>
-    <string-array name="weather_sands">
-        <item>浮尘</item>
-        <item>扬沙</item>
-        <item>沙尘暴</item>
-        <item>强沙尘暴</item>
-    </string-array>
-    <string-array name="weather_fine">
-        <item>Jasno</item>
-    </string-array>
-    <string-array name="weather_cloudy">
-        <item>Přeháňky</item>
-    </string-array>
-    <string-array name="weather_overcast">
-        <item>Zamračeno</item>
-    </string-array>
-    <string-array name="weather_fog">
-        <item>Mlha</item>
-    </string-array>
-    <string-array name="weather_haze">
-        <item>Mlha</item>
-	</string-array>
 </resources>
