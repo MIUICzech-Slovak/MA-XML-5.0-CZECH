@@ -40,4 +40,5 @@ Stáhnutí tohoto souboru může výrazně zvýšit poplatky za mobilní interne
     
 Chcete-li stahování spustit při příštím připojení k síti Wi-Fi, dotkněte se možnosti %s."</string>
   <string name="wifi_required_title">Stahovaný soubor je pro síť operátora příliš velký</string>
+  <string name="size_unknown">Neznámé</string>
 </resources>
