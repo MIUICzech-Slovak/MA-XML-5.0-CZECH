@@ -231,7 +231,7 @@ Bylo dosaženo vašeho cíle</string>
   <string name="instruction_title">Používání MiBand</string>
   <string name="kg">kg</string>
   <string name="kilogram">kg</string>
-  <string name="km">km</string>
+  <string name="km">" km"</string>
   <string name="lab_factory_cheat_toast">Nepodvádějte~</string>
   <string name="lab_factory_disconnected_reminder">Upozornění na připojení</string>
   <string name="lab_factory_disconnected_reminder_disconnect">Před změnou nastavení, připojte MiBand</string>
@@ -516,9 +516,9 @@ Nejvyšší denní rekord byl %5$s, dne  %4$s."</string>
   <string name="stat_sleep_wake_average">Čas aktivity</string>
   <string name="stat_step_average">Kroků denně</string>
   <string name="stat_step_calorie_average">Kalorií denně</string>
-  <string name="stat_step_calorie_daily">Spálené</string>
-  <string name="stat_step_calorie_piece">Spálené</string>
-  <string name="stat_step_calorie_total">Spálené</string>
+  <string name="stat_step_calorie_daily">Spáleno</string>
+  <string name="stat_step_calorie_piece">Spáleno</string>
+  <string name="stat_step_calorie_total">Spáleno</string>
   <string name="stat_step_daily">Kroků celkem</string>
   <string name="stat_step_distance_average">Denní vzdálenost</string>
   <string name="stat_step_distance_daily">Celková vzdálenost</string>
@@ -619,4 +619,19 @@ Nejvyšší denní rekord byl %5$s, dne  %4$s."</string>
   <string name="your_gender">Vaše pohlaví</string>
   <string name="your_height">Výška</string>
   <string name="your_weight">Váha</string>
+  <string name="sport_new_record_ropeskipping">Nový rekord</string>
+  <string name="sport_ranking_desc_great">WOW, úžasný!</string>
+  <string name="sport_ranking_desc_normal" formatted="false">Poraženo %s% z %s uživatelů.</string>
+  <string name="sport_ranking_desc_poor">Každý %s uživatel vás může porazit, přidejte!</string>
+  <string name="sport_running_distance_detail">%s km</string>
+  <string name="sport_running_helper">Trenér běhání</string>
+  <string name="sport_running_no_gps">GPS musí být zapnuto pro záznam vaší trasy. Zapnout?</string>
+  <string name="sport_running_pace">Tempo</string>
+  <string name="sport_running_pace_detail">%s/km</string>
+  <string name="sport_running_set_dist">Upozornění vzdálenosti</string>
+  <string name="sport_running_set_goal">Upozornění na cíl</string>
+  <string name="sport_running_set_speed">Upozornění na rychlost</string>
+  <string name="sport_running_speed">Rychlost</string>
+  <string name="sport_running_speed_detail">%d km/h</string>
+  <string name="sport_share">Sdílet</string>
 </resources>
