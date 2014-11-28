@@ -3751,4 +3751,16 @@ Nastavení telefonu může vyžadovat přenos nemalého množství dat."</string
   <string name="status_bar_toggle_arrangement">Rozložení přepínačů</string>
   <string name="battery_decrease_background_process_summary">Zákazem spuštění aplikací na pozadí můžete snížit spotřebu baterie a paměti RAM. Některé aplikace se nemusí synchronizovat správně!</string>
   <string name="battery_decrease_background_process_title">Omezit procesy na pozadí</string>
+  <string name="button_antivirus">OK</string>
+  <string name="button_optimizer">OK</string>
+  <string name="header_antivirus">Používáním této funkce souhlasíte s Podmínkami používání Tencent.</string>
+  <string name="header_optimizer">Používáním této funkce souhlasíte s Podmínkami používání Clean Master.</string>
+  <string name="pref_title_open_optimizer_cloud_scan">Použít online databázi</string>
+  <string name="pref_summary_open_optimizer_cloud_scan">Odeslat a zkontrolovat neznámé názvy souborů s online databází</string>
+  <string name="summary_antivirus">Odeslat a zkontrolovat neznámé názvy souborů s online virovou databází</string>
+  <string name="summary_optimizer">Odeslat a zkontrolovat neznámé názvy souborů s online databází</string>
+  <string name="text_antivirus">Použít online virovou databází</string>
+  <string name="text_optimizer">Použít online databází</string>
+  <string name="title_antivirus">AntiVirus</string>
+  <string name="title_optimizer">Čistič</string>
 </resources>

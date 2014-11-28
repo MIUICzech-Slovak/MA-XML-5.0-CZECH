@@ -50,7 +50,7 @@
   <string name="download_list_intoAuthAlert">Čekejte prosím</string>
   <string name="download_list_open_xl_cancel">Zrušit</string>
   <string name="download_list_open_xl_message">Přístup k Xunlei stahování, neomezenému stahování vysokou rychlostí.</string>
-  <string name="download_list_open_xl_ok">Odmítnout</string>
+  <string name="download_list_open_xl_ok">Ok</string>
   <string name="download_list_open_xl_title">Xunlei stahování</string>
   <string name="download_no_application_title">Nelze otevřít soubor</string>
   <string name="download_paused">Stahování pozastaveno</string>
