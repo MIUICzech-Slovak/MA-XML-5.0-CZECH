@@ -318,6 +318,7 @@ Pamatujte, že někdy tyto hovory mohou být užitečné. Blokujte pouze čísla
   <string name="dlg_antispam_using_mode_delete_message">"Vymazat profil černé listiny, který právě používáte a nastavit výchozí profil? Tuto akci nelze vrátit zpět!"</string>
   <string name="dlg_antispam_using_mode_international_delete_message">"Vymazat profil černé listiny, který právě používáte a nastavit výchozí profil? Tuto akci nelze vrátit zpět!"</string>
   <string name="SMS_SERVICE">Blokování služeb</string>
-  <string name="st_antispam_title_service_sms">Upozornění služeb</string></resources>
+  <string name="st_antispam_title_service_sms">Upozornění služeb</string>
   <string name="ad_update_check_text">Aktualizovat automaticky</string>
   <string name="ad_update_warn_info">Verze blokování reklam bude odeslána na Xiaomi server pro kontrolu aktualizací</string>
+</resources>
