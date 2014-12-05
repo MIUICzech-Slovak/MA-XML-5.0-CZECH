@@ -23,6 +23,9 @@
   <string name="action_key_play_prev">Předchozí</string>
   <string name="action_key_power">Zapínání</string>
   <string name="action_key_power_long">Zapínání (Dlouhý stisk)</string>
+  <string name="action_key_vol">Tlačítko hlasitosti</string>
+  <string name="action_key_vol_down">Hlasitost dolů</string>
+  <string name="action_key_vol_up">Hlasitost nahoru</string>
   <string name="action_kuaidi">Rychlé taxi</string>
   <string name="action_lock_screen">Zamknout</string>
   <string name="action_open_camera">Fotoaparát</string>
@@ -142,6 +145,7 @@ Během používání MiKey Wizard jsou ostatní funkce MiKey nedostupné."</stri
   <string name="key_direction_left">Vlevo</string>
   <string name="key_direction_right">Vpravo</string>
   <string name="key_direction_up">Nahoru</string>
+  <string name="know_it">OK</string>
   <string name="long_click">Dlouhý stisk</string>
   <string name="message_photo_end">Fotografie uložena</string>
   <string name="name">Jméno:</string>
@@ -166,12 +170,16 @@ Během používání MiKey Wizard jsou ostatní funkce MiKey nedostupné."</stri
   <string name="running_notification">Xiaomi MiKey</string>
   <string name="scan_fail">Skenování selhalo</string>
   <string name="scan_result">Informace</string>
+  <string name="screenshot_crop">Ořezaný</string>
+  <string name="screenshot_full">Fullscreen</string>
+  <string name="scrennshot_select_title">Vyberte režim Screenshotu</string>
   <string name="sdcard">SD karta</string>
   <string name="select_baidusearch">Baidu</string>
   <string name="select_baiduvoicesearch">Baidu Voice</string>
   <string name="select_camera">Vyberte fotoaparát</string>
   <string name="select_device">Jaké zařízení je připojeno?</string>
   <string name="select_direction">Směr</string>
+  <string name="select_vol">Zvolte tlačítko hlasitosti</string>
   <string name="setting_buy">Koupit MiKey</string>
   <string name="setting_feedback">Zpětná vazba</string>
   <string name="setting_instant_photo_desc">"Fotoaparát zaostří před zhotovením fotografie."</string>
@@ -221,6 +229,8 @@ a stiskem MiKey simulujte dotyk na zvoleném místě"</string>
   <string name="test_user_entry">Test</string>
   <string name="times">krát</string>
   <string name="title">Titul:</string>
+  <string name="toast_audio_record_start">Spustit nahrávání</string>
+  <string name="toast_audio_record_stop">Zastavit nahrávání</string>
   <string name="toast_close">Ukončeno</string>
   <string name="toast_open">Spuštěno</string>
   <string name="toggle_bluetooth">Bluetooth</string>
@@ -238,10 +248,6 @@ a stiskem MiKey simulujte dotyk na zvoleném místě"</string>
   <string name="unsupport_title">Tato funkce není podporována</string>
   <string name="update_message">Aktualizace!</string>
   <string name="vcard_prompt">Nelze přidat kontakt, protože chybí jméno</string>
-  <string name="web">Web:</string>
-  <string name="write_pic_fail">Chyba ukládání fotografie!</string>
-  <string name="toast_audio_record_start">Spustit nahrávání</string>
-  <string name="toast_audio_record_stop">Zastavit nahrávání</string>
   <string name="wallpaper_action">Změnit Tapetu</string>
   <string name="wallpaper_change_both">Plocha + Zámek</string>
   <string name="wallpaper_change_desktop">Tapeta plochy</string>
@@ -251,12 +257,10 @@ a stiskem MiKey simulujte dotyk na zvoleném místě"</string>
   <string name="wallpaper_change_ok">Tapeta změněna</string>
   <string name="wallpaper_changing">Změna tapety...</string>
   <string name="wallpaper_no_more">Neměnit tapetu</string>
-  <string name="select_vol">Zvolte tlačítko hlasitosti</string>
-  <string name="action_key_vol">Tlačítko hlasitosti</string>
-  <string name="action_key_vol_down">Hlasitost dolů</string>
-  <string name="action_key_vol_up">Hlasitost nahoru</string>
-  <string name="know_it">OK</string>
-  <string name="screenshot_crop">Ořezaný</string>
-  <string name="screenshot_full">Fullscreen</string>
-  <string name="scrennshot_select_title">Vyberte režim Screenshotu</string>
+  <string name="web">Web:</string>
+  <string name="write_pic_fail">Chyba ukládání fotografie!</string>
+  <string name="webpage_input_title">Vložit URL</string>
+  <string name="webpage_title">Otevřít web</string>
+  <string name="screenkey_title">Shield tlačítko</string>
+  <string name="mikey_sprite_toggle_title">MiKey průvodce otevřen</string>
 </resources>

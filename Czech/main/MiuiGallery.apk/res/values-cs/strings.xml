@@ -577,4 +577,5 @@ společně!"</string>
   <string name="width">Šířka</string>
   <string name="yellow_page">Složka</string>
   <string name="yes">Ano</string>
+  <string name="error_share_not_support">Tato funkce není momentálně podporována</string>
 </resources>
