@@ -656,4 +656,11 @@ Opravdu chcete odejít z této stránky?"</string>
   <string name="close_ads_choice_yes">Blokovat</string>
   <string name="close_ads_message">Zavřít toto okno a blokovat jej? Blokovaná okna se zobrazí v Nastavení &gt; Rozšířené &gt; Vlastní pravidla</string>
   <string name="close_ads_title">Blokovat obsah?</string>
+  <string name="data_traffic_prompt_change">Přehrávání videí na mobilním připojení může výrazně zvýšit vaše poplatky.</string>
+  <string name="data_traffic_prompt_message">Prohlížení webu na mobilním připojení může výrazně zvýšit vaše poplatky.</string>
+  <string name="data_traffic_prompt_title">Spotřeba dat</string>
+  <string name="maximum_input_alert">Maximálně 2048 znaků</string>
+  <string name="video_project_button">Zastavit</string>
+  <string name="video_project_msg">Zobrazeno na %s</string>
+  <string name="video_project_title">Externí displej</string>
 </resources>

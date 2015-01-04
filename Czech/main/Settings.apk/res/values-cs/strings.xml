@@ -3763,4 +3763,7 @@ Nastavení telefonu může vyžadovat přenos nemalého množství dat."</string
   <string name="text_optimizer">Použít online databází</string>
   <string name="title_antivirus">AntiVirus</string>
   <string name="title_optimizer">Čistič</string>
+  <string name="name_antivirus">"Podmínky používání Tencent"</string>
+  <string name="name_optimizer">"Podmínky používání Clean Master"</string>
+  <string name="text_antivirus_oversea">Aktualizovat virovou databázi</string>
 </resources>

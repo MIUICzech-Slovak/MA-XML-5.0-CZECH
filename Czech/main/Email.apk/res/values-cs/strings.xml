@@ -778,4 +778,15 @@ Velikost aplikace: %2$s"</string>
   <string name="prefetched_got_it">OK</string>
   <string name="remote_search">Všechny zprávy na serveru</string>
   <string name="remote_search_result">Nalezených zpráv na serveru: %s</string>
+  <string name="chat_view_title">Konverzace</string>
+  <string name="check_setup_data">Kontrola nastavení serveru...</string>
+  <string name="delete_conversation_hint_message">Vymazáno %2$s (%1$d)</string>
+  <string name="downloading_message_body">Stahování zprávy, čekejte prosím...</string>
+  <string name="feedback_sent">Děkujeme za váš názor.</string>
+  <string name="message_body_auto_download_complete">Automaticky stáhnout e-mail přes Wi-Fi</string>
+  <string name="message_body_auto_download_tip">Připojeno k Wi-Fi. E-mail se stáhne automaticky.</string>
+  <string name="message_body_download_failed">Čas připojení vypršel během stahování e-mailů</string>
+  <string name="network_not_available">Síť není dostupná, zkuste to později.</string>
+  <string name="no_contacts">Prázdné</string>
+  <string name="tryrefreshing">Zkuste obnovit...</string>
 </resources>

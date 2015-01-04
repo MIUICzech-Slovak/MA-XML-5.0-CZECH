@@ -132,4 +132,5 @@
   <string name="workday_alarm_clock">Pracovní den</string>
   <string name="worldclock_empty_text">Žádné světové hodiny</string>
   <string name="worldclock_title">Hodiny</string>
+  <string name="timer_notify_text">Odložit nebo zrušit časovač</string>
 </resources>

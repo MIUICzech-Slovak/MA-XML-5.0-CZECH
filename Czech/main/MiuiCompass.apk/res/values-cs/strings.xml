@@ -29,4 +29,5 @@
   <string name="menu_calibrate_altitude">Kalibrovat nadmořskou výšku</string>
   <string name="pressure_title">Tlak</string>
   <string name="pressure_unit">hPa</string>
+  <string name="calibrate_failed">Kalibrace nadmořské výšky selhala</string>
 </resources>
