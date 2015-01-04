@@ -13,13 +13,13 @@
 	    "position": 0
         },
         {
-            "title":"xiaomimobile.cz",
-            "url":"http://www.xiaomimobile.cz/",
-            "thumbnail":"xm.png",
+            "title":"en.miui.com",
+            "url":"http://www.en.miui.com/",
+            "thumbnail":"enmiui.png",
             "logobg":"bg01.9.png",
             "nightModeMask": "night.9.png",
             "favicon":"",
-	    "displayName": "Xiaomimobile.cz",
+	    "displayName": "en.miui.com",
 	    "isDelete": true,
 	    "movable": true,
 	    "position": 1
