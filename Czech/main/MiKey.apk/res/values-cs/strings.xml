@@ -262,5 +262,10 @@ a stiskem MiKey simulujte dotyk na zvoleném místě"</string>
   <string name="webpage_input_title">Vložit URL</string>
   <string name="webpage_title">Otevřít web</string>
   <string name="screenkey_title">Shield tlačítko</string>
-  <string name="mikey_sprite_toggle_title">MiKey průvodce otevřen</string>
+  <string name="mikey_sprite_toggle_title">Otevřít MiKey Wizard</string>
+  <string name="privacy_mode_end">Soukromý režim deaktivován</string>
+  <string name="privacy_mode_started">Soukromý režim aktivován</string>
+  <string name="privacy_mode_title">Soukromý režim</string>
+  <string name="screenkey_disabled">Tlačítka deaktivována</string>
+  <string name="screenkey_enabled">Tlačítka aktivována</string>
 </resources>
