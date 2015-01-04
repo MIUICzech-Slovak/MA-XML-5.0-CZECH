@@ -50,7 +50,7 @@
   <string name="download_list_intoAuthAlert">Čekejte prosím</string>
   <string name="download_list_open_xl_cancel">Zrušit</string>
   <string name="download_list_open_xl_message">Přístup k Xunlei stahování, neomezenému stahování vysokou rychlostí.</string>
-  <string name="download_list_open_xl_ok">Odmítnout</string>
+  <string name="download_list_open_xl_ok">Ok</string>
   <string name="download_list_open_xl_title">Xunlei stahování</string>
   <string name="download_no_application_title">Nelze otevřít soubor</string>
   <string name="download_paused">Stahování pozastaveno</string>
@@ -124,4 +124,8 @@
   <string name="xunlei_speed_service">Xunlei stahování</string>
   <string name="xunlei_switch">Xunlei stahování</string>
   <string name="display_expire_netiv1">Měsíční přístup</string>
+   <string name="dialog_confirm_delete_checkbox_message">Vymazat i uložený soubor</string>
+  <string name="dialog_confirm_delete_downloads_message">Vymazat úlohy (%d)?</string>
+  <string name="dialog_confirm_delete_the_download_item_message">Vymazat tyto úlohy</string>
+  <string name="size_unknown">Neznámé</string>
 </resources>

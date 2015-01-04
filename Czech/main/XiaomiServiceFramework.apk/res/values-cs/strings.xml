@@ -360,4 +360,47 @@ Vaše nastavení můžete kdykoliv změnit."</string>
 Vytvořením účtu souhlasíte s výše uvedenými podmínkami."</string>
   <string name="error_data_in_transfer">Synchr. bude dokončena za %sh.</string>
   <string name="error_data_in_transfer_title">MiCloud je nedostupný.</string>
+  <string name="error_device_id_message">"Nesprávné ID zařízení: %s
+ID zařízení musí být IMEI nebo MAC adresa. Bez něj nelze využívat některé služby MiCloud."</string>
+   <string name="apple_10gb">20GB</string>
+  <string name="apple_cloud">Apple Cloud</string>
+  <string name="apple_cloud_eng">iCloud</string>
+  <string name="apple_cloud_price">Okolo RMB 72 / rok</string>
+  <string name="buy_space_sulotion_auto_renew">Automaticky prodloužit platnost</string>
+  <string name="buy_space_sulotion_message">Zakupte %sGB prostoru</string>
+  <string name="buy_space_sulotion_not_auto_renew">Neprodlužovat autom.</string>
+  <string name="buy_space_sulotion_renew_message">Platné %s</string>
+  <string name="buy_space_sulotion_renew_title">Vyberte způsob prodloužení platnosti</string>
+  <string name="buy_space_sulotion_title">Cloudové úložiště</string>
+  <string name="buy_space_expire">Zakoupené úložiště platné do %s</string>
+  <string name="buy_space_expire_concat">%1$s do %2$s</string>
+  <string name="cloud_space_upgrade_message">Stiskněte pro získání %s GB místa tento měsíc</string>
+  <string name="cloud_space_upgrade_no_quota_info">Nesprávná data, zkuste to znovu</string>
+  <string name="cloud_space_upgrade_title">Získejte více prostoru v Cloudu!</string>
+  <string name="free_space_has_received">Tento měsíc již byla navýšena kapacita</string>
+  <string name="free_space_receive_fail">Nelze navýšit</string>
+  <string name="get_first_month_gb">Získejte %s prostoru</string>
+  <string name="get_this_month_gb">Získejte %s prostoru</string>
+  <string name="google_100gb">100GB</string>
+  <string name="google_cloud">Google Drive</string>
+  <string name="google_cloud_eng">Google Drive</string>
+  <string name="google_cloud_price">Okolo RMB 143 / rok</string>
+  <string name="loading_hint">Načítání...</string>
+  <string name="micloud_other_product_price">Cena ostatních produktů:</string>
+  <string name="microsoft_cloud">Microsoft Cloud</string>
+  <string name="microsoft_cloud_eng">One Drive</string>
+  <string name="microsoft_cloud_price">Okolo RMB 80 / rok</string>
+  <string name="more_activity_in_upgrade_space">Více na http://i.mi.com</string>
+  <string name="success_upgraded_space">%s přidáno</string>
+  <string name="total_space_upgraded_to">Celkem: %s</string>
+  <string name="upgrade_space">Přidat kapacitu</string>
+  <string name="upgrade_space_gb">GB</string>
+  <string name="upgrade_space_mibipreyear">%s MiKreditů na rok</string>
+  <string name="upgrade_space_successful">Úspěšně navýšeno o %sGB</string>
+  <string name="upgrade_space_successful_total">Celkem %sGB</string>
+  <string name="upgrade_space_tb">TB</string>
+  <string name="micloud_storage_expires_auto_renewal_sum">Je nutné obnovit přihlášení.</string>
+  <string name="micloud_storage_expires_manually_renewal_sum">Musíte obnovit přihlášení.</string>
+  <string name="micloud_storage_expires_soon_title">MiCloud úložišti brzy vyprší platnost.</string>
+  <string name="micloud_storage_expires_very_soon_title">MiCloud úložišti brzy vyprší platnost.</string>
 </resources>

@@ -21,6 +21,12 @@
     "name" : "com.xiaomi.miclick.core.action.VideoRecorderAction",
     "sortId" : 4
   },
+  { "mutex" : [ "com.xiaomi.miclick.core.action.WallpaperAction"],
+      "groupId" : 1,
+      "groupName" : "Aplikace",
+      "name" : "com.xiaomi.miclick.core.action.WallpaperAction",
+      "sortId" : 14
+    },
   { "groupId" : 1,
     "groupName" : "Aplikace",
     "mutex" : [ "com.xiaomi.miclick.core.action.Camera360CaptureAction",
@@ -203,5 +209,10 @@
           "groupName" : "Tlačítka",
           "name" : "com.xiaomi.miclick.core.action.key.EnterAction",
           "sortId" : 25
-        }
+  },
+  { "groupId" : 3,
+      "groupName" : "Tlačítka",
+      "name" : "com.xiaomi.miclick.core.action.key.SoundAction",
+      "sortId" : 26
+  }
 ]

@@ -270,4 +270,9 @@ Během datového přenosu se text a obrázky komprimují na serveru a tím se ur
   <string name="roaming_start_body">Povolit aplikacím v seznamu výjimek připojit se k mobilním datům v roamingu.</string>
   <string name="roaming_start_title">Mezinárodní roaming</string>
   <string name="input_used_max_hint">Zadejte spotřebovaná data (méně než %s)</string>
+  <string name="privacy_declare_dialog_message">Používáním této služby souhlasíte s Opera &lt;a href=http://max.oupeng.com/eula.html&gt; Podmínkami používání&lt;/a&gt;.</string>
+  <string name="privacy_declare_dialog_title">Podmínky používání</string>
+  <string name="privacy_prompt_traffic_adjust_message">Vaše telefonní číslo a podrobnosti o operátorovi budou odeslány na Xiaomi server pro aktualizaci vzoru SMS zprávy a kontrolu, zda je tato funkce podporována vaším operátorem.</string>
+  <string name="privacy_prompt_traffic_purchase_message">Vaše telefonní číslo a podrobnosti o operátorovi budou odeslány na Xiaomi server pro kontrolu množství navýšení objemu spotřeby dat.</string>
+  <string name="privacy_prompt_purchase_history_message">Vaše telefonní číslo a podrobnosti o operátorovi budou odeslány na Xiaomi server pro získání historie o navýšení.</string>
 </resources>

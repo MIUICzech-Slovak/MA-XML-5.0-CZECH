@@ -644,4 +644,16 @@ Opravdu chcete odejít z této stránky?"</string>
   <string name="show_check_security_url_check_tip_dialog_title">Kontrola URL</string>
   <string name="pref_check_security_url_summary">Odeslat URL adresu pro kontrolu její bezpečnosti</string>
   <string name="pref_check_security_url_title">Kontrola bezpečnosti URL</string>
+  <string name="adblock_rules_number_text">Blokováno: %d</string>
+  <string name="adblock_rules_restore">Obnovit</string>
+  <string name="adblock_websites_settings_empyt_hint">Prázdné</string>
+  <string name="adblock_websites_settings_title">Vlastní pravidla</string>
+  <string name="block_ads_choice_block">Blokovat</string>
+  <string name="block_ads_choice_continue">Pokračovat</string>
+  <string name="block_ads_message">Chcete zablokovat toto okno z této stránky?</string>
+  <string name="block_ads_title">Může obsahovat reklamu</string>
+  <string name="close_ads_choice_no">Povolit</string>
+  <string name="close_ads_choice_yes">Blokovat</string>
+  <string name="close_ads_message">Zavřít toto okno a blokovat jej? Blokovaná okna se zobrazí v Nastavení &gt; Rozšířené &gt; Vlastní pravidla</string>
+  <string name="close_ads_title">Blokovat obsah?</string>
 </resources>

@@ -25,7 +25,7 @@
     name: "com.xiaomi.miclick.core.action.GroupAction",
     subActions: [
       {
-        name: "com.xiaomi.miclick.core.action.TorchAction"
+        name: "com.xiaomi.miclick.core.action.WallpaperAction"
       }
     ]
   },
